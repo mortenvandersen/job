@@ -58,13 +58,15 @@ _These are options, not requirements — a role doesn't need all of them._
 - **Dream role**: General Manager or Business Lead with P&L ownership — but any role that builds the toolkit toward running, operating, and scaling a company is valuable
 - **Hands-on vs. managing**: Prefers staying active and hands-on in the work; stepping back to manage is fine but pure management is less energizing
 - **Cross-functional orientation**: Drawn to the intersection of commercial, product/engineering, and financial work — broad generalist rather than deep specialist
-- **Career narrative**: Coming from running and scaling a mid-sized startup; looking to leverage that experience in a mission-driven, innovative environment with a clear upward trajectory
+- **Career narrative**: Most recently GM at Labster (EdTech/VR simulations), a company that went through significant scaling and restructuring (450 → 150 employees). Within Labster, also served as GM for UbiSim — a nursing simulation product growing ~40% annually. Prior to that, early-stage venture investor at LEGO Ventures. Looking to bring this operating, GM, and investment experience into the next chapter in a mission-driven, growth-oriented environment.
 
 ---
 
 ## Career Direction
 
 Not optimizing for any single next title. Looking for roles that build the operating toolkit — running teams, owning commercial outcomes, working across functions — as a path toward a GM or eventually a CEO-type role (likely at a smaller-scale company). Corporate development is also a credible path.
+
+**Relevant background for corp dev roles**: Lead on 5 early-stage investments at LEGO Ventures; currently leading a divestiture of part of the Labster business; led 2 VC funding rounds for Labster. Real deal experience, not just exposure.
 
 ---
 
@@ -102,7 +104,7 @@ Not optimizing for any single next title. Looking for roles that build the opera
 
 ## Compensation
 
-- **Base salary**: ~$200K target; flexible downward for exceptional fit with strong equity upside and clear trajectory
+- **Base salary**: $200K hard floor — no exceptions
 - **No equity**: Acceptable, but expect higher base to compensate
 - **Preferred package**: Base + annual bonus + equity (options or RSUs)
 - **Benefits**: Not a deciding factor at first assessment — will evaluate later in process
