@@ -7,7 +7,14 @@ _Last updated: 2026-03-30. This is a living document — update as priorities ev
 ## Location
 
 - **In-office / hybrid**: SF Bay Area only
-- **Remote**: Open to fully remote; can work from the USA regardless of company HQ (US or European companies both fine)
+- **Remote**: Fully remote is fine; based on US West Coast. Comfortable working East Coast hours; European/EMEA hours are not workable.
+- **Company HQ**: US or European companies both fine, as long as role operates from the US
+
+---
+
+## Work Authorization
+
+Full US work authorization — no sponsorship needed.
 
 ---
 
@@ -27,6 +34,10 @@ _Preliminary list — expand over time as more patterns emerge._
 
 **Typical level**: Senior Director or equivalent (one layer below executive leadership). At FAANG-scale: Director → Sr. Director → VP progression.
 
+**IC roles**: Open to individual contributor roles if scope and impact are right.
+
+**Reporting position**: Fine being second to a Chief Strategy Officer or equivalent — doesn't need to be the #1 strategy person at the company.
+
 ---
 
 ## Desired Responsibilities
@@ -36,9 +47,24 @@ _These are options, not requirements — a role doesn't need all of them._
 - Define or materially contribute to company/product strategy
 - Work cross-functionally across product, GTM, and general management
 - Own or co-own a P&L
-- Lead and grow a team
+- Lead and grow a team (team size is flexible)
 - Corporate development (partnerships, acquisitions, new market entry)
 - New business development and assessment of new market opportunities
+
+---
+
+## Working Style & Role Character
+
+- **Dream role**: General Manager or Business Lead with P&L ownership — but any role that builds the toolkit toward running, operating, and scaling a company is valuable
+- **Hands-on vs. managing**: Prefers staying active and hands-on in the work; stepping back to manage is fine but pure management is less energizing
+- **Cross-functional orientation**: Drawn to the intersection of commercial, product/engineering, and financial work — broad generalist rather than deep specialist
+- **Career narrative**: Coming from running and scaling a mid-sized startup; looking to leverage that experience in a mission-driven, innovative environment with a clear upward trajectory
+
+---
+
+## Career Direction
+
+Not optimizing for any single next title. Looking for roles that build the operating toolkit — running teams, owning commercial outcomes, working across functions — as a path toward a GM or eventually a CEO-type role (likely at a smaller-scale company). Corporate development is also a credible path.
 
 ---
 
@@ -52,7 +78,7 @@ _These are options, not requirements — a role doesn't need all of them._
 ### Culture
 - Collaborative, friendly, and ambitious
 - Mission-driven with a vision beyond near-term profit — but commercially focused and grounded in real targets
-- Not purely financially-oriented (not a fit for pure holding companies or cost-optimization mandates)
+- Innovative and exciting — not a cost-optimization or maintenance mandate
 
 ### Industry
 
@@ -76,9 +102,17 @@ _These are options, not requirements — a role doesn't need all of them._
 
 ## Compensation
 
-- **Base salary**: $200,000+
+- **Base salary**: ~$200K target; flexible downward for exceptional fit with strong equity upside and clear trajectory
+- **No equity**: Acceptable, but expect higher base to compensate
 - **Preferred package**: Base + annual bonus + equity (options or RSUs)
-- Equity is preferred but not a hard requirement
+- **Benefits**: Not a deciding factor at first assessment — will evaluate later in process
+
+---
+
+## Travel
+
+- Quarterly offsites or travel: Fine
+- More frequent travel (monthly+): Flag as a yellow flag for discussion
 
 ---
 
@@ -86,17 +120,7 @@ _These are options, not requirements — a role doesn't need all of them._
 
 - No quota-carrying sales roles or commission-based business development
 - No part-time or fractional roles
-- Must be authorized to work in the USA
-
----
-
-## What I Want to Do More Of
-_(Use this when writing cover letters and framing experience)_
-
-- Strategic decision-making with real business impact
-- Cross-functional leadership across product, GTM, and ops
-- Building and leading teams
-- Working on new markets, new products, or early-stage business bets within a company
+- No roles requiring European working hours
 
 ---
 
