@@ -123,6 +123,8 @@ Not optimizing for any single next title. Looking for roles that build the opera
 - No quota-carrying sales roles or commission-based business development
 - No part-time or fractional roles
 - No roles requiring European working hours
+- No businesses in contraction / decline — growth trajectory required at the company level
+- Company must have 50+ employees total (business unit / product line can be smaller)
 
 ---
 
