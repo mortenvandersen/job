@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Job Pipeline</title>
+<style>
+  :root {
+    --bg: #f4f6f9;
+    --surface: #ffffff;
+    --border: #e2e8f0;
+    --text: #1a202c;
+    --text-muted: #718096;
+    --primary: #3b82f6;
+    --primary-light: #eff6ff;
+    --green: #16a34a;
+    --green-light: #f0fdf4;
+    --amber: #b45309;
+    --amber-light: #fffbeb;
+    --orange: #c2410c;
+    --orange-light: #fff7ed;
+    --red: #dc2626;
+    --red-light: #fef2f2;
+    --gray: #6b7280;
+    --gray-light: #f9fafb;
+    --radius: 8px;
+    --shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.04);
+    --shadow-md: 0 4px 6px rgba(0,0,0,0.07), 0 2px 4px rgba(0,0,0,0.04);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  /* ── Header ── */
+  .header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 20px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+  }
+
+  .header h1 {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--text);
+    letter-spacing: -0.3px;
+  }
+
+  .header-meta {
+    font-size: 12px;
+    color: var(--text-muted);
+    margin-top: 2px;
+  }
+
+  .stat-pills {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .stat-pill {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--text-muted);
+    white-space: nowrap;
+  }
+
+  .stat-pill span {
+    font-weight: 700;
+    color: var(--text);
+    margin-right: 4px;
+  }
+
+  /* ── Filters ── */
+  .filters-bar {
+    padding: 16px 32px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .filter-label {
+    font-size: 12px;
+    color: var(--text-muted);
+    font-weight: 500;
+    margin-right: 4px;
+  }
+
+  .filter-btn {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 5px 12px;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .filter-btn:hover { border-color: var(--primary); color: var(--primary); }
+
+  .filter-btn.active {
+    background: var(--primary);
+    border-color: var(--primary);
+    color: #fff;
+  }
+
+  /* ── Table ── */
+  .table-wrap {
+    padding: 0 32px 32px;
+  }
+
+  .table-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  thead tr {
+    background: var(--gray-light);
+    border-bottom: 1px solid var(--border);
+  }
+
+  th {
+    padding: 10px 14px;
+    text-align: left;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+
+  th:hover { color: var(--primary); }
+  th.sort-asc::after { content: ' ↑'; }
+  th.sort-desc::after { content: ' ↓'; }
+
+  tbody tr.data-row {
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    transition: background 0.1s;
+  }
+
+  tbody tr.data-row:last-child { border-bottom: none; }
+  tbody tr.data-row:hover { background: var(--primary-light); }
+  tbody tr.data-row.expanded { background: var(--primary-light); }
+
+  td {
+    padding: 12px 14px;
+    vertical-align: middle;
+  }
+
+  .company-name {
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  .role-name {
+    color: var(--text-muted);
+    font-size: 12px;
+    margin-top: 1px;
+  }
+
+  .location-text {
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+
+  .comp-text {
+    font-size: 12px;
+    color: var(--text-muted);
+    white-space: nowrap;
+  }
+
+  .date-text {
+    font-size: 12px;
+    color: var(--text-muted);
+    white-space: nowrap;
+  }
+
+  /* Score */
+  .score-cell { white-space: nowrap; }
+
+  .score-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-weight: 700;
+    font-size: 15px;
+  }
+
+  .score-bar-wrap {
+    height: 4px;
+    width: 48px;
+    background: var(--border);
+    border-radius: 2px;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .score-bar { height: 100%; border-radius: 2px; }
+
+  /* Recommendation badge */
+  .rec-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .rec-strong-yes  { background: var(--green-light);  color: var(--green); }
+  .rec-yes-flags   { background: var(--amber-light);  color: var(--amber); }
+  .rec-marginal    { background: var(--orange-light); color: var(--orange); }
+  .rec-no          { background: var(--red-light);    color: var(--red); }
+  .rec-pending     { background: var(--gray-light);   color: var(--gray); }
+
+  /* Status badge */
+  .status-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .status-inbox        { background: #f1f5f9; color: #475569; }
+  .status-assessed     { background: #eff6ff; color: #2563eb; }
+  .status-progressing  { background: #faf5ff; color: #7c3aed; }
+  .status-applied      { background: #fff7ed; color: #c2410c; }
+  .status-interviewing { background: #ecfdf5; color: #065f46; }
+  .status-closed       { background: #fef2f2; color: #991b1b; }
+  .status-declined     { background: #f9fafb; color: #9ca3af; }
+
+  /* Next action */
+  .action-badge {
+    font-size: 11px;
+    color: var(--primary);
+    font-weight: 500;
+    white-space: nowrap;
+  }
+
+  /* ── Expanded row ── */
+  tr.detail-row { border-bottom: 1px solid var(--border); }
+  tr.detail-row td { padding: 0; }
+
+  .detail-panel {
+    padding: 20px 24px;
+    background: #fafbff;
+    border-top: 2px solid var(--primary);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+
+  .detail-section h4 {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--text-muted);
+    margin-bottom: 8px;
+  }
+
+  .detail-section p {
+    font-size: 13px;
+    color: var(--text-muted);
+    line-height: 1.6;
+  }
+
+  .detail-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .detail-list li {
+    font-size: 12px;
+    color: var(--text);
+    line-height: 1.5;
+  }
+
+  .detail-footer {
+    grid-column: 1 / -1;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    padding-top: 12px;
+    border-top: 1px solid var(--border);
+    flex-wrap: wrap;
+  }
+
+  .detail-footer a {
+    font-size: 12px;
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .detail-footer a:hover { text-decoration: underline; }
+
+  .status-notes {
+    font-size: 12px;
+    color: var(--amber);
+    font-style: italic;
+  }
+
+  /* ── Empty state ── */
+  .empty-state {
+    text-align: center;
+    padding: 48px 24px;
+    color: var(--text-muted);
+  }
+
+  .empty-state p { font-size: 14px; }
+
+  /* ── Responsive ── */
+  @media (max-width: 900px) {
+    .header { flex-direction: column; align-items: flex-start; padding: 16px 20px; }
+    .filters-bar, .table-wrap { padding-left: 16px; padding-right: 16px; }
+    .detail-panel { grid-template-columns: 1fr; }
+    .hide-mobile { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div>
+    <h1>Job Pipeline</h1>
+    <div class="header-meta" id="last-updated"></div>
+  </div>
+  <div class="stat-pills" id="stat-pills"></div>
+</div>
+
+<div class="filters-bar">
+  <span class="filter-label">Filter:</span>
+  <button class="filter-btn active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="inbox">Inbox</button>
+  <button class="filter-btn" data-filter="assessed">Assessed</button>
+  <button class="filter-btn" data-filter="progressing">Progressing</button>
+  <button class="filter-btn" data-filter="applied">Applied</button>
+  <button class="filter-btn" data-filter="interviewing">Interviewing</button>
+  <button class="filter-btn" data-filter="closed">Closed / Declined</button>
+</div>
+
+<div class="table-wrap">
+  <div class="table-card">
+    <table id="pipeline-table">
+      <thead>
+        <tr>
+          <th data-col="company">Company / Role</th>
+          <th data-col="location" class="hide-mobile">Location</th>
+          <th data-col="comp_range" class="hide-mobile">Comp</th>
+          <th data-col="weighted_score">Score</th>
+          <th data-col="recommendation">Fit</th>
+          <th data-col="status">Status</th>
+          <th data-col="date_saved" class="hide-mobile">Saved</th>
+          <th>Next Action</th>
+        </tr>
+      </thead>
+      <tbody id="table-body"></tbody>
+    </table>
+  </div>
+</div>
+
+<script>
+// ── DATA — updated automatically by Claude Code ──────────────────────────────
+const PIPELINE_DATA = {"last_updated":"2026-03-31","roles":[{"id":"discord-director-corporate-development","company":"Discord","role":"Director of Corporate Development","location":"Remote / SF optional","comp_range":"$280\u2013315K + equity","date_saved":"2026-03-31","date_assessed":"2026-03-31","source_url":"https://www.linkedin.com/jobs/view/4391203404/","status":"assessed","weighted_score":4.45,"recommendation":"Strong Yes","file":"job_posts/discord-director-corporate-development.md","summary_note":"Full M\u0026A lifecycle role at major consumer tech/gaming platform. C-suite access, remote-friendly, strong comp.","gaps":["\ud83d\udd34 5+ closed M\u0026A deals incl. 2 >$50M \u2014 deal count may not meet traditional IB/PE bar","\ud83d\udd34 Financial modeling depth (DCF, LBO) \u2014 implies banking background","\ud83d\udfe1 Gaming/digital media fluency \u2014 EdTech is adjacent but not the same"],"strongest_angles":["LEGO Ventures: lead on 5 early-stage investments end-to-end","Currently leading Labster divestiture (live sell-side process)","Led $100M Series C & C+ fundraises \u2014 buy-side relationships and deal structuring","Cross-functional exec: ran strategy, ops, and P\u0026L \u2014 not just a deal person"],"status_notes":""},{"id":"octave-vp-strategic-partnerships","company":"Octave","role":"VP of Strategic Partnerships","location":"Remote (location TBC \u2014 verify)","comp_range":"$238\u2013270K + equity + bonus (CA)","date_saved":"2026-03-31","date_assessed":"2026-03-31","source_url":"","status":"assessed","weighted_score":4.05,"recommendation":"Yes with flags","file":"job_posts/octave-vp-strategic-partnerships.md","summary_note":"GM-type role owning a business line at a behavioral health startup. Strong scope but vague JD and location unconfirmed.","gaps":["\ud83d\udfe1 Healthcare industry experience preferred \u2014 EdTech is mission-adjacent but different","\ud83d\udfe1 JD is unusually vague about the actual venture and external partner","\ud83d\udfe1 Location unconfirmed \u2014 verify before investing time","\ud83d\udfe1 Labster 'scaling' story needs careful framing (450\u2192150 headcount)"],"strongest_angles":["UbiSim GM role is the direct analogue \u2014 business line ownership, 40% growth, external partners","Cross-functional leadership across product, GTM, ops at Labster","VP/SVP level + 5+ years people management ticks seniority bar","Mission-driven background (EdTech) signals genuine fit with purpose-led orgs"],"status_notes":"Verify location before applying"}]};
+// ─────────────────────────────────────────────────────────────────────────────
+
+const STATUS_ORDER = ['inbox','assessed','progressing','applied','interviewing','closed','declined'];
+
+const NEXT_ACTION = {
+  inbox:        '→ Assess',
+  assessed:     '→ Resume Analysis',
+  progressing:  '→ Apply',
+  applied:      '→ Follow up',
+  interviewing: '→ Prep',
+  closed:       '—',
+  declined:     '—',
+};
+
+function recClass(rec) {
+  if (!rec) return 'rec-pending';
+  const r = rec.toLowerCase();
+  if (r.includes('strong')) return 'rec-strong-yes';
+  if (r.includes('flags'))  return 'rec-yes-flags';
+  if (r === 'marginal')     return 'rec-marginal';
+  if (r === 'no')           return 'rec-no';
+  return 'rec-pending';
+}
+
+function scoreColor(s) {
+  if (!s) return '#9ca3af';
+  if (s >= 4.5) return '#16a34a';
+  if (s >= 3.5) return '#ca8a04';
+  if (s >= 2.5) return '#ea580c';
+  return '#dc2626';
+}
+
+function fmtDate(d) {
+  if (!d) return '—';
+  const [y, m, day] = d.split('-');
+  return `${m}/${day}/${y.slice(2)}`;
+}
+
+function buildStats(roles) {
+  const counts = {};
+  roles.forEach(r => counts[r.status] = (counts[r.status] || 0) + 1);
+  const pills = [
+    { label: 'Total', val: roles.length },
+    { label: 'Inbox', val: counts.inbox || 0 },
+    { label: 'Assessed', val: counts.assessed || 0 },
+    { label: 'In Progress', val: (counts.progressing || 0) + (counts.applied || 0) + (counts.interviewing || 0) },
+  ];
+  document.getElementById('stat-pills').innerHTML = pills
+    .map(p => `<div class="stat-pill"><span>${p.val}</span>${p.label}</div>`)
+    .join('');
+  document.getElementById('last-updated').textContent =
+    `Last updated ${PIPELINE_DATA.last_updated}`;
+}
+
+let currentFilter = 'all';
+let sortCol = 'date_saved';
+let sortDir = -1;
+let expandedId = null;
+
+function filteredRoles() {
+  let roles = [...PIPELINE_DATA.roles];
+  if (currentFilter !== 'all') {
+    if (currentFilter === 'closed') {
+      roles = roles.filter(r => r.status === 'closed' || r.status === 'declined');
+    } else {
+      roles = roles.filter(r => r.status === currentFilter);
+    }
+  }
+  roles.sort((a, b) => {
+    let av = a[sortCol] ?? '', bv = b[sortCol] ?? '';
+    if (typeof av === 'string') av = av.toLowerCase();
+    if (typeof bv === 'string') bv = bv.toLowerCase();
+    if (av < bv) return -sortDir;
+    if (av > bv) return sortDir;
+    return 0;
+  });
+  return roles;
+}
+
+function renderTable() {
+  const tbody = document.getElementById('table-body');
+  const roles = filteredRoles();
+
+  if (!roles.length) {
+    tbody.innerHTML = `<tr><td colspan="8"><div class="empty-state"><p>No roles in this category yet.</p></div></td></tr>`;
+    return;
+  }
+
+  tbody.innerHTML = '';
+  roles.forEach(role => {
+    const isExpanded = expandedId === role.id;
+    const scoreStr = role.weighted_score ? role.weighted_score.toFixed(2) : '—';
+    const scoreBarW = role.weighted_score ? (role.weighted_score / 5 * 100).toFixed(0) : 0;
+    const color = scoreColor(role.weighted_score);
+
+    // Main row
+    const tr = document.createElement('tr');
+    tr.className = 'data-row' + (isExpanded ? ' expanded' : '');
+    tr.dataset.id = role.id;
+    tr.innerHTML = `
+      <td>
+        <div class="company-name">${role.company}</div>
+        <div class="role-name">${role.role}</div>
+      </td>
+      <td class="hide-mobile"><span class="location-text">${role.location || '—'}</span></td>
+      <td class="hide-mobile"><span class="comp-text">${role.comp_range || '—'}</span></td>
+      <td class="score-cell">
+        ${role.weighted_score ? `
+          <div class="score-badge" style="color:${color}">${scoreStr}</div>
+          <div class="score-bar-wrap">
+            <div class="score-bar" style="width:${scoreBarW}%;background:${color}"></div>
+          </div>` : '<span style="color:#9ca3af;font-size:12px">—</span>'}
+      </td>
+      <td>
+        <span class="rec-badge ${recClass(role.recommendation)}">
+          ${role.recommendation || 'Not assessed'}
+        </span>
+      </td>
+      <td>
+        <span class="status-badge status-${role.status}">
+          ${role.status.charAt(0).toUpperCase() + role.status.slice(1)}
+        </span>
+      </td>
+      <td class="hide-mobile"><span class="date-text">${fmtDate(role.date_saved)}</span></td>
+      <td><span class="action-badge">${NEXT_ACTION[role.status] || '—'}</span></td>
+    `;
+    tr.addEventListener('click', () => toggleDetail(role.id));
+    tbody.appendChild(tr);
+
+    // Detail row
+    if (isExpanded) {
+      const dtr = document.createElement('tr');
+      dtr.className = 'detail-row';
+      dtr.innerHTML = `<td colspan="8">
+        <div class="detail-panel">
+          <div class="detail-section">
+            <h4>Summary</h4>
+            <p>${role.summary_note || '—'}</p>
+          </div>
+          <div class="detail-section">
+            <h4>Strongest Angles</h4>
+            <ul class="detail-list">
+              ${(role.strongest_angles || []).map(a => `<li>✦ ${a}</li>`).join('') || '<li>—</li>'}
+            </ul>
+          </div>
+          <div class="detail-section">
+            <h4>Gaps & Flags</h4>
+            <ul class="detail-list">
+              ${(role.gaps || []).map(g => `<li>${g}</li>`).join('') || '<li>None identified</li>'}
+            </ul>
+          </div>
+          <div class="detail-section">
+            <h4>Assessment Date</h4>
+            <p>${role.date_assessed ? fmtDate(role.date_assessed) : 'Not yet assessed'}</p>
+          </div>
+          <div class="detail-footer">
+            ${role.source_url ? `<a href="${role.source_url}" target="_blank">↗ View Job Post</a>` : ''}
+            ${role.file ? `<a href="${role.file}" target="_blank">↗ Full Assessment File</a>` : ''}
+            ${role.status_notes ? `<span class="status-notes">⚠ ${role.status_notes}</span>` : ''}
+          </div>
+        </div>
+      </td>`;
+      tbody.appendChild(dtr);
+    }
+  });
+}
+
+function toggleDetail(id) {
+  expandedId = expandedId === id ? null : id;
+  renderTable();
+}
+
+// Filter buttons
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentFilter = btn.dataset.filter;
+    expandedId = null;
+    renderTable();
+  });
+});
+
+// Sort
+document.querySelectorAll('th[data-col]').forEach(th => {
+  th.addEventListener('click', () => {
+    const col = th.dataset.col;
+    if (sortCol === col) {
+      sortDir *= -1;
+    } else {
+      sortCol = col;
+      sortDir = 1;
+    }
+    document.querySelectorAll('th').forEach(t => t.classList.remove('sort-asc','sort-desc'));
+    th.classList.add(sortDir === 1 ? 'sort-asc' : 'sort-desc');
+    renderTable();
+  });
+});
+
+// Init
+buildStats(PIPELINE_DATA.roles);
+renderTable();
+</script>
+</body>
+</html>

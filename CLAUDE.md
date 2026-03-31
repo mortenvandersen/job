@@ -14,6 +14,16 @@ interview_prep/   - Interview prep notes, questions, company research
 
 ## How to Help
 
+### Saving a Job Post to the Pipeline ("save in database")
+When the user pastes a JD with the instruction to save it (without requesting a full assessment):
+1. Extract: company name, role title, location, comp range (if stated), source URL (if given)
+2. Save the JD text to `job_posts/inbox/<company-slug>-<role-slug>.md`
+3. Add a new entry to `pipeline.json` with `status: "inbox"` and no assessment fields
+4. Regenerate the data block in `dashboard.html` (update the `PIPELINE_DATA` const)
+5. Commit and push all three files
+
+Do not assess the role unless explicitly asked.
+
 ### Assessing a Job Post
 When asked to assess any job post (pasted, linked, or uploaded):
 1. Read `preferences/preferences.md` and `preferences/assessment_rubric.md` first
@@ -22,7 +32,9 @@ When asked to assess any job post (pasted, linked, or uploaded):
    - File: `job_posts/<company-slug>-<role-slug>.md`
    - Use the `job_posts/_template.md` structure
    - Include both the full job description and the assessment
-4. Commit and push the file
+4. Update `pipeline.json` — add or update the entry with score, recommendation, gaps, strongest angles
+5. Regenerate the `PIPELINE_DATA` const in `dashboard.html` to match
+6. Commit and push all changed files
 
 This ensures every reviewed role is on record for future reference and pattern analysis.
 
