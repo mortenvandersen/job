@@ -26,12 +26,36 @@ When asked to assess any job post (pasted, linked, or uploaded):
 
 This ensures every reviewed role is on record for future reference and pattern analysis.
 
-### Tailoring a Resume
-When asked to tailor the resume for a specific role:
-- Read the job post carefully for keywords, requirements, priorities
-- Adjust the base resume to emphasize relevant experience
+### ATS & Resume Analysis (Step 2 — when user wants to progress with a role)
+When asked to move forward with a role after assessment:
+
+**Part A — ATS Keyword Analysis**
+Extract keywords from the job description in two tiers:
+- **Must-have**: terms that appear in requirements, responsibilities, or are repeated multiple times
+- **Nice-to-have**: terms from preferred qualifications or company/culture descriptions
+
+Then map each keyword against `resume/base_resume.md`:
+- ✅ Present — the keyword or a clear equivalent appears in the resume
+- 〜 Partial — the concept is there but the exact phrasing is missing
+- ❌ Missing — not addressed at all
+
+**Part B — Resume Assessment**
+Read `resume/base_resume.md` in the context of this specific role and recommend:
+- **Emphasize more**: bullets or sections that are undersold for this role
+- **Emphasize less**: content that takes up space but is low-relevance for this role
+- **Change**: specific rewords, reframes, or additions that would strengthen the match
+- **Overall summary score**: how competitive the current resume is as-is (Strong / Competitive / Needs Work)
+
+Save the full ATS + resume analysis to `job_posts/<company-role>.md` as a new section,
+and commit/push.
+
+### Tailoring a Resume (Step 3 — when user approves changes)
+When asked to produce a tailored resume for a specific role:
+- Read the job post and the ATS/resume analysis for that role
+- Edit `resume/base_resume.md` into a tailored version
 - Keep it honest — do not fabricate or exaggerate
-- Save tailored versions in `resume/tailored/`
+- Save to `resume/tailored/<company-role>.md`
+- Commit and push
 
 ### Writing Applications
 When writing a cover letter or application text:
