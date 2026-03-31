@@ -399,6 +399,8 @@
 const PIPELINE_DATA = {"last_updated":"2026-03-31","roles":[{"id":"discord-director-corporate-development","company":"Discord","role":"Director of Corporate Development","location":"Remote / SF optional","comp_range":"$280\u2013315K + equity","date_saved":"2026-03-31","date_assessed":"2026-03-31","source_url":"https://www.linkedin.com/jobs/view/4391203404/","status":"assessed","weighted_score":4.45,"recommendation":"Strong Yes","file":"job_posts/discord-director-corporate-development.md","summary_note":"Full M\u0026A lifecycle role at major consumer tech/gaming platform. C-suite access, remote-friendly, strong comp.","gaps":["\ud83d\udd34 5+ closed M\u0026A deals incl. 2 >$50M \u2014 deal count may not meet traditional IB/PE bar","\ud83d\udd34 Financial modeling depth (DCF, LBO) \u2014 implies banking background","\ud83d\udfe1 Gaming/digital media fluency \u2014 EdTech is adjacent but not the same"],"strongest_angles":["LEGO Ventures: lead on 5 early-stage investments end-to-end","Currently leading Labster divestiture (live sell-side process)","Led $100M Series C & C+ fundraises \u2014 buy-side relationships and deal structuring","Cross-functional exec: ran strategy, ops, and P\u0026L \u2014 not just a deal person"],"status_notes":""},{"id":"octave-vp-strategic-partnerships","company":"Octave","role":"VP of Strategic Partnerships","location":"Remote (location TBC \u2014 verify)","comp_range":"$238\u2013270K + equity + bonus (CA)","date_saved":"2026-03-31","date_assessed":"2026-03-31","source_url":"","status":"assessed","weighted_score":4.05,"recommendation":"Yes with flags","file":"job_posts/octave-vp-strategic-partnerships.md","summary_note":"GM-type role owning a business line at a behavioral health startup. Strong scope but vague JD and location unconfirmed.","gaps":["\ud83d\udfe1 Healthcare industry experience preferred \u2014 EdTech is mission-adjacent but different","\ud83d\udfe1 JD is unusually vague about the actual venture and external partner","\ud83d\udfe1 Location unconfirmed \u2014 verify before investing time","\ud83d\udfe1 Labster 'scaling' story needs careful framing (450\u2192150 headcount)"],"strongest_angles":["UbiSim GM role is the direct analogue \u2014 business line ownership, 40% growth, external partners","Cross-functional leadership across product, GTM, ops at Labster","VP/SVP level + 5+ years people management ticks seniority bar","Mission-driven background (EdTech) signals genuine fit with purpose-led orgs"],"status_notes":"Verify location before applying"}]};
 // ─────────────────────────────────────────────────────────────────────────────
 
+const REPO_BASE = 'https://github.com/mortenvandersen/job/blob/main/';
+
 const STATUS_ORDER = ['inbox','assessed','progressing','applied','interviewing','closed','declined'];
 
 const NEXT_ACTION = {
@@ -554,7 +556,7 @@ function renderTable() {
           </div>
           <div class="detail-footer">
             ${role.source_url ? `<a href="${role.source_url}" target="_blank">↗ View Job Post</a>` : ''}
-            ${role.file ? `<a href="${role.file}" target="_blank">↗ Full Assessment File</a>` : ''}
+            ${role.file ? `<a href="${REPO_BASE}${role.file}" target="_blank">↗ Full Assessment File</a>` : ''}
             ${role.status_notes ? `<span class="status-notes">⚠ ${role.status_notes}</span>` : ''}
           </div>
         </div>
