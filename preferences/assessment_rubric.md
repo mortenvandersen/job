@@ -126,12 +126,12 @@ Score = (A × 0.30) + (B × 0.20) + (C × 0.15) + (D × 0.20) + (E × 0.15)
 
 ## Step 4 — Assessment Output Format
 
-When assessing a job post, always produce:
+When assessing a job post, always produce every section below in this order:
 
 ```
 ## Fit Assessment: <Role Title> — <Company>
 
-**Deal-breakers**: None / [list any]
+**Deal-breakers**: None / [list any that apply — stop here if any are hard nos]
 
 | Dimension | Score | Notes |
 |---|---|---|
@@ -141,15 +141,19 @@ When assessing a job post, always produce:
 | D. Scope & Seniority | X/5 | ... |
 | E. Compensation | X/5 | ... |
 
-**Weighted Score**: X.X / 5
+**Weighted Score**: X.X / 5 — [Strong Yes / Yes with flags / Marginal / No]
 
-**Trajectory value**: [qualitative note]
+**Trajectory value**: [Does this role move toward GM/CEO track, build new toolkit,
+or is it lateral? Be specific.]
 
-**Yellow flags**: [anything worth probing — travel, culture, title inflation, etc.]
+**Gaps & flags** — requirements Morten does not clearly meet:
+- 🔴 [Hard gap]: [specific requirement from JD vs. what's missing]
+- 🟡 [Soft gap / yellow flag]: [partial match or uncertainty]
+(Omit this section only if there are genuinely no meaningful gaps)
 
-**Recommendation**: Strong Yes / Yes with flags / Marginal / No
-
-**If applying**: Key angles to emphasize in application
+**Strongest angles — what to emphasize if applying**:
+- [Specific experience or credential that directly maps to a key requirement]
+- [...]
 ```
 
 ---
