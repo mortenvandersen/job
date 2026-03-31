@@ -344,12 +344,184 @@
 
   .empty-state p { font-size: 14px; }
 
+  /* ── Header buttons ── */
+  .header-actions { display: flex; gap: 8px; align-items: center; }
+
+  .btn-primary {
+    background: var(--primary);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 7px 14px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: opacity 0.15s;
+  }
+  .btn-primary:hover { opacity: 0.88; }
+
+  .btn-icon {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 7px 10px;
+    font-size: 15px;
+    cursor: pointer;
+    color: var(--text-muted);
+    transition: color 0.15s, border-color 0.15s;
+  }
+  .btn-icon:hover { color: var(--primary); border-color: var(--primary); }
+
+  /* ── Modals ── */
+  .modal-overlay {
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,0.4);
+    display: flex; align-items: center; justify-content: center;
+    z-index: 1000;
+    padding: 16px;
+  }
+  .modal-overlay.hidden { display: none; }
+
+  .modal {
+    background: var(--surface);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-md);
+    width: 100%;
+    max-width: 560px;
+    max-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 20px;
+    border-bottom: 1px solid var(--border);
+  }
+  .modal-header h2 { font-size: 16px; font-weight: 700; }
+  .modal-close {
+    background: none; border: none;
+    font-size: 18px; cursor: pointer;
+    color: var(--text-muted); line-height: 1;
+    padding: 2px 6px; border-radius: 4px;
+  }
+  .modal-close:hover { background: var(--bg); }
+
+  .modal-body {
+    padding: 20px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+
+  .form-group { display: flex; flex-direction: column; gap: 4px; }
+
+  .form-group label {
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    color: var(--text-muted);
+  }
+
+  .form-group input,
+  .form-group textarea {
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 8px 10px;
+    font-size: 13px;
+    font-family: inherit;
+    color: var(--text);
+    background: var(--surface);
+    transition: border-color 0.15s;
+    width: 100%;
+  }
+  .form-group input:focus,
+  .form-group textarea:focus {
+    outline: none;
+    border-color: var(--primary);
+    box-shadow: 0 0 0 3px rgba(59,130,246,0.1);
+  }
+  .form-group textarea { resize: vertical; min-height: 180px; }
+
+  .form-hint {
+    font-size: 11px;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+
+  .modal-footer {
+    padding: 14px 20px;
+    border-top: 1px solid var(--border);
+    display: flex;
+    gap: 8px;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  .btn-secondary {
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 7px 14px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    color: var(--text-muted);
+  }
+  .btn-secondary:hover { border-color: var(--text-muted); color: var(--text); }
+
+  .status-msg {
+    font-size: 12px;
+    padding: 6px 10px;
+    border-radius: 5px;
+    flex: 1;
+  }
+  .status-msg.success { background: var(--green-light); color: var(--green); }
+  .status-msg.error   { background: var(--red-light);   color: var(--red); }
+  .status-msg.loading { background: var(--primary-light); color: var(--primary); }
+
+  /* ── Settings: token + bookmarklet ── */
+  .settings-section { display: flex; flex-direction: column; gap: 6px; }
+  .settings-section h3 { font-size: 13px; font-weight: 700; color: var(--text); }
+  .settings-section p, .settings-section li { font-size: 12px; color: var(--text-muted); line-height: 1.6; }
+  .settings-section ol { padding-left: 16px; }
+
+  .token-row { display: flex; gap: 8px; }
+  .token-row input { flex: 1; }
+
+  .bookmarklet-link {
+    display: inline-block;
+    background: var(--amber-light);
+    border: 1px dashed var(--amber);
+    color: var(--amber);
+    padding: 6px 14px;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+    cursor: grab;
+    user-select: none;
+    margin-top: 4px;
+  }
+  .bookmarklet-link:hover { opacity: 0.85; }
+
+  .divider { border: none; border-top: 1px solid var(--border); margin: 4px 0; }
+
   /* ── Responsive ── */
   @media (max-width: 900px) {
     .header { flex-direction: column; align-items: flex-start; padding: 16px 20px; }
     .filters-bar, .table-wrap { padding-left: 16px; padding-right: 16px; }
     .detail-panel { grid-template-columns: 1fr; }
     .hide-mobile { display: none; }
+    .form-row { grid-template-columns: 1fr; }
   }
 </style>
 </head>
@@ -361,6 +533,89 @@
     <div class="header-meta" id="last-updated"></div>
   </div>
   <div class="stat-pills" id="stat-pills"></div>
+  <div class="header-actions">
+    <button class="btn-primary" onclick="openAddModal()">+ Add to Inbox</button>
+    <button class="btn-icon" onclick="openSettings()" title="Settings">⚙</button>
+  </div>
+</div>
+
+<!-- ── Add to Inbox Modal ── -->
+<div id="add-modal" class="modal-overlay hidden">
+  <div class="modal">
+    <div class="modal-header">
+      <h2>Add to Inbox</h2>
+      <button class="modal-close" onclick="closeAddModal()">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="form-row">
+        <div class="form-group">
+          <label>Company *</label>
+          <input id="f-company" placeholder="e.g. Stripe" autocomplete="off">
+        </div>
+        <div class="form-group">
+          <label>Role Title *</label>
+          <input id="f-role" placeholder="e.g. Head of Strategy" autocomplete="off">
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label>Location</label>
+          <input id="f-location" placeholder="e.g. Remote / SF" autocomplete="off">
+        </div>
+        <div class="form-group">
+          <label>Source URL</label>
+          <input id="f-url" placeholder="https://..." autocomplete="off">
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Job Description *</label>
+        <textarea id="f-jd" placeholder="Paste the full job description here…"></textarea>
+      </div>
+      <p class="form-hint">Saves directly to <code>job_posts/inbox/</code> in the repo. Requires a GitHub token — set one up in ⚙ Settings if you haven't already.</p>
+    </div>
+    <div class="modal-footer">
+      <span id="add-status" class="status-msg" style="display:none"></span>
+      <button class="btn-secondary" onclick="closeAddModal()">Cancel</button>
+      <button class="btn-primary" onclick="submitInbox()">Save to Inbox</button>
+    </div>
+  </div>
+</div>
+
+<!-- ── Settings Modal ── -->
+<div id="settings-modal" class="modal-overlay hidden">
+  <div class="modal">
+    <div class="modal-header">
+      <h2>Settings</h2>
+      <button class="modal-close" onclick="closeSettings()">✕</button>
+    </div>
+    <div class="modal-body">
+
+      <div class="settings-section">
+        <h3>GitHub Token</h3>
+        <p>Required to save files from this page. Create a token at <strong>github.com → Settings → Developer settings → Personal access tokens → Fine-grained tokens</strong>. Give it <em>Contents: Read and write</em> permission on the <code>mortenvandersen/job</code> repo. Stored only in your browser.</p>
+        <div class="token-row">
+          <div class="form-group" style="flex:1">
+            <input type="password" id="pat-input" placeholder="github_pat_…">
+          </div>
+          <button class="btn-primary" onclick="savePAT()" style="align-self:flex-end">Save</button>
+        </div>
+        <span id="pat-status" class="status-msg" style="display:none"></span>
+      </div>
+
+      <hr class="divider">
+
+      <div class="settings-section">
+        <h3>Bookmarklet — Save to Inbox from any job page</h3>
+        <p>Drag the button below to your browser's bookmarks bar. Then, when you're on any job posting page, click it to open this dashboard with the form pre-filled.</p>
+        <a id="bookmarklet-link" class="bookmarklet-link">📌 Save to Job Inbox</a>
+        <p style="margin-top:6px">If dragging doesn't work: right-click the button → <em>Bookmark this link</em>, then move it to your bookmarks bar.</p>
+      </div>
+
+    </div>
+    <div class="modal-footer">
+      <button class="btn-secondary" onclick="closeSettings()">Close</button>
+    </div>
+  </div>
 </div>
 
 <div class="filters-bar">
@@ -598,9 +853,196 @@ document.querySelectorAll('th[data-col]').forEach(th => {
   });
 });
 
-// Init
-buildStats(PIPELINE_DATA.roles);
+// ── Dynamic data: fetch live pipeline.json, fall back to embedded ────────────
+async function loadLiveData() {
+  try {
+    const r = await fetch('https://raw.githubusercontent.com/mortenvandersen/job/main/pipeline.json?_=' + Date.now());
+    if (r.ok) return await r.json();
+  } catch(e) {}
+  return PIPELINE_DATA;
+}
+
+// ── Init ─────────────────────────────────────────────────────────────────────
+let liveData = PIPELINE_DATA;
+buildStats(liveData.roles);
 renderTable();
+loadLiveData().then(data => {
+  liveData = data;
+  buildStats(liveData.roles);
+  renderTable();
+});
+
+// Override filteredRoles to use liveData instead of PIPELINE_DATA
+function filteredRoles() {
+  let roles = [...liveData.roles];
+  if (currentFilter !== 'all') {
+    if (currentFilter === 'closed') {
+      roles = roles.filter(r => r.status === 'closed' || r.status === 'declined');
+    } else {
+      roles = roles.filter(r => r.status === currentFilter);
+    }
+  }
+  roles.sort((a, b) => {
+    let av = a[sortCol] ?? '', bv = b[sortCol] ?? '';
+    if (typeof av === 'string') av = av.toLowerCase();
+    if (typeof bv === 'string') bv = bv.toLowerCase();
+    if (av < bv) return -sortDir;
+    if (av > bv) return sortDir;
+    return 0;
+  });
+  return roles;
+}
+
+// ── Bookmarklet ───────────────────────────────────────────────────────────────
+(function() {
+  const base = location.origin + location.pathname;
+  const bm = `javascript:(function(){` +
+    `var s=window.getSelection().toString().trim();` +
+    `var u=encodeURIComponent(location.href);` +
+    `var t=encodeURIComponent(document.title);` +
+    `var b=s?encodeURIComponent(s.substring(0,6000)):'';` +
+    `var q='?add=1&source='+u+'&title='+t+(b?'&body='+b:'');` +
+    `window.open('${base}'+q,'_blank');` +
+    `})();`;
+  document.getElementById('bookmarklet-link').href = bm;
+})();
+
+// Pre-fill form from URL params (bookmarklet)
+(function() {
+  const p = new URLSearchParams(location.search);
+  if (!p.get('add')) return;
+  const title = decodeURIComponent(p.get('title') || '');
+  // Try to parse "Role - Company" or "Company: Role" patterns
+  let company = '', role = '';
+  const m1 = title.match(/^(.+?)\s+[-–|]\s+(.+)$/);
+  if (m1) { role = m1[1].trim(); company = m1[2].trim(); }
+  document.getElementById('f-url').value      = decodeURIComponent(p.get('source') || '');
+  document.getElementById('f-company').value  = company;
+  document.getElementById('f-role').value     = role;
+  document.getElementById('f-jd').value       = decodeURIComponent(p.get('body') || '');
+  // Clean URL then open modal
+  history.replaceState({}, '', location.pathname);
+  openAddModal();
+  if (!company) document.getElementById('f-company').focus();
+  else if (!role) document.getElementById('f-role').focus();
+  else document.getElementById('f-jd').focus();
+})();
+
+// ── Token storage ─────────────────────────────────────────────────────────────
+function getToken() { return localStorage.getItem('gh_pat') || ''; }
+
+function savePAT() {
+  const val = document.getElementById('pat-input').value.trim();
+  const el = document.getElementById('pat-status');
+  if (!val) { showMsg(el, 'error', 'Please enter a token.'); return; }
+  localStorage.setItem('gh_pat', val);
+  document.getElementById('pat-input').value = '';
+  showMsg(el, 'success', 'Token saved to browser storage.');
+}
+
+// ── Utilities ─────────────────────────────────────────────────────────────────
+function slugify(s) {
+  return s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
+
+function b64(str) {
+  return btoa(unescape(encodeURIComponent(str)));
+}
+
+function showMsg(el, type, text) {
+  el.textContent = text;
+  el.className = 'status-msg ' + type;
+  el.style.display = 'block';
+}
+
+function clearMsg(el) {
+  el.style.display = 'none';
+  el.textContent = '';
+}
+
+// ── GitHub API ────────────────────────────────────────────────────────────────
+async function ghPut(path, content, message) {
+  const token = getToken();
+  if (!token) throw new Error('No GitHub token set — open ⚙ Settings to add one.');
+  const res = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${path}`, {
+    method: 'PUT',
+    headers: {
+      'Authorization': `token ${token}`,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({ message, content: b64(content) }),
+  });
+  if (!res.ok) {
+    const err = await res.json().catch(() => ({}));
+    throw new Error(err.message || `GitHub API error ${res.status}`);
+  }
+  return res.json();
+}
+
+// ── Add to Inbox ──────────────────────────────────────────────────────────────
+async function submitInbox() {
+  const company  = document.getElementById('f-company').value.trim();
+  const role     = document.getElementById('f-role').value.trim();
+  const location = document.getElementById('f-location').value.trim();
+  const url      = document.getElementById('f-url').value.trim();
+  const jd       = document.getElementById('f-jd').value.trim();
+  const statusEl = document.getElementById('add-status');
+
+  if (!company || !role)  { showMsg(statusEl, 'error', 'Company and Role are required.'); return; }
+  if (!jd)                { showMsg(statusEl, 'error', 'Please paste the job description.'); return; }
+  if (!getToken())        { showMsg(statusEl, 'error', 'No GitHub token — open ⚙ Settings first.'); return; }
+
+  showMsg(statusEl, 'loading', 'Saving…');
+  document.querySelector('#add-modal .btn-primary').disabled = true;
+
+  const slug    = `${slugify(company)}-${slugify(role)}`;
+  const today   = new Date().toISOString().split('T')[0];
+  const content = [
+    `---`,
+    `company: ${company}`,
+    `role: ${role}`,
+    `status: inbox`,
+    `date_saved: ${today}`,
+    `source_url: ${url}`,
+    `---`,
+    ``,
+    `# ${company} — ${role}`,
+    ``,
+    `## Job Description`,
+    ``,
+    jd,
+  ].join('\n');
+
+  try {
+    await ghPut(`job_posts/inbox/${slug}.md`, content, `Add ${company} — ${role} to inbox`);
+    showMsg(statusEl, 'success', `Saved! Tell Claude to "process inbox" to assess it.`);
+    // Clear form
+    ['f-company','f-role','f-location','f-url','f-jd'].forEach(id => {
+      document.getElementById(id).value = '';
+    });
+  } catch(e) {
+    showMsg(statusEl, 'error', e.message);
+  } finally {
+    document.querySelector('#add-modal .btn-primary').disabled = false;
+  }
+}
+
+// ── Modal open/close ──────────────────────────────────────────────────────────
+function openAddModal()   { document.getElementById('add-modal').classList.remove('hidden'); }
+function closeAddModal()  {
+  document.getElementById('add-modal').classList.add('hidden');
+  clearMsg(document.getElementById('add-status'));
+}
+function openSettings()   { document.getElementById('settings-modal').classList.remove('hidden'); }
+function closeSettings()  {
+  document.getElementById('settings-modal').classList.add('hidden');
+  clearMsg(document.getElementById('pat-status'));
+}
+
+// Close modals on overlay click
+document.querySelectorAll('.modal-overlay').forEach(el => {
+  el.addEventListener('click', e => { if (e.target === el) el.classList.add('hidden'); });
+});
 </script>
 </body>
 </html>
