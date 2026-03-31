@@ -961,16 +961,28 @@ function clearMsg(el) {
 }
 
 // ── GitHub API ────────────────────────────────────────────────────────────────
-async function ghPut(path, content, message) {
+async function ghGet(path) {
+  const token = getToken();
+  const headers = token ? { 'Authorization': `token ${token}` } : {};
+  const res = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${path}`, { headers });
+  if (!res.ok) throw new Error(`Could not read ${path} (${res.status})`);
+  const data = await res.json();
+  const content = JSON.parse(decodeURIComponent(escape(atob(data.content.replace(/\n/g, '')))));
+  return { content, sha: data.sha };
+}
+
+async function ghPut(path, content, message, sha) {
   const token = getToken();
   if (!token) throw new Error('No GitHub token set — open ⚙ Settings to add one.');
+  const body = { message, content: b64(content) };
+  if (sha) body.sha = sha;
   const res = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${path}`, {
     method: 'PUT',
     headers: {
       'Authorization': `token ${token}`,
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify({ message, content: b64(content) }),
+    body: JSON.stringify(body),
   });
   if (!res.ok) {
     const err = await res.json().catch(() => ({}));
@@ -997,7 +1009,7 @@ async function submitInbox() {
 
   const slug    = `${slugify(company)}-${slugify(role)}`;
   const today   = new Date().toISOString().split('T')[0];
-  const content = [
+  const fileContent = [
     `---`,
     `company: ${company}`,
     `role: ${role}`,
@@ -1014,9 +1026,44 @@ async function submitInbox() {
   ].join('\n');
 
   try {
-    await ghPut(`job_posts/inbox/${slug}.md`, content, `Add ${company} — ${role} to inbox`);
-    showMsg(statusEl, 'success', `Saved! Tell Claude to "process inbox" to assess it.`);
-    // Clear form
+    // 1. Create inbox file
+    showMsg(statusEl, 'loading', 'Saving file…');
+    await ghPut(`job_posts/inbox/${slug}.md`, fileContent, `Add ${company} — ${role} to inbox`);
+
+    // 2. Update pipeline.json
+    showMsg(statusEl, 'loading', 'Updating pipeline…');
+    const { content: pipeline, sha: pipelineSha } = await ghGet('pipeline.json');
+    const newEntry = {
+      id: slug,
+      company,
+      role,
+      location: location || '',
+      comp_range: '',
+      date_saved: today,
+      date_assessed: null,
+      source_url: url || '',
+      status: 'inbox',
+      weighted_score: null,
+      recommendation: null,
+      file: `job_posts/inbox/${slug}.md`,
+      summary_note: '',
+      gaps: [],
+      strongest_angles: [],
+      status_notes: '',
+    };
+    // Avoid duplicates
+    pipeline.roles = pipeline.roles.filter(r => r.id !== slug);
+    pipeline.roles.unshift(newEntry);
+    pipeline.last_updated = today;
+    await ghPut('pipeline.json', JSON.stringify(pipeline, null, 2),
+      `Add ${company} — ${role} to pipeline (inbox)`, pipelineSha);
+
+    // 3. Refresh dashboard data
+    liveData = pipeline;
+    buildStats(liveData.roles);
+    renderTable();
+
+    showMsg(statusEl, 'success', `Saved to inbox! Tell Claude to assess it when ready.`);
     ['f-company','f-role','f-location','f-url','f-jd'].forEach(id => {
       document.getElementById(id).value = '';
     });
