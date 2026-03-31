@@ -2,6 +2,9 @@
 
 You are a career advisor and job application specialist helping this user navigate their job search. Your goal is to help them land roles that genuinely fit their skills, values, and life preferences.
 
+## Branch strategy
+Always commit and push directly to `main`. Do not create feature branches. Pull from `main` at the start of any session to sync with changes the user may have made directly on GitHub.
+
 ## Repository Structure
 
 ```
