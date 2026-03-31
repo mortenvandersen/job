@@ -11,7 +11,7 @@ Run these first. If any applies, **stop and reject** — don't score further.
 
 | # | Check | Flag |
 |---|---|---|
-| 1 | Role is quota-carrying / commission-based sales or BD | Hard no |
+| 1 | Role is explicitly quota-carrying / commission-based | Hard no |
 | 2 | Role is part-time or fractional | Hard no |
 | 3 | In-office or hybrid outside San Francisco Bay Area | Hard no |
 | 4 | Requires European/EMEA working hours | Hard no |
@@ -41,7 +41,9 @@ Does the role match the target functional areas?
 | 2 | Stretch: Role is a significant departure from target — e.g., pure product, pure ops execution, program management |
 | 1 | Poor fit: Functional mismatch — e.g., engineering manager, sales leader, finance controller |
 
-**Watch for**: "Business Development" titles that are quota-carrying in disguise. "Growth" roles that are really marketing. "Strategy" roles that are really analytics or reporting. "Program Manager" roles that are project coordination, not strategy.
+**Watch for**: "Growth" roles that are really marketing. "Strategy" roles that are really analytics or reporting. "Program Manager" roles that are project coordination, not strategy.
+
+**On "Business Development" titles**: These span a wide range. VP or Director-level BD is often a strategic partnerships, new markets, or corp dev role — always score on the actual responsibilities described, not the title alone. Only treat as a deal-breaker if the JD explicitly mentions quotas, revenue targets, or commission structure. Junior BD titles (Manager, Associate) are more likely to be pipeline/sales roles and warrant closer scrutiny of the JD.
 
 ---
 
@@ -160,12 +162,18 @@ Based on the initial set of ~29 rated roles, the following patterns held:
 tech companies (Retool, Adobe, NVIDIA, Block, Persona, Moloco). These share: clear
 strategy mandate, SF location, $200K+ comp, tech/AI industry, and real scope.
 
-**Common over-ratings to avoid**:
+**Note on the historical dataset**: The ~29 roles in the reference set were already
+pre-filtered — lower-scoring posts had been removed before rating. So the absence of
+1–3 scores reflects curation, not rating inflation. The patterns above still hold for
+calibrating within the 4–5 range.
+
+**Common calibration errors to avoid**:
 - NY/NJ-based hybrid roles were rated as 5s (Scholastic, NYU) — location should have
-  cut these to 3 or below
-- "Head of Growth" or "Growth Lead" roles skew marketing, not strategy — cap at 3
-  unless role is clearly GM-type
+  cut these significantly
+- "Head of Growth" or "Growth Lead" roles skew marketing, not strategy — check scope
+  before scoring high
 - "Program Manager" titles often lack strategic mandate — check scope carefully
-- "VP Business Development" should be flagged for quota risk before scoring
+- "VP Business Development" is not automatically a sales role — read the JD before
+  flagging; it may be corp dev or new markets under a different label
 - Comp below floor was sometimes overlooked — always check the range ceiling, not just
   the floor
