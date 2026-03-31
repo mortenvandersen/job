@@ -2,6 +2,24 @@
   "last_updated": "2026-03-31",
   "roles": [
     {
+      "id": "adsa-asd",
+      "company": "aDSA",
+      "role": "ASD",
+      "location": "",
+      "comp_range": "",
+      "date_saved": "2026-03-31",
+      "date_assessed": null,
+      "source_url": "",
+      "status": "inbox",
+      "weighted_score": null,
+      "recommendation": null,
+      "file": "job_posts/inbox/adsa-asd.md",
+      "summary_note": "",
+      "gaps": [],
+      "strongest_angles": [],
+      "status_notes": ""
+    },
+    {
       "id": "discord-director-corporate-development",
       "company": "Discord",
       "role": "Director of Corporate Development",
