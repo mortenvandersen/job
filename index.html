@@ -342,6 +342,51 @@
   }
   .btn-danger:hover { background: var(--red-light); }
 
+  .btn-assess {
+    background: var(--primary);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 5px 12px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .btn-assess:hover { opacity: 0.85; }
+  .btn-assess:disabled { opacity: 0.5; cursor: default; }
+
+  .bulk-bar {
+    padding: 8px 32px;
+    background: var(--primary-light);
+    border-bottom: 1px solid #bfdbfe;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    font-size: 13px;
+    color: var(--primary);
+    font-weight: 500;
+  }
+  .bulk-bar.hidden { display: none; }
+
+  .assess-log {
+    font-size: 13px;
+    line-height: 2;
+    background: var(--bg);
+    border-radius: 4px;
+    padding: 12px 14px;
+    min-height: 80px;
+  }
+  .assess-log .step-done   { color: var(--green); }
+  .assess-log .step-active { color: var(--primary); }
+  .assess-log .step-error  { color: var(--red); }
+
+  input[type=checkbox] {
+    width: 15px; height: 15px;
+    cursor: pointer;
+    accent-color: var(--primary);
+    vertical-align: middle;
+  }
+
   .status-notes {
     font-size: 12px;
     color: var(--amber);
@@ -604,6 +649,20 @@
     <div class="modal-body">
 
       <div class="settings-section">
+        <h3>Anthropic API Key</h3>
+        <p>Required to assess roles directly from this dashboard. Get a key at <strong>console.anthropic.com → API Keys</strong>. Stored only in your browser — never sent anywhere except Anthropic.</p>
+        <div class="token-row">
+          <div class="form-group" style="flex:1">
+            <input type="password" id="anthropic-key-input" placeholder="sk-ant-…">
+          </div>
+          <button class="btn-primary" onclick="saveAnthropicKey()" style="align-self:flex-end">Save</button>
+        </div>
+        <span id="anthropic-key-status" class="status-msg" style="display:none"></span>
+      </div>
+
+      <hr class="divider">
+
+      <div class="settings-section">
         <h3>GitHub Token</h3>
         <p>Required to save files from this page. Create a token at <strong>github.com → Settings → Developer settings → Personal access tokens → Fine-grained tokens</strong>. Give it <em>Contents: Read and write</em> permission on the <code>mortenvandersen/job</code> repo. Stored only in your browser.</p>
         <div class="token-row">
@@ -631,6 +690,28 @@
   </div>
 </div>
 
+<!-- ── Assess Progress Modal ── -->
+<div id="assess-modal" class="modal-overlay hidden">
+  <div class="modal" style="max-width:460px">
+    <div class="modal-header">
+      <h2 id="assess-modal-title">Assessing Role</h2>
+    </div>
+    <div class="modal-body">
+      <div id="assess-log" class="assess-log"></div>
+    </div>
+    <div class="modal-footer">
+      <button id="assess-close-btn" class="btn-secondary hidden" onclick="closeAssessModal()">Close</button>
+    </div>
+  </div>
+</div>
+
+<!-- ── Bulk Actions Bar ── -->
+<div id="bulk-bar" class="bulk-bar hidden">
+  <span id="bulk-count">0 selected</span>
+  <button class="btn-primary" style="font-size:12px;padding:5px 12px" onclick="assessSelected()">⚡ Assess Selected</button>
+  <button class="btn-secondary" style="font-size:12px;padding:5px 12px" onclick="clearSelection()">Clear</button>
+</div>
+
 <div class="filters-bar">
   <span class="filter-label">Filter:</span>
   <button class="filter-btn active" data-filter="all">All</button>
@@ -647,6 +728,9 @@
     <table id="pipeline-table">
       <thead>
         <tr>
+          <th class="hide-mobile" style="width:36px;text-align:center;padding:10px 8px">
+            <input type="checkbox" id="select-all-inbox" title="Select all inbox items" onchange="toggleSelectAll(this)">
+          </th>
           <th data-col="company">Company / Role</th>
           <th data-col="location" class="hide-mobile">Location</th>
           <th data-col="comp_range" class="hide-mobile">Comp</th>
@@ -767,6 +851,9 @@ function renderTable() {
     tr.className = 'data-row' + (isExpanded ? ' expanded' : '');
     tr.dataset.id = role.id;
     tr.innerHTML = `
+      <td class="hide-mobile" onclick="event.stopPropagation()" style="width:36px;text-align:center;padding:12px 8px">
+        ${role.status === 'inbox' ? `<input type="checkbox" ${selectedIds.has(role.id) ? 'checked' : ''} onchange="toggleSelect(event,'${role.id}')">` : ''}
+      </td>
       <td>
         <div class="company-name">${role.company}</div>
         <div class="role-name">${role.role}</div>
@@ -800,7 +887,7 @@ function renderTable() {
     if (isExpanded) {
       const dtr = document.createElement('tr');
       dtr.className = 'detail-row';
-      dtr.innerHTML = `<td colspan="8">
+      dtr.innerHTML = `<td colspan="9">
         <div class="detail-panel">
           <div class="detail-section">
             <h4>Summary</h4>
@@ -826,6 +913,7 @@ function renderTable() {
             ${role.source_url ? `<a href="${role.source_url}" target="_blank">↗ View Job Post</a>` : ''}
             ${role.file ? `<a href="${REPO_BASE}${role.file}" target="_blank">↗ Full Assessment File</a>` : ''}
             ${role.status_notes ? `<span class="status-notes">⚠ ${role.status_notes}</span>` : ''}
+            ${role.status === 'inbox' ? `<button class="btn-assess" onclick="assessRole(event,'${role.id}')">⚡ Assess this role</button>` : ''}
             ${role.status === 'inbox' ? `<button class="btn-danger" onclick="deleteInboxItem(event,'${role.id}')">🗑 Delete from Inbox</button>` : ''}
           </div>
         </div>
@@ -833,6 +921,14 @@ function renderTable() {
       tbody.appendChild(dtr);
     }
   });
+
+  // Sync select-all checkbox
+  const inboxRoles = roles.filter(r => r.status === 'inbox');
+  const selectAll = document.getElementById('select-all-inbox');
+  if (selectAll) {
+    selectAll.checked = inboxRoles.length > 0 && inboxRoles.every(r => selectedIds.has(r.id));
+    selectAll.indeterminate = !selectAll.checked && inboxRoles.some(r => selectedIds.has(r.id));
+  }
 }
 
 function toggleDetail(id) {
@@ -1151,6 +1247,283 @@ async function deleteInboxItem(e, id) {
 document.querySelectorAll('.modal-overlay').forEach(el => {
   el.addEventListener('click', e => { if (e.target === el) el.classList.add('hidden'); });
 });
+
+// ── Anthropic API key storage ─────────────────────────────────────────────────
+function getAnthropicKey() { return localStorage.getItem('anthropic_key') || ''; }
+
+function saveAnthropicKey() {
+  const val = document.getElementById('anthropic-key-input').value.trim();
+  const el  = document.getElementById('anthropic-key-status');
+  if (!val) { showMsg(el, 'error', 'Please enter a key.'); return; }
+  localStorage.setItem('anthropic_key', val);
+  document.getElementById('anthropic-key-input').value = '';
+  showMsg(el, 'success', 'API key saved to browser storage.');
+}
+
+// ── Checkbox selection ────────────────────────────────────────────────────────
+const selectedIds = new Set();
+
+function toggleSelect(e, id) {
+  e.stopPropagation();
+  if (e.target.checked) selectedIds.add(id); else selectedIds.delete(id);
+  updateBulkBar();
+  renderTable();
+}
+
+function toggleSelectAll(cb) {
+  const inboxRoles = filteredRoles().filter(r => r.status === 'inbox');
+  inboxRoles.forEach(r => cb.checked ? selectedIds.add(r.id) : selectedIds.delete(r.id));
+  updateBulkBar();
+  renderTable();
+}
+
+function clearSelection() {
+  selectedIds.clear();
+  updateBulkBar();
+  renderTable();
+}
+
+function updateBulkBar() {
+  const bar = document.getElementById('bulk-bar');
+  const count = document.getElementById('bulk-count');
+  if (selectedIds.size === 0) {
+    bar.classList.add('hidden');
+  } else {
+    bar.classList.remove('hidden');
+    count.textContent = `${selectedIds.size} item${selectedIds.size > 1 ? 's' : ''} selected`;
+  }
+}
+
+// ── Assess progress modal ─────────────────────────────────────────────────────
+function openAssessModal(title) {
+  document.getElementById('assess-modal-title').textContent = title || 'Assessing Role';
+  document.getElementById('assess-log').innerHTML = '';
+  document.getElementById('assess-close-btn').classList.add('hidden');
+  document.getElementById('assess-modal').classList.remove('hidden');
+}
+
+function closeAssessModal() {
+  document.getElementById('assess-modal').classList.add('hidden');
+}
+
+function logStep(text, type) {
+  const log = document.getElementById('assess-log');
+  // Mark previous active step as done
+  log.querySelectorAll('.step-active').forEach(el => {
+    el.className = 'step-done';
+    el.textContent = '✓ ' + el.textContent.replace(/^[⟳✓✗] /, '');
+  });
+  const el = document.createElement('div');
+  el.className = type === 'error' ? 'step-error' : 'step-active';
+  el.textContent = (type === 'error' ? '✗ ' : '⟳ ') + text;
+  log.appendChild(el);
+  log.scrollTop = log.scrollHeight;
+}
+
+// ── ghGetText — fetch raw text file from GitHub API ───────────────────────────
+async function ghGetText(path) {
+  const token = getToken();
+  const headers = token ? { 'Authorization': `token ${token}` } : {};
+  const res = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${path}`, { headers });
+  if (!res.ok) throw new Error(`Could not read ${path} (${res.status})`);
+  const data = await res.json();
+  return { content: decodeURIComponent(escape(atob(data.content.replace(/\n/g, '')))), sha: data.sha };
+}
+
+// ── Claude API call ───────────────────────────────────────────────────────────
+async function callClaude(prompt) {
+  const apiKey = getAnthropicKey();
+  if (!apiKey) throw new Error('No Anthropic API key — open ⚙ Settings to add one.');
+  const res = await fetch('https://api.anthropic.com/v1/messages', {
+    method: 'POST',
+    headers: {
+      'x-api-key': apiKey,
+      'anthropic-version': '2023-06-01',
+      'content-type': 'application/json',
+      'anthropic-dangerous-direct-browser-access': 'true',
+    },
+    body: JSON.stringify({
+      model: 'claude-sonnet-4-6',
+      max_tokens: 4096,
+      messages: [{ role: 'user', content: prompt }],
+    }),
+  });
+  if (!res.ok) {
+    const err = await res.json().catch(() => ({}));
+    throw new Error(err.error?.message || `Anthropic API error ${res.status}`);
+  }
+  const data = await res.json();
+  return data.content[0].text;
+}
+
+// ── Assessment helpers ────────────────────────────────────────────────────────
+function buildAssessPrompt(prefs, rubric, jdText) {
+  return `You are a career advisor assessing a job posting for a specific candidate. Read the candidate's preferences, the scoring rubric, and the job description carefully, then produce a thorough assessment.
+
+=== CANDIDATE PREFERENCES ===
+${prefs}
+
+=== ASSESSMENT RUBRIC ===
+${rubric}
+
+=== JOB POSTING ===
+${jdText}
+
+Output your response in EXACTLY this format — no other text before or after:
+
+<JSON>
+{
+  "weighted_score": <number 1.0–5.0, one decimal place>,
+  "recommendation": "<Strong Yes | Yes with flags | Marginal | No>",
+  "summary_note": "<one concise sentence describing the role and its main appeal or concern>",
+  "comp_range": "<compensation range if stated in the JD, otherwise empty string>",
+  "gaps": ["<gap or flag 1>", "<gap or flag 2>"],
+  "strongest_angles": ["<angle 1>", "<angle 2>"]
+}
+</JSON>
+<ASSESSMENT>
+[Full assessment following exactly the mandatory output format from the rubric, with all sections: Deal-breaker Check, Dimension Scores, Weighted Score, Recommendation, Gaps & Flags, Strongest Angles]
+</ASSESSMENT>`;
+}
+
+function parseAssessment(text) {
+  const jsonMatch   = text.match(/<JSON>([\s\S]*?)<\/JSON>/);
+  const assessMatch = text.match(/<ASSESSMENT>([\s\S]*?)<\/ASSESSMENT>/);
+  let structured = {};
+  if (jsonMatch) { try { structured = JSON.parse(jsonMatch[1].trim()); } catch(e) {} }
+  return { structured, fullText: assessMatch ? assessMatch[1].trim() : text };
+}
+
+function buildAssessedFile(role, rawJd, assessmentText, today, structured) {
+  // Strip frontmatter + section headers from inbox file to get raw JD text
+  let jdText = rawJd.replace(/^---[\s\S]*?---\s*\n/, '');
+  const jdIdx = jdText.indexOf('## Job Description');
+  if (jdIdx >= 0) jdText = jdText.slice(jdIdx + '## Job Description'.length).trim();
+
+  return [
+    '---',
+    `company: ${role.company}`,
+    `role: ${role.role}`,
+    `status: assessed`,
+    `date_saved: ${role.date_saved || today}`,
+    `date_assessed: ${today}`,
+    `source_url: ${role.source_url || ''}`,
+    `weighted_score: ${structured.weighted_score || ''}`,
+    `recommendation: ${structured.recommendation || ''}`,
+    '---',
+    '',
+    `# ${role.company} — ${role.role}`,
+    '',
+    '## Job Description',
+    '',
+    jdText,
+    '',
+    '## Assessment',
+    '',
+    assessmentText,
+  ].join('\n');
+}
+
+// ── assessRole ────────────────────────────────────────────────────────────────
+async function assessRole(e, id) {
+  if (e) e.stopPropagation();
+  const role = liveData.roles.find(r => r.id === id);
+  if (!role || role.status !== 'inbox') return;
+  if (!getAnthropicKey()) { alert('No Anthropic API key — open ⚙ Settings to add one.'); return; }
+  if (!getToken())        { alert('No GitHub token — open ⚙ Settings first.'); return; }
+
+  openAssessModal(`${role.company} — ${role.role}`);
+
+  try {
+    logStep('Fetching job description…');
+    const { content: jdText } = await ghGetText(role.file);
+
+    logStep('Loading preferences and rubric…');
+    const [{ content: prefs }, { content: rubric }] = await Promise.all([
+      ghGetText('preferences/preferences.md'),
+      ghGetText('preferences/assessment_rubric.md'),
+    ]);
+
+    logStep('Calling Claude to assess (15–30 seconds)…');
+    const prompt = buildAssessPrompt(prefs, rubric, jdText);
+    const rawResponse = await callClaude(prompt);
+
+    logStep('Parsing assessment…');
+    const { structured, fullText } = parseAssessment(rawResponse);
+    if (!structured.weighted_score) throw new Error('Could not parse Claude output — try again.');
+
+    logStep('Saving assessment file…');
+    const today = new Date().toISOString().split('T')[0];
+    const fileContent = buildAssessedFile(role, jdText, fullText, today, structured);
+    await ghPut(`job_posts/${id}.md`, fileContent, `Assess ${role.company} — ${role.role}`);
+
+    logStep('Removing from inbox…');
+    const inboxRes = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
+      headers: { 'Authorization': `token ${getToken()}` },
+    });
+    if (inboxRes.ok) {
+      const { sha: inboxSha } = await inboxRes.json();
+      await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
+        method: 'DELETE',
+        headers: { 'Authorization': `token ${getToken()}`, 'Content-Type': 'application/json' },
+        body: JSON.stringify({ message: `Remove ${id} from inbox after assessment`, sha: inboxSha }),
+      });
+    }
+
+    logStep('Updating pipeline…');
+    const { content: pipeline, sha: pSha } = await ghGet('pipeline.json');
+    const idx = pipeline.roles.findIndex(r => r.id === id);
+    const updated = {
+      ...(idx >= 0 ? pipeline.roles[idx] : { id, company: role.company, role: role.role }),
+      status:           'assessed',
+      date_assessed:    today,
+      weighted_score:   structured.weighted_score,
+      recommendation:   structured.recommendation,
+      summary_note:     structured.summary_note  || '',
+      comp_range:       structured.comp_range     || role.comp_range || '',
+      gaps:             structured.gaps           || [],
+      strongest_angles: structured.strongest_angles || [],
+      file:             `job_posts/${id}.md`,
+    };
+    if (idx >= 0) pipeline.roles[idx] = updated; else pipeline.roles.unshift(updated);
+    pipeline.last_updated = today;
+    await ghPut('pipeline.json', JSON.stringify(pipeline, null, 2),
+      `Update pipeline after assessing ${role.company} — ${role.role}`, pSha);
+
+    // Mark last step done
+    document.getElementById('assess-log').querySelectorAll('.step-active').forEach(el => {
+      el.className = 'step-done';
+      el.textContent = '✓ ' + el.textContent.replace(/^[⟳✓] /, '');
+    });
+
+    liveData = pipeline;
+    selectedIds.delete(id);
+    updateBulkBar();
+    buildStats(liveData.roles);
+    expandedId = null;
+    renderTable();
+
+  } catch(err) {
+    logStep(err.message, 'error');
+  } finally {
+    document.getElementById('assess-close-btn').classList.remove('hidden');
+  }
+}
+
+// ── assessSelected ────────────────────────────────────────────────────────────
+async function assessSelected() {
+  const ids = [...selectedIds].filter(id => {
+    const r = liveData.roles.find(r => r.id === id);
+    return r && r.status === 'inbox';
+  });
+  if (!ids.length) return;
+  for (const id of ids) {
+    await assessRole(null, id);
+    if (ids.indexOf(id) < ids.length - 1) {
+      await new Promise(res => setTimeout(res, 800));
+    }
+  }
+}
 </script>
 </body>
 </html>
