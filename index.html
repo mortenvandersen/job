@@ -329,6 +329,19 @@
 
   .detail-footer a:hover { text-decoration: underline; }
 
+  .btn-danger {
+    background: none;
+    border: 1px solid var(--red);
+    border-radius: 6px;
+    padding: 4px 10px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--red);
+    cursor: pointer;
+    margin-left: auto;
+  }
+  .btn-danger:hover { background: var(--red-light); }
+
   .status-notes {
     font-size: 12px;
     color: var(--amber);
@@ -813,6 +826,7 @@ function renderTable() {
             ${role.source_url ? `<a href="${role.source_url}" target="_blank">↗ View Job Post</a>` : ''}
             ${role.file ? `<a href="${REPO_BASE}${role.file}" target="_blank">↗ Full Assessment File</a>` : ''}
             ${role.status_notes ? `<span class="status-notes">⚠ ${role.status_notes}</span>` : ''}
+            ${role.status === 'inbox' ? `<button class="btn-danger" onclick="deleteInboxItem(event,'${role.id}')">🗑 Delete from Inbox</button>` : ''}
           </div>
         </div>
       </td>`;
@@ -1084,6 +1098,53 @@ function openSettings()   { document.getElementById('settings-modal').classList.
 function closeSettings()  {
   document.getElementById('settings-modal').classList.add('hidden');
   clearMsg(document.getElementById('pat-status'));
+}
+
+// ── Delete inbox item ─────────────────────────────────────────────────────────
+async function deleteInboxItem(e, id) {
+  e.stopPropagation();
+  const role = liveData.roles.find(r => r.id === id);
+  if (!role) return;
+  if (!confirm(`Delete "${role.company} — ${role.role}" from inbox?\nThis cannot be undone.`)) return;
+  if (!getToken()) { alert('No GitHub token — open ⚙ Settings first.'); return; }
+
+  const btn = e.target;
+  btn.disabled = true;
+  btn.textContent = 'Deleting…';
+
+  try {
+    // 1. Get file SHA
+    const res = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
+      headers: { 'Authorization': `token ${getToken()}` }
+    });
+    if (!res.ok) throw new Error(`Could not find file (${res.status})`);
+    const { sha } = await res.json();
+
+    // 2. Delete the file
+    const del = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
+      method: 'DELETE',
+      headers: { 'Authorization': `token ${getToken()}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ message: `Remove ${role.company} — ${role.role} from inbox`, sha }),
+    });
+    if (!del.ok) throw new Error(`Delete failed (${del.status})`);
+
+    // 3. Remove from pipeline.json
+    const { content: pipeline, sha: pSha } = await ghGet('pipeline.json');
+    pipeline.roles = pipeline.roles.filter(r => r.id !== id);
+    pipeline.last_updated = new Date().toISOString().split('T')[0];
+    await ghPut('pipeline.json', JSON.stringify(pipeline, null, 2),
+      `Remove ${role.company} — ${role.role} from pipeline`, pSha);
+
+    // 4. Update dashboard
+    liveData = pipeline;
+    expandedId = null;
+    buildStats(liveData.roles);
+    renderTable();
+  } catch(err) {
+    alert('Error: ' + err.message);
+    btn.disabled = false;
+    btn.textContent = '🗑 Delete from Inbox';
+  }
 }
 
 // Close modals on overlay click
