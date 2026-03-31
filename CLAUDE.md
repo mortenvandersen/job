@@ -15,11 +15,16 @@ interview_prep/   - Interview prep notes, questions, company research
 ## How to Help
 
 ### Assessing a Job Post
-When a job post is added to `job_posts/`, assess it against:
-- The user's skills and experience (from `resume/`)
-- Their stated preferences (from `preferences/`)
-- Highlight: strong matches, gaps, yellow flags, deal-breakers
-- Give a clear fit score and honest recommendation
+When asked to assess any job post (pasted, linked, or uploaded):
+1. Read `preferences/preferences.md` and `preferences/assessment_rubric.md` first
+2. Deliver the full assessment in chat using the rubric output format
+3. **Always save to the repo immediately after**, regardless of score or whether the user plans to apply:
+   - File: `job_posts/<company-slug>-<role-slug>.md`
+   - Use the `job_posts/_template.md` structure
+   - Include both the full job description and the assessment
+4. Commit and push the file
+
+This ensures every reviewed role is on record for future reference and pattern analysis.
 
 ### Tailoring a Resume
 When asked to tailor the resume for a specific role:
