@@ -1027,7 +1027,9 @@ function filteredRoles() {
     const title  = p.get('title')  || '';
     const body   = p.get('body')   || '';
     let company = '', role = '';
-    const m1 = title.match(/^(.+?)\s+[-–|]\s+(.+)$/);
+    // Strip trailing platform name before parsing (e.g. "Role | Company | LinkedIn")
+    const cleanTitle = title.replace(/\s*\|\s*(LinkedIn|Indeed|Glassdoor|Greenhouse|Lever|ZipRecruiter|Workday|Monster|Handshake)\s*$/i, '').trim();
+    const m1 = cleanTitle.match(/^(.+?)\s+[-–|]\s+(.+)$/);
     if (m1) { role = m1[1].trim(); company = m1[2].trim(); }
     document.getElementById('f-url').value     = source;
     document.getElementById('f-company').value = company;
