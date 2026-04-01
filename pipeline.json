@@ -2,6 +2,25 @@
   "last_updated": "2026-04-01",
   "roles": [
     {
+      "id": "duckduckgo-director-business-development-remote-within-usa",
+      "company": "DuckDuckGo",
+      "role": "Director, Business Development (Remote within USA)",
+      "location": "",
+      "comp_range": "",
+      "date_saved": "2026-04-01",
+      "date_assessed": null,
+      "source_url": "https://www.linkedin.com/jobs/view/4382484126/",
+      "status": "inbox",
+      "role_fit_score": null,
+      "candidate_fit_score": null,
+      "recommendation": null,
+      "file": "job_posts/inbox/duckduckgo-director-business-development-remote-within-usa.md",
+      "summary_note": "",
+      "gaps": [],
+      "strongest_angles": [],
+      "status_notes": ""
+    },
+    {
       "id": "axogen-vp-planning-and-business-development",
       "company": "Axogen",
       "role": "VP, Planning and Business Development",
