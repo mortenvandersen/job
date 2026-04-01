@@ -1,7 +1,7 @@
 ---
 company: brightwheel
 role: Director, Go-To-Market Strategy & Initiatives
-status: archived
+status: applied
 date_saved: 2026-04-01
 date_assessed: 2026-04-01
 source_url: https://www.linkedin.com/jobs/view/4389322436/
