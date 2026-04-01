@@ -3,21 +3,31 @@
   "roles": [
     {
       "id": "axogen-vp-planning-and-business-development",
-      "company": "axogen",
+      "company": "Axogen",
       "role": "VP, Planning and Business Development",
       "location": "Remote",
-      "comp_range": "",
+      "comp_range": "$366–412K + bonus",
       "date_saved": "2026-04-01",
-      "date_assessed": null,
+      "date_assessed": "2026-04-01",
       "source_url": "https://www.linkedin.com/jobs/view/4385473894/",
-      "status": "inbox",
-      "weighted_score": null,
-      "recommendation": null,
-      "file": "job_posts/inbox/axogen-vp-planning-and-business-development.md",
-      "summary_note": "",
-      "gaps": [],
-      "strongest_angles": [],
-      "status_notes": ""
+      "status": "assessed",
+      "weighted_score": 4.3,
+      "recommendation": "Yes with flags",
+      "file": "job_posts/axogen-vp-planning-and-business-development.md",
+      "summary_note": "Corp Strategy + Corp Dev VP reporting to CEO at a public medtech company. Exceptional comp but medical device industry experience required.",
+      "gaps": [
+        "🔴 10 years medical device / biotech senior leadership — zero medtech background, ATS risk",
+        "🔴 BS in Life Sciences or Engineering required — business background won't satisfy this",
+        "🟡 Advanced degree (MD/PhD) preferred — signals clinical leadership culture",
+        "🟡 50% travel requirement — significant, flag for discussion"
+      ],
+      "strongest_angles": [
+        "Currently leading Labster divestiture — live M&A sell-side process",
+        "LEGO Ventures: 5 early-stage investments end-to-end, buy-side diligence",
+        "Led $100M Series C & C+ — transaction structuring and buy-side relationships",
+        "VP/GM with CEO-level relationships and P&L ownership — not just a strategy advisor"
+      ],
+      "status_notes": "Referral or direct outreach strongly recommended — medical device requirement likely filters cold applications"
     },
     {
       "id": "discord-director-corporate-development",
