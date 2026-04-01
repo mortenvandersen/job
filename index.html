@@ -260,6 +260,7 @@
   .status-interviewing { background: #ecfdf5; color: #065f46; }
   .status-closed       { background: #fef2f2; color: #991b1b; }
   .status-declined     { background: #f9fafb; color: #9ca3af; }
+  .status-archived     { background: #f3f4f6; color: #9ca3af; }
 
   /* Next action */
   .action-badge {
@@ -354,6 +355,19 @@
   }
   .btn-assess:hover { opacity: 0.85; }
   .btn-assess:disabled { opacity: 0.5; cursor: default; }
+
+  .btn-archive {
+    background: none;
+    border: 1px solid var(--amber);
+    border-radius: 6px;
+    padding: 4px 10px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--amber);
+    cursor: pointer;
+  }
+  .btn-archive:hover { background: var(--amber-light); }
+  .btn-archive:disabled { opacity: 0.5; cursor: default; }
 
   .bulk-bar {
     padding: 8px 32px;
@@ -721,6 +735,7 @@
   <button class="filter-btn" data-filter="applied">Applied</button>
   <button class="filter-btn" data-filter="interviewing">Interviewing</button>
   <button class="filter-btn" data-filter="closed">Closed / Declined</button>
+  <button class="filter-btn" data-filter="archived">Archived</button>
 </div>
 
 <div class="table-wrap">
@@ -753,7 +768,7 @@ const PIPELINE_DATA = {"last_updated":"2026-04-01","roles":[{"id":"axogen-vp-pla
 
 const REPO_BASE = 'https://github.com/mortenvandersen/job/blob/main/';
 
-const STATUS_ORDER = ['inbox','assessed','progressing','applied','interviewing','closed','declined'];
+const STATUS_ORDER = ['inbox','assessed','progressing','applied','interviewing','closed','declined','archived'];
 
 const NEXT_ACTION = {
   inbox:        '→ Assess',
@@ -763,6 +778,7 @@ const NEXT_ACTION = {
   interviewing: '→ Prep',
   closed:       '—',
   declined:     '—',
+  archived:     '—',
 };
 
 function recClass(rec) {
@@ -927,7 +943,8 @@ function renderTable() {
             ${role.file ? `<a href="${REPO_BASE}${role.file}" target="_blank">↗ Full Assessment File</a>` : ''}
             ${role.status_notes ? `<span class="status-notes">⚠ ${role.status_notes}</span>` : ''}
             ${role.status === 'inbox' ? `<button class="btn-assess" onclick="assessRole(event,'${role.id}')">⚡ Assess this role</button>` : ''}
-            ${role.status === 'inbox' ? `<button class="btn-danger" onclick="deleteInboxItem(event,'${role.id}')">🗑 Delete from Inbox</button>` : ''}
+            ${'inbox,assessed,progressing'.includes(role.status) ? `<button class="btn-archive" onclick="archiveRole(event,'${role.id}')">📦 Archive</button>` : ''}
+            <button class="btn-danger" onclick="deleteRole(event,'${role.id}')">🗑 Delete</button>
           </div>
         </div>
       </td>`;
@@ -1004,6 +1021,9 @@ function filteredRoles() {
     } else {
       roles = roles.filter(r => r.status === currentFilter);
     }
+  } else {
+    // 'all' excludes archived — use the Archived filter to see those
+    roles = roles.filter(r => r.status !== 'archived');
   }
   roles.sort((a, b) => {
     let av = a[sortCol] ?? '', bv = b[sortCol] ?? '';
@@ -1215,42 +1235,52 @@ function closeSettings()  {
   clearMsg(document.getElementById('pat-status'));
 }
 
-// ── Delete inbox item ─────────────────────────────────────────────────────────
-async function deleteInboxItem(e, id) {
+// ── Archive role ──────────────────────────────────────────────────────────────
+async function archiveRole(e, id) {
   e.stopPropagation();
   const role = liveData.roles.find(r => r.id === id);
   if (!role) return;
-  if (!confirm(`Delete "${role.company} — ${role.role}" from inbox?\nThis cannot be undone.`)) return;
+  if (!confirm(`Archive "${role.company} — ${role.role}"?\nIt will be moved to the Archived view and can be found there.`)) return;
   if (!getToken()) { alert('No GitHub token — open ⚙ Settings first.'); return; }
 
   const btn = e.target;
   btn.disabled = true;
-  btn.textContent = 'Deleting…';
+  btn.textContent = 'Archiving…';
 
   try {
-    // 1. Get file SHA
-    const res = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
-      headers: { 'Authorization': `token ${getToken()}` }
-    });
-    if (!res.ok) throw new Error(`Could not find file (${res.status})`);
-    const { sha } = await res.json();
+    const newPath = `job_posts/archived/${id}.md`;
 
-    // 2. Delete the file
-    const del = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
-      method: 'DELETE',
-      headers: { 'Authorization': `token ${getToken()}`, 'Content-Type': 'application/json' },
-      body: JSON.stringify({ message: `Remove ${role.company} — ${role.role} from inbox`, sha }),
-    });
-    if (!del.ok) throw new Error(`Delete failed (${del.status})`);
+    // 1. Read current file and rewrite to archived path with updated status
+    const { content: fileContent } = await ghGetText(role.file);
+    const updatedContent = fileContent.replace(/^status: \S+/m, 'status: archived');
+    await ghPut(newPath, updatedContent, `Archive ${role.company} — ${role.role}`);
 
-    // 3. Remove from pipeline.json
+    // 2. Delete old file (if it's in a different location)
+    if (role.file !== newPath) {
+      const res = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
+        headers: { 'Authorization': `token ${getToken()}` },
+      });
+      if (res.ok) {
+        const { sha } = await res.json();
+        await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
+          method: 'DELETE',
+          headers: { 'Authorization': `token ${getToken()}`, 'Content-Type': 'application/json' },
+          body: JSON.stringify({ message: `Move ${id} to archived`, sha }),
+        });
+      }
+    }
+
+    // 3. Update pipeline.json
     const { content: pipeline, sha: pSha } = await ghGet('pipeline.json');
-    pipeline.roles = pipeline.roles.filter(r => r.id !== id);
+    const idx = pipeline.roles.findIndex(r => r.id === id);
+    if (idx >= 0) {
+      pipeline.roles[idx].status = 'archived';
+      pipeline.roles[idx].file   = newPath;
+    }
     pipeline.last_updated = new Date().toISOString().split('T')[0];
     await ghPut('pipeline.json', JSON.stringify(pipeline, null, 2),
-      `Remove ${role.company} — ${role.role} from pipeline`, pSha);
+      `Archive ${role.company} — ${role.role}`, pSha);
 
-    // 4. Update dashboard
     liveData = pipeline;
     expandedId = null;
     buildStats(liveData.roles);
@@ -1258,7 +1288,51 @@ async function deleteInboxItem(e, id) {
   } catch(err) {
     alert('Error: ' + err.message);
     btn.disabled = false;
-    btn.textContent = '🗑 Delete from Inbox';
+    btn.textContent = '📦 Archive';
+  }
+}
+
+// ── Delete role (all statuses) ────────────────────────────────────────────────
+async function deleteRole(e, id) {
+  e.stopPropagation();
+  const role = liveData.roles.find(r => r.id === id);
+  if (!role) return;
+  if (!confirm(`Permanently delete "${role.company} — ${role.role}"?\nThis removes the file and all data. Cannot be undone.`)) return;
+  if (!getToken()) { alert('No GitHub token — open ⚙ Settings first.'); return; }
+
+  const btn = e.target;
+  btn.disabled = true;
+  btn.textContent = 'Deleting…';
+
+  try {
+    // 1. Get file SHA and delete
+    const res = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
+      headers: { 'Authorization': `token ${getToken()}` },
+    });
+    if (!res.ok) throw new Error(`Could not find file (${res.status})`);
+    const { sha } = await res.json();
+    const del = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
+      method: 'DELETE',
+      headers: { 'Authorization': `token ${getToken()}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ message: `Delete ${role.company} — ${role.role}`, sha }),
+    });
+    if (!del.ok) throw new Error(`Delete failed (${del.status})`);
+
+    // 2. Remove from pipeline.json
+    const { content: pipeline, sha: pSha } = await ghGet('pipeline.json');
+    pipeline.roles = pipeline.roles.filter(r => r.id !== id);
+    pipeline.last_updated = new Date().toISOString().split('T')[0];
+    await ghPut('pipeline.json', JSON.stringify(pipeline, null, 2),
+      `Delete ${role.company} — ${role.role}`, pSha);
+
+    liveData = pipeline;
+    expandedId = null;
+    buildStats(liveData.roles);
+    renderTable();
+  } catch(err) {
+    alert('Error: ' + err.message);
+    btn.disabled = false;
+    btn.textContent = '🗑 Delete';
   }
 }
 
