@@ -1010,16 +1010,16 @@ function filteredRoles() {
     `var s=window.getSelection().toString().trim();` +
     `var u=encodeURIComponent(location.href);` +
     `var t=encodeURIComponent(document.title);` +
-    `var b=s?encodeURIComponent(s.substring(0,6000)):'';` +
-    `var q='?add=1&source='+u+'&title='+t+(b?'&body='+b:'');` +
+    `var b=s?encodeURIComponent(s.substring(0,8000)):'';` +
+    `var q='#add=1&source='+u+'&title='+t+(b?'&body='+b:'');` +
     `window.open('${base}'+q,'_blank');` +
     `})();`;
   document.getElementById('bookmarklet-link').href = bm;
 })();
 
-// Pre-fill form from URL params (bookmarklet)
+// Pre-fill form from URL fragment (bookmarklet) — fragment never sent to server, no nginx size limit
 (function() {
-  const p = new URLSearchParams(location.search);
+  const p = new URLSearchParams(location.hash.slice(1));
   if (!p.get('add')) return;
   const title = decodeURIComponent(p.get('title') || '');
   // Try to parse "Role - Company" or "Company: Role" patterns
