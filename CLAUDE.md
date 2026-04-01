@@ -61,8 +61,9 @@ Read `resume/base_resume.md` in the context of this specific role and recommend:
 - **Change**: specific rewords, reframes, or additions that would strengthen the match
 - **Overall summary score**: how competitive the current resume is as-is (Strong / Competitive / Needs Work)
 
-Save the full ATS + resume analysis to `job_posts/<company-role>.md` as a new section,
-and commit/push.
+Save the full ATS + resume analysis to `job_posts/<company-role>.md` as a new section.
+Update the role's status to `"progressing"` in `pipeline.json`, the job post frontmatter,
+and the `PIPELINE_DATA` const in `index.html`. Commit and push all changed files.
 
 ### Tailoring a Resume (Step 3 — when user approves changes)
 When asked to produce a tailored resume for a specific role:
