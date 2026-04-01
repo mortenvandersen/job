@@ -1,16 +1,19 @@
 ---
 company: brightwheel
 role: Director, Go-To-Market Strategy & Initiatives
-status: inbox
+status: assessed
 date_saved: 2026-04-01
+date_assessed: 2026-04-01
 source_url: https://www.linkedin.com/jobs/view/4389322436/
+role_fit_score: 4.0
+candidate_fit_score: 3
+recommendation: Yes with flags — apply, frame LEGO consulting as MBB-equivalent
 ---
 
 # brightwheel — Director, Go-To-Market Strategy & Initiatives
 
 ## Job Description
 
-About the job
 Our Mission and Opportunity
 
 Early education is one of the most important determinants of childhood outcomes, a critical support for working families, and a $175B market that remains underserved by modern technology. Brightwheel is the largest, fastest growing, and most loved platform in early ed, trusted by millions of educators and families every day. We are a three-time Cloud 100 company, backed by top investors including Addition, Bessemer, Emerson Collective, Lowercase Capital, Notable Capital, and Mark Cuban.
@@ -29,7 +32,7 @@ You are highly operational and detail-oriented, and are comfortable getting into
 You think in systems, not just tasks—understanding how different parts of a process or workflow interact and how to improve them end-to-end
 You are a strong cross-functional partner, able to influence and align stakeholders across teams without formal authority
 
-What You’ll Do / Scope Of Work
+What You'll Do / Scope Of Work
 
 Take ownership of a critical business motion and transform how it operates end-to-end
 Diagnose what is working, what is not, and where the highest-leverage opportunities exist to improve performance
@@ -40,7 +43,7 @@ Leverage AI and automation to redesign workflows, improve decision-making, and i
 Translate complex problems into clear plans, priorities, and success metrics—and drive execution against them
 Over time, take on additional high-priority business initiatives as needs evolve
 
-What You’ve Done
+What You've Done
 
 8–10+ years of experience, including 2-3 years at a top-tier consulting firm (e.g., McKinsey, Bain, BCG) followed by several years in hands-on operating roles within high-growth environments
 You have applied AI or automation to meaningfully improve a workflow, process, or business outcome, and can clearly articulate what changed and why it mattered
@@ -53,16 +56,43 @@ You have likely worked in BizOps, strategy & operations, chief of staff, growth 
 
 This role may not be the right fit if…
 
-You’ve primarily managed teams or functions, rather than personally leading ambiguous, cross-functional business problems and driving them from strategy through execution
-You haven’t yet had the opportunity to apply AI or automation to meaningfully improve how work gets done, or are less interested in using AI as a core lever for driving business impact
-You’ve focused purely on sales operations, enablement, or support functions without owning end-to-end growth outcomes
+You've primarily managed teams or functions, rather than personally leading ambiguous, cross-functional business problems and driving them from strategy through execution
+You haven't yet had the opportunity to apply AI or automation to meaningfully improve how work gets done, or are less interested in using AI as a core lever for driving business impact
+You've focused purely on sales operations, enablement, or support functions without owning end-to-end growth outcomes
 You prefer well-defined problems and structured environments, rather than creating clarity in ambiguous, 0→1 spaces
 You tend to spend significant time on analysis and planning before acting, rather than testing and iterating quickly
 Your experience is primarily in advisory or strategy roles without direct ownership of execution and results
-You’re motivated by managing large teams or org design, rather than personally driving high-impact initiatives
-
-Brightwheel is committed to creating a diverse and inclusive work environment and is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity, gender expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
-
-Protecting Our Applicants: Please be aware of recruiting scams impersonating Brightwheel. All legitimate communications come from @mybrightwheel.com addresses, and we never ask for payment or sensitive personal data as part of our hiring process. If you suspect fraudulent contact, reach out to security@mybrightwheel.com. Thank you for helping us keep our applicant community safe.
+You're motivated by managing large teams or org design, rather than personally driving high-impact initiatives
 
 Compensation Range: $195K - $244K
+
+---
+
+## Fit Assessment
+
+**Deal-breakers**: None. Comp range starts at $195K (below floor) but ceiling is $244K — range straddles the floor, not an automatic disqualifier.
+
+| Dimension | Score | Notes |
+|---|---|---|
+| A. Role Type | 4/5 | Core BizOps/StratOps/GTM strategy — JD explicitly lists relevant backgrounds. Leans operational (transform a business motion end-to-end) but strategic mandate is real. |
+| B. Industry | 5/5 | Tier 1 EdTech — early childhood education platform. Largest in market, mission-driven. |
+| C. Company Stage | 5/5 | Growth-stage, VC-backed (Addition, Bessemer, etc.), 3x Cloud 100, distributed team. Textbook sweet spot. |
+| D. Scope & Seniority | 3/5 | Director title but scope is owning a specific business motion transformation, not a P&L or business unit. More high-impact IC/small-team than GM-type scope. Initial scope narrower but "over time, take on additional high-priority initiatives" suggests growth. |
+| E. Compensation | 3/5 | $195K–$244K. Floor of range below $200K hard floor — risk of landing under. No explicit equity mention (but VC-backed likely includes it). |
+
+**Role Fit Score**: 4.0 / 5 — Yes with flags
+**Candidate Fit Score**: 3 / 5 — Moderate — Meets core operating requirements but lacks MBB consulting background (2-3 years at McKinsey/Bain/BCG explicitly required).
+**Recommendation**: Yes with flags — apply, but frame LEGO consulting + operating experience as MBB-equivalent. EdTech Tier 1 industry makes this worth pursuing despite gaps.
+
+**Trajectory value**: Mixed. Builds operational excellence toolkit and EdTech network, but the initial scope (transforming a single business motion) is narrower than GM-track roles. Could expand if brightwheel uses this as a proving ground for broader ownership.
+
+**Gaps & flags**:
+- 🔴 MBB consulting requirement: "2-3 years at a top-tier consulting firm (e.g., McKinsey, Bain, BCG)" — Morten's consulting was at LEGO and Voluntas, not MBB. Hard screening filter.
+- 🟡 AI/automation track record: JD emphasizes this heavily. Resume mentions company-wide AI initiatives but doesn't have a deep AI transformation narrative.
+- 🟡 Comp floor risk: $195K bottom of range is below the $200K hard floor. Need to negotiate above floor.
+
+**Strongest angles — what to emphasize if applying**:
+- Direct EdTech experience at Labster — rare for strategy candidates, and brightwheel is mission-first
+- GTM transformation: drove shift toward profitable core operations, simplified GTM, improved LTV:CAC — maps directly to this role
+- Cross-functional operator who built operating rhythms, OKRs, QBRs — exactly the "systems thinking" they want
+- Strategy-to-execution range: LEGO consulting → Labster operating roles shows the arc they're seeking
