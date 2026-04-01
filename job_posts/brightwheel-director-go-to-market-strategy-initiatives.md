@@ -96,3 +96,60 @@ Compensation Range: $195K - $244K
 - GTM transformation: drove shift toward profitable core operations, simplified GTM, improved LTV:CAC — maps directly to this role
 - Cross-functional operator who built operating rhythms, OKRs, QBRs — exactly the "systems thinking" they want
 - Strategy-to-execution range: LEGO consulting → Labster operating roles shows the arc they're seeking
+
+---
+
+## ATS & Resume Analysis
+
+### Part A — ATS Keyword Analysis
+
+**Must-Have Keywords**
+
+| Keyword / Phrase | Status | Notes |
+|---|---|---|
+| Top-tier consulting firm (McKinsey, Bain, BCG) | ❌ Missing | LEGO "Strategy and Management Consultant" is not MBB — single biggest ATS/screening risk |
+| 8–10+ years experience | ✅ Present | 10+ years clearly demonstrated (2016–present) |
+| AI / automation to improve workflows | 〜 Partial | "Roll out of company wide AI initiatives" — no specifics on what changed or impact |
+| High-growth environment | ✅ Present | Labster is VC-backed, high-growth EdTech |
+| BizOps / Strategy & Operations | ✅ Present | Multiple roles map: Head of Strategy, VP of Strategy |
+| Cross-functional leadership | ✅ Present | Explicit throughout resume |
+| Go-to-market (GTM) | ✅ Present | "Improved GTM efficiency", "signed GTM partners" |
+| End-to-end problem ownership | ✅ Present | P&L ownership, strategy-through-execution narrative |
+| Process / system transformation | 〜 Partial | Restructured, rebuilt, transformed — but not framed as process redesign |
+| Structured experimentation / iteration | ❌ Missing | No experimentation or iterative testing language |
+| Partner with Sales, Marketing, Operations | 〜 Partial | Cross-functional present but Sales/Marketing not called out |
+| Success metrics / KPIs | 〜 Partial | OKRs and QBRs mentioned, "success metrics" framing absent |
+| Chief of Staff | ✅ Present | Explicitly held this title at LEGO |
+| Growth strategy | ✅ Present | Market pivots, new market entry, GTM efficiency |
+| Hands-on execution + strategic thinking | ✅ Present | Throughout resume |
+
+**Nice-to-Have Keywords**
+
+| Keyword / Phrase | Status | Notes |
+|---|---|---|
+| Tooling / workflow design | ❌ Missing | No language around tooling or workflow optimization |
+| Scalable processes | 〜 Partial | "Scalable business" but not "scalable processes" |
+| Speed / rapid iteration | ❌ Missing | No language signaling pace or iteration speed |
+| Data-driven decision making | 〜 Partial | Data org restructuring but not framed as personal working style |
+
+### Part B — Resume Assessment
+
+**Emphasize more**:
+- GTM transformation at Labster (LTV:CAC improvement, cash burn reduction) — strongest signal for this role, currently buried
+- Chief of Staff experience — JD explicitly names CoS as relevant background, currently a sub-bullet
+- AI initiatives — expand with specifics: what was implemented, what changed, measurable impact
+- Operating rhythms / systems thinking — reframe "OKRs, QBRs" as end-to-end system design
+
+**Emphasize less**:
+- M&A / fundraising details (Series C, UbiSim acquisition, LEGO Ventures investments) — low-relevance for this ops/GTM role. Keep but compress.
+- Board-level communications / investor relations — seniority signal but not the day-to-day
+- Voluntas Advisory / Lind Invest — early roles add little for this application
+
+**Change**:
+- Reframe LEGO consulting: make the consulting nature unmistakable — lead with "delivered strategy engagements including US commercial turnaround"
+- Add experimentation / iteration language: JD emphasizes "testing and iterating quickly" — resume has zero here
+- Add specific AI examples: concrete tools, processes changed, measurable outcomes
+- Add "systems thinking" framing: rewrite operating rhythms bullet to show end-to-end process design
+- Add Sales/Marketing partnership language: name these functions explicitly instead of generic "cross-functional"
+
+**Overall summary score**: **Competitive** — The resume tells a strong strategy-to-operations story that maps well. Core gap isn't experience, it's framing. MBB can't be manufactured, but resume can emphasize the consulting-to-operator arc, GTM transformation, and systems thinking. AI/automation is the weakest area and needs new content.
