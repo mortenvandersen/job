@@ -2,6 +2,24 @@
   "last_updated": "2026-04-01",
   "roles": [
     {
+      "id": "axogen-vp-planning-and-business-development",
+      "company": "axogen",
+      "role": "VP, Planning and Business Development",
+      "location": "Remote",
+      "comp_range": "",
+      "date_saved": "2026-04-01",
+      "date_assessed": null,
+      "source_url": "https://www.linkedin.com/jobs/view/4385473894/",
+      "status": "inbox",
+      "weighted_score": null,
+      "recommendation": null,
+      "file": "job_posts/inbox/axogen-vp-planning-and-business-development.md",
+      "summary_note": "",
+      "gaps": [],
+      "strongest_angles": [],
+      "status_notes": ""
+    },
+    {
       "id": "discord-director-corporate-development",
       "company": "Discord",
       "role": "Director of Corporate Development",
