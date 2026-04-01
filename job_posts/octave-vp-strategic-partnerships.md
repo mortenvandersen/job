@@ -4,7 +4,8 @@ role: VP of Strategic Partnerships
 status: reviewing
 date_assessed: 2026-03-31
 source_url:
-weighted_score: 4.05
+role_fit_score: 4.05
+candidate_fit_score: 4
 recommendation: Yes with flags
 ---
 
@@ -65,7 +66,9 @@ The VP of Strategic Partnerships is an entrepreneurial and experienced leader th
 | D. Scope & Seniority | 5/5 | VP level, owns a full business line/venture end-to-end, people management, external partner accountability — essentially a GM role |
 | E. Compensation | 4/5 | $238–270K (CA) + equity + bonus — comfortably above floor |
 
-**Weighted Score**: 4.05 / 5 — **Yes with flags**
+**Role Fit Score**: 4.05 / 5 — **Yes with flags**
+**Candidate Fit Score**: 4 / 5 — Strong. JD is vague enough that requirements are loose. GM/partnership/P&L background maps well. Healthcare preference is soft. Only gaps are yellow flags, not hard requirements.
+**Recommendation**: Apply — verify location first
 
 **Trajectory value**: Strong for the GM track despite the industry. Real P&L-adjacent ownership of a business line at VP level — closer to the dream role structure than most corp dev positions. Healthcare context is unfamiliar but the operating model maps well.
 

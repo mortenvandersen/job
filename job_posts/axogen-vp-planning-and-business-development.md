@@ -5,8 +5,9 @@ status: assessed
 date_saved: 2026-04-01
 date_assessed: 2026-04-01
 source_url: https://www.linkedin.com/jobs/view/4385473894/
-weighted_score: 4.3
-recommendation: Yes with flags
+role_fit_score: 4.3
+candidate_fit_score: 2
+recommendation: Yes with flags — referral only
 ---
 
 # Axogen — VP, Planning and Business Development
@@ -107,7 +108,9 @@ $366,000—$412,000 USD
 | D. Scope & Seniority | 5/5 | Executive Team member, direct report to CEO. Owns the enterprise strategy cycle AND leads M&A end-to-end including board-level approvals and negotiations. Real seat at the table with genuine ownership. |
 | E. Compensation | 5/5 | $366–412K base + annual bonus + ESPP. Total comp likely $450K+. Highest comp of any role reviewed so far — well clear of the $200K floor. |
 
-**Weighted Score**: (5×0.30) + (3×0.20) + (3×0.15) + (5×0.20) + (5×0.15) = 1.50 + 0.60 + 0.45 + 1.00 + 0.75 = **4.30 / 5 — Yes with flags**
+**Role Fit Score**: (5×0.30) + (3×0.20) + (3×0.15) + (5×0.20) + (5×0.15) = 1.50 + 0.60 + 0.45 + 1.00 + 0.75 = **4.30 / 5 — Yes with flags**
+**Candidate Fit Score**: 2 / 5 — Weak. Two hard requirements not met: BS in Life Sciences/Engineering (minimum, not preferred) and 10 years medtech senior leadership. Both are likely enforced at ATS/recruiter screen. Cold application very unlikely to pass.
+**Recommendation**: Referral only — do not cold apply
 
 **Trajectory value**: High. VP on Executive Team reporting to CEO at a public company is a strong executive credential regardless of industry. The combination of enterprise strategy ownership and M&A deal execution is exactly the toolkit for a future GM or CEO role. The risk is spending 3–5 years in niche medtech (peripheral nerve repair) that doesn't map obviously to the next chapter — particularly if the goal is to stay in tech or EdTech.
 

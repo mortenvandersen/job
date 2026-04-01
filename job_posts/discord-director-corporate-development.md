@@ -4,7 +4,8 @@ role: Director of Corporate Development
 status: reviewing
 date_assessed: 2026-03-31
 source_url: https://www.linkedin.com/jobs/view/4391203404/
-weighted_score: 4.45
+role_fit_score: 4.45
+candidate_fit_score: 3
 recommendation: Strong Yes
 ---
 
@@ -65,7 +66,9 @@ The US base salary range for this full-time position is $280,000 to $315,000 + e
 | D. Scope & Seniority | 4/5 | Owns the M&A engine, reports to VP Corp Strategy — senior IC, no explicit team |
 | E. Compensation | 5/5 | $280–315K base + equity — well above floor |
 
-**Weighted Score**: 4.45 / 5 — **Strong Yes**
+**Role Fit Score**: 4.45 / 5 — **Strong Yes**
+**Candidate Fit Score**: 3 / 5 — Moderate. Meets seniority and strategic profile. Gaps on deal count (5+ closed M&A incl. 2 >$50M) and financial modeling depth (DCF/LBO) are real but bridgeable with strong framing. Warm intro strongly recommended.
+**Recommendation**: Apply — via referral or warm intro preferred
 
 **Trajectory value**: Strong for the corp dev path. Excellent brand name and deal volume. Less direct GM/P&L track, but builds the transaction toolkit meaningfully.
 

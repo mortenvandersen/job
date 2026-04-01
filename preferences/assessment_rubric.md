@@ -109,22 +109,60 @@ P&L, new industry) or reinforcing existing strengths only?
 
 ---
 
-## Step 3 — Weighted Score Calculation
+## Step 3 — Role Fit Score (weighted)
+
+This score measures how well the role aligns with Morten's goals, preferences, and career direction.
 
 ```
-Score = (A × 0.30) + (B × 0.20) + (C × 0.15) + (D × 0.20) + (E × 0.15)
+Role Fit Score = (A × 0.30) + (B × 0.20) + (C × 0.15) + (D × 0.20) + (E × 0.15)
 ```
 
-| Overall Score | Recommendation |
+| Role Fit Score | Signal |
 |---|---|
 | 4.5 – 5.0 | **Strong Yes** — prioritize, tailor carefully |
-| 3.5 – 4.4 | **Yes with flags** — apply, but note what to probe in interviews |
+| 3.5 – 4.4 | **Yes with flags** — pursue, but note what to probe in interviews |
 | 2.5 – 3.4 | **Marginal** — only if pipeline is thin or industry is Tier 1 EdTech |
-| Below 2.5 | **No** — not worth the effort |
+| Below 2.5 | **No** — not worth the effort regardless of candidate fit |
 
 ---
 
-## Step 4 — Assessment Output Format
+## Step 4 — Candidate Fit Score (1–5)
+
+This score measures how well Morten's background matches what the role requires. Assessed independently from role fit — a role can be a great fit for Morten but a poor fit for his profile on paper, or vice versa.
+
+| Score | Description |
+|---|---|
+| 5 | Meets all stated requirements including hard requirements. Resume passes ATS cleanly. Hiring manager sees a near-perfect match on paper. |
+| 4 | Meets all hard requirements. One or two soft/preferred qualifications missing or partial. Strong application with minor framing work needed. |
+| 3 | Meets core requirements but has one meaningful gap recruiters will notice — e.g. industry experience, specific credential, deal count. Passable but needs strong framing or warm introduction. |
+| 2 | Missing one hard requirement that is likely to be enforced at screening (specific industry years, required degree type, specific credential). Will typically be filtered without a referral. |
+| 1 | Missing multiple hard requirements. Only viable with extraordinary access (direct C-suite connection, etc.). |
+
+**What to assess for candidate fit:**
+- Does he meet the experience level and years-of-experience requirements?
+- Does he have the required domain/industry background (or a strong adjacent case)?
+- Are there credential requirements (specific degree, certification) he doesn't meet?
+- Does his functional background match what the role actually needs day-to-day?
+- Would a standard ATS or recruiter screen pass his resume?
+
+---
+
+## Step 5 — Recommendation
+
+The recommendation is a holistic judgment that takes **both scores** into account:
+
+| Role Fit | Candidate Fit | Likely recommendation |
+|---|---|---|
+| High (4.5+) | High (4–5) | Strong Yes — apply immediately |
+| High (4.5+) | Moderate (3) | Yes — apply with strong framing or warm intro |
+| High (4.5+) | Low (1–2) | Referral only — cold apply is unlikely to clear screening |
+| Moderate (3.5–4.4) | High (4–5) | Yes with flags — strong application, but role has concerns |
+| Moderate (3.5–4.4) | Moderate (3) | Conditional — only if pipeline is thin |
+| Low (<3.5) | Any | Marginal or No |
+
+---
+
+## Step 6 — Assessment Output Format
 
 When assessing a job post, always produce every section below in this order:
 
@@ -141,7 +179,9 @@ When assessing a job post, always produce every section below in this order:
 | D. Scope & Seniority | X/5 | ... |
 | E. Compensation | X/5 | ... |
 
-**Weighted Score**: X.X / 5 — [Strong Yes / Yes with flags / Marginal / No]
+**Role Fit Score**: X.X / 5 — [Strong Yes / Yes with flags / Marginal / No]
+**Candidate Fit Score**: X / 5 — [Excellent / Strong / Moderate / Weak / Poor]
+**Recommendation**: [Holistic call combining both scores — e.g. "Apply via referral", "Strong Yes — apply immediately", "Referral only", "Skip"]
 
 **Trajectory value**: [Does this role move toward GM/CEO track, build new toolkit,
 or is it lateral? Be specific.]

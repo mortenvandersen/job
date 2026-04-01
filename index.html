@@ -734,7 +734,7 @@
           <th data-col="company">Company / Role</th>
           <th data-col="location" class="hide-mobile">Location</th>
           <th data-col="comp_range" class="hide-mobile">Comp</th>
-          <th data-col="weighted_score">Score</th>
+          <th data-col="role_fit_score">Scores</th>
           <th data-col="recommendation">Fit</th>
           <th data-col="status">Status</th>
           <th data-col="date_saved" class="hide-mobile">Saved</th>
@@ -748,7 +748,7 @@
 
 <script>
 // ── DATA — updated automatically by Claude Code ──────────────────────────────
-const PIPELINE_DATA = {"last_updated":"2026-04-01","roles":[{"id":"axogen-vp-planning-and-business-development","company":"Axogen","role":"VP, Planning and Business Development","location":"Remote","comp_range":"$366\u2013412K + bonus","date_saved":"2026-04-01","date_assessed":"2026-04-01","source_url":"https://www.linkedin.com/jobs/view/4385473894/","status":"assessed","weighted_score":4.3,"recommendation":"Yes with flags","file":"job_posts/axogen-vp-planning-and-business-development.md","summary_note":"Corp Strategy + Corp Dev VP reporting to CEO at a public medtech company. Exceptional comp but medical device industry experience required.","gaps":["\ud83d\udd34 10 years medical device / biotech senior leadership \u2014 zero medtech background, ATS risk","\ud83d\udd34 BS in Life Sciences or Engineering required \u2014 business background won\u2019t satisfy this","\ud83d\udfe1 Advanced degree (MD/PhD) preferred \u2014 signals clinical leadership culture","\ud83d\udfe1 50% travel requirement \u2014 significant, flag for discussion"],"strongest_angles":["Currently leading Labster divestiture \u2014 live M\u0026A sell-side process","LEGO Ventures: 5 early-stage investments end-to-end, buy-side diligence","Led $100M Series C \u0026 C+ \u2014 transaction structuring and buy-side relationships","VP/GM with CEO-level relationships and P\u0026L ownership \u2014 not just a strategy advisor"],"status_notes":"Referral or direct outreach strongly recommended \u2014 medical device requirement likely filters cold applications"},{"id":"discord-director-corporate-development","company":"Discord","role":"Director of Corporate Development","location":"Remote / SF optional","comp_range":"$280\u2013315K + equity","date_saved":"2026-03-31","date_assessed":"2026-03-31","source_url":"https://www.linkedin.com/jobs/view/4391203404/","status":"assessed","weighted_score":4.45,"recommendation":"Strong Yes","file":"job_posts/discord-director-corporate-development.md","summary_note":"Full M\u0026A lifecycle role at major consumer tech/gaming platform. C-suite access, remote-friendly, strong comp.","gaps":["\ud83d\udd34 5+ closed M\u0026A deals incl. 2 >$50M \u2014 deal count may not meet traditional IB/PE bar","\ud83d\udd34 Financial modeling depth (DCF, LBO) \u2014 implies banking background","\ud83d\udfe1 Gaming/digital media fluency \u2014 EdTech is adjacent but not the same"],"strongest_angles":["LEGO Ventures: lead on 5 early-stage investments end-to-end","Currently leading Labster divestiture (live sell-side process)","Led $100M Series C & C+ fundraises \u2014 buy-side relationships and deal structuring","Cross-functional exec: ran strategy, ops, and P\u0026L \u2014 not just a deal person"],"status_notes":""},{"id":"octave-vp-strategic-partnerships","company":"Octave","role":"VP of Strategic Partnerships","location":"Remote (location TBC \u2014 verify)","comp_range":"$238\u2013270K + equity + bonus (CA)","date_saved":"2026-03-31","date_assessed":"2026-03-31","source_url":"","status":"assessed","weighted_score":4.05,"recommendation":"Yes with flags","file":"job_posts/octave-vp-strategic-partnerships.md","summary_note":"GM-type role owning a business line at a behavioral health startup. Strong scope but vague JD and location unconfirmed.","gaps":["\ud83d\udfe1 Healthcare industry experience preferred \u2014 EdTech is mission-adjacent but different","\ud83d\udfe1 JD is unusually vague about the actual venture and external partner","\ud83d\udfe1 Location unconfirmed \u2014 verify before investing time","\ud83d\udfe1 Labster 'scaling' story needs careful framing (450\u2192150 headcount)"],"strongest_angles":["UbiSim GM role is the direct analogue \u2014 business line ownership, 40% growth, external partners","Cross-functional leadership across product, GTM, ops at Labster","VP/SVP level + 5+ years people management ticks seniority bar","Mission-driven background (EdTech) signals genuine fit with purpose-led orgs"],"status_notes":"Verify location before applying"}]};
+const PIPELINE_DATA = {"last_updated":"2026-04-01","roles":[{"id":"axogen-vp-planning-and-business-development","company":"Axogen","role":"VP, Planning and Business Development","location":"Remote","comp_range":"$366\u2013412K + bonus","date_saved":"2026-04-01","date_assessed":"2026-04-01","source_url":"https://www.linkedin.com/jobs/view/4385473894/","status":"assessed","role_fit_score":4.3,"candidate_fit_score":2,"recommendation":"Yes with flags \u2014 referral only","file":"job_posts/axogen-vp-planning-and-business-development.md","summary_note":"Corp Strategy + Corp Dev VP reporting to CEO at a public medtech company. Exceptional comp but medical device industry experience required.","gaps":["\ud83d\udd34 10 years medical device / biotech senior leadership \u2014 zero medtech background, ATS risk","\ud83d\udd34 BS in Life Sciences or Engineering required \u2014 business background won\u2019t satisfy this","\ud83d\udfe1 Advanced degree (MD/PhD) preferred \u2014 signals clinical leadership culture","\ud83d\udfe1 50% travel requirement \u2014 significant, flag for discussion"],"strongest_angles":["Currently leading Labster divestiture \u2014 live M\u0026A sell-side process","LEGO Ventures: 5 early-stage investments end-to-end, buy-side diligence","Led $100M Series C \u0026 C+ \u2014 transaction structuring and buy-side relationships","VP/GM with CEO-level relationships and P\u0026L ownership \u2014 not just a strategy advisor"],"status_notes":"Referral or direct outreach strongly recommended \u2014 medical device requirement likely filters cold applications"},{"id":"discord-director-corporate-development","company":"Discord","role":"Director of Corporate Development","location":"Remote / SF optional","comp_range":"$280\u2013315K + equity","date_saved":"2026-03-31","date_assessed":"2026-03-31","source_url":"https://www.linkedin.com/jobs/view/4391203404/","status":"assessed","role_fit_score":4.45,"candidate_fit_score":3,"recommendation":"Apply \u2014 via referral or warm intro preferred","file":"job_posts/discord-director-corporate-development.md","summary_note":"Full M\u0026A lifecycle role at major consumer tech/gaming platform. C-suite access, remote-friendly, strong comp.","gaps":["\ud83d\udd34 5+ closed M\u0026A deals incl. 2 >$50M \u2014 deal count may not meet traditional IB/PE bar","\ud83d\udd34 Financial modeling depth (DCF, LBO) \u2014 implies banking background","\ud83d\udfe1 Gaming/digital media fluency \u2014 EdTech is adjacent but not the same"],"strongest_angles":["LEGO Ventures: lead on 5 early-stage investments end-to-end","Currently leading Labster divestiture (live sell-side process)","Led $100M Series C & C+ fundraises \u2014 buy-side relationships and deal structuring","Cross-functional exec: ran strategy, ops, and P\u0026L \u2014 not just a deal person"],"status_notes":""},{"id":"octave-vp-strategic-partnerships","company":"Octave","role":"VP of Strategic Partnerships","location":"Remote (location TBC \u2014 verify)","comp_range":"$238\u2013270K + equity + bonus (CA)","date_saved":"2026-03-31","date_assessed":"2026-03-31","source_url":"","status":"assessed","role_fit_score":4.05,"candidate_fit_score":4,"recommendation":"Apply \u2014 verify location first","file":"job_posts/octave-vp-strategic-partnerships.md","summary_note":"GM-type role owning a business line at a behavioral health startup. Strong scope but vague JD and location unconfirmed.","gaps":["\ud83d\udfe1 Healthcare industry experience preferred \u2014 EdTech is mission-adjacent but different","\ud83d\udfe1 JD is unusually vague about the actual venture and external partner","\ud83d\udfe1 Location unconfirmed \u2014 verify before investing time","\ud83d\udfe1 Labster 'scaling' story needs careful framing (450\u2192150 headcount)"],"strongest_angles":["UbiSim GM role is the direct analogue \u2014 business line ownership, 40% growth, external partners","Cross-functional leadership across product, GTM, ops at Labster","VP/SVP level + 5+ years people management ticks seniority bar","Mission-driven background (EdTech) signals genuine fit with purpose-led orgs"],"status_notes":"Verify location before applying"}]};
 // ─────────────────────────────────────────────────────────────────────────────
 
 const REPO_BASE = 'https://github.com/mortenvandersen/job/blob/main/';
@@ -835,16 +835,15 @@ function renderTable() {
   const roles = filteredRoles();
 
   if (!roles.length) {
-    tbody.innerHTML = `<tr><td colspan="8"><div class="empty-state"><p>No roles in this category yet.</p></div></td></tr>`;
+    tbody.innerHTML = `<tr><td colspan="9"><div class="empty-state"><p>No roles in this category yet.</p></div></td></tr>`;
     return;
   }
 
   tbody.innerHTML = '';
   roles.forEach(role => {
     const isExpanded = expandedId === role.id;
-    const scoreStr = role.weighted_score ? role.weighted_score.toFixed(2) : '—';
-    const scoreBarW = role.weighted_score ? (role.weighted_score / 5 * 100).toFixed(0) : 0;
-    const color = scoreColor(role.weighted_score);
+    const rfScore = role.role_fit_score;
+    const cfScore = role.candidate_fit_score;
 
     // Main row
     const tr = document.createElement('tr');
@@ -861,10 +860,20 @@ function renderTable() {
       <td class="hide-mobile"><span class="location-text">${role.location || '—'}</span></td>
       <td class="hide-mobile"><span class="comp-text">${role.comp_range || '—'}</span></td>
       <td class="score-cell">
-        ${role.weighted_score ? `
-          <div class="score-badge" style="color:${color}">${scoreStr}</div>
-          <div class="score-bar-wrap">
-            <div class="score-bar" style="width:${scoreBarW}%;background:${color}"></div>
+        ${rfScore || cfScore ? `
+          <div style="display:flex;flex-direction:column;gap:5px">
+            ${rfScore ? `
+              <div style="display:flex;align-items:center;gap:5px">
+                <span style="font-size:10px;color:var(--text-muted);width:26px;flex-shrink:0">Role</span>
+                <span style="font-weight:700;font-size:13px;color:${scoreColor(rfScore)}">${rfScore.toFixed(1)}</span>
+                <div class="score-bar-wrap"><div class="score-bar" style="width:${(rfScore/5*100).toFixed(0)}%;background:${scoreColor(rfScore)}"></div></div>
+              </div>` : ''}
+            ${cfScore ? `
+              <div style="display:flex;align-items:center;gap:5px">
+                <span style="font-size:10px;color:var(--text-muted);width:26px;flex-shrink:0">Cand</span>
+                <span style="font-weight:700;font-size:13px;color:${scoreColor(cfScore)}">${cfScore.toFixed(1)}</span>
+                <div class="score-bar-wrap"><div class="score-bar" style="width:${(cfScore/5*100).toFixed(0)}%;background:${scoreColor(cfScore)}"></div></div>
+              </div>` : ''}
           </div>` : '<span style="color:#9ca3af;font-size:12px">—</span>'}
       </td>
       <td>
@@ -906,8 +915,12 @@ function renderTable() {
             </ul>
           </div>
           <div class="detail-section">
-            <h4>Assessment Date</h4>
-            <p>${role.date_assessed ? fmtDate(role.date_assessed) : 'Not yet assessed'}</p>
+            <h4>Scores</h4>
+            <p style="font-size:12px;line-height:2">
+              ${role.role_fit_score ? `<strong style="color:${scoreColor(role.role_fit_score)}">Role fit: ${role.role_fit_score.toFixed(1)}/5</strong><br>` : ''}
+              ${role.candidate_fit_score ? `<strong style="color:${scoreColor(role.candidate_fit_score)}">Candidate fit: ${role.candidate_fit_score.toFixed(1)}/5</strong><br>` : ''}
+              ${role.date_assessed ? `<span style="color:var(--text-muted)">Assessed ${fmtDate(role.date_assessed)}</span>` : '<span style="color:var(--text-muted)">Not yet assessed</span>'}
+            </p>
           </div>
           <div class="detail-footer">
             ${role.source_url ? `<a href="${role.source_url}" target="_blank">↗ View Job Post</a>` : ''}
@@ -1158,7 +1171,8 @@ async function submitInbox() {
       date_assessed: null,
       source_url: url || '',
       status: 'inbox',
-      weighted_score: null,
+      role_fit_score: null,
+      candidate_fit_score: null,
       recommendation: null,
       file: `job_posts/inbox/${slug}.md`,
       summary_note: '',
@@ -1378,8 +1392,9 @@ Output your response in EXACTLY this format — no other text before or after:
 
 <JSON>
 {
-  "weighted_score": <number 1.0–5.0, one decimal place>,
-  "recommendation": "<Strong Yes | Yes with flags | Marginal | No>",
+  "role_fit_score": <number 1.0–5.0, one decimal — how well the role matches the candidate's goals>,
+  "candidate_fit_score": <integer 1–5 — how well the candidate's background matches the role's requirements>,
+  "recommendation": "<e.g. Strong Yes | Apply via referral | Referral only | Skip>",
   "summary_note": "<one concise sentence describing the role and its main appeal or concern>",
   "comp_range": "<compensation range if stated in the JD, otherwise empty string>",
   "gaps": ["<gap or flag 1>", "<gap or flag 2>"],
@@ -1387,7 +1402,7 @@ Output your response in EXACTLY this format — no other text before or after:
 }
 </JSON>
 <ASSESSMENT>
-[Full assessment following exactly the mandatory output format from the rubric, with all sections: Deal-breaker Check, Dimension Scores, Weighted Score, Recommendation, Gaps & Flags, Strongest Angles]
+[Full assessment following exactly the mandatory output format from the rubric, with all sections: Deal-breaker Check, Dimension Scores, Role Fit Score, Candidate Fit Score, Recommendation, Gaps & Flags, Strongest Angles]
 </ASSESSMENT>`;
 }
 
@@ -1413,7 +1428,8 @@ function buildAssessedFile(role, rawJd, assessmentText, today, structured) {
     `date_saved: ${role.date_saved || today}`,
     `date_assessed: ${today}`,
     `source_url: ${role.source_url || ''}`,
-    `weighted_score: ${structured.weighted_score || ''}`,
+    `role_fit_score: ${structured.role_fit_score || ''}`,
+    `candidate_fit_score: ${structured.candidate_fit_score || ''}`,
     `recommendation: ${structured.recommendation || ''}`,
     '---',
     '',
@@ -1455,7 +1471,7 @@ async function assessRole(e, id) {
 
     logStep('Parsing assessment…');
     const { structured, fullText } = parseAssessment(rawResponse);
-    if (!structured.weighted_score) throw new Error('Could not parse Claude output — try again.');
+    if (!structured.role_fit_score) throw new Error('Could not parse Claude output — try again.');
 
     logStep('Saving assessment file…');
     const today = new Date().toISOString().split('T')[0];
@@ -1480,10 +1496,11 @@ async function assessRole(e, id) {
     const idx = pipeline.roles.findIndex(r => r.id === id);
     const updated = {
       ...(idx >= 0 ? pipeline.roles[idx] : { id, company: role.company, role: role.role }),
-      status:           'assessed',
-      date_assessed:    today,
-      weighted_score:   structured.weighted_score,
-      recommendation:   structured.recommendation,
+      status:              'assessed',
+      date_assessed:       today,
+      role_fit_score:      structured.role_fit_score,
+      candidate_fit_score: structured.candidate_fit_score,
+      recommendation:      structured.recommendation,
       summary_note:     structured.summary_note  || '',
       comp_range:       structured.comp_range     || role.comp_range || '',
       gaps:             structured.gaps           || [],

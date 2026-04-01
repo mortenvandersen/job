@@ -4,7 +4,8 @@ role:
 status: reviewing
 date_assessed:
 source_url:
-weighted_score:
+role_fit_score:
+candidate_fit_score:
 recommendation:
 ---
 
@@ -28,7 +29,9 @@ recommendation:
 | D. Scope & Seniority | X/5 | ... |
 | E. Compensation | X/5 | ... |
 
-**Weighted Score**: X.X / 5 — [Strong Yes / Yes with flags / Marginal / No]
+**Role Fit Score**: X.X / 5 — [Strong Yes / Yes with flags / Marginal / No]
+**Candidate Fit Score**: X / 5 — [Excellent / Strong / Moderate / Weak / Poor] — [one sentence rationale]
+**Recommendation**: [Holistic call]
 
 **Trajectory value**: ...
 
