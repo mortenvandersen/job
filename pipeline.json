@@ -2,6 +2,25 @@
   "last_updated": "2026-04-01",
   "roles": [
     {
+      "id": "test-ttt",
+      "company": "test",
+      "role": "ttt",
+      "location": "",
+      "comp_range": "",
+      "date_saved": "2026-04-01",
+      "date_assessed": null,
+      "source_url": "",
+      "status": "inbox",
+      "role_fit_score": null,
+      "candidate_fit_score": null,
+      "recommendation": null,
+      "file": "job_posts/inbox/test-ttt.md",
+      "summary_note": "",
+      "gaps": [],
+      "strongest_angles": [],
+      "status_notes": ""
+    },
+    {
       "id": "brightwheel-director-go-to-market-strategy-initiatives",
       "company": "brightwheel",
       "role": "Director, Go-To-Market Strategy & Initiatives",
