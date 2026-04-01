@@ -339,7 +339,6 @@
     font-weight: 600;
     color: var(--red);
     cursor: pointer;
-    margin-left: auto;
   }
   .btn-danger:hover { background: var(--red-light); }
 
@@ -943,8 +942,10 @@ function renderTable() {
             ${role.file ? `<a href="${REPO_BASE}${role.file}" target="_blank">↗ Full Assessment File</a>` : ''}
             ${role.status_notes ? `<span class="status-notes">⚠ ${role.status_notes}</span>` : ''}
             ${role.status === 'inbox' ? `<button class="btn-assess" onclick="assessRole(event,'${role.id}')">⚡ Assess this role</button>` : ''}
-            ${'inbox,assessed,progressing'.includes(role.status) ? `<button class="btn-archive" onclick="archiveRole(event,'${role.id}')">📦 Archive</button>` : ''}
-            <button class="btn-danger" onclick="deleteRole(event,'${role.id}')">🗑 Delete</button>
+            <div style="margin-left:auto;display:flex;gap:8px">
+              ${'inbox,assessed,progressing'.includes(role.status) ? `<button class="btn-archive" onclick="archiveRole(event,'${role.id}')">📦 Archive</button>` : ''}
+              <button class="btn-danger" onclick="deleteRole(event,'${role.id}')">🗑 Delete</button>
+            </div>
           </div>
         </div>
       </td>`;
