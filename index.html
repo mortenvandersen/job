@@ -1019,23 +1019,26 @@ function filteredRoles() {
 
 // Pre-fill form from URL fragment (bookmarklet) — fragment never sent to server, no nginx size limit
 (function() {
-  const p = new URLSearchParams(location.hash.slice(1));
-  if (!p.get('add')) return;
-  const title = decodeURIComponent(p.get('title') || '');
-  // Try to parse "Role - Company" or "Company: Role" patterns
-  let company = '', role = '';
-  const m1 = title.match(/^(.+?)\s+[-–|]\s+(.+)$/);
-  if (m1) { role = m1[1].trim(); company = m1[2].trim(); }
-  document.getElementById('f-url').value      = decodeURIComponent(p.get('source') || '');
-  document.getElementById('f-company').value  = company;
-  document.getElementById('f-role').value     = role;
-  document.getElementById('f-jd').value       = decodeURIComponent(p.get('body') || '');
-  // Clean URL then open modal
-  history.replaceState({}, '', location.pathname);
-  openAddModal();
-  if (!company) document.getElementById('f-company').focus();
-  else if (!role) document.getElementById('f-role').focus();
-  else document.getElementById('f-jd').focus();
+  try {
+    const p = new URLSearchParams(location.hash.slice(1));
+    if (!p.get('add')) return;
+    // URLSearchParams.get() already decodes — no extra decodeURIComponent needed
+    const source = p.get('source') || '';
+    const title  = p.get('title')  || '';
+    const body   = p.get('body')   || '';
+    let company = '', role = '';
+    const m1 = title.match(/^(.+?)\s+[-–|]\s+(.+)$/);
+    if (m1) { role = m1[1].trim(); company = m1[2].trim(); }
+    document.getElementById('f-url').value     = source;
+    document.getElementById('f-company').value = company;
+    document.getElementById('f-role').value    = role;
+    document.getElementById('f-jd').value      = body;
+    history.replaceState({}, '', location.pathname);
+    openAddModal();
+    if (!company) document.getElementById('f-company').focus();
+    else if (!role) document.getElementById('f-role').focus();
+    else document.getElementById('f-jd').focus();
+  } catch(e) { console.warn('Bookmarklet pre-fill error:', e); }
 })();
 
 // ── Token storage ─────────────────────────────────────────────────────────────
