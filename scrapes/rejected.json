@@ -1,0 +1,138 @@
+[
+  {
+    "company": "NYC Health + Hospitals",
+    "title": "Assistant Vice President of Pharmacy Operations",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: 'ote' found — likely sales/commission role",
+      "location_not_allowed: 'New York, NY' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Whatnot",
+    "title": "Corporate Counsel",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: 'ote' found — likely sales/commission role"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  },
+  {
+    "company": "",
+    "title": "",
+    "reasons": [
+      "missing_data: no company or title"
+    ]
+  }
+]
