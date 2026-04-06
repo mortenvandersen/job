@@ -15,5 +15,39 @@
       "title_allowlist: no target role keyword found in title or jobFunction",
       "description_blocklist: 'ote' found — likely sales/commission role"
     ]
+  },
+  {
+    "company": "Korn Ferry",
+    "title": "Head of Tax & Treasury",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'New York, NY' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Alvarez & Marsal",
+    "title": "Senior Associate, Working Capital",
+    "reasons": [
+      "title_blocklist: 'associate' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: 'ote' found — likely sales/commission role"
+    ]
+  },
+  {
+    "company": "Language Testing International",
+    "title": "Sr. Product Manager, Assessments",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: 'ote' found — likely sales/commission role",
+      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Whatnot",
+    "title": "Corporate Counsel",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: 'ote' found — likely sales/commission role"
+    ]
   }
 ]
