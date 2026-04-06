@@ -984,7 +984,7 @@
 <!-- ── Bulk Actions Bar ── -->
 <div id="bulk-bar" class="bulk-bar hidden">
   <span id="bulk-count">0 selected</span>
-  <button class="btn-primary" style="font-size:12px;padding:5px 12px" onclick="assessSelected()">⚡ Assess Selected</button>
+  <button class="btn-archive" style="font-size:12px;padding:5px 12px" onclick="archiveSelected()">📦 Archive Selected</button>
   <button class="btn-secondary" style="font-size:12px;padding:5px 12px" onclick="clearSelection()">Clear</button>
 </div>
 
@@ -1934,19 +1934,17 @@ async function assessRole(e, id) {
   }
 }
 
-// ── assessSelected ────────────────────────────────────────────────────────────
-async function assessSelected() {
+// ── archiveSelected ───────────────────────────────────────────────────────────
+async function archiveSelected() {
   const ids = [...selectedIds].filter(id => {
     const r = liveData.roles.find(r => r.id === id);
     return r && r.status === 'inbox';
   });
   if (!ids.length) return;
   for (const id of ids) {
-    await assessRole(null, id);
-    if (ids.indexOf(id) < ids.length - 1) {
-      await new Promise(res => setTimeout(res, 800));
-    }
+    await archiveRole(null, id);
   }
+  clearSelection();
 }
 
 // ══════════════════════════════════════════════════════════════════════════════
