@@ -1959,7 +1959,7 @@ function switchTab(tabId) {
   document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
   document.querySelector(`.tab-btn[data-tab="${tabId}"]`).classList.add('active');
   document.getElementById(`tab-${tabId}`).classList.add('active');
-  if (tabId === 'filter-rules' && !filterConfig) loadFilterRules();
+  if (tabId === 'filter-rules') loadFilterRules();
 }
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -2077,8 +2077,16 @@ async function loadFilterRules() {
     for (let i = 0; i < raw.length; i++) bytes[i] = raw.charCodeAt(i);
     const text = new TextDecoder().decode(bytes);
     filterConfig = JSON.parse(text);
-    renderFilterRules();
+    console.log('Filter config loaded:', Object.keys(filterConfig), filterConfig);
+    try {
+      renderFilterRules();
+      console.log('Filter rules rendered OK');
+    } catch (renderErr) {
+      console.error('Render error:', renderErr);
+      grid.innerHTML = `<p style="color:var(--red);padding:20px">Render error: ${renderErr.message}</p>`;
+    }
   } catch (e) {
+    console.error('Filter rules load error:', e);
     grid.innerHTML = `<p style="color:var(--red);padding:20px">Error: ${e.message}</p>`;
   }
 }
