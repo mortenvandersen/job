@@ -65,7 +65,8 @@
     "professor",
     "instructor",
     "marketing director",
-    "portfolio manager"
+    "portfolio manager",
+    "construction"
   ],
   "industry_blocklist": [
     "oil",
