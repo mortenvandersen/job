@@ -1567,16 +1567,15 @@ async function markApplied(e, id) {
 }
 
 // ── Archive role ──────────────────────────────────────────────────────────────
-async function archiveRole(e, id) {
-  e.stopPropagation();
+async function archiveRole(e, id, skipConfirm = false) {
+  if (e) e.stopPropagation();
   const role = liveData.roles.find(r => r.id === id);
   if (!role) return;
-  if (!confirm(`Archive "${role.company} — ${role.role}"?\nIt will be moved to the Archived view and can be found there.`)) return;
+  if (!skipConfirm && !confirm(`Archive "${role.company} — ${role.role}"?\nIt will be moved to the Archived view and can be found there.`)) return;
   if (!getToken()) { alert('No GitHub token — open ⚙ Settings first.'); return; }
 
-  const btn = e.target;
-  btn.disabled = true;
-  btn.textContent = 'Archiving…';
+  const btn = e ? e.target : null;
+  if (btn) { btn.disabled = true; btn.textContent = 'Archiving…'; }
 
   try {
     const newPath = `job_posts/archived/${id}.md`;
@@ -1941,8 +1940,10 @@ async function archiveSelected() {
     return r && r.status === 'inbox';
   });
   if (!ids.length) return;
+  if (!getToken()) { alert('No GitHub token — open ⚙ Settings first.'); return; }
+  if (!confirm(`Archive ${ids.length} selected role${ids.length > 1 ? 's' : ''}?`)) return;
   for (const id of ids) {
-    await archiveRole(null, id);
+    await archiveRole(null, id, true);
   }
   clearSelection();
 }
