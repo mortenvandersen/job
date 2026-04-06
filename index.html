@@ -1110,6 +1110,8 @@ function buildStats(roles) {
 
 let currentFilter = 'all';
 let sortCol = 'date_saved';
+// ── Checkbox selection ────────────────────────────────────────────────────────
+const selectedIds = new Set();
 let sortDir = -1;
 let expandedId = null;
 
@@ -1681,9 +1683,6 @@ function saveAnthropicKey() {
   document.getElementById('anthropic-key-input').value = '';
   showMsg(el, 'success', 'API key saved to browser storage.');
 }
-
-// ── Checkbox selection ────────────────────────────────────────────────────────
-const selectedIds = new Set();
 
 function toggleSelect(e, id) {
   e.stopPropagation();
