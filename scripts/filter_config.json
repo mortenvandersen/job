@@ -89,24 +89,6 @@
     " ote:"
   ],
 
-  "location_blocklist_hybrid": [
-    "london",
-    "berlin",
-    "paris",
-    "amsterdam",
-    "dublin",
-    "munich",
-    "stockholm",
-    "copenhagen",
-    "zurich",
-    "singapore",
-    "tokyo",
-    "sydney",
-    "melbourne",
-    "toronto",
-    "vancouver"
-  ],
-
   "location_allowlist_hybrid": [
     "san francisco",
     "sf",

@@ -136,13 +136,9 @@ def apply_filters(row, config):
     # --- 6. Location filter ---
     is_remote = any(kw in loc_lower or kw in title_lower for kw in config["remote_keywords"])
     if not is_remote:
-        # Not remote — check if it's in an allowed hybrid location
+        # Not remote — must be in an allowed hybrid location (SF Bay Area)
         is_allowed_location = any(loc in loc_lower for loc in config["location_allowlist_hybrid"])
-        is_blocked_location = any(loc in loc_lower for loc in config["location_blocklist_hybrid"])
-        if is_blocked_location:
-            reasons.append(f"location_blocked: non-remote role in blocked location '{location}'")
-        elif not is_allowed_location and location:
-            # Has a location but it's not in allowlist and not remote
+        if not is_allowed_location and location:
             reasons.append(f"location_not_allowed: '{location}' is not remote and not in SF Bay Area")
 
     # --- 7. Seniority filter ---
