@@ -198,7 +198,8 @@ salary: {salary}
 def create_pipeline_entry(row, slug, today):
     """Create a pipeline.json entry for a passed job."""
     description = (row.get("descriptionText") or "").strip()
-    jd_snippet = description[:600].rsplit(" ", 1)[0] + "…" if len(description) > 600 else description
+    description_flat = " ".join(description.split())
+    jd_snippet = description_flat[:600].rsplit(" ", 1)[0] + "…" if len(description_flat) > 600 else description_flat
     return {
         "id": slug,
         "company": (row.get("companyName") or "").strip(),
