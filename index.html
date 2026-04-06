@@ -2174,13 +2174,20 @@ function addTag(key) {
   if (filterConfig[key].includes(val)) { input.value = ''; return; }
   filterConfig[key].push(val);
   input.value = '';
+  markFilterDirty();
   renderFilterRules();
 }
 
 function removeTag(key, index) {
   if (!filterConfig || !filterConfig[key]) return;
   filterConfig[key].splice(index, 1);
+  markFilterDirty();
   renderFilterRules();
+}
+
+function markFilterDirty() {
+  const statusEl = document.getElementById('rules-status');
+  showMsg(statusEl, 'error', '⚠ Unsaved changes — click Save to Repo to persist.');
 }
 
 function resetFilterRules() {
@@ -2210,7 +2217,7 @@ async function saveFilterRules() {
       `Update filter rules (${new Date().toISOString().split('T')[0]})`,
       filterConfigSha
     );
-    filterConfigSha = result.content?.sha;
+    filterConfigSha = result.content?.sha || filterConfigSha;
     showMsg(statusEl, 'success', 'Filter rules saved to repo.');
     renderFilterRules();
   } catch (e) {
