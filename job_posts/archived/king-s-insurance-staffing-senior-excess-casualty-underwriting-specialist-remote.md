@@ -1,0 +1,18 @@
+---
+company: King's Insurance Staffing
+role: Senior Excess Casualty Underwriting Specialist | Remote
+status: archived
+date_saved: 2026-04-06
+source_url: https://www.linkedin.com/jobs/view/senior-excess-casualty-underwriting-specialist-remote-at-king-s-insurance-staffing-4378054278?refId=a%2B2xHTQkJbrfIMCScrQgKA%3D%3D&trackingId=uk6TYWkvEQFe5RjXLIIYPw%3D%3D&position=15&pageNum=10
+location: United States
+salary: 
+---
+
+# King's Insurance Staffing â Senior Excess Casualty Underwriting Specialist | Remote
+
+## Job Description
+
+Our client, a leading P&C Commercial Lines Company, is seeking an experienced Senior Excess Casualty Underwriting Specialist to join their Northeast team. This role is responsible for underwriting, pricing, and managing a diversified portfolio of excess and umbrella liability business sourced through wholesale broker partners. The ideal candidate brings advanced technical expertise, strong broker relationships, and a disciplined underwriting approach focused on profitable growth. This is a fully remote position with the ideal candidate residing in one of the following states: NY, MA, CT, NJ, PA, RI, NH, or VA.
+ResponsibilitiesReview, evaluate, and underwrite complex excess and umbrella liability submissions across a broad range of industries.Analyze exposure data, loss history, financial information, and primary coverage details to assess risk quality and determine appropriate structure.Establish pricing, attachment points, limits, and coverage terms in accordance with underwriting guidelines and profitability objectives.Structure layered casualty programs while maintaining underwriting discipline and authority compliance.Develop, manage, and grow a profitable wholesale book of excess and umbrella business.Monitor portfolio performance, identify trends, and implement underwriting strategy adjustments to achieve target loss ratios and production goals.Cultivate and maintain strong relationships with wholesale brokers to drive new business opportunities and retention.Clearly communicate underwriting appetite, risk selection strategy, and coverage positions to broker partners.Collaborate with internal teams including actuarial, claims, legal, and product development to address complex risks and support strategic initiatives.Remain informed of evolving market conditions, competitive landscape, and emerging casualty exposures.Ensure adherence to company underwriting standards and regulatory requirements.
+Qualifications4 to 10+ years of Commercial Casualty Underwriting experience, with a strong focus on excess and umbrella liability.Prior E&S underwriting experience strongly preferred.Advanced knowledge of excess and umbrella coverage forms, attachment strategies, and layered program structures.Bachelorâs degree in Risk Management, Insurance, Finance, Business, or related field preferred.Demonstrated ability to analyze complex risks and make sound underwriting decisions.Proven success in managing a profitable book of business and meeting production and profitability goals.Established wholesale broker relationships and strong marketing capabilities.Excellent analytical, negotiation, and communication skills.Ability to work independently in a remote environment while contributing to a collaborative team culture.Proficiency in underwriting platforms and Microsoft Office applications.
+Salary & Benefits$120,000 â $175,000 annually (depending on experience) plus 15-30% bonusPaid time off and company-recognized holidaysPerformance-based annual incentive opportunityFully remoteComprehensive health benefits package (Medical, Dental, Vision, Life)
