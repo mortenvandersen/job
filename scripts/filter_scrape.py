@@ -257,6 +257,7 @@ def main():
             rejected.append({
                 "company": company,
                 "title": title,
+                "posted_at": (row.get("postedAt") or "")[:10],
                 "reasons": ["missing_data: no company or title"],
             })
             continue
@@ -286,6 +287,7 @@ def main():
             rejected.append({
                 "company": company,
                 "title": title,
+                "posted_at": (row.get("postedAt") or "")[:10],
                 "reasons": reasons,
             })
 

@@ -976,6 +976,7 @@
 <div class="tab-bar">
   <button class="tab-btn active" data-tab="pipeline" onclick="switchTab('pipeline')">Pipeline</button>
   <button class="tab-btn" data-tab="filter-rules" onclick="switchTab('filter-rules')">Filter Rules</button>
+  <button class="tab-btn" data-tab="rejected" onclick="switchTab('rejected')">Rejected</button>
 </div>
 
 <!-- ════════════ TAB: Pipeline ════════════ -->
@@ -1048,6 +1049,40 @@
 
   </div>
 </div><!-- /tab-filter-rules -->
+
+<!-- ════════════ TAB: Rejected ════════════ -->
+<div id="tab-rejected" class="tab-panel">
+  <div class="filter-rules-wrap">
+    <h2>Rejected by Filter</h2>
+    <p class="filter-rules-intro">
+      Roles blocked by Layer 0 keyword filtering. Review here to catch false negatives
+      and tighten or loosen rules in the Filter Rules tab.
+    </p>
+    <div style="display:flex;gap:10px;align-items:center;margin-bottom:16px">
+      <input id="rejected-search" type="text" placeholder="Search company or title…"
+        style="flex:1;padding:7px 10px;border:1px solid var(--border);border-radius:6px;font-size:13px"
+        oninput="renderRejected()">
+      <select id="rejected-reason-filter"
+        style="padding:7px 10px;border:1px solid var(--border);border-radius:6px;font-size:13px"
+        onchange="renderRejected()">
+        <option value="">All reasons</option>
+        <option value="title_allowlist">Title not matched</option>
+        <option value="title_blocklist">Title blocked</option>
+        <option value="location_not_allowed">Location</option>
+        <option value="description_blocklist">Description (sales/quota)</option>
+        <option value="part_time">Part-time</option>
+        <option value="salary">Salary</option>
+        <option value="european_hours">European hours</option>
+        <option value="company_size">Company size</option>
+        <option value="industry_blocklist">Industry blocked</option>
+      </select>
+      <span id="rejected-count" style="font-size:13px;color:var(--text-muted);white-space:nowrap"></span>
+    </div>
+    <div id="rejected-content" style="font-size:13px;color:var(--text-muted);padding:20px 0">
+      Click the Rejected tab to load…
+    </div>
+  </div>
+</div><!-- /tab-rejected -->
 
 <script>
 // ── DATA — updated automatically by Claude Code ──────────────────────────────
@@ -2021,6 +2056,96 @@ function switchTab(tabId) {
   document.querySelector(`.tab-btn[data-tab="${tabId}"]`).classList.add('active');
   document.getElementById(`tab-${tabId}`).classList.add('active');
   if (tabId === 'filter-rules') loadFilterRules();
+  if (tabId === 'rejected') loadRejected();
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
+// ── REJECTED TAB ─────────────────────────────────────────────────────────────
+// ══════════════════════════════════════════════════════════════════════════════
+
+let rejectedData = null;
+
+async function loadRejected() {
+  if (rejectedData) { renderRejected(); return; }
+  const el = document.getElementById('rejected-content');
+  el.textContent = 'Loading…';
+  try {
+    const token = getToken();
+    if (!token) throw new Error('No GitHub token — open ⚙ Settings first.');
+    const res = await fetch('https://api.github.com/repos/mortenvandersen/job/contents/scrapes/rejected.json', {
+      headers: { 'Authorization': `token ${token}` },
+    });
+    if (!res.ok) throw new Error('Could not load rejected.json (' + res.status + ')');
+    const data = await res.json();
+    const text = new TextDecoder().decode(Uint8Array.from(atob(data.content.replace(/\n/g,'')), c => c.charCodeAt(0)));
+    rejectedData = JSON.parse(text);
+    renderRejected();
+  } catch(e) {
+    el.textContent = 'Error: ' + e.message;
+  }
+}
+
+function renderRejected() {
+  if (!rejectedData) return;
+  const search = document.getElementById('rejected-search').value.toLowerCase();
+  const reasonFilter = document.getElementById('rejected-reason-filter').value;
+
+  const filtered = rejectedData.filter(r => {
+    const matchSearch = !search ||
+      (r.company || '').toLowerCase().includes(search) ||
+      (r.title || '').toLowerCase().includes(search);
+    const matchReason = !reasonFilter ||
+      (r.reasons || []).some(rs => rs.includes(reasonFilter));
+    return matchSearch && matchReason;
+  });
+
+  document.getElementById('rejected-count').textContent = `${filtered.length} of ${rejectedData.length}`;
+
+  const el = document.getElementById('rejected-content');
+  if (!filtered.length) {
+    el.innerHTML = '<p style="color:var(--text-muted)">No results.</p>';
+    return;
+  }
+
+  const REASON_LABELS = {
+    title_allowlist:      'Title not matched',
+    title_blocklist:      'Title blocked',
+    location_not_allowed: 'Location',
+    description_blocklist:'Sales/quota signal',
+    part_time:            'Part-time',
+    salary_below_floor:   'Salary too low',
+    european_hours:       'European hours',
+    company_size:         'Company too small',
+    industry_blocklist:   'Industry blocked',
+    missing_data:         'Missing data',
+  };
+
+  const rows = filtered.map(r => {
+    const reasonTags = (r.reasons || []).map(rs => {
+      const key = Object.keys(REASON_LABELS).find(k => rs.includes(k)) || '';
+      const label = REASON_LABELS[key] || rs.split(':')[0];
+      return `<span style="display:inline-block;padding:2px 7px;border-radius:10px;background:#f1f5f9;color:#475569;font-size:11px;margin:1px">${escHtml(label)}</span>`;
+    }).join(' ');
+    const date = r.posted_at ? `<span style="color:var(--text-muted)">${r.posted_at}</span>` : '';
+    return `<tr>
+      <td style="padding:8px 10px;border-bottom:1px solid var(--border)">${escHtml(r.company || '—')}</td>
+      <td style="padding:8px 10px;border-bottom:1px solid var(--border)">${escHtml(r.title || '—')}</td>
+      <td style="padding:8px 10px;border-bottom:1px solid var(--border)">${date}</td>
+      <td style="padding:8px 10px;border-bottom:1px solid var(--border)">${reasonTags}</td>
+    </tr>`;
+  }).join('');
+
+  el.innerHTML = `<table style="width:100%;border-collapse:collapse">
+    <thead>
+      <tr style="font-size:11px;text-transform:uppercase;color:var(--text-muted);letter-spacing:.05em">
+        <th style="padding:6px 10px;text-align:left;border-bottom:2px solid var(--border)">Company</th>
+        <th style="padding:6px 10px;text-align:left;border-bottom:2px solid var(--border)">Title</th>
+        <th style="padding:6px 10px;text-align:left;border-bottom:2px solid var(--border)">Posted</th>
+        <th style="padding:6px 10px;text-align:left;border-bottom:2px solid var(--border)">Reason</th>
+      </tr>
+    </thead>
+    <tbody>${rows}</tbody>
+  </table>`;
 }
 
 // ══════════════════════════════════════════════════════════════════════════════
