@@ -597,6 +597,247 @@
   }
   .bookmarklet-link:hover { opacity: 0.85; }
 
+  /* ── Tab navigation ── */
+  .tab-bar {
+    display: flex;
+    gap: 0;
+    padding: 0 32px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .tab-btn {
+    padding: 12px 20px;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-muted);
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .tab-btn:hover { color: var(--primary); }
+  .tab-btn.active {
+    color: var(--primary);
+    border-bottom-color: var(--primary);
+  }
+
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+
+  /* ── Filter Rules tab ── */
+  .filter-rules-wrap {
+    padding: 24px 32px;
+    max-width: 1100px;
+  }
+
+  .filter-rules-wrap h2 {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 4px;
+  }
+
+  .filter-rules-intro {
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+
+  .rules-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+
+  @media (max-width: 900px) {
+    .rules-grid { grid-template-columns: 1fr; }
+    .tab-bar { padding: 0 16px; }
+    .filter-rules-wrap { padding: 16px; }
+  }
+
+  .rule-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+
+  .rule-card-header {
+    padding: 12px 16px;
+    background: var(--gray-light);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .rule-card-header h3 {
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--text);
+  }
+
+  .rule-card-header .rule-type {
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 2px 6px;
+    border-radius: 3px;
+  }
+
+  .rule-type-block  { background: var(--red-light);   color: var(--red); }
+  .rule-type-allow  { background: var(--green-light); color: var(--green); }
+  .rule-type-number { background: var(--primary-light); color: var(--primary); }
+
+  .rule-card-body {
+    padding: 12px 16px;
+  }
+
+  .rule-card-body .rule-hint {
+    font-size: 11px;
+    color: var(--text-muted);
+    margin-bottom: 8px;
+    line-height: 1.5;
+  }
+
+  .tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 8px;
+  }
+
+  .tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 500;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    color: var(--text);
+  }
+
+  .tag .tag-remove {
+    cursor: pointer;
+    color: var(--text-muted);
+    font-size: 14px;
+    line-height: 1;
+    margin-left: 2px;
+  }
+
+  .tag .tag-remove:hover { color: var(--red); }
+
+  .tag-input-row {
+    display: flex;
+    gap: 6px;
+  }
+
+  .tag-input-row input {
+    flex: 1;
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 5px 8px;
+    font-size: 12px;
+    font-family: inherit;
+    color: var(--text);
+  }
+
+  .tag-input-row input:focus {
+    outline: none;
+    border-color: var(--primary);
+    box-shadow: 0 0 0 2px rgba(59,130,246,0.1);
+  }
+
+  .tag-input-row button {
+    background: var(--primary);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+
+  .tag-input-row button:hover { opacity: 0.85; }
+
+  .number-input-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .number-input-row input {
+    width: 120px;
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 6px 10px;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: inherit;
+    color: var(--text);
+  }
+
+  .number-input-row input:focus {
+    outline: none;
+    border-color: var(--primary);
+  }
+
+  .number-input-row span {
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+
+  .rules-footer {
+    margin-top: 24px;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+  }
+
+  .rules-footer .status-msg { flex: 1; }
+
+  .rule-card.full-width {
+    grid-column: 1 / -1;
+  }
+
+  .rules-stats {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+
+  .rules-stat {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 12px 16px;
+    min-width: 140px;
+  }
+
+  .rules-stat .stat-value {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--text);
+  }
+
+  .rules-stat .stat-label {
+    font-size: 11px;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
   .divider { border: none; border-top: 1px solid var(--border); margin: 4px 0; }
 
   /* ── Responsive ── */
@@ -731,6 +972,15 @@
   </div>
 </div>
 
+<!-- ── Tab Bar ── -->
+<div class="tab-bar">
+  <button class="tab-btn active" data-tab="pipeline" onclick="switchTab('pipeline')">Pipeline</button>
+  <button class="tab-btn" data-tab="filter-rules" onclick="switchTab('filter-rules')">Filter Rules</button>
+</div>
+
+<!-- ════════════ TAB: Pipeline ════════════ -->
+<div id="tab-pipeline" class="tab-panel active">
+
 <!-- ── Bulk Actions Bar ── -->
 <div id="bulk-bar" class="bulk-bar hidden">
   <span id="bulk-count">0 selected</span>
@@ -772,6 +1022,31 @@
     </table>
   </div>
 </div>
+
+</div><!-- /tab-pipeline -->
+
+<!-- ════════════ TAB: Filter Rules ════════════ -->
+<div id="tab-filter-rules" class="tab-panel">
+  <div class="filter-rules-wrap">
+    <h2>Scrape Filter Rules</h2>
+    <p class="filter-rules-intro">
+      These rules power Layer 0 filtering — pure keyword matching, zero LLM tokens.
+      When Make.com pushes a scraped CSV to the repo, a GitHub Action runs the filter
+      script using these rules. Edit them here and save to update
+      <code>scripts/filter_config.json</code> in the repo.
+    </p>
+
+    <div class="rules-stats" id="rules-stats"></div>
+
+    <div class="rules-grid" id="rules-grid"></div>
+
+    <div class="rules-footer">
+      <span id="rules-status" class="status-msg" style="display:none"></span>
+      <button class="btn-secondary" onclick="resetFilterRules()">Reset Changes</button>
+      <button class="btn-primary" onclick="saveFilterRules()">Save to Repo</button>
+    </div>
+  </div>
+</div><!-- /tab-filter-rules -->
 
 <script>
 // ── DATA — updated automatically by Claude Code ──────────────────────────────
@@ -1672,6 +1947,277 @@ async function assessSelected() {
     if (ids.indexOf(id) < ids.length - 1) {
       await new Promise(res => setTimeout(res, 800));
     }
+  }
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
+// ── TAB NAVIGATION ───────────────────────────────────────────────────────────
+// ══════════════════════════════════════════════════════════════════════════════
+
+function switchTab(tabId) {
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  document.querySelector(`.tab-btn[data-tab="${tabId}"]`).classList.add('active');
+  document.getElementById(`tab-${tabId}`).classList.add('active');
+  if (tabId === 'filter-rules' && !filterConfig) loadFilterRules();
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
+// ── FILTER RULES TAB ─────────────────────────────────────────────────────────
+// ══════════════════════════════════════════════════════════════════════════════
+
+let filterConfig = null;
+let filterConfigSha = null;
+
+const RULE_CARDS = [
+  {
+    key: 'title_allowlist',
+    title: 'Title Allowlist',
+    type: 'allow',
+    hint: 'Job title must contain at least one of these terms to pass. Checked against title and jobFunction fields.',
+    input: 'tags',
+  },
+  {
+    key: 'title_blocklist',
+    title: 'Title Blocklist',
+    type: 'block',
+    hint: 'Jobs with any of these terms in the title are rejected immediately.',
+    input: 'tags',
+  },
+  {
+    key: 'industry_blocklist',
+    title: 'Industry Blocklist',
+    type: 'block',
+    hint: 'Reject if any of these terms appear in the industry or company description.',
+    input: 'tags',
+  },
+  {
+    key: 'description_blocklist',
+    title: 'Description Blocklist',
+    type: 'block',
+    hint: 'Reject if any of these terms appear in the job description (catches quota/commission roles).',
+    input: 'tags',
+  },
+  {
+    key: 'part_time_keywords',
+    title: 'Part-Time / Fractional Keywords',
+    type: 'block',
+    hint: 'Reject if any of these terms appear in title or description.',
+    input: 'tags',
+  },
+  {
+    key: 'european_hours_keywords',
+    title: 'European Hours Keywords',
+    type: 'block',
+    hint: 'Reject if any of these terms appear in description or location.',
+    input: 'tags',
+  },
+  {
+    key: 'seniority_allowlist',
+    title: 'Seniority Allowlist',
+    type: 'allow',
+    hint: 'Accepted seniority levels from the LinkedIn seniority field.',
+    input: 'tags',
+  },
+  {
+    key: 'seniority_blocklist',
+    title: 'Seniority Blocklist',
+    type: 'block',
+    hint: 'Rejected seniority levels (entry-level, internship, etc.).',
+    input: 'tags',
+  },
+  {
+    key: 'location_allowlist_hybrid',
+    title: 'Location Allowlist (Hybrid OK)',
+    type: 'allow',
+    hint: 'Non-remote jobs are allowed if the location matches one of these (SF Bay Area).',
+    input: 'tags',
+  },
+  {
+    key: 'location_blocklist_hybrid',
+    title: 'Location Blocklist (Hybrid)',
+    type: 'block',
+    hint: 'Non-remote jobs in these locations are rejected.',
+    input: 'tags',
+  },
+  {
+    key: 'remote_keywords',
+    title: 'Remote Keywords',
+    type: 'allow',
+    hint: 'If any of these appear in location or title, the job is treated as remote (bypasses location filter).',
+    input: 'tags',
+  },
+  {
+    key: 'salary_floor_usd',
+    title: 'Salary Floor (USD)',
+    type: 'number',
+    hint: 'Jobs with a stated max salary below this are rejected.',
+    input: 'number',
+    prefix: '$',
+    suffix: '',
+  },
+  {
+    key: 'company_employee_min',
+    title: 'Minimum Employees',
+    type: 'number',
+    hint: 'Companies with fewer employees than this are rejected (if data available).',
+    input: 'number',
+    prefix: '',
+    suffix: 'employees',
+  },
+];
+
+async function loadFilterRules() {
+  const grid = document.getElementById('rules-grid');
+  grid.innerHTML = '<p style="color:var(--text-muted);padding:20px">Loading filter config...</p>';
+  try {
+    const res = await fetch('https://raw.githubusercontent.com/mortenvandersen/job/main/scripts/filter_config.json?_=' + Date.now());
+    if (!res.ok) throw new Error('Could not load filter_config.json');
+    filterConfig = await res.json();
+    // Also get sha for saving
+    const token = getToken();
+    if (token) {
+      const apiRes = await fetch('https://api.github.com/repos/mortenvandersen/job/contents/scripts/filter_config.json', {
+        headers: { 'Authorization': `token ${token}` },
+      });
+      if (apiRes.ok) {
+        const data = await apiRes.json();
+        filterConfigSha = data.sha;
+      }
+    }
+    renderFilterRules();
+  } catch (e) {
+    grid.innerHTML = `<p style="color:var(--red);padding:20px">Error: ${e.message}</p>`;
+  }
+}
+
+function renderFilterRules() {
+  if (!filterConfig) return;
+
+  // Stats
+  const stats = document.getElementById('rules-stats');
+  const totalKeywords = RULE_CARDS
+    .filter(c => c.input === 'tags')
+    .reduce((sum, c) => sum + (filterConfig[c.key] || []).length, 0);
+  const blockRules = RULE_CARDS.filter(c => c.type === 'block').length;
+  const allowRules = RULE_CARDS.filter(c => c.type === 'allow').length;
+
+  stats.innerHTML = `
+    <div class="rules-stat">
+      <div class="stat-value">${totalKeywords}</div>
+      <div class="stat-label">Total keywords</div>
+    </div>
+    <div class="rules-stat">
+      <div class="stat-value">${blockRules}</div>
+      <div class="stat-label">Block rules</div>
+    </div>
+    <div class="rules-stat">
+      <div class="stat-value">${allowRules}</div>
+      <div class="stat-label">Allow rules</div>
+    </div>
+    <div class="rules-stat">
+      <div class="stat-value">$${(filterConfig.salary_floor_usd || 0).toLocaleString()}</div>
+      <div class="stat-label">Salary floor</div>
+    </div>
+  `;
+
+  // Cards
+  const grid = document.getElementById('rules-grid');
+  grid.innerHTML = '';
+
+  RULE_CARDS.forEach(card => {
+    const div = document.createElement('div');
+    div.className = 'rule-card';
+
+    const typeLabel = card.type === 'block' ? 'Block' : card.type === 'allow' ? 'Allow' : 'Threshold';
+    const typeClass = card.type === 'block' ? 'rule-type-block' : card.type === 'allow' ? 'rule-type-allow' : 'rule-type-number';
+
+    let bodyHTML = `<p class="rule-hint">${card.hint}</p>`;
+
+    if (card.input === 'tags') {
+      const items = filterConfig[card.key] || [];
+      bodyHTML += `<div class="tag-list" id="tags-${card.key}">`;
+      items.forEach((item, i) => {
+        bodyHTML += `<span class="tag">${escHtml(item)}<span class="tag-remove" onclick="removeTag('${card.key}',${i})">x</span></span>`;
+      });
+      bodyHTML += '</div>';
+      bodyHTML += `<div class="tag-input-row">
+        <input id="input-${card.key}" placeholder="Add keyword..." onkeydown="if(event.key==='Enter'){addTag('${card.key}');event.preventDefault()}">
+        <button onclick="addTag('${card.key}')">Add</button>
+      </div>`;
+    } else if (card.input === 'number') {
+      bodyHTML += `<div class="number-input-row">
+        ${card.prefix ? `<span>${card.prefix}</span>` : ''}
+        <input type="number" id="input-${card.key}" value="${filterConfig[card.key] || 0}"
+               onchange="filterConfig['${card.key}']=Number(this.value)">
+        ${card.suffix ? `<span>${card.suffix}</span>` : ''}
+      </div>`;
+    }
+
+    div.innerHTML = `
+      <div class="rule-card-header">
+        <h3>${card.title}</h3>
+        <span class="rule-type ${typeClass}">${typeLabel}</span>
+      </div>
+      <div class="rule-card-body">${bodyHTML}</div>
+    `;
+    grid.appendChild(div);
+  });
+}
+
+function escHtml(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function addTag(key) {
+  const input = document.getElementById(`input-${key}`);
+  const val = input.value.trim().toLowerCase();
+  if (!val || !filterConfig) return;
+  if (!filterConfig[key]) filterConfig[key] = [];
+  if (filterConfig[key].includes(val)) { input.value = ''; return; }
+  filterConfig[key].push(val);
+  input.value = '';
+  renderFilterRules();
+}
+
+function removeTag(key, index) {
+  if (!filterConfig || !filterConfig[key]) return;
+  filterConfig[key].splice(index, 1);
+  renderFilterRules();
+}
+
+function resetFilterRules() {
+  filterConfig = null;
+  filterConfigSha = null;
+  loadFilterRules();
+}
+
+async function saveFilterRules() {
+  const statusEl = document.getElementById('rules-status');
+  if (!filterConfig) return;
+  if (!getToken()) {
+    showMsg(statusEl, 'error', 'No GitHub token — open Settings to add one.');
+    return;
+  }
+
+  showMsg(statusEl, 'loading', 'Saving filter config...');
+
+  try {
+    // Update timestamp
+    filterConfig._last_updated = new Date().toISOString().split('T')[0];
+
+    const content = JSON.stringify(filterConfig, null, 2);
+    const result = await ghPut(
+      'scripts/filter_config.json',
+      content,
+      `Update filter rules (${new Date().toISOString().split('T')[0]})`,
+      filterConfigSha
+    );
+    filterConfigSha = result.content?.sha;
+    showMsg(statusEl, 'success', 'Filter rules saved to repo.');
+    renderFilterRules();
+  } catch (e) {
+    showMsg(statusEl, 'error', 'Error: ' + e.message);
   }
 }
 </script>
