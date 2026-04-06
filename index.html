@@ -1580,22 +1580,21 @@ async function archiveRole(e, id, skipConfirm = false) {
   try {
     const newPath = `job_posts/archived/${id}.md`;
 
-    // 1. Read current file and rewrite to archived path with updated status
-    const { content: fileContent } = await ghGetText(role.file);
-    const updatedContent = fileContent.replace(/^status: \S+/m, 'status: archived');
-    await ghPut(newPath, updatedContent, `Archive ${role.company} — ${role.role}`);
-
-    // 2. Delete old file (if it's in a different location)
-    if (role.file !== newPath) {
-      const res = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
-        headers: { 'Authorization': `token ${getToken()}` },
-      });
-      if (res.ok) {
-        const { sha } = await res.json();
+    // 1. Read current file (if it exists) and rewrite to archived path
+    const fileRes = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
+      headers: { 'Authorization': `token ${getToken()}` },
+    });
+    if (fileRes.ok) {
+      const fileData = await fileRes.json();
+      const fileContent = atob(fileData.content.replace(/\n/g,''));
+      const updatedContent = fileContent.replace(/^status: \S+/m, 'status: archived');
+      await ghPut(newPath, updatedContent, `Archive ${role.company} — ${role.role}`);
+      // 2. Delete old file if it moved
+      if (role.file !== newPath) {
         await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
           method: 'DELETE',
           headers: { 'Authorization': `token ${getToken()}`, 'Content-Type': 'application/json' },
-          body: JSON.stringify({ message: `Move ${id} to archived`, sha }),
+          body: JSON.stringify({ message: `Move ${id} to archived`, sha: fileData.sha }),
         });
       }
     }
