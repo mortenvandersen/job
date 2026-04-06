@@ -1,52 +1,232 @@
 [
   {
-    "company": "LHH",
-    "title": "Portfolio Manager",
-    "slug": "lhh-portfolio-manager",
-    "location": "San Francisco County, CA",
-    "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/portfolio-manager-at-lhh-4392106400?refId=HI2wxvGv37VrM3P2b8fKdA%3D%3D&trackingId=tBf6XDU07eGlgfJiKJrO%2FQ%3D%3D&position=10&pageNum=1",
-    "seniority": "Mid-Senior level",
-    "industries": "Housing and Community Development and Real Estate"
-  },
-  {
-    "company": "Nibbi Brothers General Contractors",
-    "title": "Marketing Director",
-    "slug": "nibbi-brothers-general-contractors-marketing-director",
+    "company": "Transdev",
+    "title": "General Manager",
+    "slug": "transdev-general-manager",
     "location": "San Francisco, CA",
     "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/marketing-director-at-nibbi-brothers-general-contractors-4393062650?refId=HI2wxvGv37VrM3P2b8fKdA%3D%3D&trackingId=Qtf0c8uRIsV11wF0ih7V2g%3D%3D&position=8&pageNum=1",
-    "seniority": "Director",
-    "industries": "Construction"
+    "link": "https://www.linkedin.com/jobs/view/general-manager-at-transdev-4386991341?refId=Aea%2B5X36oGokLrKi60MsQA%3D%3D&trackingId=t5UGDpc%2FgyGmG%2Flp53DIKw%3D%3D&position=21&pageNum=0",
+    "seniority": "Mid-Senior level",
+    "industries": "Urban Transit Services"
   },
   {
-    "company": "SK hynix America",
-    "title": "Business Development Manager / Sr. Manager",
-    "slug": "sk-hynix-america-business-development-manager-sr-manager",
+    "company": "HW3",
+    "title": "Director- Business Development (Enterprise)",
+    "slug": "hw3-director-business-development-enterprise",
+    "location": "San Francisco Bay Area",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/director-business-development-enterprise-at-hw3-4391156598?refId=Aea%2B5X36oGokLrKi60MsQA%3D%3D&trackingId=c1mlpZrs9GDYOAN1OesEOw%3D%3D&position=16&pageNum=0",
+    "seniority": "Director",
+    "industries": "Staffing and Recruiting"
+  },
+  {
+    "company": "Typhur Robotics",
+    "title": "General Manager",
+    "slug": "typhur-robotics-general-manager",
+    "location": "San Francisco Bay Area",
+    "salary": "$300,000.00/yr - $500,000.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/general-manager-at-typhur-robotics-4390837000?refId=Aea%2B5X36oGokLrKi60MsQA%3D%3D&trackingId=yD5Rpv1GmSlor4ekmvTIHA%3D%3D&position=5&pageNum=0",
+    "seniority": "Executive",
+    "industries": "Computers and Electronics Manufacturing and Appliances, Electrical, and Electronics Manufacturing"
+  },
+  {
+    "company": "Levi Strauss & Co.",
+    "title": "Director, Corporate Strategy",
+    "slug": "levi-strauss-co-director-corporate-strategy",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/director-corporate-strategy-at-levi-strauss-co-4220568818?refId=Aea%2B5X36oGokLrKi60MsQA%3D%3D&trackingId=ucQZ6qFPqg9VCubHA%2BZdXA%3D%3D&position=2&pageNum=0",
+    "seniority": "Director",
+    "industries": "Retail Apparel and Fashion, Design Services, and Retail"
+  },
+  {
+    "company": "Swickard Auto Group",
+    "title": "General Manager",
+    "slug": "swickard-auto-group-general-manager",
+    "location": "Palo Alto, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/general-manager-at-swickard-auto-group-4390740569?refId=qyMITyRfxT%2BcmY3Ag1iB6g%3D%3D&trackingId=FFKoi6udLiPaePL3G4n1Lg%3D%3D&position=25&pageNum=1",
+    "seniority": "",
+    "industries": ""
+  },
+  {
+    "company": "SecurityScorecard",
+    "title": "Corporate Development Manager",
+    "slug": "securityscorecard-corporate-development-manager",
+    "location": "San Francisco Bay Area",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/corporate-development-manager-at-securityscorecard-4387097972?refId=qyMITyRfxT%2BcmY3Ag1iB6g%3D%3D&trackingId=GKLokO5nDv%2BKoATpMX1gtg%3D%3D&position=16&pageNum=1",
+    "seniority": "Mid-Senior level",
+    "industries": "Computer and Network Security, Venture Capital and Private Equity Principals, and Investment Banking"
+  },
+  {
+    "company": "Navigate Search",
+    "title": "General Manager - Construction",
+    "slug": "navigate-search-general-manager-construction",
+    "location": "San Francisco Bay Area",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/general-manager-construction-at-navigate-search-4391347918?refId=qyMITyRfxT%2BcmY3Ag1iB6g%3D%3D&trackingId=iwhS%2BFHVvjS8jiIlac0FxQ%3D%3D&position=13&pageNum=1",
+    "seniority": "Mid-Senior level",
+    "industries": "Construction and Building Construction"
+  },
+  {
+    "company": "Cadence",
+    "title": "Director, M&A Integration",
+    "slug": "cadence-director-m-a-integration",
     "location": "San Jose, CA",
     "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/business-development-manager-sr-manager-at-sk-hynix-america-4379602291?refId=HI2wxvGv37VrM3P2b8fKdA%3D%3D&trackingId=UpvDnGyAHoHiGVXcd4xalw%3D%3D&position=4&pageNum=1",
-    "seniority": "Mid-Senior level",
-    "industries": "Semiconductor Manufacturing"
-  },
-  {
-    "company": "Monroe Capital LLC",
-    "title": "Director, Business Development, Wealth Management Solutions - West Coast/ SW Region",
-    "slug": "monroe-capital-llc-director-business-development-wealth-management-solutions-west-coast-sw-region",
-    "location": "San Francisco, CA",
-    "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/director-business-development-wealth-management-solutions-west-coast-sw-region-at-monroe-capital-llc-4215174628?refId=HI2wxvGv37VrM3P2b8fKdA%3D%3D&trackingId=5lVbfJrFTgscVmQbRg9TKQ%3D%3D&position=1&pageNum=1",
-    "seniority": "Not Applicable",
-    "industries": "Financial Services"
-  },
-  {
-    "company": "Chronicle Books",
-    "title": "Director, Licensed Publishing",
-    "slug": "chronicle-books-director-licensed-publishing",
-    "location": "San Francisco, CA",
-    "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/director-licensed-publishing-at-chronicle-books-4392479871?refId=HI2wxvGv37VrM3P2b8fKdA%3D%3D&trackingId=aXqulJrN4nwA%2Bx9WNpnnkQ%3D%3D&position=5&pageNum=1",
+    "link": "https://www.linkedin.com/jobs/view/director-m-a-integration-at-cadence-4382208134?refId=qyMITyRfxT%2BcmY3Ag1iB6g%3D%3D&trackingId=xPCN90aulMsxuQTs1cBL%2Fw%3D%3D&position=15&pageNum=1",
     "seniority": "Director",
-    "industries": "Book and Periodical Publishing"
+    "industries": "Software Development"
+  },
+  {
+    "company": "Tata Electronics",
+    "title": "Director of Business Development - EMS AI Data Center Ecosystem",
+    "slug": "tata-electronics-director-of-business-development-ems-ai-data-center-ecosystem",
+    "location": "Santa Clara, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/director-of-business-development-ems-ai-data-center-ecosystem-at-tata-electronics-4354187221?refId=qyMITyRfxT%2BcmY3Ag1iB6g%3D%3D&trackingId=CN1WAs1l%2BM3yG8HyhWYqjg%3D%3D&position=11&pageNum=1",
+    "seniority": "Director",
+    "industries": "Computers and Electronics Manufacturing"
+  },
+  {
+    "company": "Helix",
+    "title": "Manager, Strategy and Business Operations",
+    "slug": "helix-manager-strategy-and-business-operations",
+    "location": "San Mateo, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/manager-strategy-and-business-operations-at-helix-4387728477?refId=qyMITyRfxT%2BcmY3Ag1iB6g%3D%3D&trackingId=W7czfGX3IUVZQCtOeu7R3w%3D%3D&position=9&pageNum=1",
+    "seniority": "Mid-Senior level",
+    "industries": "Operations Consulting, Business Consulting and Services, and Hospitals and Health Care"
+  },
+  {
+    "company": "Stuart Dean Company",
+    "title": "General Manager",
+    "slug": "stuart-dean-company-general-manager",
+    "location": "South San Francisco, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/general-manager-at-stuart-dean-company-4384301030?refId=qyMITyRfxT%2BcmY3Ag1iB6g%3D%3D&trackingId=1UISsl2AaWE2%2FWvWHgv2Xw%3D%3D&position=8&pageNum=1",
+    "seniority": "Mid-Senior level",
+    "industries": "Facilities Services"
+  },
+  {
+    "company": "Amazon",
+    "title": "Principal, Corporate Development, Corporate Development",
+    "slug": "amazon-principal-corporate-development-corporate-development",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/principal-corporate-development-corporate-development-at-amazon-4245159935?refId=qyMITyRfxT%2BcmY3Ag1iB6g%3D%3D&trackingId=dOm9A5kHigKiAtmsLuw3Fg%3D%3D&position=4&pageNum=1",
+    "seniority": "Director",
+    "industries": "Software Development"
+  },
+  {
+    "company": "VIVAIA",
+    "title": "Store Manager",
+    "slug": "vivaia-store-manager",
+    "location": "Santa Clara, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/store-manager-at-vivaia-4384100206?refId=ByT0a%2FGn5gOyjByeKFebYA%3D%3D&trackingId=RQUToR%2FsfVwYaqED24h8gw%3D%3D&position=22&pageNum=2",
+    "seniority": "Mid-Senior level",
+    "industries": "Retail Apparel and Fashion"
+  },
+  {
+    "company": "Tata Electronics",
+    "title": "Senior Manager of Business Development - Electronics Manufacturing Services - AI Data Center Ecosystem",
+    "slug": "tata-electronics-senior-manager-of-business-development-electronics-manufacturing-services-ai-data-center-ecosystem",
+    "location": "Santa Clara, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/senior-manager-of-business-development-electronics-manufacturing-services-ai-data-center-ecosystem-at-tata-electronics-4355840545?refId=ByT0a%2FGn5gOyjByeKFebYA%3D%3D&trackingId=1RNfmcPEl9MeMJRbPIlZDA%3D%3D&position=13&pageNum=2",
+    "seniority": "Mid-Senior level",
+    "industries": "Computers and Electronics Manufacturing"
+  },
+  {
+    "company": "Hightouch",
+    "title": "Head of Technical Account Management, West",
+    "slug": "hightouch-head-of-technical-account-management-west",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/head-of-technical-account-management-west-at-hightouch-4275734134?refId=ByT0a%2FGn5gOyjByeKFebYA%3D%3D&trackingId=B70tInGrgipbyZ7RCb%2BJfg%3D%3D&position=14&pageNum=2",
+    "seniority": "Director",
+    "industries": "Software Development"
+  },
+  {
+    "company": "Janie and Jack",
+    "title": "Company Planning Manager",
+    "slug": "janie-and-jack-company-planning-manager",
+    "location": "San Francisco Bay Area",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/company-planning-manager-at-janie-and-jack-4385744828?refId=ByT0a%2FGn5gOyjByeKFebYA%3D%3D&trackingId=9iLXp1QBoobJJagEqxJTHg%3D%3D&position=5&pageNum=2",
+    "seniority": "Mid-Senior level",
+    "industries": "Retail"
+  },
+  {
+    "company": "Monterra Credit Union",
+    "title": "SVP, Chief Lending Officer",
+    "slug": "monterra-credit-union-svp-chief-lending-officer",
+    "location": "Redwood City, CA",
+    "salary": "$275,000.00/yr - $325,000.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/svp-chief-lending-officer-at-monterra-credit-union-4316645959?refId=ByT0a%2FGn5gOyjByeKFebYA%3D%3D&trackingId=iINg0p2Ic0hCKVZs8U%2FZjQ%3D%3D&position=4&pageNum=2",
+    "seniority": "Executive",
+    "industries": "Banking"
+  },
+  {
+    "company": "Roto-Rooter Plumbing and Drain Service",
+    "title": "General Manager",
+    "slug": "roto-rooter-plumbing-and-drain-service-general-manager",
+    "location": "East Palo Alto, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/general-manager-at-roto-rooter-plumbing-and-drain-service-4385914691?refId=E%2FYyprUmQ4YnBl0V9F1NJA%3D%3D&trackingId=IMpKOs28v7jaFz9rXn1egg%3D%3D&position=10&pageNum=3",
+    "seniority": "Mid-Senior level",
+    "industries": "Environmental Services, Facilities Services, and Textile Manufacturing"
+  },
+  {
+    "company": "Mixpanel",
+    "title": "Senior Revenue Strategy & Operations Manager",
+    "slug": "mixpanel-senior-revenue-strategy-operations-manager",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/senior-revenue-strategy-operations-manager-at-mixpanel-4255594562?refId=ByT0a%2FGn5gOyjByeKFebYA%3D%3D&trackingId=kO7xXag426uLVIDitjE42A%3D%3D&position=2&pageNum=2",
+    "seniority": "Mid-Senior level",
+    "industries": "Software Development"
+  },
+  {
+    "company": "Vistage Worldwide, Inc.",
+    "title": "Business Development Representative",
+    "slug": "vistage-worldwide-inc-business-development-representative",
+    "location": "San Francisco Bay Area",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/business-development-representative-at-vistage-worldwide-inc-4385947803?refId=E%2FYyprUmQ4YnBl0V9F1NJA%3D%3D&trackingId=JZHb4DQtdpxW4z8LfK4R%2Fw%3D%3D&position=25&pageNum=3",
+    "seniority": "Mid-Senior level",
+    "industries": "Professional Training and Coaching"
+  },
+  {
+    "company": "Harmonic Finance™ | Certified B Corp",
+    "title": "VP Finance and Accounting | High-Growth Fintech | Remote | $250k–$300k + Bonus + Equity",
+    "slug": "harmonic-finance-certified-b-corp-vp-finance-and-accounting-high-growth-fintech-remote-250k-300k-bonus-equity",
+    "location": "United States",
+    "salary": "$250,000.00/yr - $300,000.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/vp-finance-and-accounting-high-growth-fintech-remote-%24250k%E2%80%93%24300k-%2B-bonus-%2B-equity-at-harmonic-finance%E2%84%A2-certified-b-corp-4376083699?refId=eU5UCYjpkt2HKk7%2Fp5%2Fgcg%3D%3D&trackingId=Gk00RHW5PA8kwR77twUHdA%3D%3D&position=23&pageNum=2",
+    "seniority": "Executive",
+    "industries": "Financial Services and Technology, Information and Media"
+  },
+  {
+    "company": "McLane Company, Inc.",
+    "title": "National Business Development Director (Remote)",
+    "slug": "mclane-company-inc-national-business-development-director-remote",
+    "location": "United States",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/national-business-development-director-remote-at-mclane-company-inc-4379245559?refId=I%2BQsN74zvelWw66fWjtKCA%3D%3D&trackingId=ggbieF6ZscIzgApIN5MD1g%3D%3D&position=7&pageNum=3",
+    "seniority": "Mid-Senior level",
+    "industries": "Transportation, Logistics, Supply Chain and Storage"
+  },
+  {
+    "company": "King's Insurance Staffing",
+    "title": "Senior Excess Casualty Underwriting Specialist | Remote",
+    "slug": "king-s-insurance-staffing-senior-excess-casualty-underwriting-specialist-remote",
+    "location": "United States",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/senior-excess-casualty-underwriting-specialist-remote-at-king-s-insurance-staffing-4378054278?refId=a%2B2xHTQkJbrfIMCScrQgKA%3D%3D&trackingId=uk6TYWkvEQFe5RjXLIIYPw%3D%3D&position=15&pageNum=10",
+    "seniority": "Mid-Senior level",
+    "industries": "Staffing and Recruiting, Insurance, and Insurance Carriers"
   }
 ]
