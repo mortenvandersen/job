@@ -2071,20 +2071,15 @@ async function loadFilterRules() {
   const grid = document.getElementById('rules-grid');
   grid.innerHTML = '<p style="color:var(--text-muted);padding:20px">Loading filter config...</p>';
   try {
-    const res = await fetch('https://raw.githubusercontent.com/mortenvandersen/job/main/scripts/filter_config.json?_=' + Date.now());
-    if (!res.ok) throw new Error('Could not load filter_config.json');
-    filterConfig = await res.json();
-    // Also get sha for saving
     const token = getToken();
-    if (token) {
-      const apiRes = await fetch('https://api.github.com/repos/mortenvandersen/job/contents/scripts/filter_config.json', {
-        headers: { 'Authorization': `token ${token}` },
-      });
-      if (apiRes.ok) {
-        const data = await apiRes.json();
-        filterConfigSha = data.sha;
-      }
-    }
+    if (!token) throw new Error('No GitHub token — open Settings to add one.');
+    const apiRes = await fetch('https://api.github.com/repos/mortenvandersen/job/contents/scripts/filter_config.json', {
+      headers: { 'Authorization': `token ${token}` },
+    });
+    if (!apiRes.ok) throw new Error('Could not load filter_config.json (' + apiRes.status + ')');
+    const data = await apiRes.json();
+    filterConfigSha = data.sha;
+    filterConfig = JSON.parse(decodeURIComponent(escape(atob(data.content.replace(/\n/g, '')))));
     renderFilterRules();
   } catch (e) {
     grid.innerHTML = `<p style="color:var(--red);padding:20px">Error: ${e.message}</p>`;
