@@ -2072,7 +2072,11 @@ async function loadFilterRules() {
     if (!apiRes.ok) throw new Error('Could not load filter_config.json (' + apiRes.status + ')');
     const data = await apiRes.json();
     filterConfigSha = data.sha;
-    filterConfig = JSON.parse(decodeURIComponent(escape(atob(data.content.replace(/\n/g, '')))));
+    const raw = atob(data.content.replace(/\n/g, ''));
+    const bytes = new Uint8Array(raw.length);
+    for (let i = 0; i < raw.length; i++) bytes[i] = raw.charCodeAt(i);
+    const text = new TextDecoder().decode(bytes);
+    filterConfig = JSON.parse(text);
     renderFilterRules();
   } catch (e) {
     grid.innerHTML = `<p style="color:var(--red);padding:20px">Error: ${e.message}</p>`;
