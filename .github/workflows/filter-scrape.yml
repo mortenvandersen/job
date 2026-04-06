@@ -1,0 +1,82 @@
+name: Filter Job Scrape
+
+on:
+  push:
+    paths:
+      - 'scrapes/latest.csv'
+
+  workflow_dispatch:
+    inputs:
+      csv_file:
+        description: 'Path to CSV file to filter (default: scrapes/latest.csv)'
+        required: false
+        default: 'scrapes/latest.csv'
+      dry_run:
+        description: 'Dry run — filter only, no pipeline updates'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  filter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run filter script
+        run: |
+          CSV_FILE="${{ github.event.inputs.csv_file || 'scrapes/latest.csv' }}"
+          DRY_RUN_FLAG=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            DRY_RUN_FLAG="--dry-run"
+          fi
+          python scripts/filter_scrape.py "$CSV_FILE" $DRY_RUN_FLAG
+
+      - name: Update PIPELINE_DATA in index.html
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          python -c "
+          import json, re
+
+          with open('pipeline.json') as f:
+              pipeline = json.load(f)
+
+          with open('index.html') as f:
+              html = f.read()
+
+          pipeline_json = json.dumps(pipeline, ensure_ascii=False)
+          html = re.sub(
+              r'const PIPELINE_DATA = \{.*?\};',
+              'const PIPELINE_DATA = ' + pipeline_json + ';',
+              html,
+              count=1,
+              flags=re.DOTALL
+          )
+
+          with open('index.html', 'w') as f:
+              f.write(html)
+
+          print('Updated PIPELINE_DATA in index.html')
+          "
+
+      - name: Commit and push results
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Filter scrape: add new inbox jobs from $(date +%Y-%m-%d)"
+            git push
+          fi

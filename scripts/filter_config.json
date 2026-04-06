@@ -1,0 +1,180 @@
+{
+  "_description": "Layer 0 filter rules — pure keyword/rule matching, zero LLM tokens. Edit these to tune what gets through the scrape filter.",
+  "_last_updated": "2026-04-06",
+
+  "title_allowlist": [
+    "strategy",
+    "bizops",
+    "biz ops",
+    "business operations",
+    "general manager",
+    "corp dev",
+    "corporate development",
+    "business development",
+    "new markets",
+    "stratops",
+    "chief of staff",
+    "head of strategy",
+    "head of operations",
+    "product strategy",
+    "business lead",
+    "gm",
+    "strategic planning",
+    "strategic partnerships",
+    "strategy & operations",
+    "strategy and operations",
+    "planning and business",
+    "growth strategy"
+  ],
+
+  "title_blocklist": [
+    "account executive",
+    "account manager",
+    "sdr",
+    "bdr",
+    "sales representative",
+    "sales manager",
+    "sales engineer",
+    "sales associate",
+    "sales director",
+    "coordinator",
+    "analyst",
+    "associate",
+    "intern",
+    "engineer",
+    "developer",
+    "designer",
+    "marketing manager",
+    "content manager",
+    "social media",
+    "recruiter",
+    "hr manager",
+    "human resources",
+    "customer success",
+    "customer support",
+    "support specialist",
+    "administrative",
+    "executive assistant",
+    "office manager",
+    "bookkeeper",
+    "accountant",
+    "controller",
+    "paralegal",
+    "nurse",
+    "physician",
+    "therapist",
+    "teacher",
+    "professor",
+    "instructor"
+  ],
+
+  "industry_blocklist": [
+    "oil",
+    "gas",
+    "petroleum",
+    "tobacco",
+    "gambling",
+    "casino",
+    "betting",
+    "firearms",
+    "weapons"
+  ],
+
+  "description_blocklist": [
+    "quota-carrying",
+    "commission-based",
+    "commission structure",
+    "on-target earnings",
+    "ote"
+  ],
+
+  "location_blocklist_hybrid": [
+    "london",
+    "berlin",
+    "paris",
+    "amsterdam",
+    "dublin",
+    "munich",
+    "stockholm",
+    "copenhagen",
+    "zurich",
+    "singapore",
+    "tokyo",
+    "sydney",
+    "melbourne",
+    "toronto",
+    "vancouver"
+  ],
+
+  "location_allowlist_hybrid": [
+    "san francisco",
+    "sf",
+    "bay area",
+    "palo alto",
+    "mountain view",
+    "sunnyvale",
+    "menlo park",
+    "redwood city",
+    "san mateo",
+    "oakland",
+    "berkeley",
+    "san jose",
+    "santa clara",
+    "cupertino"
+  ],
+
+  "remote_keywords": [
+    "remote",
+    "work from home",
+    "wfh",
+    "anywhere"
+  ],
+
+  "seniority_allowlist": [
+    "director",
+    "senior director",
+    "vp",
+    "vice president",
+    "svp",
+    "head",
+    "chief",
+    "principal",
+    "lead",
+    "senior",
+    "executive",
+    "c-level",
+    "president",
+    "managing director",
+    "general manager"
+  ],
+
+  "seniority_blocklist": [
+    "entry level",
+    "entry-level",
+    "internship",
+    "associate"
+  ],
+
+  "part_time_keywords": [
+    "part-time",
+    "part time",
+    "fractional",
+    "contractor",
+    "contract role",
+    "freelance",
+    "temporary"
+  ],
+
+  "salary_floor_usd": 200000,
+
+  "company_employee_min": 50,
+
+  "european_hours_keywords": [
+    "emea hours",
+    "european hours",
+    "cet timezone",
+    "gmt timezone",
+    "uk hours",
+    "london hours"
+  ]
+}
