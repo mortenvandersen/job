@@ -1912,44 +1912,24 @@ async function archiveSelected() {
   }
 }
 
-// ── archiveBatch — all file ops in parallel, one pipeline.json write ──────────
+// ── archiveBatch — single git commit via Trees API ────────────────────────────
 async function archiveBatch(ids) {
   const token = getToken();
+  const REPO = 'mortenvandersen/job';
+  const api  = `https://api.github.com/repos/${REPO}`;
 
-  // 1. Read all files in parallel
+  // 1. Read all inbox files in parallel
   const reads = await Promise.all(ids.map(async id => {
     const role = liveData.roles.find(r => r.id === id);
     if (!role) return { id, role: null, fileData: null };
-    const res = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
+    const res = await fetch(`${api}/contents/${role.file}`, {
       headers: { 'Authorization': `token ${token}` },
     });
     const fileData = res.ok ? await res.json() : null;
     return { id, role, fileData };
   }));
 
-  // 2. Write all archived files in parallel
-  await Promise.all(reads.map(async ({ id, role, fileData }) => {
-    if (!role || !fileData) return;
-    const newPath = `job_posts/archived/${id}.md`;
-    const fileContent = atob(fileData.content.replace(/\n/g, ''));
-    const updatedContent = fileContent.replace(/^status: \S+/m, 'status: archived');
-    await ghPut(newPath, updatedContent, `Archive ${role.company} — ${role.role}`);
-  }));
-
-  // 3. Delete old files in parallel (only those that moved)
-  await Promise.all(reads.map(async ({ id, role, fileData }) => {
-    if (!role || !fileData) return;
-    const newPath = `job_posts/archived/${id}.md`;
-    if (role.file !== newPath) {
-      await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${role.file}`, {
-        method: 'DELETE',
-        headers: { 'Authorization': `token ${token}`, 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message: `Move ${id} to archived`, sha: fileData.sha }),
-      });
-    }
-  }));
-
-  // 4. Update pipeline.json once
+  // 2. Update pipeline.json in memory
   const { content: pipeline, sha: pSha } = await ghGet('pipeline.json');
   for (const { id, role } of reads) {
     if (!role) continue;
@@ -1960,10 +1940,70 @@ async function archiveBatch(ids) {
     }
   }
   pipeline.last_updated = new Date().toISOString().split('T')[0];
+
+  // 3. Get current branch tip
+  const refRes  = await fetch(`${api}/git/ref/heads/main`, { headers: { 'Authorization': `token ${token}` } });
+  const refData = await refRes.json();
+  const baseSha = refData.object.sha;
+
+  // 4. Get base tree SHA
+  const commitRes  = await fetch(`${api}/git/commits/${baseSha}`, { headers: { 'Authorization': `token ${token}` } });
+  const commitData = await commitRes.json();
+  const baseTreeSha = commitData.tree.sha;
+
+  // 5. Build tree entries: add archived files, delete old files, update pipeline.json
+  const treeEntries = [];
+
+  for (const { id, role, fileData } of reads) {
+    if (!role) continue;
+    const newPath = `job_posts/archived/${id}.md`;
+
+    if (fileData) {
+      // Add updated file at archived path
+      const raw = atob(fileData.content.replace(/\n/g, ''));
+      const updated = raw.replace(/^status: \S+/m, 'status: archived');
+      treeEntries.push({ path: newPath, mode: '100644', type: 'blob', content: updated });
+
+      // Delete old file (if it moved) by setting sha: null
+      if (role.file !== newPath) {
+        treeEntries.push({ path: role.file, mode: '100644', type: 'blob', sha: null });
+      }
+    }
+  }
+
+  // Add updated pipeline.json
+  treeEntries.push({
+    path: 'pipeline.json',
+    mode: '100644',
+    type: 'blob',
+    content: JSON.stringify(pipeline, null, 2),
+  });
+
+  // 6. Create new tree
+  const newTreeRes = await fetch(`${api}/git/trees`, {
+    method: 'POST',
+    headers: { 'Authorization': `token ${token}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify({ base_tree: baseTreeSha, tree: treeEntries }),
+  });
+  const newTree = await newTreeRes.json();
+
+  // 7. Create commit
   const label = ids.length === 1
     ? `Archive ${reads[0].role?.company} — ${reads[0].role?.role}`
     : `Archive ${ids.length} roles`;
-  await ghPut('pipeline.json', JSON.stringify(pipeline, null, 2), label, pSha);
+  const newCommitRes = await fetch(`${api}/git/commits`, {
+    method: 'POST',
+    headers: { 'Authorization': `token ${token}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify({ message: label, tree: newTree.sha, parents: [baseSha] }),
+  });
+  const newCommit = await newCommitRes.json();
+
+  // 8. Update branch ref
+  await fetch(`${api}/git/refs/heads/main`, {
+    method: 'PATCH',
+    headers: { 'Authorization': `token ${token}`, 'Content-Type': 'application/json' },
+    body: JSON.stringify({ sha: newCommit.sha }),
+  });
 
   liveData = pipeline;
   expandedId = null;
