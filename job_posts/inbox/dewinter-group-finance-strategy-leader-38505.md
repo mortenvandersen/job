@@ -1,0 +1,19 @@
+---
+company: DeWinter Group
+role: Finance & Strategy Leader 38505
+status: inbox
+date_saved: 2026-04-06
+source_url: https://www.linkedin.com/jobs/view/finance-strategy-leader-38505-at-dewinter-group-4395715895?refId=3KHOTwcgc2eYapwFrVVRUA%3D%3D&trackingId=hC0wH0nLQ6r2k49Yrph%2Bvw%3D%3D&position=24&pageNum=0
+location: Palo Alto, CA
+salary: 
+---
+
+# DeWinter Group — Finance & Strategy Leader 38505
+
+## Job Description
+
+Finance & Strategy Leader
+About the RoleWe are seeking a highly analytical and strategic Finance & Strategy Leader to join our leadership team. This pivotal role operates at the nexus of finance, corporate strategy, and operational execution, serving as a critical thought partner to the executive staff. You will be instrumental in defining our financial architecture, driving key investment decisions, and navigating the company through its next phase of rapid scaling.
+This is a dynamic, builder role—not merely a reporting function. Success requires translating complex data into actionable strategies, challenging business assumptions, and maintaining a high level of curiosity and business acumen across all functions.
+The ideal candidate will come from a high volume high volatility environment and will have demonstrated experience driving actionable decisions from this data.
+Core ResponsibilitiesCorporate Financial Planning: Develop, own, and continually refine the integrated, long-range company financial model, supporting strategic planning, capital allocation, and various funding scenarios.Performance Management: Establish and manage the company-wide operational cadence, including monthly/quarterly business reviews. Monitor and interpret core performance indicators (revenue drivers, profitability, unit economics) to generate insights that compel strategic action.Capital Markets & Investor Relations: Oversee the preparation of all board materials, investor communications, and due diligence documentation. Act as a primary financial liaison for external investors and stakeholders.Function Scalability: Serve as a foundational member of the finance organization, responsible for designing and implementing best-in-class financial processes, technology stack, and organizational structure as the company matures.Resource Planning: Lead annual budgeting and continuous forecasting processes. Collaborate directly with departmental leaders on expense management, headcount strategy, and strategic prioritization initiatives.Business Model Analysis: Conduct deep-dive analysis into platform economics, including Gross Merchandise Value (GMV), monetization rates, customer/seller lifetime value (LTV), and retention cohorts, translating findings into strategic recommendations for growth and margin improvement.Qualifications7+ years of progressive experience in demanding analytical environments such as investment banking, management consulting, private equity, or strategic finance/FP&A within a top-tier technology firm.Expert-level financial modeling proficiency, capable of constructing complex analyses (e.g., integrated 3-statement models, cohort analyses, valuation models) independently and with minimal guidance.Demonstrated success influencing senior leadership and cross-functional partners through compelling, data-centric presentations and clear articulation of complex financial concepts.Strong bias for action and ability to thrive in an ambiguous, fast-paced environment where defining structure is part of the job.Prior experience with platform, marketplace, or high-growth subscription (SaaS) business models is highly desirable.Exceptional interpersonal and communication skills; proven ability to build strong, collaborative relationships across the organization.A resourceful, entrepreneurial spirit committed to building foundational systems from the ground up.

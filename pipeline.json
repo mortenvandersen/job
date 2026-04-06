@@ -1,6 +1,25 @@
 {
-  "last_updated": "2026-04-01",
+  "last_updated": "2026-04-06",
   "roles": [
+    {
+      "id": "dewinter-group-finance-strategy-leader-38505",
+      "company": "DeWinter Group",
+      "role": "Finance & Strategy Leader 38505",
+      "location": "Palo Alto, CA",
+      "comp_range": "",
+      "date_saved": "2026-04-06",
+      "date_assessed": null,
+      "source_url": "https://www.linkedin.com/jobs/view/finance-strategy-leader-38505-at-dewinter-group-4395715895?refId=3KHOTwcgc2eYapwFrVVRUA%3D%3D&trackingId=hC0wH0nLQ6r2k49Yrph%2Bvw%3D%3D&position=24&pageNum=0",
+      "status": "inbox",
+      "role_fit_score": null,
+      "candidate_fit_score": null,
+      "recommendation": null,
+      "file": "job_posts/inbox/dewinter-group-finance-strategy-leader-38505.md",
+      "summary_note": "",
+      "gaps": [],
+      "strongest_angles": [],
+      "status_notes": ""
+    },
     {
       "id": "brightwheel-director-go-to-market-strategy-initiatives",
       "company": "brightwheel",
