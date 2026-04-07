@@ -2027,23 +2027,25 @@ async function archiveBatch(ids) {
   });
 
   // 5b. Also update index.html embedded PIPELINE_DATA so reloads are consistent
-  const indexRes = await fetch(`${api}/contents/index.html`, {
-    headers: { 'Authorization': `token ${token}` },
-  });
-  if (indexRes.ok) {
-    const indexData = await indexRes.json();
-    const indexRaw = decodeURIComponent(escape(atob(indexData.content.replace(/\n/g, ''))));
-    const updatedIndex = indexRaw.replace(
-      /^const PIPELINE_DATA = .+$/m,
-      'const PIPELINE_DATA = ' + JSON.stringify(pipeline) + ';'
-    );
-    treeEntries.push({
-      path: 'index.html',
-      mode: '100644',
-      type: 'blob',
-      content: updatedIndex,
+  try {
+    // Use raw media type to get file content directly (avoids 1MB base64 limit)
+    const indexRes = await fetch(`${api}/contents/index.html`, {
+      headers: { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3.raw' },
     });
-  }
+    if (indexRes.ok) {
+      const indexRaw = await indexRes.text();
+      const updatedIndex = indexRaw.replace(
+        /^const PIPELINE_DATA = .+$/m,
+        'const PIPELINE_DATA = ' + JSON.stringify(pipeline) + ';'
+      );
+      treeEntries.push({
+        path: 'index.html',
+        mode: '100644',
+        type: 'blob',
+        content: updatedIndex,
+      });
+    }
+  } catch(e) { /* index.html update is best-effort; loadLiveData API fetch is the primary fix */ }
 
   // 6. Create new tree
   const newTreeRes = await fetch(`${api}/git/trees`, {
