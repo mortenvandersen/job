@@ -1,7 +1,7 @@
 ---
 company: Truex Métier
 role: Director of Operations
-status: inbox
+status: archived
 date_saved: 2026-04-06
 source_url: https://www.linkedin.com/jobs/view/director-of-operations-at-truex-m%C3%A9tier-4394985967?refId=ur1YwNJCuAa%2FRqkBsijq6g%3D%3D&trackingId=zcxMAS74esYUA8XOv8vksg%3D%3D&position=1&pageNum=0
 location: San Francisco Bay Area

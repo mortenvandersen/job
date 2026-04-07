@@ -1,11 +1,15 @@
 ---
 company: Mixpanel
 role: Senior Revenue Strategy & Operations Manager
-status: inbox
+status: assessed
 date_saved: 2026-04-06
+date_assessed: 2026-04-07
 source_url: https://www.linkedin.com/jobs/view/senior-revenue-strategy-operations-manager-at-mixpanel-4255594562?refId=ByT0a%2FGn5gOyjByeKFebYA%3D%3D&trackingId=kO7xXag426uLVIDitjE42A%3D%3D&position=2&pageNum=2
 location: San Francisco, CA
-salary: 
+salary: $189,000 - $231,000 TTCC
+role_fit_score: 3.15
+candidate_fit_score: 3
+recommendation: Skip — marginal fit, uncertain comp, functional focus too narrow
 ---
 
 # Mixpanel — Senior Revenue Strategy & Operations Manager
@@ -24,6 +28,36 @@ Our salary ranges are determined by role and level and are benchmarked to the SF
 Mixpanel Compensation Range$189,000 - $231,000 USD
 Benefits and PerksComprehensive Medical, Vision, and Dental CareMental Wellness BenefitGenerous Vacation Policy & Additional Company HolidaysEnhanced Parental LeaveVolunteer Time OffAdditional US Benefits: Pre-Tax Benefits including 401(K), Wellness Benefit, Holiday Break
 *please note that benefits and perks for contract positions will vary*
+
+---
+
+## Fit Assessment
+
+**Deal-breakers**: None confirmed; but TTCC includes variable which may be commissions — flag for verification.
+
+| Dimension | Score | Notes |
+|---|---|---|
+| A. Role Type | 3/5 | Revenue Strategy & Ops — strategic elements but focused on GRR/NRR, post-sales retention. Narrower than target. |
+| B. Industry | 3/5 | B2B SaaS analytics (Tier 2–3 tech) |
+| C. Company Stage | 4/5 | Well-funded ($277M+), established SaaS, 9K+ customers |
+| D. Scope & Seniority | 3/5 | Senior Manager level — meaningful but not Director+ |
+| E. Compensation | 3/5 | $189K–$231K TTCC — base alone may be below $200K; unclear split |
+
+**Role Fit Score**: 3.15 / 5 — Marginal
+**Candidate Fit Score**: 3 / 5 — Moderate — strategy/ops experience is relevant; but role asks for "3+ years at top-tier management/strategy consulting firm" (Morten had ~1 year at Voluntas) and "2+ years in BizOps/Sales Strategy at B2B SaaS" (partial match). The post-sales/retention focus is a function Morten hasn't specifically owned.
+**Recommendation**: Skip — marginal fit, uncertain comp, functional focus too narrow.
+
+**Trajectory value**: Lateral — GRR/NRR ownership is a specific GTM function, not building toward GM or corp dev.
+
+**Gaps & flags**:
+- 🟡 "3+ years at top-tier consulting firm" — Morten has ~1 year (Voluntas Advisory)
+- 🟡 Post-sales retention/expansion focus — not a function he's specifically led
+- 🟡 TTCC comp structure — base could be below $200K floor
+
+**Strongest angles — what to emphasize if applying**:
+- Strategy/ops background from Labster
+- Cross-functional collaboration experience
+- Analytical rigor and business acumen
 Culture ValuesMake Bold Bets: We choose courageous action over comfortable progress.Innovate with Insight: We tackle decisions with rigor and judgment - combining data, experience and collective wisdom to drive powerful outcomes.One Team: We collaborate across boundaries to achieve far greater impact than any of us could accomplish alone.Candor with Connection: We build meaningful relationships that enable honest feedback and direct conversations.Champion the Customer: We seek to deeply understand our customers’ needs, ensuring their success is our north star.Powerful Simplicity: We find elegant solutions to complex problems, making sophisticated things accessible.
 Why choose Mixpanel?We’re a leader in analytics with over 9,000 customers and $277M raised from prominent investors: like Andreessen-Horowitz, Sequoia, YC, and, most recently, Bain Capital. Mixpanel’s pioneering event-based data analytics platform offers a powerful yet simple solution for companies to understand user behaviors and easily track overarching company success metrics. Our accomplished teams continuously facilitate our expansion by tackling the ever-evolving challenges tied to scaling, reliability, design, and service. Choosing to work at Mixpanel means you’ll be helping the world’s most innovative companies learn from their data so they can make better decisions.
 Mixpanel is an equal opportunity employer supporting workforce diversity. At Mixpanel, we are focused on things that really matter—our people, our customers, our partners—out of a recognition that those relationships are the most valuable assets we have. We actively encourage women, people with disabilities, veterans, underrepresented minorities, and LGBTQ+ people to apply. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity or expression, sexual orientation, age, marital status, veteran status, or disability status. Pursuant to the San Francisco Fair Chance Ordinance or other similar laws that may be applicable, we will consider for employment qualified applicants with arrest and conviction records. We’ve immersed ourselves in our Culture and Values as our guiding principles for the impact we want to have and the future we are building.

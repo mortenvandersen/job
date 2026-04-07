@@ -1,11 +1,15 @@
 ---
 company: SecurityScorecard
 role: Corporate Development Manager
-status: inbox
+status: assessed
 date_saved: 2026-04-06
+date_assessed: 2026-04-07
 source_url: https://www.linkedin.com/jobs/view/corporate-development-manager-at-securityscorecard-4387097972?refId=qyMITyRfxT%2BcmY3Ag1iB6g%3D%3D&trackingId=GKLokO5nDv%2BKoATpMX1gtg%3D%3D&position=16&pageNum=1
 location: San Francisco Bay Area
-salary: 
+salary: $160,000 - $200,000
+role_fit_score: 3.75
+candidate_fit_score: 4
+recommendation: Yes with flags — apply if confirmed SF-based
 ---
 
 # SecurityScorecard — Corporate Development Manager
@@ -43,3 +47,35 @@ We also consider qualified applicants regardless of criminal histories, in accor
 Any information you submit to SecurityScorecard as part of your application will be processed in accordance with the Company’s privacy policy and applicable law. 
 SecurityScorecard does not accept unsolicited resumes from employment agencies. 
 Please note that we do not provide immigration sponsorship for this position.
+
+---
+
+## Fit Assessment
+
+**Deal-breakers**: None confirmed, but NYC HQ with SF Bay Area posting — verify work location is actually SF hybrid, not NYC hybrid.
+
+| Dimension | Score | Notes |
+|---|---|---|
+| A. Role Type | 5/5 | Corp dev — M&A, strategic investments, alliances, integration. Core target. |
+| B. Industry | 3/5 | Cybersecurity SaaS — growing sector but Tier 3 for Morten |
+| C. Company Stage | 4/5 | Well-funded (Silver Lake, Moody's, Sequoia, GV), global leader in its space |
+| D. Scope & Seniority | 3/5 | Manager level — end-to-end deal work but a level below target seniority |
+| E. Compensation | 3/5 | $160K–$200K base + bonus + equity. Tops out at $200K; straddles floor |
+
+**Role Fit Score**: 3.75 / 5 — Yes with flags
+**Candidate Fit Score**: 4 / 5 — Strong — "2+ years in corp dev, IB, PE/VC, strategy, consulting" is clearly met; M&A and strategic partnership execution is directly demonstrated. Morten likely overqualified for Manager level but the JD's scope is real.
+**Recommendation**: Yes with flags — apply if confirmed SF-based. The role is a level below target, but corp dev experience at a credible company is valuable and may be structured for rapid promotion given his background.
+
+**Trajectory value**: Builds corp dev credentials in a new sector; manageable stepping stone if it leads to a Director role within 12–18 months.
+
+**Gaps & flags**:
+- 🔴 HQ is New York City — confirm this posting is genuinely SF-based, not NYC hybrid
+- 🟡 Manager title is a level below target seniority — could negotiate title or confirm promotion path
+- 🟡 Comp tops at $200K base; may not clear floor with meaningful buffer
+- 🟡 Cybersecurity domain — no direct background; needs to build credibility on strategic fit
+
+**Strongest angles — what to emphasize if applying**:
+- LEGO Ventures: 5 investments as lead, full diligence lifecycle
+- UbiSim acquisition + Labster divestiture: end-to-end M&A execution
+- Strategic alliances: two GTM partners signed at Labster
+- AI fluency requirement: explicitly listed — advantage over traditional finance profiles

@@ -1,11 +1,15 @@
 ---
 company: Levi Strauss & Co.
 role: Director, Corporate Strategy
-status: inbox
+status: assessed
 date_saved: 2026-04-06
+date_assessed: 2026-04-07
 source_url: https://www.linkedin.com/jobs/view/director-corporate-strategy-at-levi-strauss-co-4220568818?refId=Aea%2B5X36oGokLrKi60MsQA%3D%3D&trackingId=ucQZ6qFPqg9VCubHA%2BZdXA%3D%3D&position=2&pageNum=0
 location: San Francisco, CA
-salary: 
+salary: $200,000 - $245,000
+role_fit_score: 3.75
+candidate_fit_score: 3
+recommendation: Yes with flags — apply, functional fit is strong
 ---
 
 # Levi Strauss & Co. — Director, Corporate Strategy
@@ -61,3 +65,34 @@ FILL DATE
 This position is expected to be filled by 03/30/2026.
 
 Current LS&Co Employees, apply via your Workday account.
+
+---
+
+## Fit Assessment
+
+**Deal-breakers**: None.
+
+| Dimension | Score | Notes |
+|---|---|---|
+| A. Role Type | 5/5 | Director of Corporate Strategy — core target, direct VP/CEO's Office exposure |
+| B. Industry | 2/5 | Apparel/consumer goods (Tier 3) — no direct background |
+| C. Company Stage | 3/5 | Large established enterprise (170-year-old brand) undergoing DTC pivot — stable, not declining |
+| D. Scope & Seniority | 4/5 | Director level, works directly with VP Strategy + CEO's Office; high visibility, real mandate |
+| E. Compensation | 4/5 | $200K–$245K base — at floor to well above floor |
+
+**Role Fit Score**: 3.75 / 5 — Yes with flags
+**Candidate Fit Score**: 3 / 5 — Moderate — meets all core requirements (8+ years, strategy background, executive-level work). Missing: consumer/retail/apparel industry experience (listed as a plus but will be a visible gap). MBA preferred but not required.
+**Recommendation**: Yes with flags — apply. The functional fit is strong; the industry gap is real but framed correctly (B2B SaaS → DTC/consumer is a stretch, but cross-industry strategy is the explicit sell).
+
+**Trajectory value**: Strong for credentials — a Director of Corp Strategy role with CEO's Office access at a major brand is resume-building. But apparel is Tier 3; stay eyes-open on industry direction.
+
+**Gaps & flags**:
+- 🟡 No consumer/retail/apparel experience — the "plus" becomes a visible differentiator against candidates who have it
+- 🟡 MBA preferred — not held
+- 🟡 Levi's is a large enterprise; GM or growth-stage ownership won't come from this role directly
+
+**Strongest angles — what to emphasize if applying**:
+- 8+ years of strategy leadership at VP level — meets the seniority bar cleanly
+- DTC pivot / transformation context: Labster went through a major transformation (450→150 employees, shift to profitability); mirrors Levi's DTC evolution
+- Cross-functional initiative leadership: OKRs, strategic planning, quarterly business reviews — directly applicable
+- Board-level communications and investor relations experience — valued at the executive level

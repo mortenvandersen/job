@@ -1,7 +1,7 @@
 ---
 company: Nibbi Brothers General Contractors
 role: Marketing Director
-status: inbox
+status: archived
 date_saved: 2026-04-06
 source_url: https://www.linkedin.com/jobs/view/marketing-director-at-nibbi-brothers-general-contractors-4393062650?refId=HI2wxvGv37VrM3P2b8fKdA%3D%3D&trackingId=Qtf0c8uRIsV11wF0ih7V2g%3D%3D&position=8&pageNum=1
 location: San Francisco, CA

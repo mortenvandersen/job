@@ -1,7 +1,7 @@
 ---
 company: Levi Strauss & Co.
 role: Senior Corporate Strategy Manager (Brand)
-status: inbox
+status: archived
 date_saved: 2026-04-06
 source_url: https://www.linkedin.com/jobs/view/senior-corporate-strategy-manager-brand-at-levi-strauss-co-4089474363?refId=ur1YwNJCuAa%2FRqkBsijq6g%3D%3D&trackingId=PlsUi6Pc6gfeAmfWUmQf%2Fw%3D%3D&position=4&pageNum=0
 location: San Francisco, CA

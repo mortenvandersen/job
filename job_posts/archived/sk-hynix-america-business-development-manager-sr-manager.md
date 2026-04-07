@@ -1,7 +1,7 @@
 ---
 company: SK hynix America
 role: Business Development Manager / Sr. Manager
-status: inbox
+status: archived
 date_saved: 2026-04-06
 source_url: https://www.linkedin.com/jobs/view/business-development-manager-sr-manager-at-sk-hynix-america-4379602291?refId=HI2wxvGv37VrM3P2b8fKdA%3D%3D&trackingId=UpvDnGyAHoHiGVXcd4xalw%3D%3D&position=4&pageNum=1
 location: San Jose, CA

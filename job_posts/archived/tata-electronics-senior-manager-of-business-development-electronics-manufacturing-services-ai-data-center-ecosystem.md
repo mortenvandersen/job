@@ -1,7 +1,7 @@
 ---
 company: Tata Electronics
 role: Senior Manager of Business Development - Electronics Manufacturing Services - AI Data Center Ecosystem
-status: inbox
+status: archived
 date_saved: 2026-04-06
 source_url: https://www.linkedin.com/jobs/view/senior-manager-of-business-development-electronics-manufacturing-services-ai-data-center-ecosystem-at-tata-electronics-4355840545?refId=ByT0a%2FGn5gOyjByeKFebYA%3D%3D&trackingId=1RNfmcPEl9MeMJRbPIlZDA%3D%3D&position=13&pageNum=2
 location: Santa Clara, CA

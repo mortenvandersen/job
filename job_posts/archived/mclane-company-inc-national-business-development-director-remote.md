@@ -1,7 +1,7 @@
 ---
 company: McLane Company, Inc.
 role: National Business Development Director (Remote)
-status: inbox
+status: archived
 date_saved: 2026-04-06
 source_url: https://www.linkedin.com/jobs/view/national-business-development-director-remote-at-mclane-company-inc-4379245559?refId=I%2BQsN74zvelWw66fWjtKCA%3D%3D&trackingId=ggbieF6ZscIzgApIN5MD1g%3D%3D&position=7&pageNum=3
 location: United States

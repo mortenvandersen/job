@@ -1,7 +1,7 @@
 ---
 company: 3 Bridge Networks
 role: Vice President Finance
-status: inbox
+status: archived
 date_saved: 2026-04-06
 source_url: https://www.linkedin.com/jobs/view/vice-president-finance-at-3-bridge-networks-4380965296?refId=ur1YwNJCuAa%2FRqkBsijq6g%3D%3D&trackingId=tFUKOxEYG%2FuuGEl%2Fk17e4A%3D%3D&position=15&pageNum=0
 location: San Francisco Bay Area

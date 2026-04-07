@@ -1,7 +1,7 @@
 ---
 company: Helix
 role: Manager, Strategy and Business Operations
-status: inbox
+status: archived
 date_saved: 2026-04-06
 source_url: https://www.linkedin.com/jobs/view/manager-strategy-and-business-operations-at-helix-4387728477?refId=qyMITyRfxT%2BcmY3Ag1iB6g%3D%3D&trackingId=W7czfGX3IUVZQCtOeu7R3w%3D%3D&position=9&pageNum=1
 location: San Mateo, CA
