@@ -1585,33 +1585,74 @@ function closeSettings()  {
   clearMsg(document.getElementById('pat-status'));
 }
 
-// ── Mark role as Applied ─────────────────────────────────────────────────────
+// ── Mark role as Applied — single atomic commit via Trees API ────────────────
 async function markApplied(e, id) {
   e.stopPropagation();
   const role = liveData.roles.find(r => r.id === id);
   if (!role) return;
   if (!confirm(`Mark "${role.company} — ${role.role}" as Applied?`)) return;
-  if (!getToken()) { alert('No GitHub token — open ⚙ Settings first.'); return; }
+  const token = getToken();
+  if (!token) { alert('No GitHub token — open ⚙ Settings first.'); return; }
 
   const btn = e.target;
   btn.disabled = true;
   btn.textContent = 'Updating…';
 
   try {
-    // 1. Update job post file — change status in frontmatter
-    const { content: fileContent, sha: fSha } = await ghGetText(role.file);
-    const updatedContent = fileContent.replace(/^status: \S+/m, 'status: applied');
-    await ghPut(role.file, updatedContent, `Mark ${role.company} — ${role.role} as applied`, fSha);
+    const api = 'https://api.github.com/repos/mortenvandersen/job';
+    const authHeaders = { 'Authorization': `token ${token}` };
 
-    // 2. Update pipeline.json
-    const { content: pipeline, sha: pSha } = await ghGet('pipeline.json');
+    // 1. Read job post file and pipeline.json in parallel (raw to avoid base64 issues)
+    const [fileRes, pipelineRes] = await Promise.all([
+      fetch(`${api}/contents/${role.file}`, { headers: { ...authHeaders, 'Accept': 'application/vnd.github.v3.raw' } }),
+      fetch(`${api}/contents/pipeline.json`, { headers: { ...authHeaders, 'Accept': 'application/vnd.github.v3.raw' } }),
+    ]);
+    if (!fileRes.ok) throw new Error(`Could not read ${role.file} (${fileRes.status})`);
+    if (!pipelineRes.ok) throw new Error(`Could not read pipeline.json (${pipelineRes.status})`);
+
+    const fileContent = await fileRes.text();
+    const pipeline = JSON.parse(await pipelineRes.text());
+
+    // 2. Prepare updated content
+    const updatedFile = fileContent.replace(/^status: \S+/m, 'status: applied');
     const idx = pipeline.roles.findIndex(r => r.id === id);
-    if (idx >= 0) {
-      pipeline.roles[idx].status = 'applied';
-    }
+    if (idx >= 0) pipeline.roles[idx].status = 'applied';
     pipeline.last_updated = new Date().toISOString().split('T')[0];
-    await ghPut('pipeline.json', JSON.stringify(pipeline, null, 2),
-      `Mark ${role.company} — ${role.role} as applied`, pSha);
+
+    // 3. Get current branch tip and base tree
+    const refRes = await fetch(`${api}/git/ref/heads/main`, { headers: authHeaders });
+    const refData = await refRes.json();
+    const baseSha = refData.object.sha;
+    const commitRes = await fetch(`${api}/git/commits/${baseSha}`, { headers: authHeaders });
+    const commitData = await commitRes.json();
+
+    // 4. Build tree with both file changes
+    const treeEntries = [
+      { path: role.file, mode: '100644', type: 'blob', content: updatedFile },
+      { path: 'pipeline.json', mode: '100644', type: 'blob', content: JSON.stringify(pipeline, null, 2) },
+    ];
+
+    // 5. Create tree, commit, and update ref
+    const newTreeRes = await fetch(`${api}/git/trees`, {
+      method: 'POST',
+      headers: { ...authHeaders, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ base_tree: commitData.tree.sha, tree: treeEntries }),
+    });
+    const newTree = await newTreeRes.json();
+
+    const label = `Mark ${role.company} — ${role.role} as applied`;
+    const newCommitRes = await fetch(`${api}/git/commits`, {
+      method: 'POST',
+      headers: { ...authHeaders, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ message: label, tree: newTree.sha, parents: [baseSha] }),
+    });
+    const newCommit = await newCommitRes.json();
+
+    await fetch(`${api}/git/refs/heads/main`, {
+      method: 'PATCH',
+      headers: { ...authHeaders, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ sha: newCommit.sha }),
+    });
 
     liveData = pipeline;
     expandedId = null;
