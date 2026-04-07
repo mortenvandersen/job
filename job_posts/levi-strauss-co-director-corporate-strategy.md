@@ -1,98 +1,18 @@
----
-company: Levi Strauss & Co.
-role: Director, Corporate Strategy
-status: assessed
-date_saved: 2026-04-06
-date_assessed: 2026-04-07
-source_url: https://www.linkedin.com/jobs/view/director-corporate-strategy-at-levi-strauss-co-4220568818?refId=Aea%2B5X36oGokLrKi60MsQA%3D%3D&trackingId=ucQZ6qFPqg9VCubHA%2BZdXA%3D%3D&position=2&pageNum=0
-location: San Francisco, CA
-salary: $200,000 - $245,000
-role_fit_score: 3.75
-candidate_fit_score: 3
-recommendation: Yes with flags — apply, functional fit is strong
----
-
-# Levi Strauss & Co. — Director, Corporate Strategy
-
-## Job Description
-
-Calling all originals: At Levi Strauss & Co., you can be yourself — and be part of something bigger. We’re a company of people who like to forge our own path and leave the world better than we found it. Who believe that what makes us different makes us stronger. So add your voice. Make an impact. Find your fit — and your future.
-
-LS&Co. is at a pivotal moment — evolving a 170-year-old icon into a DTC-first, performance-driven enterprise. We’re looking for a strategy leader to work directly with the Vice President of Strategy & the CEO’s Office to help shape enterprise priorities and drive execution on the initiatives that matter most.
-
-This is a high-visibility, high-impact role centered around on enterprise strategy, executive-decision making and measurable business performance.
-
-About The Job
-
-Your work will span core areas:
-
- Enterprise Strategy & Planning 
-
-Lead long-term (SBP) and annual strategic planning processes across your function of focus Drive deep dives on priority topics (e.g., Men’s growth strategy, store segmentation strategy, summer diagnostic) Work directly with senior leaders across Commercial, Marketing, Product, Supply Chain, and Finance Conduct analysis and synthesize data to answer critical business questions; develop frameworks, insights, and recommendations. Build business cases, define success metrics, and track performance Monitor industry and competitive trends to inform strategic recommendations.  Translate strategy into clear priorities, trade-offs, and execution plans
-
-High-Impact Initiative Leadership 
-
-Serve as project lead for complex, cross-functional initiatives from diagnosis through implementation e.g., Core Never Out of Stock Initiative Collaborate with internal and external stakeholders to define objectives, structure workstreams, and drive alignment and outcomes.  
-
-Executive & Board-Level Support 
-
-Support Executive operating rhythms, including leadership meetings, agendas, and materials Develop clear, compelling executive communications, including Board materials and C-suite presentations Synthesize complex analysis into crisp narratives and recommendations 
-
-About You
-
-8+ years of relevant experience, including at least 2 years in management consulting or a corporate strategy/internal consulting role.  Experience leading complex, cross-functional initiatives with senior stakeholders Strong analytical skills with the ability to structure ambiguous problems and synthesize insights Advanced Excel and PowerPoint skills; comfort building models and executive-level narratives Experience in consumer, retail, apparel, or supply chain-heavy environments is a plus Excellent verbal and written communication skills; executive presence and comfort working with senior leaders.  Bachelor’s degree required; MBA preferred but not required 
-
-This is a hybrid position based in our San Francisco, CA headquarters. You will be expected in office 3 days per week typically Tuesday-Thursday. Note, time in office can vary depending on business needs.
-
-The expected starting salary range for this role is $200,000-$245,000 per year. We may ultimately pay more or less than the posted range based on the location of the role. The amount a particular employee will earn within the salary range will be based on factors such as relevant education, qualifications, performance and business needs.
-
-Levi Strauss & Co. (LS&Co.) offers a total rewards package that includes base pay, incentive plans, 401(k) matching, paid leave, health insurance, product discounts, and more designed to help you and your family stay healthy, meet your financial goals, and balance the demands of your work and personal life. Available benefits and incentive compensation vary depending upon the specifics of the role; details relating to a specific role will be made available upon request. Read more about our benefits here.
-
-LS&Co. is an affirmative action and equal employment opportunity employer. We welcome and value people from diverse cultures, backgrounds, and experiences to make LS&Co. a collective success.
-
-EOE M/F/Disability/Vets
-
-LOCATION
-
-San Francisco, CA, USA
-
-FULL TIME/PART TIME
-
-Full time
-
-FILL DATE
-
-This position is expected to be filled by 03/30/2026.
-
-Current LS&Co Employees, apply via your Workday account.
-
----
-
-## Fit Assessment
-
-**Deal-breakers**: None.
-
-| Dimension | Score | Notes |
-|---|---|---|
-| A. Role Type | 5/5 | Director of Corporate Strategy — core target, direct VP/CEO's Office exposure |
-| B. Industry | 2/5 | Apparel/consumer goods (Tier 3) — no direct background |
-| C. Company Stage | 3/5 | Large established enterprise (170-year-old brand) undergoing DTC pivot — stable, not declining |
-| D. Scope & Seniority | 4/5 | Director level, works directly with VP Strategy + CEO's Office; high visibility, real mandate |
-| E. Compensation | 4/5 | $200K–$245K base — at floor to well above floor |
-
-**Role Fit Score**: 3.75 / 5 — Yes with flags
-**Candidate Fit Score**: 3 / 5 — Moderate — meets all core requirements (8+ years, strategy background, executive-level work). Missing: consumer/retail/apparel industry experience (listed as a plus but will be a visible gap). MBA preferred but not required.
-**Recommendation**: Yes with flags — apply. The functional fit is strong; the industry gap is real but framed correctly (B2B SaaS → DTC/consumer is a stretch, but cross-industry strategy is the explicit sell).
-
-**Trajectory value**: Strong for credentials — a Director of Corp Strategy role with CEO's Office access at a major brand is resume-building. But apparel is Tier 3; stay eyes-open on industry direction.
-
-**Gaps & flags**:
-- 🟡 No consumer/retail/apparel experience — the "plus" becomes a visible differentiator against candidates who have it
-- 🟡 MBA preferred — not held
-- 🟡 Levi's is a large enterprise; GM or growth-stage ownership won't come from this role directly
-
-**Strongest angles — what to emphasize if applying**:
-- 8+ years of strategy leadership at VP level — meets the seniority bar cleanly
-- DTC pivot / transformation context: Labster went through a major transformation (450→150 employees, shift to profitability); mirrors Levi's DTC evolution
-- Cross-functional initiative leadership: OKRs, strategic planning, quarterly business reviews — directly applicable
-- Board-level communications and investor relations experience — valued at the executive level
+{
+  "name": "levi-strauss-co-director-corporate-strategy.md",
+  "path": "job_posts/levi-strauss-co-director-corporate-strategy.md",
+  "sha": "0f643c2bde48e7742e6378ecc98b18f9ba1f7ca1",
+  "size": 7031,
+  "url": "https://api.github.com/repos/mortenvandersen/job/contents/job_posts/levi-strauss-co-director-corporate-strategy.md?ref=main",
+  "html_url": "https://github.com/mortenvandersen/job/blob/main/job_posts/levi-strauss-co-director-corporate-strategy.md",
+  "git_url": "https://api.github.com/repos/mortenvandersen/job/git/blobs/0f643c2bde48e7742e6378ecc98b18f9ba1f7ca1",
+  "download_url": "https://raw.githubusercontent.com/mortenvandersen/job/main/job_posts/levi-strauss-co-director-corporate-strategy.md?token=B65XCQDIQB5GFB57PU2DAADJ2VQBHAA",
+  "type": "file",
+  "content": "LS0tCmNvbXBhbnk6IExldmkgU3RyYXVzcyAmIENvLgpyb2xlOiBEaXJlY3Rv\nciwgQ29ycG9yYXRlIFN0cmF0ZWd5CnN0YXR1czogYXNzZXNzZWQKZGF0ZV9z\nYXZlZDogMjAyNi0wNC0wNgpkYXRlX2Fzc2Vzc2VkOiAyMDI2LTA0LTA3CnNv\ndXJjZV91cmw6IGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9qb2JzL3ZpZXcv\nZGlyZWN0b3ItY29ycG9yYXRlLXN0cmF0ZWd5LWF0LWxldmktc3RyYXVzcy1j\nby00MjIwNTY4ODE4P3JlZklkPUFlYSUyQjVYMzZvR29rTHJLaTYwTXNRQSUz\nRCUzRCZ0cmFja2luZ0lkPXVjUVo2cUZQcWc5VkN1YkhBJTJCWmRYQSUzRCUz\nRCZwb3NpdGlvbj0yJnBhZ2VOdW09MApsb2NhdGlvbjogU2FuIEZyYW5jaXNj\nbywgQ0EKc2FsYXJ5OiAkMjAwLDAwMCAtICQyNDUsMDAwCnJvbGVfZml0X3Nj\nb3JlOiAzLjc1CmNhbmRpZGF0ZV9maXRfc2NvcmU6IDMKcmVjb21tZW5kYXRp\nb246IFllcyB3aXRoIGZsYWdzIOKAlCBhcHBseSwgZnVuY3Rpb25hbCBmaXQg\naXMgc3Ryb25nCi0tLQoKIyBMZXZpIFN0cmF1c3MgJiBDby4g4oCUIERpcmVj\ndG9yLCBDb3Jwb3JhdGUgU3RyYXRlZ3kKCiMjIEpvYiBEZXNjcmlwdGlvbgoK\nQ2FsbGluZyBhbGwgb3JpZ2luYWxzOiBBdCBMZXZpIFN0cmF1c3MgJiBDby4s\nIHlvdSBjYW4gYmUgeW91cnNlbGYg4oCUIGFuZCBiZSBwYXJ0IG9mIHNvbWV0\naGluZyBiaWdnZXIuIFdl4oCZcmUgYSBjb21wYW55IG9mIHBlb3BsZSB3aG8g\nbGlrZSB0byBmb3JnZSBvdXIgb3duIHBhdGggYW5kIGxlYXZlIHRoZSB3b3Js\nZCBiZXR0ZXIgdGhhbiB3ZSBmb3VuZCBpdC4gV2hvIGJlbGlldmUgdGhhdCB3\naGF0IG1ha2VzIHVzIGRpZmZlcmVudCBtYWtlcyB1cyBzdHJvbmdlci4gU28g\nYWRkIHlvdXIgdm9pY2UuIE1ha2UgYW4gaW1wYWN0LiBGaW5kIHlvdXIgZml0\nIOKAlCBhbmQgeW91ciBmdXR1cmUuCgpMUyZDby4gaXMgYXQgYSBwaXZvdGFs\nIG1vbWVudCDigJQgZXZvbHZpbmcgYSAxNzAteWVhci1vbGQgaWNvbiBpbnRv\nIGEgRFRDLWZpcnN0LCBwZXJmb3JtYW5jZS1kcml2ZW4gZW50ZXJwcmlzZS4g\nV2XigJlyZSBsb29raW5nIGZvciBhIHN0cmF0ZWd5IGxlYWRlciB0byB3b3Jr\nIGRpcmVjdGx5IHdpdGggdGhlIFZpY2UgUHJlc2lkZW50IG9mIFN0cmF0ZWd5\nICYgdGhlIENFT+KAmXMgT2ZmaWNlIHRvIGhlbHAgc2hhcGUgZW50ZXJwcmlz\nZSBwcmlvcml0aWVzIGFuZCBkcml2ZSBleGVjdXRpb24gb24gdGhlIGluaXRp\nYXRpdmVzIHRoYXQgbWF0dGVyIG1vc3QuCgpUaGlzIGlzIGEgaGlnaC12aXNp\nYmlsaXR5LCBoaWdoLWltcGFjdCByb2xlIGNlbnRlcmVkIGFyb3VuZCBvbiBl\nbnRlcnByaXNlIHN0cmF0ZWd5LCBleGVjdXRpdmUtZGVjaXNpb24gbWFraW5n\nIGFuZCBtZWFzdXJhYmxlIGJ1c2luZXNzIHBlcmZvcm1hbmNlLgoKQWJvdXQg\nVGhlIEpvYgoKWW91ciB3b3JrIHdpbGwgc3BhbiBjb3JlIGFyZWFzOgoKIEVu\ndGVycHJpc2UgU3RyYXRlZ3kgJiBQbGFubmluZyAKCkxlYWQgbG9uZy10ZXJt\nIChTQlApIGFuZCBhbm51YWwgc3RyYXRlZ2ljIHBsYW5uaW5nIHByb2Nlc3Nl\ncyBhY3Jvc3MgeW91ciBmdW5jdGlvbiBvZiBmb2N1cyBEcml2ZSBkZWVwIGRp\ndmVzIG9uIHByaW9yaXR5IHRvcGljcyAoZS5nLiwgTWVu4oCZcyBncm93dGgg\nc3RyYXRlZ3ksIHN0b3JlIHNlZ21lbnRhdGlvbiBzdHJhdGVneSwgc3VtbWVy\nIGRpYWdub3N0aWMpIFdvcmsgZGlyZWN0bHkgd2l0aCBzZW5pb3IgbGVhZGVy\ncyBhY3Jvc3MgQ29tbWVyY2lhbCwgTWFya2V0aW5nLCBQcm9kdWN0LCBTdXBw\nbHkgQ2hhaW4sIGFuZCBGaW5hbmNlIENvbmR1Y3QgYW5hbHlzaXMgYW5kIHN5\nbnRoZXNpemUgZGF0YSB0byBhbnN3ZXIgY3JpdGljYWwgYnVzaW5lc3MgcXVl\nc3Rpb25zOyBkZXZlbG9wIGZyYW1ld29ya3MsIGluc2lnaHRzLCBhbmQgcmVj\nb21tZW5kYXRpb25zLuKAr0J1aWxkIGJ1c2luZXNzIGNhc2VzLCBkZWZpbmUg\nc3VjY2VzcyBtZXRyaWNzLCBhbmQgdHJhY2sgcGVyZm9ybWFuY2UgTW9uaXRv\nciBpbmR1c3RyeSBhbmQgY29tcGV0aXRpdmUgdHJlbmRzIHRvIGluZm9ybSBz\ndHJhdGVnaWMgcmVjb21tZW5kYXRpb25zLuKAryBUcmFuc2xhdGUgc3RyYXRl\nZ3kgaW50byBjbGVhciBwcmlvcml0aWVzLCB0cmFkZS1vZmZzLCBhbmQgZXhl\nY3V0aW9uIHBsYW5zCgpIaWdoLUltcGFjdCBJbml0aWF0aXZlIExlYWRlcnNo\naXAgCgpTZXJ2ZSBhcyBwcm9qZWN0IGxlYWQgZm9yIGNvbXBsZXgsIGNyb3Nz\nLWZ1bmN0aW9uYWwgaW5pdGlhdGl2ZXMgZnJvbSBkaWFnbm9zaXMgdGhyb3Vn\naCBpbXBsZW1lbnRhdGlvbiBlLmcuLCBDb3JlIE5ldmVyIE91dCBvZiBTdG9j\nayBJbml0aWF0aXZlIENvbGxhYm9yYXRlIHdpdGggaW50ZXJuYWwgYW5kIGV4\ndGVybmFsIHN0YWtlaG9sZGVycyB0byBkZWZpbmUgb2JqZWN0aXZlcywgc3Ry\ndWN0dXJlIHdvcmtzdHJlYW1zLCBhbmQgZHJpdmUgYWxpZ25tZW50IGFuZCBv\ndXRjb21lcy7igK8gCgpFeGVjdXRpdmUgJiBCb2FyZC1MZXZlbCBTdXBwb3J0\nIAoKU3VwcG9ydCBFeGVjdXRpdmUgb3BlcmF0aW5nIHJoeXRobXMsIGluY2x1\nZGluZyBsZWFkZXJzaGlwIG1lZXRpbmdzLCBhZ2VuZGFzLCBhbmQgbWF0ZXJp\nYWxzIERldmVsb3AgY2xlYXIsIGNvbXBlbGxpbmcgZXhlY3V0aXZlIGNvbW11\nbmljYXRpb25zLCBpbmNsdWRpbmcgQm9hcmQgbWF0ZXJpYWxzIGFuZCBDLXN1\naXRlIHByZXNlbnRhdGlvbnMgU3ludGhlc2l6ZSBjb21wbGV4IGFuYWx5c2lz\nIGludG8gY3Jpc3AgbmFycmF0aXZlcyBhbmQgcmVjb21tZW5kYXRpb25zIAoK\nQWJvdXQgWW91Cgo4KyB5ZWFycyBvZiByZWxldmFudCBleHBlcmllbmNlLCBp\nbmNsdWRpbmcgYXQgbGVhc3QgMiB5ZWFycyBpbiBtYW5hZ2VtZW50IGNvbnN1\nbHRpbmcgb3IgYSBjb3Jwb3JhdGUgc3RyYXRlZ3kvaW50ZXJuYWwgY29uc3Vs\ndGluZyByb2xlLuKAryBFeHBlcmllbmNlIGxlYWRpbmcgY29tcGxleCwgY3Jv\nc3MtZnVuY3Rpb25hbCBpbml0aWF0aXZlcyB3aXRoIHNlbmlvciBzdGFrZWhv\nbGRlcnMgU3Ryb25nIGFuYWx5dGljYWwgc2tpbGxzIHdpdGggdGhlIGFiaWxp\ndHkgdG8gc3RydWN0dXJlIGFtYmlndW91cyBwcm9ibGVtcyBhbmQgc3ludGhl\nc2l6ZSBpbnNpZ2h0cyBBZHZhbmNlZCBFeGNlbCBhbmQgUG93ZXJQb2ludCBz\na2lsbHM7IGNvbWZvcnQgYnVpbGRpbmcgbW9kZWxzIGFuZCBleGVjdXRpdmUt\nbGV2ZWwgbmFycmF0aXZlcyBFeHBlcmllbmNlIGluIGNvbnN1bWVyLCByZXRh\naWwsIGFwcGFyZWwsIG9yIHN1cHBseSBjaGFpbi1oZWF2eSBlbnZpcm9ubWVu\ndHMgaXMgYSBwbHVzIEV4Y2VsbGVudCB2ZXJiYWwgYW5kIHdyaXR0ZW4gY29t\nbXVuaWNhdGlvbiBza2lsbHM7IGV4ZWN1dGl2ZSBwcmVzZW5jZSBhbmQgY29t\nZm9ydCB3b3JraW5nIHdpdGggc2VuaW9yIGxlYWRlcnMu4oCvIEJhY2hlbG9y\n4oCZcyBkZWdyZWUgcmVxdWlyZWQ7IE1CQSBwcmVmZXJyZWQgYnV0IG5vdCBy\nZXF1aXJlZCAKClRoaXMgaXMgYSBoeWJyaWQgcG9zaXRpb24gYmFzZWQgaW4g\nb3VyIFNhbiBGcmFuY2lzY28sIENBIGhlYWRxdWFydGVycy4gWW91IHdpbGwg\nYmUgZXhwZWN0ZWQgaW4gb2ZmaWNlIDMgZGF5cyBwZXIgd2VlayB0eXBpY2Fs\nbHkgVHVlc2RheS1UaHVyc2RheS4gTm90ZSwgdGltZSBpbiBvZmZpY2UgY2Fu\nIHZhcnkgZGVwZW5kaW5nIG9uIGJ1c2luZXNzIG5lZWRzLgoKVGhlIGV4cGVj\ndGVkIHN0YXJ0aW5nIHNhbGFyeSByYW5nZSBmb3IgdGhpcyByb2xlIGlzICQy\nMDAsMDAwLSQyNDUsMDAwIHBlciB5ZWFyLiBXZSBtYXkgdWx0aW1hdGVseSBw\nYXkgbW9yZSBvciBsZXNzIHRoYW4gdGhlIHBvc3RlZCByYW5nZSBiYXNlZCBv\nbiB0aGUgbG9jYXRpb24gb2YgdGhlIHJvbGUuIFRoZSBhbW91bnQgYSBwYXJ0\naWN1bGFyIGVtcGxveWVlIHdpbGwgZWFybiB3aXRoaW4gdGhlIHNhbGFyeSBy\nYW5nZSB3aWxsIGJlIGJhc2VkIG9uIGZhY3RvcnMgc3VjaCBhcyByZWxldmFu\ndCBlZHVjYXRpb24sIHF1YWxpZmljYXRpb25zLCBwZXJmb3JtYW5jZSBhbmQg\nYnVzaW5lc3MgbmVlZHMuCgpMZXZpIFN0cmF1c3MgJiBDby4gKExTJkNvLikg\nb2ZmZXJzIGEgdG90YWwgcmV3YXJkcyBwYWNrYWdlIHRoYXQgaW5jbHVkZXMg\nYmFzZSBwYXksIGluY2VudGl2ZSBwbGFucywgNDAxKGspIG1hdGNoaW5nLCBw\nYWlkIGxlYXZlLCBoZWFsdGggaW5zdXJhbmNlLCBwcm9kdWN0IGRpc2NvdW50\ncywgYW5kIG1vcmUgZGVzaWduZWQgdG8gaGVscCB5b3UgYW5kIHlvdXIgZmFt\naWx5IHN0YXkgaGVhbHRoeSwgbWVldCB5b3VyIGZpbmFuY2lhbCBnb2Fscywg\nYW5kIGJhbGFuY2UgdGhlIGRlbWFuZHMgb2YgeW91ciB3b3JrIGFuZCBwZXJz\nb25hbCBsaWZlLiBBdmFpbGFibGUgYmVuZWZpdHMgYW5kIGluY2VudGl2ZSBj\nb21wZW5zYXRpb24gdmFyeSBkZXBlbmRpbmcgdXBvbiB0aGUgc3BlY2lmaWNz\nIG9mIHRoZSByb2xlOyBkZXRhaWxzIHJlbGF0aW5nIHRvIGEgc3BlY2lmaWMg\ncm9sZSB3aWxsIGJlIG1hZGUgYXZhaWxhYmxlIHVwb24gcmVxdWVzdC4gUmVh\nZCBtb3JlIGFib3V0IG91ciBiZW5lZml0cyBoZXJlLgoKTFMmQ28uIGlzIGFu\nIGFmZmlybWF0aXZlIGFjdGlvbiBhbmQgZXF1YWwgZW1wbG95bWVudCBvcHBv\ncnR1bml0eSBlbXBsb3llci4gV2Ugd2VsY29tZSBhbmQgdmFsdWUgcGVvcGxl\nIGZyb20gZGl2ZXJzZSBjdWx0dXJlcywgYmFja2dyb3VuZHMsIGFuZCBleHBl\ncmllbmNlcyB0byBtYWtlIExTJkNvLiBhIGNvbGxlY3RpdmUgc3VjY2Vzcy4K\nCkVPRSBNL0YvRGlzYWJpbGl0eS9WZXRzCgpMT0NBVElPTgoKU2FuIEZyYW5j\naXNjbywgQ0EsIFVTQQoKRlVMTCBUSU1FL1BBUlQgVElNRQoKRnVsbCB0aW1l\nCgpGSUxMIERBVEUKClRoaXMgcG9zaXRpb24gaXMgZXhwZWN0ZWQgdG8gYmUg\nZmlsbGVkIGJ5IDAzLzMwLzIwMjYuCgpDdXJyZW50IExTJkNvIEVtcGxveWVl\ncywgYXBwbHkgdmlhIHlvdXIgV29ya2RheSBhY2NvdW50LgoKLS0tCgojIyBG\naXQgQXNzZXNzbWVudAoKKipEZWFsLWJyZWFrZXJzKio6IE5vbmUuCgp8IERp\nbWVuc2lvbiB8IFNjb3JlIHwgTm90ZXMgfAp8LS0tfC0tLXwtLS18CnwgQS4g\nUm9sZSBUeXBlIHwgNS81IHwgRGlyZWN0b3Igb2YgQ29ycG9yYXRlIFN0cmF0\nZWd5IOKAlCBjb3JlIHRhcmdldCwgZGlyZWN0IFZQL0NFTydzIE9mZmljZSBl\neHBvc3VyZSB8CnwgQi4gSW5kdXN0cnkgfCAyLzUgfCBBcHBhcmVsL2NvbnN1\nbWVyIGdvb2RzIChUaWVyIDMpIOKAlCBubyBkaXJlY3QgYmFja2dyb3VuZCB8\nCnwgQy4gQ29tcGFueSBTdGFnZSB8IDMvNSB8IExhcmdlIGVzdGFibGlzaGVk\nIGVudGVycHJpc2UgKDE3MC15ZWFyLW9sZCBicmFuZCkgdW5kZXJnb2luZyBE\nVEMgcGl2b3Qg4oCUIHN0YWJsZSwgbm90IGRlY2xpbmluZyB8CnwgRC4gU2Nv\ncGUgJiBTZW5pb3JpdHkgfCA0LzUgfCBEaXJlY3RvciBsZXZlbCwgd29ya3Mg\nZGlyZWN0bHkgd2l0aCBWUCBTdHJhdGVneSArIENFTydzIE9mZmljZTsgaGln\naCB2aXNpYmlsaXR5LCByZWFsIG1hbmRhdGUgfAp8IEUuIENvbXBlbnNhdGlv\nbiB8IDQvNSB8ICQyMDBL4oCTJDI0NUsgYmFzZSDigJQgYXQgZmxvb3IgdG8g\nd2VsbCBhYm92ZSBmbG9vciB8CgoqKlJvbGUgRml0IFNjb3JlKio6IDMuNzUg\nLyA1IOKAlCBZZXMgd2l0aCBmbGFncwoqKkNhbmRpZGF0ZSBGaXQgU2NvcmUq\nKjogMyAvIDUg4oCUIE1vZGVyYXRlIOKAlCBtZWV0cyBhbGwgY29yZSByZXF1\naXJlbWVudHMgKDgrIHllYXJzLCBzdHJhdGVneSBiYWNrZ3JvdW5kLCBleGVj\ndXRpdmUtbGV2ZWwgd29yaykuIE1pc3Npbmc6IGNvbnN1bWVyL3JldGFpbC9h\ncHBhcmVsIGluZHVzdHJ5IGV4cGVyaWVuY2UgKGxpc3RlZCBhcyBhIHBsdXMg\nYnV0IHdpbGwgYmUgYSB2aXNpYmxlIGdhcCkuIE1CQSBwcmVmZXJyZWQgYnV0\nIG5vdCByZXF1aXJlZC4KKipSZWNvbW1lbmRhdGlvbioqOiBZZXMgd2l0aCBm\nbGFncyDigJQgYXBwbHkuIFRoZSBmdW5jdGlvbmFsIGZpdCBpcyBzdHJvbmc7\nIHRoZSBpbmR1c3RyeSBnYXAgaXMgcmVhbCBidXQgZnJhbWVkIGNvcnJlY3Rs\neSAoQjJCIFNhYVMg4oaSIERUQy9jb25zdW1lciBpcyBhIHN0cmV0Y2gsIGJ1\ndCBjcm9zcy1pbmR1c3RyeSBzdHJhdGVneSBpcyB0aGUgZXhwbGljaXQgc2Vs\nbCkuCgoqKlRyYWplY3RvcnkgdmFsdWUqKjogU3Ryb25nIGZvciBjcmVkZW50\naWFscyDigJQgYSBEaXJlY3RvciBvZiBDb3JwIFN0cmF0ZWd5IHJvbGUgd2l0\naCBDRU8ncyBPZmZpY2UgYWNjZXNzIGF0IGEgbWFqb3IgYnJhbmQgaXMgcmVz\ndW1lLWJ1aWxkaW5nLiBCdXQgYXBwYXJlbCBpcyBUaWVyIDM7IHN0YXkgZXll\ncy1vcGVuIG9uIGluZHVzdHJ5IGRpcmVjdGlvbi4KCioqR2FwcyAmIGZsYWdz\nKio6Ci0g8J+foSBObyBjb25zdW1lci9yZXRhaWwvYXBwYXJlbCBleHBlcmll\nbmNlIOKAlCB0aGUgInBsdXMiIGJlY29tZXMgYSB2aXNpYmxlIGRpZmZlcmVu\ndGlhdG9yIGFnYWluc3QgY2FuZGlkYXRlcyB3aG8gaGF2ZSBpdAotIPCfn6Eg\nTUJBIHByZWZlcnJlZCDigJQgbm90IGhlbGQKLSDwn5+hIExldmkncyBpcyBh\nIGxhcmdlIGVudGVycHJpc2U7IEdNIG9yIGdyb3d0aC1zdGFnZSBvd25lcnNo\naXAgd29uJ3QgY29tZSBmcm9tIHRoaXMgcm9sZSBkaXJlY3RseQoKKipTdHJv\nbmdlc3QgYW5nbGVzIOKAlCB3aGF0IHRvIGVtcGhhc2l6ZSBpZiBhcHBseWlu\nZyoqOgotIDgrIHllYXJzIG9mIHN0cmF0ZWd5IGxlYWRlcnNoaXAgYXQgVlAg\nbGV2ZWwg4oCUIG1lZXRzIHRoZSBzZW5pb3JpdHkgYmFyIGNsZWFubHkKLSBE\nVEMgcGl2b3QgLyB0cmFuc2Zvcm1hdGlvbiBjb250ZXh0OiBMYWJzdGVyIHdl\nbnQgdGhyb3VnaCBhIG1ham9yIHRyYW5zZm9ybWF0aW9uICg0NTDihpIxNTAg\nZW1wbG95ZWVzLCBzaGlmdCB0byBwcm9maXRhYmlsaXR5KTsgbWlycm9ycyBM\nZXZpJ3MgRFRDIGV2b2x1dGlvbgotIENyb3NzLWZ1bmN0aW9uYWwgaW5pdGlh\ndGl2ZSBsZWFkZXJzaGlwOiBPS1JzLCBzdHJhdGVnaWMgcGxhbm5pbmcsIHF1\nYXJ0ZXJseSBidXNpbmVzcyByZXZpZXdzIOKAlCBkaXJlY3RseSBhcHBsaWNh\nYmxlCi0gQm9hcmQtbGV2ZWwgY29tbXVuaWNhdGlvbnMgYW5kIGludmVzdG9y\nIHJlbGF0aW9ucyBleHBlcmllbmNlIOKAlCB2YWx1ZWQgYXQgdGhlIGV4ZWN1\ndGl2ZSBsZXZlbAo=\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/mortenvandersen/job/contents/job_posts/levi-strauss-co-director-corporate-strategy.md?ref=main",
+    "git": "https://api.github.com/repos/mortenvandersen/job/git/blobs/0f643c2bde48e7742e6378ecc98b18f9ba1f7ca1",
+    "html": "https://github.com/mortenvandersen/job/blob/main/job_posts/levi-strauss-co-director-corporate-strategy.md"
+  }
+}
