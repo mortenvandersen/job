@@ -1,6 +1,6 @@
 {
   "_description": "Layer 0 filter rules — pure keyword/rule matching, zero LLM tokens. Edit these to tune what gets through the scrape filter.",
-  "_last_updated": "2026-04-06",
+  "_last_updated": "2026-04-07",
   "title_allowlist": [
     "strategy",
     "bizops",
@@ -23,7 +23,8 @@
     "strategy & operations",
     "strategy and operations",
     "planning and business",
-    "growth strategy"
+    "growth strategy",
+    "mergers & acquisitions"
   ],
   "title_blocklist": [
     "account executive",
@@ -102,7 +103,9 @@
     "berkeley",
     "san jose",
     "santa clara",
-    "cupertino"
+    "cupertino",
+    "united states",
+    "usa"
   ],
   "remote_keywords": [
     "remote",
