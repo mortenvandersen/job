@@ -1269,7 +1269,7 @@ function renderTable() {
             ${role.status_notes ? `<span class="status-notes">⚠ ${role.status_notes}</span>` : ''}
             ${role.status === 'inbox' ? `<button class="btn-assess" onclick="assessRole(event,'${role.id}')">⚡ Assess this role</button>` : ''}
             <div style="margin-left:auto;display:flex;gap:8px">
-              ${role.status === 'progressing' ? `<button class="btn-applied" onclick="markApplied(event,'${role.id}')">✅ Just Applied</button>` : ''}
+              ${'assessed,progressing'.includes(role.status) ? `<button class="btn-applied" onclick="markApplied(event,'${role.id}')">✅ Just Applied</button>` : ''}
               ${'inbox,assessed,progressing'.includes(role.status) ? `<button class="btn-archive" onclick="archiveRole(event,'${role.id}')">📦 Archive</button>` : ''}
               <button class="btn-danger" onclick="deleteRole(event,'${role.id}')">🗑 Delete</button>
             </div>
