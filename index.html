@@ -1451,18 +1451,22 @@ function clearMsg(el) {
 async function ghGet(path) {
   const token = getToken();
   const headers = token ? { 'Authorization': `token ${token}` } : {};
-  // Get file metadata (for SHA) and raw content in parallel
-  const [metaRes, rawRes] = await Promise.all([
-    fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${path}`, { headers }),
-    fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${path}`, {
+  const res = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${path}`, { headers });
+  if (!res.ok) throw new Error(`Could not read ${path} (${res.status})`);
+  const data = await res.json();
+  if (!data.sha) throw new Error(`No SHA returned for ${path}`);
+  let content;
+  if (data.content) {
+    content = JSON.parse(decodeURIComponent(escape(atob(data.content.replace(/\n/g, '')))));
+  } else {
+    // Fallback: fetch raw if base64 content not provided
+    const rawRes = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${path}`, {
       headers: { ...headers, 'Accept': 'application/vnd.github.v3.raw' },
-    }),
-  ]);
-  if (!metaRes.ok) throw new Error(`Could not read ${path} (${metaRes.status})`);
-  if (!rawRes.ok) throw new Error(`Could not read ${path} raw (${rawRes.status})`);
-  const meta = await metaRes.json();
-  const content = JSON.parse(await rawRes.text());
-  return { content, sha: meta.sha };
+    });
+    if (!rawRes.ok) throw new Error(`Could not read ${path} raw (${rawRes.status})`);
+    content = JSON.parse(await rawRes.text());
+  }
+  return { content, sha: data.sha };
 }
 
 async function ghPut(path, content, message, sha) {
@@ -1759,16 +1763,21 @@ function logStep(text, type) {
 async function ghGetText(path) {
   const token = getToken();
   const headers = token ? { 'Authorization': `token ${token}` } : {};
-  const [metaRes, rawRes] = await Promise.all([
-    fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${path}`, { headers }),
-    fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${path}`, {
+  const res = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${path}`, { headers });
+  if (!res.ok) throw new Error(`Could not read ${path} (${res.status})`);
+  const data = await res.json();
+  if (!data.sha) throw new Error(`No SHA returned for ${path}`);
+  let content;
+  if (data.content) {
+    content = decodeURIComponent(escape(atob(data.content.replace(/\n/g, ''))));
+  } else {
+    const rawRes = await fetch(`https://api.github.com/repos/mortenvandersen/job/contents/${path}`, {
       headers: { ...headers, 'Accept': 'application/vnd.github.v3.raw' },
-    }),
-  ]);
-  if (!metaRes.ok) throw new Error(`Could not read ${path} (${metaRes.status})`);
-  if (!rawRes.ok) throw new Error(`Could not read ${path} raw (${rawRes.status})`);
-  const meta = await metaRes.json();
-  return { content: await rawRes.text(), sha: meta.sha };
+    });
+    if (!rawRes.ok) throw new Error(`Could not read ${path} raw (${rawRes.status})`);
+    content = await rawRes.text();
+  }
+  return { content, sha: data.sha };
 }
 
 // ── Claude API call ───────────────────────────────────────────────────────────
