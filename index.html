@@ -1323,6 +1323,17 @@ document.querySelectorAll('th[data-col]').forEach(th => {
 
 // ── Dynamic data: fetch live pipeline.json, fall back to embedded ────────────
 async function loadLiveData() {
+  // Prefer GitHub Contents API (no CDN caching) when token is available
+  const token = getToken();
+  if (token) {
+    try {
+      const r = await fetch('https://api.github.com/repos/mortenvandersen/job/contents/pipeline.json', {
+        headers: { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3.raw' },
+      });
+      if (r.ok) return await r.json();
+    } catch(e) {}
+  }
+  // Fall back to raw (may be CDN-cached up to 5 min)
   try {
     const r = await fetch('https://raw.githubusercontent.com/mortenvandersen/job/main/pipeline.json?_=' + Date.now());
     if (r.ok) return await r.json();
@@ -2007,12 +2018,32 @@ async function archiveBatch(ids) {
   }
 
   // Add updated pipeline.json
+  const pipelineStr = JSON.stringify(pipeline, null, 2);
   treeEntries.push({
     path: 'pipeline.json',
     mode: '100644',
     type: 'blob',
-    content: JSON.stringify(pipeline, null, 2),
+    content: pipelineStr,
   });
+
+  // 5b. Also update index.html embedded PIPELINE_DATA so reloads are consistent
+  const indexRes = await fetch(`${api}/contents/index.html`, {
+    headers: { 'Authorization': `token ${token}` },
+  });
+  if (indexRes.ok) {
+    const indexData = await indexRes.json();
+    const indexRaw = decodeURIComponent(escape(atob(indexData.content.replace(/\n/g, ''))));
+    const updatedIndex = indexRaw.replace(
+      /^const PIPELINE_DATA = .+$/m,
+      'const PIPELINE_DATA = ' + JSON.stringify(pipeline) + ';'
+    );
+    treeEntries.push({
+      path: 'index.html',
+      mode: '100644',
+      type: 'blob',
+      content: updatedIndex,
+    });
+  }
 
   // 6. Create new tree
   const newTreeRes = await fetch(`${api}/git/trees`, {
