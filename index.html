@@ -1964,15 +1964,19 @@ async function archiveBatch(ids) {
   const REPO = 'mortenvandersen/job';
   const api  = `https://api.github.com/repos/${REPO}`;
 
-  // 1. Read all inbox files in parallel
+  // 1. Read all job post files in parallel (use raw to avoid base64 decode issues)
   const reads = await Promise.all(ids.map(async id => {
     const role = liveData.roles.find(r => r.id === id);
-    if (!role) return { id, role: null, fileData: null };
-    const res = await fetch(`${api}/contents/${role.file}`, {
-      headers: { 'Authorization': `token ${token}` },
-    });
-    const fileData = res.ok ? await res.json() : null;
-    return { id, role, fileData };
+    if (!role) return { id, role: null, rawContent: null };
+    try {
+      const res = await fetch(`${api}/contents/${role.file}`, {
+        headers: { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3.raw' },
+      });
+      const rawContent = res.ok ? await res.text() : null;
+      return { id, role, rawContent };
+    } catch(e) {
+      return { id, role, rawContent: null };
+    }
   }));
 
   // 2. Update pipeline.json in memory
@@ -2000,14 +2004,13 @@ async function archiveBatch(ids) {
   // 5. Build tree entries: add archived files, delete old files, update pipeline.json
   const treeEntries = [];
 
-  for (const { id, role, fileData } of reads) {
+  for (const { id, role, rawContent } of reads) {
     if (!role) continue;
     const newPath = `job_posts/archived/${id}.md`;
 
-    if (fileData) {
+    if (rawContent) {
       // Add updated file at archived path
-      const raw = atob(fileData.content.replace(/\n/g, ''));
-      const updated = raw.replace(/^status: \S+/m, 'status: archived');
+      const updated = rawContent.replace(/^status: \S+/m, 'status: archived');
       treeEntries.push({ path: newPath, mode: '100644', type: 'blob', content: updated });
 
       // Delete old file (if it moved) by setting sha: null
