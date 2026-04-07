@@ -1,11 +1,15 @@
 ---
 company: Amazon
 role: Principal, Corporate Development, Corporate Development
-status: inbox
+status: assessed
 date_saved: 2026-04-06
+date_assessed: 2026-04-07
 source_url: https://www.linkedin.com/jobs/view/principal-corporate-development-corporate-development-at-amazon-4245159935?refId=qyMITyRfxT%2BcmY3Ag1iB6g%3D%3D&trackingId=dOm9A5kHigKiAtmsLuw3Fg%3D%3D&position=4&pageNum=1
 location: San Francisco, CA
-salary: 
+salary: $174,200 - $288,100
+role_fit_score: 4.3
+candidate_fit_score: 3
+recommendation: Apply with strong framing — ideally with warm intro
 ---
 
 # Amazon — Principal, Corporate Development, Corporate Development
@@ -54,3 +58,35 @@ Our compensation reflects the cost of labor across several US geographic markets
 Company - Amazon.com Services LLC
 
 Job ID: A2976725
+
+---
+
+## Fit Assessment
+
+**Deal-breakers**: None.
+
+| Dimension | Score | Notes |
+|---|---|---|
+| A. Role Type | 5/5 | Pure corp dev — M&A, investments, strategic partnerships. Core target. |
+| B. Industry | 4/5 | Amazon Devices & Services (consumer tech, Tier 2) |
+| C. Company Stage | 3/5 | Mega-enterprise; stable but specific BU focus on international consumer tech |
+| D. Scope & Seniority | 4/5 | Principal level — high visibility, works with senior leadership, real deal ownership |
+| E. Compensation | 5/5 | $174K–$288K base + equity; top end well above floor |
+
+**Role Fit Score**: 4.30 / 5 — Yes with flags
+**Candidate Fit Score**: 3 / 5 — Moderate — real deal experience (5 LEGO Ventures investments, UbiSim acquisition, Labster divestiture + 2 funding rounds), but total deal volume is lighter than a typical Amazon Corp Dev hire who comes from an IB or PE background with 10–15+ transactions. The "first chair M&A lifecycle" preferred experience is partially met.
+**Recommendation**: Apply with strong framing — ideally with warm intro. Cold apply to Amazon Corp Dev is a tough screen; deal experience is real but needs to be packaged tightly.
+
+**Trajectory value**: Strong — corp dev at Amazon is a high-credential role and builds toward corp dev leadership or GM of a strategic function.
+
+**Gaps & flags**:
+- 🟡 Deal volume: 5 investments + 1 acquisition + 1 divestiture. Solid but lighter than a banker with 20+ deals
+- 🟡 Preferred MBA — not held; international experience covers the other preferred qualifier
+- 🟡 "International consumer technology" focus — no direct consumer tech industry experience
+
+**Strongest angles — what to emphasize if applying**:
+- LEGO Ventures: 5 investments as lead investor, including EdTech and gaming — directly analogous to corp dev at Amazon Devices
+- UbiSim acquisition: full lifecycle ownership (diligence → integration → 25% synergy capture)
+- Labster divestiture: active deal experience, current
+- $100M fundraising: credibility with investors and deal structuring
+- International background (Zurich, London, SF, Taiwan) matches the role's international focus

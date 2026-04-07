@@ -1,7 +1,7 @@
 ---
 company: DeWinter Group
 role: Finance & Strategy Leader 38505
-status: inbox
+status: archived
 date_saved: 2026-04-06
 source_url: https://www.linkedin.com/jobs/view/finance-strategy-leader-38505-at-dewinter-group-4395715895?refId=3KHOTwcgc2eYapwFrVVRUA%3D%3D&trackingId=hC0wH0nLQ6r2k49Yrph%2Bvw%3D%3D&position=24&pageNum=0
 location: Palo Alto, CA

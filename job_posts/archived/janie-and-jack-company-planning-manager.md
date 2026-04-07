@@ -1,7 +1,7 @@
 ---
 company: Janie and Jack
 role: Company Planning Manager
-status: inbox
+status: archived
 date_saved: 2026-04-06
 source_url: https://www.linkedin.com/jobs/view/company-planning-manager-at-janie-and-jack-4385744828?refId=ByT0a%2FGn5gOyjByeKFebYA%3D%3D&trackingId=9iLXp1QBoobJJagEqxJTHg%3D%3D&position=5&pageNum=2
 location: San Francisco Bay Area

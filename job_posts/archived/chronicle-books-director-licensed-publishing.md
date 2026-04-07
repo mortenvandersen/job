@@ -1,7 +1,7 @@
 ---
 company: Chronicle Books
 role: Director, Licensed Publishing
-status: inbox
+status: archived
 date_saved: 2026-04-06
 source_url: https://www.linkedin.com/jobs/view/director-licensed-publishing-at-chronicle-books-4392479871?refId=HI2wxvGv37VrM3P2b8fKdA%3D%3D&trackingId=aXqulJrN4nwA%2Bx9WNpnnkQ%3D%3D&position=5&pageNum=1
 location: San Francisco, CA
