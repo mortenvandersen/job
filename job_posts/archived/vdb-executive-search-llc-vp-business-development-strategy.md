@@ -1,0 +1,19 @@
+---
+company: VDB Executive Search, LLC
+role: VP Business Development & Strategy
+status: archived
+date_saved: 2026-04-08
+source_url: https://www.linkedin.com/jobs/view/vp-business-development-strategy-at-vdb-executive-search-llc-4397774706?refId=Wqm%2FXZz28Iqhl0WFcK8MFA%3D%3D&trackingId=QykAlujSRgPDQx4v1YMD6A%3D%3D&position=11&pageNum=0
+location: United States
+salary: 
+---
+
+# VDB Executive Search, LLC — VP Business Development & Strategy
+
+## Job Description
+
+As VP Business Development & Strategy, you will play a pivotal leadership role in driving DYSECO Inc.’s growth and value creation in the United States market. You will be responsible for leading strategic business development initiatives, refining the company’s commercial and operational strategy, and coordinating execution across a growing organization.
+Working closely with executive leadership, you will help scale DYSECO’s U.S. operations from an early-stage presence, build sustainable revenue streams, expand market reach, and establish scalable business processes. This role is central to strengthening DYSECO’s market position and delivering long-term enterprise value.
+The CompanyDYSECO provides specialized smart building management technologies that optimize indoor climate control in environments requiring precise temperature and humidity regulation. With a strong track record serving leading cultural institutions such as the Van Gogh Museum and the Los Angeles County Museum of Art (LACMA), the company is expanding its impact and operations across the United States.
+Key ResponsibilitiesLead and execute DYSECO’s U.S. business development strategy with a strong focus on value creation, revenue growth, and market expansion.Identify, evaluate, and pursue strategic opportunities, partnerships, and new market verticals to accelerate company growth.Refine and further develop the company’s business strategy, ensuring alignment between strategic objectives and operational execution.Coordinate execution across business functions, ensuring efficient implementation of strategic initiatives.Support the scaling of the organization from its current two-person team by guiding recruitment, team development, and organizational structure expansion.Develop scalable processes, commercial models, and operational frameworks to support sustainable growth and to reduce founder-dependence.Represent DYSECO in client engagements, industry events, and strategic discussions to enhance brand visibility and credibility.Foster a culture of accountability, innovation, and operational excellence within the growing organization.
+Qualifications & Experience Senior Leadership Experience: Minimum 10+ years of progressive leadership experience in business development, strategy, corporate growth, or executive management roles, preferably within technology and building systems.Scaling & Value Creation: Demonstrated success scaling early- or growth-stage organizations, building high-performing teams, establishing processes, and driving measurable enterprise value through revenue growth, market expansion, strategic partnerships, and operational transformation.Strategic & Commercial Expertise: Proven ability to develop and execute business strategies, commercial models, and go-to-market initiatives in complex or technical markets.Financial Acumen: Strong financial and analytical capabilities, including experience working with performance metrics, growth targets, and value-based incentive structures.Stakeholder Management: Excellent communication and relationship-building skills, with the ability to engage effectively with clients, partners, investors, and executive leadership.Entrepreneurial Mindset: Ability to operate effectively in an early-stage environment requiring initiative, adaptability, and hands-on execution.Network: Strong network within the cultural sector and museums is a plus.

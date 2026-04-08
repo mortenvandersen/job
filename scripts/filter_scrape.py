@@ -271,6 +271,10 @@ def main():
             if slug in existing_ids:
                 print(f"  SKIP (exists): {company} — {title}")
                 continue
+            # Skip if already added in this batch (CSV may contain the same job twice)
+            if any(p["slug"] == slug for p in passed):
+                print(f"  SKIP (dupe in batch): {company} — {title}")
+                continue
 
             passed.append({
                 "company": company,
