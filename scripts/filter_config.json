@@ -1,6 +1,6 @@
 {
   "_description": "Layer 0 filter rules — pure keyword/rule matching, zero LLM tokens. Edit these to tune what gets through the scrape filter.",
-  "_last_updated": "2026-04-07",
+  "_last_updated": "2026-04-08",
   "title_allowlist": [
     "strategy",
     "bizops",
@@ -95,7 +95,10 @@
     "restaurant",
     "multi unit restaurant",
     "political engagement",
-    "political campaign"
+    "political campaign",
+    "lending",
+    "people partner",
+    "people business partner"
   ],
   "industry_blocklist": [
     "oil",
