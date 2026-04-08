@@ -2042,8 +2042,12 @@ async function archiveBatch(ids) {
     }
   }));
 
-  // 2. Update pipeline.json in memory
-  const { content: pipeline, sha: pSha } = await ghGet('pipeline.json');
+  // 2. Read pipeline.json via raw API (avoid ghGet's base64 decode issues)
+  const pipelineRes = await fetch(`${api}/contents/pipeline.json`, {
+    headers: { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3.raw' },
+  });
+  if (!pipelineRes.ok) throw new Error(`Could not read pipeline.json (${pipelineRes.status})`);
+  const pipeline = JSON.parse(await pipelineRes.text());
   for (const { id, role } of reads) {
     if (!role) continue;
     const idx = pipeline.roles.findIndex(r => r.id === id);
