@@ -1,7 +1,7 @@
 ---
 company: New Classrooms
 role: Vice President of Technology
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/vice-president-of-technology-at-new-classrooms-4391317705?refId=FJpFNwZEbIcz7DXm2YxlwA%3D%3D&trackingId=NmB2lJjGoDBsdKjIrniFdw%3D%3D&position=18&pageNum=0
 location: United States

@@ -1,7 +1,7 @@
 ---
 company: Ping Identity
 role: Chief of Staff, CRO
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/chief-of-staff-cro-at-ping-identity-4385541102?refId=Wqm%2FXZz28Iqhl0WFcK8MFA%3D%3D&trackingId=nAtqV%2FvOzzcdSwpobFiJng%3D%3D&position=8&pageNum=0
 location: United States

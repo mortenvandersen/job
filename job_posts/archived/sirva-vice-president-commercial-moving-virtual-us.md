@@ -1,7 +1,7 @@
 ---
 company: Sirva
 role: Vice President, Commercial Moving (Virtual, US)
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/vice-president-commercial-moving-virtual-us-at-sirva-4385709394?refId=Wqm%2FXZz28Iqhl0WFcK8MFA%3D%3D&trackingId=rt05f4X3r7CBdXZIQimgxw%3D%3D&position=22&pageNum=0
 location: United States

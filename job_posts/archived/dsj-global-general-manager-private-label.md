@@ -1,7 +1,7 @@
 ---
 company: DSJ Global
 role: General Manager- Private Label
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/general-manager-private-label-at-dsj-global-4395870553?refId=eU5UCYjpkt2HKk7%2Fp5%2Fgcg%3D%3D&trackingId=7%2F%2BXxpiLI0gNFuRDoIbb2w%3D%3D&position=12&pageNum=2
 location: United States

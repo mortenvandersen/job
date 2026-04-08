@@ -1,7 +1,7 @@
 ---
 company: IntelliPro
 role: General Manager, North America
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/general-manager-north-america-at-intellipro-4390374281?refId=Wqm%2FXZz28Iqhl0WFcK8MFA%3D%3D&trackingId=C2n2m0x10VuiXalheMZAYg%3D%3D&position=4&pageNum=0
 location: United States

@@ -1,7 +1,7 @@
 ---
 company: National 4-H Council
 role: Development Director
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/development-director-at-national-4-h-council-4389083411?refId=xMimzX5Vs4w1IX3TcxlQoQ%3D%3D&trackingId=LWGSqoFrUNOUzgYruz%2BGqw%3D%3D&position=13&pageNum=6
 location: United States

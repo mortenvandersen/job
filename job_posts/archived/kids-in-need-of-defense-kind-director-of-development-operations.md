@@ -1,7 +1,7 @@
 ---
 company: Kids in Need of Defense (KIND)
 role: Director of Development Operations
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/director-of-development-operations-at-kids-in-need-of-defense-kind-4392759874?refId=I%2BQsN74zvelWw66fWjtKCA%3D%3D&trackingId=YH4Tpk%2FK5q%2FG5XwjkkLTWQ%3D%3D&position=3&pageNum=3
 location: United States

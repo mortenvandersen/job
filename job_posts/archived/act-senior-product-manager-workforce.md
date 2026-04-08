@@ -1,7 +1,7 @@
 ---
 company: ACT
 role: Senior Product Manager, Workforce
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/senior-product-manager-workforce-at-act-4385764274?refId=n5LAMCFiBzUtEcNoS11BVQ%3D%3D&trackingId=zRN8t%2Fr9whh4qgqw58PVWQ%3D%3D&position=2&pageNum=1
 location: United States

@@ -1,7 +1,7 @@
 ---
 company: IST Management
 role: Vice President of Business Development - Legal IT Infrastructure Consultant
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/vice-president-of-business-development-legal-it-infrastructure-consultant-at-ist-management-4395464310?refId=3jWWTMNByqqYzXKIubICzw%3D%3D&trackingId=3KuVhNm3N90MKJnJXyqYJQ%3D%3D&position=21&pageNum=0
 location: United States

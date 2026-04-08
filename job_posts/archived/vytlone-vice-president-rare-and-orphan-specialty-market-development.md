@@ -1,7 +1,7 @@
 ---
 company: VytlOne
 role: Vice President, Rare and Orphan Specialty Market Development
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/vice-president-rare-and-orphan-specialty-market-development-at-vytlone-4384367987?refId=I%2BQsN74zvelWw66fWjtKCA%3D%3D&trackingId=exfPU0VeB9oFe4JGgvOmpA%3D%3D&position=18&pageNum=3
 location: United States

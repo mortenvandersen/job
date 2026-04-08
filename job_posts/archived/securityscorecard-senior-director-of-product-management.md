@@ -1,7 +1,7 @@
 ---
 company: SecurityScorecard
 role: Senior Director of Product Management
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/senior-director-of-product-management-at-securityscorecard-4391090340?refId=MndJtsQUDDpU%2FAUNoIEyxw%3D%3D&trackingId=ZWzZ6AiRTosDUheuu8yC1Q%3D%3D&position=14&pageNum=4
 location: United States

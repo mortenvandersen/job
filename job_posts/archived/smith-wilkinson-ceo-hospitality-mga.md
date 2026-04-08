@@ -1,7 +1,7 @@
 ---
 company: Smith & Wilkinson
 role: CEO, Hospitality MGA
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/ceo-hospitality-mga-at-smith-wilkinson-4390616304?refId=%2BWO1JIMzsgMy9WLTCQqNdg%3D%3D&trackingId=EvGOrb1%2FECs9%2FgEvrZV83Q%3D%3D&position=12&pageNum=1
 location: United States

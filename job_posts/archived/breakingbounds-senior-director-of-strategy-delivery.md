@@ -1,7 +1,7 @@
 ---
 company: BreakingBounds®
 role: Senior Director of Strategy & Delivery
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/senior-director-of-strategy-delivery-at-breakingbounds%C2%AE-4385050471?refId=Wqm%2FXZz28Iqhl0WFcK8MFA%3D%3D&trackingId=9h9RexpUTIDpLMZ6L%2FHOPQ%3D%3D&position=7&pageNum=0
 location: United States

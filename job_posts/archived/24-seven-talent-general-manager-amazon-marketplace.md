@@ -1,7 +1,7 @@
 ---
 company: 24 Seven Talent
 role: General Manager, Amazon Marketplace
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/general-manager-amazon-marketplace-at-24-seven-talent-4393066419?refId=Wqm%2FXZz28Iqhl0WFcK8MFA%3D%3D&trackingId=9RHhnhqqAnA4WsKQc1scHg%3D%3D&position=19&pageNum=0
 location: United States

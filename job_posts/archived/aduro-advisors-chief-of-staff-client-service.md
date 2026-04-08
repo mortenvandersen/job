@@ -1,7 +1,7 @@
 ---
 company: Aduro Advisors
 role: Chief of Staff, Client Service
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/chief-of-staff-client-service-at-aduro-advisors-4353216606?refId=Wqm%2FXZz28Iqhl0WFcK8MFA%3D%3D&trackingId=d67KJiNHoA6%2F%2F8rTN9Wg0w%3D%3D&position=12&pageNum=0
 location: United States

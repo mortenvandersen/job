@@ -1,7 +1,7 @@
 ---
 company: Bridge Professional Services
 role: Senior Director. People Business Partners
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/senior-director-people-business-partners-at-bridge-professional-services-4397368719?refId=Wqm%2FXZz28Iqhl0WFcK8MFA%3D%3D&trackingId=r4lFtvXtUpXxA14EbE6NXQ%3D%3D&position=17&pageNum=0
 location: United States

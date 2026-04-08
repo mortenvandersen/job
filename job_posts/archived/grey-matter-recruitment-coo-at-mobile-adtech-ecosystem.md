@@ -1,7 +1,7 @@
 ---
 company: Grey Matter Recruitment
 role: COO at Mobile AdTech Ecosystem
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/coo-at-mobile-adtech-ecosystem-at-grey-matter-recruitment-4384466209?refId=I%2BQsN74zvelWw66fWjtKCA%3D%3D&trackingId=NROiF%2FGYnrQCm5VEYQRDeg%3D%3D&position=9&pageNum=3
 location: United States

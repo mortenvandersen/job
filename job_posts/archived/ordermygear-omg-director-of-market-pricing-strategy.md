@@ -1,7 +1,7 @@
 ---
 company: OrderMyGear (OMG)
 role: Director of Market & Pricing Strategy
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/director-of-market-pricing-strategy-at-ordermygear-omg-4390124816?refId=xMimzX5Vs4w1IX3TcxlQoQ%3D%3D&trackingId=Q%2F6ao0Dw9BKiTxt%2Bb3B7FQ%3D%3D&position=22&pageNum=6
 location: United States

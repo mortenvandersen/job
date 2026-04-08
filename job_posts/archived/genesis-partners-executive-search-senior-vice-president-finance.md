@@ -1,7 +1,7 @@
 ---
 company: Genesis Partners - Executive Search
 role: Senior Vice President Finance
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/senior-vice-president-finance-at-genesis-partners-executive-search-4385527605?refId=I%2BQsN74zvelWw66fWjtKCA%3D%3D&trackingId=n40zMnY9%2Bo%2FDxyYZI1WYgQ%3D%3D&position=10&pageNum=3
 location: United States
