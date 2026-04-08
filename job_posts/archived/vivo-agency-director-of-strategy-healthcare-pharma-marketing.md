@@ -1,7 +1,7 @@
 ---
 company: VIVO Agency
 role: Director of Strategy - Healthcare/Pharma Marketing
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/director-of-strategy-healthcare-pharma-marketing-at-vivo-agency-4395215522?refId=eU5UCYjpkt2HKk7%2Fp5%2Fgcg%3D%3D&trackingId=IPbtikj4HiHUX6FGSQx6yQ%3D%3D&position=10&pageNum=2
 location: United States

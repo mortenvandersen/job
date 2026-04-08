@@ -1,7 +1,7 @@
 ---
 company: Caribou Financial, Inc.
 role: VP, General Manager Lending
-status: inbox
+status: archived
 date_saved: 2026-04-08
 source_url: https://www.linkedin.com/jobs/view/vp-general-manager-lending-at-caribou-financial-inc-4373458543?refId=%2BWO1JIMzsgMy9WLTCQqNdg%3D%3D&trackingId=mhRb59znuC2qiA0kwaoLmw%3D%3D&position=18&pageNum=1
 location: United States
