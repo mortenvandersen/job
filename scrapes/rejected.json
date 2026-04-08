@@ -31,8 +31,7 @@
     "posted_at": "2026-04-03",
     "reasons": [
       "title_blocklist: 'engineer' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -56,28 +55,11 @@
     ]
   },
   {
-    "company": "VIVO Agency",
-    "title": "Director of Strategy - Healthcare/Pharma Marketing",
-    "posted_at": "2026-04-02",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Cypress HCM",
-    "title": "Senior Director Business Development, Mobile & Satellite Networks",
-    "posted_at": "2026-04-01",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "The Bolton Group",
     "title": "Revenue and KPI Reporting Manager",
     "posted_at": "2026-03-30",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -85,7 +67,6 @@
     "title": "Director of Business Development",
     "posted_at": "2026-04-01",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $140,000 < $200,000 floor"
     ]
   },
@@ -102,7 +83,6 @@
     "title": "Vice President, Sales",
     "posted_at": "2026-04-06",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -112,32 +92,7 @@
     "posted_at": "2026-03-30",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $160,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "Chick-fil-A Restaurants",
-    "title": "General Manager / Executive Multi Unit Restaurant Director",
-    "posted_at": "2026-04-01",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "X-Factor Consulting",
-    "title": "Director of Business Development",
-    "posted_at": "2026-03-31",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Caribou Financial, Inc.",
-    "title": "VP, General Manager Lending",
-    "posted_at": "2026-04-03",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -145,8 +100,7 @@
     "title": "Director of Business Development",
     "posted_at": "2026-03-30",
     "reasons": [
-      "description_blocklist: 'commission structure' found — likely sales/commission role",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "description_blocklist: 'commission structure' found — likely sales/commission role"
     ]
   },
   {
@@ -154,24 +108,7 @@
     "title": "Director of Business Development- Cafeteria Replacement",
     "posted_at": "2026-04-01",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $150,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "Atlas Connections",
-    "title": "Director of Business Development – Mission Critical",
-    "posted_at": "2026-04-01",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "24 Seven Talent",
-    "title": "General Manager, Amazon Marketplace",
-    "posted_at": "2026-04-01",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -179,8 +116,7 @@
     "title": "Director of Business Development",
     "posted_at": "2026-04-02",
     "reasons": [
-      "description_blocklist: 'quota-carrying' found — likely sales/commission role",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "description_blocklist: 'quota-carrying' found — likely sales/commission role"
     ]
   },
   {
@@ -188,24 +124,7 @@
     "title": "Senior Vice President, Data Centers",
     "posted_at": "2026-04-01",
     "reasons": [
-      "part_time: 'contractor' found",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Bridge Professional Services",
-    "title": "Senior Director. People Business Partners",
-    "posted_at": "2026-04-03",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Swooped",
-    "title": "Business Operations and Strategy Manager",
-    "posted_at": "2026-04-05",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "part_time: 'contractor' found"
     ]
   },
   {
@@ -217,28 +136,11 @@
     ]
   },
   {
-    "company": "VDB Executive Search, LLC",
-    "title": "VP Business Development & Strategy",
-    "posted_at": "2026-04-06",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Swooped",
-    "title": "Chief of Staff",
-    "posted_at": "2026-04-05",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "Scion Executive Search",
     "title": "Chief Customer Officer",
     "posted_at": "2026-04-01",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -246,16 +148,7 @@
     "title": "Head of Program Management",
     "posted_at": "2026-04-02",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'New York, United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Ping Identity",
-    "title": "Chief of Staff, CRO",
-    "posted_at": "2026-04-04",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -413,7 +306,6 @@
     "reasons": [
       "title_blocklist: 'engineer' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $165,000 < $200,000 floor"
     ]
   },
@@ -432,7 +324,6 @@
     "title": "Principal, Mergers & Acquisitions",
     "posted_at": "2026-03-31",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Princeton, NJ' is not remote and not in SF Bay Area"
     ]
   },
@@ -459,8 +350,7 @@
     "title": "Sr. Product Manager, Assessments",
     "posted_at": "2026-04-06",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -469,7 +359,6 @@
     "posted_at": "2026-04-03",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $120,000 < $200,000 floor"
     ]
   },
@@ -478,16 +367,7 @@
     "title": "Senior Product Manager, Enterprise",
     "posted_at": "2026-04-01",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "HealthCare Recruiters International",
-    "title": "Director, Business Development- Peptides",
-    "posted_at": "2026-04-03",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -504,8 +384,7 @@
     "title": "Chief Financial Officer – Manufacturing Exp & CPA Req | $100M+ Revenue",
     "posted_at": "2026-04-02",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -523,8 +402,7 @@
     "posted_at": "2026-04-03",
     "reasons": [
       "title_blocklist: 'sales engineer' found in title",
-      "description_blocklist: 'quota-carrying' found — likely sales/commission role",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "description_blocklist: 'quota-carrying' found — likely sales/commission role"
     ]
   },
   {
@@ -569,8 +447,7 @@
     "title": "Senior Technical Product Manager",
     "posted_at": "2026-03-31",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'California, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -580,7 +457,6 @@
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
       "part_time: 'part-time' found",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $110,000 < $200,000 floor"
     ]
   },
@@ -589,16 +465,7 @@
     "title": "Chief Financial Officer – Manufacturing Exp Req | $100M+ Revenue",
     "posted_at": "2026-04-03",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Minnesota, United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Laerdal Medical",
-    "title": "Business Development Manager, Strategic Partnerships",
-    "posted_at": "2026-04-02",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -616,7 +483,6 @@
     "title": "Board Communications Specialist",
     "posted_at": "2026-03-31",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $146,400 < $200,000 floor"
     ]
   },
@@ -633,8 +499,7 @@
     "title": "IT Operations & Cybersecurity Manager",
     "posted_at": "2026-03-30",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -644,7 +509,6 @@
     "reasons": [
       "title_blocklist: 'account manager' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $145,000 < $200,000 floor"
     ]
   },
@@ -653,8 +517,7 @@
     "title": "Lead Financial Planner",
     "posted_at": "2026-04-03",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -662,8 +525,7 @@
     "title": "TAS/FDD Senior or Manager",
     "posted_at": "2026-03-31",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'New York, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -672,7 +534,6 @@
     "posted_at": "2026-04-02",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Texas, United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $140,000 < $200,000 floor"
     ]
   },
@@ -681,8 +542,7 @@
     "title": "Financial Planning and Analysis Manager",
     "posted_at": "2026-04-02",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -691,7 +551,6 @@
     "posted_at": "2026-03-30",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $140,000 < $200,000 floor"
     ]
   },
@@ -700,7 +559,6 @@
     "title": "Digital Banking Experience and Strategy Director",
     "posted_at": "2026-04-02",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $130,000 < $200,000 floor"
     ]
   },
@@ -710,7 +568,6 @@
     "posted_at": "2026-04-03",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $160,000 < $200,000 floor"
     ]
   },
@@ -721,22 +578,6 @@
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Atherton, CA' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Kelly Science, Engineering, Technology & Telecom",
-    "title": "Director of Business Development/FSP",
-    "posted_at": "2026-03-30",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Acolad group",
-    "title": "US Sr. Business Development Director for Data Services",
-    "posted_at": "2026-04-06",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -755,7 +596,6 @@
     "posted_at": "2026-04-01",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $160,000 < $200,000 floor"
     ]
   },
@@ -765,14 +605,6 @@
     "posted_at": "2026-03-30",
     "reasons": [
       "title_blocklist: 'portfolio manager' found in title"
-    ]
-  },
-  {
-    "company": "NS Pharma, Inc.",
-    "title": "Director, Patient Services Strategy",
-    "posted_at": "2026-03-31",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -831,7 +663,6 @@
     "title": "General Manager (Integrator) – Consulting / Training Business",
     "posted_at": "2026-03-24",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $175,000 < $200,000 floor"
     ]
   },
@@ -840,8 +671,7 @@
     "title": "Content Director",
     "posted_at": "2026-03-25",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'New York, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -858,8 +688,7 @@
     "posted_at": "2026-03-12",
     "reasons": [
       "title_blocklist: 'customer success' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -867,16 +696,7 @@
     "title": "General Manager  - 5* Resort Bahamas",
     "posted_at": "2026-03-17",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $170,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "24 Seven Talent",
-    "title": "General Manager, Amazon Marketplace",
-    "posted_at": "2026-04-01",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -884,24 +704,7 @@
     "title": "Regional Vice President of Retail Operations & Sales",
     "posted_at": "2026-03-18",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Sirva",
-    "title": "Vice President, Commercial Moving (Virtual, US)",
-    "posted_at": "2026-03-20",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Bridge Professional Services",
-    "title": "Senior Director. People Business Partners",
-    "posted_at": "2026-04-03",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -913,28 +716,11 @@
     ]
   },
   {
-    "company": "VDB Executive Search, LLC",
-    "title": "VP Business Development & Strategy",
-    "posted_at": "2026-04-06",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Synapse Health",
-    "title": "Chief of Staff",
-    "posted_at": "2026-03-26",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "Imperium Global",
     "title": "Senior Vice President, Data Centers",
     "posted_at": "2026-04-01",
     "reasons": [
-      "part_time: 'contractor' found",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "part_time: 'contractor' found"
     ]
   },
   {
@@ -942,32 +728,7 @@
     "title": "Head of Program Management",
     "posted_at": "2026-04-02",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'New York, United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "BreakingBounds®",
-    "title": "Senior Director of Strategy & Delivery",
-    "posted_at": "2026-03-18",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Ping Identity",
-    "title": "Chief of Staff, CRO",
-    "posted_at": "2026-04-04",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Aduro Advisors",
-    "title": "Chief of Staff, Client Service",
-    "posted_at": "2026-03-20",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -975,16 +736,7 @@
     "title": "Chief Customer Officer",
     "posted_at": "2026-04-01",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Germer International - Pharmaceutical Recruiting",
-    "title": "Global Chief of Staff  to CEO",
-    "posted_at": "2026-03-09",
-    "reasons": [
-      "location_not_allowed: 'Florida, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -994,14 +746,6 @@
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Dallas, TX' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "IntelliPro",
-    "title": "General Manager, North America",
-    "posted_at": "2026-03-25",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -1017,8 +761,7 @@
     "title": "Regional Vice President of Operations",
     "posted_at": "2026-03-18",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -1045,14 +788,6 @@
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
       "salary_below_floor: max $120,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "Mobius Talent Global",
-    "title": "Director of Business Operations",
-    "posted_at": "2026-03-13",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -1161,8 +896,7 @@
     "title": "Account Executive",
     "posted_at": "2026-03-09",
     "reasons": [
-      "title_blocklist: 'account executive' found in title",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_blocklist: 'account executive' found in title"
     ]
   },
   {
@@ -1170,8 +904,7 @@
     "title": "Director of Artificial Intelligence",
     "posted_at": "2026-03-19",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -1201,14 +934,6 @@
       "title_allowlist: no target role keyword found in title or jobFunction",
       "description_blocklist: ' ote ' found — likely sales/commission role",
       "location_not_allowed: 'Salt Lake City Metropolitan Area' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "New Classrooms",
-    "title": "Vice President of Technology",
-    "posted_at": "2026-03-27",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -1253,7 +978,6 @@
     "title": "Head of strategy, founding member (Edtech start-up | Capital Allocation | Risk controls)",
     "posted_at": "2026-03-30",
     "reasons": [
-      "location_not_allowed: 'California, United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -1262,8 +986,7 @@
     "title": "Director of Artificial Intelligence",
     "posted_at": "2026-03-20",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -1271,8 +994,7 @@
     "title": "Director of AI",
     "posted_at": "2026-03-11",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -1280,8 +1002,7 @@
     "title": "Sr. Product Manager, Assessments",
     "posted_at": "2026-04-06",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -1290,7 +1011,6 @@
     "posted_at": "2026-04-03",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $120,000 < $200,000 floor"
     ]
   },
@@ -1299,16 +1019,7 @@
     "title": "Director of AI",
     "posted_at": "2026-03-16",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "LingoAce",
-    "title": "Senior Regional Business Development Manager (North America)",
-    "posted_at": "2026-03-20",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -1332,37 +1043,12 @@
     ]
   },
   {
-    "company": "Smith & Wilkinson",
-    "title": "CEO, Hospitality MGA",
-    "posted_at": "2026-03-25",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "Begin",
     "title": "Senior Manager, Search Innovation (SEO)",
     "posted_at": "2026-03-19",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $125,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "Factor Search",
-    "title": "Vice President Business Development - Utilities",
-    "posted_at": "2026-03-11",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "HMH",
-    "title": "Dir Sales - ELD & Intervention (West-CA)",
-    "posted_at": "2026-03-25",
-    "reasons": [
-      "location_not_allowed: 'California, United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -1370,7 +1056,6 @@
     "title": "Principal, Mergers & Acquisitions",
     "posted_at": "2026-03-31",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Princeton, NJ' is not remote and not in SF Bay Area"
     ]
   },
@@ -1383,20 +1068,11 @@
     ]
   },
   {
-    "company": "GQR",
-    "title": "Director of Business Development",
-    "posted_at": "2026-03-18",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "DRG Talent",
     "title": "Chief Operating Officer",
     "posted_at": "2026-03-30",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $160,000 < $200,000 floor"
     ]
   },
@@ -1405,8 +1081,7 @@
     "title": "Operations Manager - 119425",
     "posted_at": "2026-03-25",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -1414,40 +1089,7 @@
     "title": "Director of Business Development",
     "posted_at": "2026-03-27",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $120,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "Strategic Employment Partners (SEP)",
-    "title": "Director of Business Development",
-    "posted_at": "2026-03-23",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Chick-fil-A Restaurants",
-    "title": "General Manager / Executive Multi Unit Restaurant Director",
-    "posted_at": "2026-04-01",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Caribou Financial, Inc.",
-    "title": "VP, General Manager Lending",
-    "posted_at": "2026-04-03",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "CDC Global Solutions",
-    "title": "Director of Business Development",
-    "posted_at": "2026-03-24",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -1455,8 +1097,7 @@
     "title": "Director of Business Development",
     "posted_at": "2026-03-30",
     "reasons": [
-      "description_blocklist: 'commission structure' found — likely sales/commission role",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "description_blocklist: 'commission structure' found — likely sales/commission role"
     ]
   },
   {
@@ -1464,7 +1105,6 @@
     "title": "General Manager - Building Materials",
     "posted_at": "2026-03-09",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $190,000 < $200,000 floor"
     ]
   },
@@ -1484,24 +1124,7 @@
     "title": "Director of Business Development- Cafeteria Replacement",
     "posted_at": "2026-04-01",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $150,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "X-Factor Consulting",
-    "title": "Director of Business Development",
-    "posted_at": "2026-03-31",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "BioTalent",
-    "title": "Director of Business Development",
-    "posted_at": "2026-03-19",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -1514,21 +1137,12 @@
     ]
   },
   {
-    "company": "Canon Business Process Services",
-    "title": "Senior Director of Enterprise & Strategic Sales Initiatives",
-    "posted_at": "2026-03-27",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "The Midtown Group",
     "title": "Senior Software Engineer (.NET)",
     "posted_at": "2026-04-03",
     "reasons": [
       "title_blocklist: 'engineer' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -1541,20 +1155,11 @@
     ]
   },
   {
-    "company": "SI Professional Search LLC",
-    "title": "Chief Executive Officer",
-    "posted_at": "2026-03-18",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "Craig Bradford Associates",
     "title": "Director of Business Development",
     "posted_at": "2026-04-02",
     "reasons": [
-      "description_blocklist: 'quota-carrying' found — likely sales/commission role",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "description_blocklist: 'quota-carrying' found — likely sales/commission role"
     ]
   },
   {
@@ -1574,8 +1179,7 @@
     "posted_at": "2026-03-21",
     "reasons": [
       "title_blocklist: 'account executive' found in title",
-      "description_blocklist: 'quota-carrying' found — likely sales/commission role",
-      "location_not_allowed: 'Texas, United States' is not remote and not in SF Bay Area"
+      "description_blocklist: 'quota-carrying' found — likely sales/commission role"
     ]
   },
   {
@@ -1583,16 +1187,7 @@
     "title": "Vice President Government Affairs & Operations",
     "posted_at": "2026-03-27",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Atlas Connections",
-    "title": "Director of Business Development – Mission Critical",
-    "posted_at": "2026-04-01",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -1632,14 +1227,6 @@
     ]
   },
   {
-    "company": "Supersure",
-    "title": "Director of Business Development",
-    "posted_at": "2026-03-22",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "talentpluto",
     "title": "Customer Success Manager",
     "posted_at": "2026-03-30",
@@ -1671,16 +1258,7 @@
     "title": "Senior Product Manager, Enterprise",
     "posted_at": "2026-04-01",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Honorlock",
-    "title": "Sr. Manager, Sales Development and Revenue Enablement",
-    "posted_at": "2026-03-10",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -1689,8 +1267,7 @@
     "posted_at": "2026-03-21",
     "reasons": [
       "title_blocklist: 'marketing manager' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -1700,7 +1277,6 @@
     "reasons": [
       "title_blocklist: 'engineer' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $165,000 < $200,000 floor"
     ]
   },
@@ -1710,7 +1286,6 @@
     "posted_at": "2026-03-25",
     "reasons": [
       "title_blocklist: 'associate' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Princeton, NJ' is not remote and not in SF Bay Area"
     ]
   },
@@ -1729,7 +1304,6 @@
     "posted_at": "2026-03-27",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "seniority_blocklist: 'associate' found in seniority level"
     ]
   },
@@ -1747,16 +1321,7 @@
     "posted_at": "2026-04-03",
     "reasons": [
       "title_blocklist: 'sales engineer' found in title",
-      "description_blocklist: 'quota-carrying' found — likely sales/commission role",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "ACT",
-    "title": "Senior Product Manager, Workforce",
-    "posted_at": "2026-03-20",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "description_blocklist: 'quota-carrying' found — likely sales/commission role"
     ]
   },
   {
@@ -2056,16 +1621,7 @@
     "title": "Director of Business Development",
     "posted_at": "2026-04-01",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $140,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "Cypress HCM",
-    "title": "Senior Director Business Development, Mobile & Satellite Networks",
-    "posted_at": "2026-04-01",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -2208,27 +1764,11 @@
     ]
   },
   {
-    "company": "Iceberg",
-    "title": "Director of Business Development",
-    "posted_at": "2026-03-11",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "Omidyar Network",
     "title": "Head of Communications",
     "posted_at": "2026-03-23",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction"
-    ]
-  },
-  {
-    "company": "Pursuit",
-    "title": "Director of Business Development",
-    "posted_at": "2026-03-19",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -2272,7 +1812,6 @@
     "title": "Director of Mergers & Acquisitions- Healthcare",
     "posted_at": "2026-04-02",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Nashville Metropolitan Area' is not remote and not in SF Bay Area"
     ]
   },
@@ -2281,8 +1820,7 @@
     "title": "Director of Business Development - International",
     "posted_at": "2026-03-18",
     "reasons": [
-      "title_blocklist: 'intern' found in title",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_blocklist: 'intern' found in title"
     ]
   },
   {
@@ -2290,7 +1828,6 @@
     "title": "Senior Director Business Development (West Coast)",
     "posted_at": "2026-03-16",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $190,000 < $200,000 floor"
     ]
   },
@@ -2300,7 +1837,6 @@
     "posted_at": "2026-04-03",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $180,000 < $200,000 floor"
     ]
   },
@@ -2310,16 +1846,7 @@
     "posted_at": "2026-03-30",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $160,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "GQR",
-    "title": "Head of Business Development",
-    "posted_at": "2026-03-26",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -2332,20 +1859,11 @@
     ]
   },
   {
-    "company": "Barrington James",
-    "title": "Director of Business Development",
-    "posted_at": "2026-03-26",
-    "reasons": [
-      "location_not_allowed: 'North Carolina, United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "Zaxbys",
     "title": "Sr. Manager, Restaurant Construction",
     "posted_at": "2026-03-31",
     "reasons": [
-      "title_blocklist: 'construction' found in title",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_blocklist: 'construction' found in title"
     ]
   },
   {
@@ -2353,24 +1871,7 @@
     "title": "Director, Client Services (East Coast)",
     "posted_at": "2026-03-16",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "BAGGU",
-    "title": "Senior Digital Operations Manager",
-    "posted_at": "2026-03-09",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "DSJ Global",
-    "title": "General Manager- Private Label",
-    "posted_at": "2026-03-31",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -2378,16 +1879,7 @@
     "title": "Vice President, Sales",
     "posted_at": "2026-04-06",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $150,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "VIVO Agency",
-    "title": "Director of Strategy - Healthcare/Pharma Marketing",
-    "posted_at": "2026-04-02",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -2395,8 +1887,7 @@
     "title": "Revenue and KPI Reporting Manager",
     "posted_at": "2026-03-30",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -2404,8 +1895,7 @@
     "title": "Director of Business Development",
     "posted_at": "2026-03-30",
     "reasons": [
-      "industry_blocklist: 'gas' found",
-      "location_not_allowed: 'Michigan, United States' is not remote and not in SF Bay Area"
+      "industry_blocklist: 'gas' found"
     ]
   },
   {
@@ -2413,8 +1903,7 @@
     "title": "Enterprise Director – Veteran Affairs",
     "posted_at": "2026-03-27",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -2430,7 +1919,6 @@
     "title": "Senior New Business Development Manager",
     "posted_at": "2026-03-18",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $100,000 < $200,000 floor"
     ]
   },
@@ -2456,7 +1944,6 @@
     "title": "Director, BioPharma Account Management & Procurement",
     "posted_at": "2026-03-26",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $165,900 < $200,000 floor"
     ]
   },
@@ -2484,7 +1971,6 @@
     "title": "Director of Business Development",
     "posted_at": "2026-03-31",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -2502,8 +1988,7 @@
     "title": "Manager, Operations Performance and Data Analytics, North America",
     "posted_at": "2026-04-02",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -2616,8 +2101,7 @@
     "title": "Executive Vice President of Sales",
     "posted_at": "2026-03-10",
     "reasons": [
-      "description_blocklist: 'quota-carrying' found — likely sales/commission role",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "description_blocklist: 'quota-carrying' found — likely sales/commission role"
     ]
   },
   {
@@ -2625,8 +2109,7 @@
     "title": "National Senior Director of Maintenance, Transportation",
     "posted_at": "2026-03-24",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -2643,8 +2126,7 @@
     "title": "Sr. Manager, People Analytics",
     "posted_at": "2026-03-30",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -2657,20 +2139,11 @@
     ]
   },
   {
-    "company": "VytlOne",
-    "title": "Vice President, Rare and Orphan Specialty Market Development",
-    "posted_at": "2026-04-02",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "Axos Bank",
     "title": "First Vice President, Cyber Security",
     "posted_at": "2026-03-31",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -2678,7 +2151,6 @@
     "title": "Regional Director of Business Development",
     "posted_at": "2026-03-25",
     "reasons": [
-      "location_not_allowed: 'New Jersey, United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -2688,7 +2160,6 @@
     "posted_at": "2026-03-18",
     "reasons": [
       "description_blocklist: ' ote ' found — likely sales/commission role",
-      "location_not_allowed: 'New York, United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $175,000 < $200,000 floor"
     ]
   },
@@ -2697,8 +2168,7 @@
     "title": "Project Manager",
     "posted_at": "2026-03-11",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -2716,8 +2186,7 @@
     "posted_at": "2026-04-02",
     "reasons": [
       "title_blocklist: 'engineer' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -2725,24 +2194,7 @@
     "title": "Director of FP&A",
     "posted_at": "2026-03-31",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Grey Matter Recruitment",
-    "title": "COO at Mobile AdTech Ecosystem",
-    "posted_at": "2026-03-17",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Genesis Partners - Executive Search",
-    "title": "Senior Vice President Finance",
-    "posted_at": "2026-03-24",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -2750,24 +2202,7 @@
     "title": "Director of Business Development",
     "posted_at": "2026-03-19",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $130,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "Kids in Need of Defense (KIND)",
-    "title": "Director of Development Operations",
-    "posted_at": "2026-03-27",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Goal Solutions",
-    "title": "Vice President of Business Development",
-    "posted_at": "2026-03-24",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -2775,7 +2210,6 @@
     "title": "Director of Business Development",
     "posted_at": "2026-04-01",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $190,000 < $200,000 floor"
     ]
   },
@@ -2784,8 +2218,7 @@
     "title": "Associate Vice President Sales, Device & Equipment",
     "posted_at": "2026-04-04",
     "reasons": [
-      "title_blocklist: 'associate' found in title",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_blocklist: 'associate' found in title"
     ]
   },
   {
@@ -2795,30 +2228,6 @@
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Rochester, New York Metropolitan Area' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Kayne Anderson Rudnick",
-    "title": "Managing Director, Business Development Officer (Texas:TX, OK, & NM) - KAR",
-    "posted_at": "2026-03-26",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Kelly Science, Engineering, Technology & Telecom",
-    "title": "Director of Business Development/FSP",
-    "posted_at": "2026-03-30",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "HealthCare Recruiters International",
-    "title": "Director, Business Development- Peptides",
-    "posted_at": "2026-04-03",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -2840,19 +2249,10 @@
     ]
   },
   {
-    "company": "Kayne Anderson Rudnick",
-    "title": "Managing Director, Business Development Officer (Northern CA, WA & OR)",
-    "posted_at": "2026-03-26",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "Helix Search",
     "title": "Director of Business Development - Agency Partnerships",
     "posted_at": "2026-03-17",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $110,000 < $200,000 floor"
     ]
   },
@@ -2862,24 +2262,7 @@
     "posted_at": "2026-04-06",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $140,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "SecurityScorecard",
-    "title": "Senior Director of Product Management",
-    "posted_at": "2026-03-26",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "JMI Recruiting Services, LLC",
-    "title": "Director of Business Development – Data Center, Power Quality",
-    "posted_at": "2026-03-10",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -2888,7 +2271,6 @@
     "posted_at": "2026-03-13",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Texas, United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $135,000 < $200,000 floor"
     ]
   },
@@ -2897,8 +2279,7 @@
     "title": "AI Program Director, Data & AI Transformation",
     "posted_at": "2026-03-23",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'New York, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -2914,8 +2295,7 @@
     "title": "Director, U.S. Government Affairs",
     "posted_at": "2026-04-03",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'District of Columbia, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -2933,16 +2313,7 @@
     "title": "Director of Artificial Intelligence",
     "posted_at": "2026-03-23",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "CVS Health",
-    "title": "Small Group Business Lead Director of Sales",
-    "posted_at": "2026-03-24",
-    "reasons": [
-      "location_not_allowed: 'Colorado, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -2950,16 +2321,7 @@
     "title": "Vice President / Division Manager - Natural Gas & Thermal Power Generation",
     "posted_at": "2026-03-12",
     "reasons": [
-      "part_time: 'contractor' found",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Earned",
-    "title": "Manager, GTM Strategy and Integration",
-    "posted_at": "2026-03-16",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "part_time: 'contractor' found"
     ]
   },
   {
@@ -2968,7 +2330,6 @@
     "posted_at": "2026-03-26",
     "reasons": [
       "title_blocklist: 'customer success' found in title",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $140,000 < $200,000 floor"
     ]
   },
@@ -2977,7 +2338,6 @@
     "title": "Senior Manager Corporate Development",
     "posted_at": "2026-03-31",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -2986,8 +2346,7 @@
     "title": "Director, Strategic Program Management & Oncology Council",
     "posted_at": "2026-04-03",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -2996,7 +2355,6 @@
     "posted_at": "2026-04-06",
     "reasons": [
       "title_blocklist: 'associate' found in title",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -3005,7 +2363,6 @@
     "title": "People & Culture Mergers & Acquisitions Leader",
     "posted_at": "2026-03-25",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Raleigh-Durham-Chapel Hill Area' is not remote and not in SF Bay Area"
     ]
   },
@@ -3014,7 +2371,6 @@
     "title": "Digital Banking Experience and Strategy Director",
     "posted_at": "2026-04-02",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $130,000 < $200,000 floor"
     ]
   },
@@ -3024,14 +2380,6 @@
     "posted_at": "2026-03-23",
     "reasons": [
       "location_not_allowed: 'Greater Boston' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "SecurityScorecard",
-    "title": "Corporate Development Manager",
-    "posted_at": "2026-03-23",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -3048,7 +2396,6 @@
     "posted_at": "2026-03-16",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $180,000 < $200,000 floor"
     ]
   },
@@ -3058,8 +2405,7 @@
     "posted_at": "2026-03-27",
     "reasons": [
       "title_blocklist: 'sales director' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3067,24 +2413,7 @@
     "title": "Managing Consultant - Financial Optimization w/ OT Bonus",
     "posted_at": "2026-03-23",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $180,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "JLR North America",
-    "title": "Market Area Manager (Field- Multiple Locations)",
-    "posted_at": "2026-03-12",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Acolad group",
-    "title": "US Sr. Business Development Director for Data Services",
-    "posted_at": "2026-04-06",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -3093,7 +2422,6 @@
     "posted_at": "2026-03-13",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Georgia, United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $130,000 < $200,000 floor"
     ]
   },
@@ -3110,16 +2438,7 @@
     "title": "Client Service Manager - Energy",
     "posted_at": "2026-03-28",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $139,500 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "NS Pharma, Inc.",
-    "title": "Director, Patient Services Strategy",
-    "posted_at": "2026-03-31",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -3138,8 +2457,7 @@
     "posted_at": "2026-03-11",
     "reasons": [
       "title_blocklist: 'engineer' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3156,8 +2474,7 @@
     "posted_at": "2026-03-26",
     "reasons": [
       "title_blocklist: 'customer success' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Texas, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3165,8 +2482,7 @@
     "title": "Vice President Legal / General Counsel",
     "posted_at": "2026-03-25",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3184,8 +2500,7 @@
     "title": "Vice President, Financial Reporting and Accounting Policy",
     "posted_at": "2026-03-24",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3194,7 +2509,6 @@
     "posted_at": "2026-03-18",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $180,000 < $200,000 floor"
     ]
   },
@@ -3204,7 +2518,6 @@
     "posted_at": "2026-04-01",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $160,000 < $200,000 floor"
     ]
   },
@@ -3214,8 +2527,7 @@
     "posted_at": "2026-03-09",
     "reasons": [
       "title_blocklist: 'associate' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3223,16 +2535,7 @@
     "title": "Director of Business Development - Commercial Real Estate Due Diligence",
     "posted_at": "2026-04-02",
     "reasons": [
-      "title_blocklist: 'real estate' found in title",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "RBW Consulting",
-    "title": "Senior Business Development Director - Small global CRO",
-    "posted_at": "2026-03-26",
-    "reasons": [
-      "location_not_allowed: 'California, United States' is not remote and not in SF Bay Area"
+      "title_blocklist: 'real estate' found in title"
     ]
   },
   {
@@ -3251,16 +2554,7 @@
     "posted_at": "2026-04-02",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Texas, United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $140,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "OrderMyGear (OMG)",
-    "title": "Director of Market & Pricing Strategy",
-    "posted_at": "2026-03-25",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -3268,7 +2562,6 @@
     "title": "Enterprise Sales Leader - Large Deals",
     "posted_at": "2026-03-14",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -3277,8 +2570,7 @@
     "title": "Financial Planning and Analysis Manager",
     "posted_at": "2026-04-02",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3286,8 +2578,7 @@
     "title": "Director of Financial Planning and Analysis",
     "posted_at": "2026-03-17",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3295,8 +2586,7 @@
     "title": "Chief Financial Officer – Manufacturing Exp Req | $100M+ Revenue",
     "posted_at": "2026-04-03",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Minnesota, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3312,8 +2602,7 @@
     "title": "TAS/FDD Senior or Manager",
     "posted_at": "2026-03-31",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'New York, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3330,24 +2619,7 @@
     "posted_at": "2026-03-19",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $170,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "Omron Automation",
-    "title": "Sr Business Development Specialist - Safety Services",
-    "posted_at": "2026-03-18",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "National 4-H Council",
-    "title": "Development Director",
-    "posted_at": "2026-03-27",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -3357,7 +2629,6 @@
     "reasons": [
       "title_blocklist: 'account manager' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $145,000 < $200,000 floor"
     ]
   },
@@ -3366,8 +2637,7 @@
     "title": "Manager, Workflow & Color Compliance",
     "posted_at": "2026-03-13",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3375,8 +2645,7 @@
     "title": "Senior Account Executive",
     "posted_at": "2026-03-26",
     "reasons": [
-      "title_blocklist: 'account executive' found in title",
-      "location_not_allowed: 'New York, United States' is not remote and not in SF Bay Area"
+      "title_blocklist: 'account executive' found in title"
     ]
   },
   {
@@ -3385,7 +2654,6 @@
     "posted_at": "2026-04-03",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $160,000 < $200,000 floor"
     ]
   },
@@ -3394,8 +2662,7 @@
     "title": "Vice President Clinical Development",
     "posted_at": "2026-03-23",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3403,7 +2670,6 @@
     "title": "Director, Business Development - ADME / Toxicology",
     "posted_at": "2026-03-25",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -3413,7 +2679,6 @@
     "posted_at": "2026-03-30",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $140,000 < $200,000 floor"
     ]
   },
@@ -3446,20 +2711,11 @@
     ]
   },
   {
-    "company": "Charles River Laboratories",
-    "title": "Senior Business Development Executive",
-    "posted_at": "2026-04-01",
-    "reasons": [
-      "location_not_allowed: 'California, United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "CultureMill Recruiting",
     "title": "Data Scientist",
     "posted_at": "2026-03-27",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3467,8 +2723,7 @@
     "title": "Director, Corporate Accounts (IV Therapy) - Central",
     "posted_at": "2026-03-19",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Oklahoma, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3476,8 +2731,7 @@
     "title": "Training and QA Optimization Strategist",
     "posted_at": "2026-04-03",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3485,8 +2739,7 @@
     "title": "Director, Corporate Accounts (IV Therapy) - Central",
     "posted_at": "2026-03-19",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Illinois, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3504,8 +2757,7 @@
     "title": "Director, Corporate Accounts (IV Therapy) - Central",
     "posted_at": "2026-03-19",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Tennessee, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3513,8 +2765,7 @@
     "title": "Director, Corporate Accounts (IV Therapy) - Central",
     "posted_at": "2026-03-19",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Missouri, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3523,8 +2774,7 @@
     "posted_at": "2026-03-19",
     "reasons": [
       "title_blocklist: 'marketing manager' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3532,8 +2782,7 @@
     "title": "Lead Advisor, Southeast Region - KAR",
     "posted_at": "2026-03-25",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3541,8 +2790,7 @@
     "title": "Insurance Operations Manager",
     "posted_at": "2026-03-31",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3551,8 +2799,7 @@
     "posted_at": "2026-03-31",
     "reasons": [
       "title_blocklist: 'engineer' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3572,7 +2819,6 @@
     "reasons": [
       "title_blocklist: 'marketing manager' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $130,000 < $200,000 floor"
     ]
   },
@@ -3581,8 +2827,7 @@
     "title": "(Senior) Medical Director",
     "posted_at": "2026-03-26",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3599,8 +2844,7 @@
     "title": "Scientific Content Specialist",
     "posted_at": "2026-04-03",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3608,8 +2852,7 @@
     "title": "Business Development Manager",
     "posted_at": "2026-03-30",
     "reasons": [
-      "industry_blocklist: 'gas' found",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "industry_blocklist: 'gas' found"
     ]
   },
   {
@@ -3617,8 +2860,7 @@
     "title": "Chief Financial Officer – Manufacturing Exp & CPA Req | $100M+ Revenue",
     "posted_at": "2026-04-02",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3626,8 +2868,7 @@
     "title": "Director, Transaction Advisory Services",
     "posted_at": "2026-04-02",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3636,7 +2877,6 @@
     "posted_at": "2026-03-11",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $132,000 < $200,000 floor"
     ]
   },
@@ -3646,8 +2886,7 @@
     "posted_at": "2026-04-02",
     "reasons": [
       "title_blocklist: 'engineer' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3655,8 +2894,7 @@
     "title": "Financial Planning and Analysis Manager",
     "posted_at": "2026-03-12",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3680,8 +2918,7 @@
     "title": "340B Regulatory Manager",
     "posted_at": "2026-03-26",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3689,8 +2926,7 @@
     "title": "Senior Technical Product Manager",
     "posted_at": "2026-03-31",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'California, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3708,8 +2944,7 @@
     "posted_at": "2026-03-17",
     "reasons": [
       "title_blocklist: 'account manager' found in title",
-      "part_time: 'contractor' found",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "part_time: 'contractor' found"
     ]
   },
   {
@@ -3727,8 +2962,7 @@
     "title": "Clinical Trial Manager",
     "posted_at": "2026-03-20",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3737,8 +2971,7 @@
     "posted_at": "2026-03-24",
     "reasons": [
       "title_blocklist: 'controller' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3751,20 +2984,11 @@
     ]
   },
   {
-    "company": "Pivotal",
-    "title": "Senior Program Strategy Manager, Political Engagement",
-    "posted_at": "2026-03-19",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "Clipboard",
     "title": "Finance Operations Lead",
     "posted_at": "2026-03-20",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $140,000 < $200,000 floor"
     ]
   },
@@ -3773,8 +2997,7 @@
     "title": "Director, Quality",
     "posted_at": "2026-03-25",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3792,8 +3015,7 @@
     "posted_at": "2026-03-12",
     "reasons": [
       "title_blocklist: 'controller' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3801,16 +3023,7 @@
     "title": "HCM Manager",
     "posted_at": "2026-03-20",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Laerdal Medical",
-    "title": "Business Development Manager, Strategic Partnerships",
-    "posted_at": "2026-04-02",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3826,7 +3039,6 @@
     "title": "Board Communications Specialist",
     "posted_at": "2026-03-31",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $146,400 < $200,000 floor"
     ]
   },
@@ -3845,8 +3057,7 @@
     "title": "IT Operations & Cybersecurity Manager",
     "posted_at": "2026-03-30",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3854,8 +3065,7 @@
     "title": "Lead Financial Planner",
     "posted_at": "2026-04-03",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3865,7 +3075,6 @@
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
       "part_time: 'part-time' found",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $110,000 < $200,000 floor"
     ]
   },
@@ -3883,7 +3092,6 @@
     "posted_at": "2026-03-17",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -3892,8 +3100,7 @@
     "title": "Senior Manager, Email + SMS",
     "posted_at": "2026-03-16",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3902,7 +3109,6 @@
     "posted_at": "2026-03-27",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $145,000 < $200,000 floor"
     ]
   },
@@ -3920,8 +3126,7 @@
     "title": "Principal Systems Studies Engineer, Data Centers",
     "posted_at": "2026-04-01",
     "reasons": [
-      "title_blocklist: 'engineer' found in title",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_blocklist: 'engineer' found in title"
     ]
   },
   {
@@ -3931,7 +3136,6 @@
     "reasons": [
       "title_blocklist: 'account manager' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $185,000 < $200,000 floor"
     ]
   },
@@ -3941,14 +3145,6 @@
     "posted_at": "2026-04-03",
     "reasons": [
       "location_not_allowed: 'Boston, MA' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Vitesse Systems",
-    "title": "Business Development Executive",
-    "posted_at": "2026-03-26",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -3966,8 +3162,7 @@
     "posted_at": "2026-03-24",
     "reasons": [
       "title_blocklist: 'engineer' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -3994,8 +3189,7 @@
     "posted_at": "2026-03-18",
     "reasons": [
       "title_blocklist: 'controller' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Nevada, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4014,8 +3208,7 @@
     "posted_at": "2026-04-02",
     "reasons": [
       "title_blocklist: 'account manager' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Ohio, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4025,7 +3218,6 @@
     "reasons": [
       "title_blocklist: 'sales manager' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Oklahoma, United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $130,000 < $200,000 floor"
     ]
   },
@@ -4036,7 +3228,6 @@
     "reasons": [
       "title_blocklist: 'sales manager' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Texas, United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $130,000 < $200,000 floor"
     ]
   },
@@ -4047,7 +3238,6 @@
     "reasons": [
       "title_blocklist: 'sales manager' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Missouri, United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $130,000 < $200,000 floor"
     ]
   },
@@ -4058,7 +3248,6 @@
     "reasons": [
       "title_blocklist: 'sales manager' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'New York, United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $140,000 < $200,000 floor"
     ]
   },
@@ -4085,8 +3274,7 @@
     "title": "Account Executive, Staffing",
     "posted_at": "2026-03-11",
     "reasons": [
-      "title_blocklist: 'account executive' found in title",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_blocklist: 'account executive' found in title"
     ]
   },
   {
@@ -4095,8 +3283,7 @@
     "posted_at": "2026-04-02",
     "reasons": [
       "title_blocklist: 'associate' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4105,8 +3292,7 @@
     "posted_at": "2026-03-13",
     "reasons": [
       "title_blocklist: 'marketing manager' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4133,8 +3319,7 @@
     "title": "Core Compliance Manager (Commercial Property & Casualty Insurance)",
     "posted_at": "2026-03-13",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4143,7 +3328,6 @@
     "posted_at": "2026-03-13",
     "reasons": [
       "title_blocklist: 'analyst' found in title",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $135,000 < $200,000 floor"
     ]
   },
@@ -4194,7 +3378,6 @@
     "posted_at": "2026-03-24",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $155,000 < $200,000 floor"
     ]
   },
@@ -4213,8 +3396,7 @@
     "posted_at": "2026-03-19",
     "reasons": [
       "title_blocklist: 'sales manager' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Ohio, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4222,8 +3404,7 @@
     "title": "Medical Director",
     "posted_at": "2026-04-03",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4239,8 +3420,7 @@
     "title": "Business Intelligence Consultant",
     "posted_at": "2026-04-01",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4265,8 +3445,7 @@
     "title": "Legal Services Director",
     "posted_at": "2026-03-09",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'California, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4276,7 +3455,6 @@
     "reasons": [
       "title_blocklist: 'analyst' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $111,400 < $200,000 floor"
     ]
   },
@@ -4295,8 +3473,7 @@
     "title": "New Logo Acquisition - Hunter",
     "posted_at": "2026-03-19",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Florida, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4321,8 +3498,7 @@
     "title": "Principal PLM Architect",
     "posted_at": "2026-03-27",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4331,8 +3507,7 @@
     "posted_at": "2026-03-24",
     "reasons": [
       "title_blocklist: 'developer' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4352,7 +3527,6 @@
     "reasons": [
       "title_blocklist: 'engineer' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'California, United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $180,000 < $200,000 floor"
     ]
   },
@@ -4375,14 +3549,6 @@
     ]
   },
   {
-    "company": "ClassLink",
-    "title": "Director of Sales, K–12 (California Territory)",
-    "posted_at": "2026-04-07",
-    "reasons": [
-      "location_not_allowed: 'California, United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "C-SUITE ASSISTANTS",
     "title": "Executive Assistant/Office Manager (ROOM FOR GROWTH TO COS)",
     "posted_at": "2026-04-06",
@@ -4398,8 +3564,7 @@
     "posted_at": "2026-04-07",
     "reasons": [
       "title_blocklist: 'account manager' found in title",
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4436,8 +3601,7 @@
     "title": "Director, Corporate Accounts (IV Therapy) - Central",
     "posted_at": "2026-04-06",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Oklahoma, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4464,8 +3628,7 @@
     "title": "Director, Corporate Accounts (IV Therapy) - Central",
     "posted_at": "2026-04-06",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Missouri, United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4474,7 +3637,6 @@
     "posted_at": "2026-04-06",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'Tennessee, United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $175,000 < $200,000 floor"
     ]
   },
@@ -4500,7 +3662,6 @@
     "title": "Key Account Director",
     "posted_at": "2026-04-07",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $120,000 < $200,000 floor"
     ]
   },
@@ -4509,8 +3670,7 @@
     "title": "Clinical Trial Manager",
     "posted_at": "2026-04-07",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4518,16 +3678,7 @@
     "title": "Director of Business Development",
     "posted_at": "2026-04-07",
     "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $140,000 < $200,000 floor"
-    ]
-  },
-  {
-    "company": "Courtyard.io",
-    "title": "Finance & Strategy Manager",
-    "posted_at": "2026-04-07",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
     ]
   },
   {
@@ -4537,7 +3688,6 @@
     "reasons": [
       "title_blocklist: 'executive assistant' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area",
       "salary_below_floor: max $140,000 < $200,000 floor"
     ]
   },
@@ -4553,27 +3703,10 @@
     ]
   },
   {
-    "company": "Swooped",
-    "title": "Business Operations and Strategy Manager",
-    "posted_at": "2026-04-07",
-    "reasons": [
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
-    "company": "Vimo",
-    "title": "Business Operations Manager",
-    "posted_at": "2026-04-07",
-    "reasons": [
-      "location_not_allowed: 'Georgia, United States' is not remote and not in SF Bay Area"
-    ]
-  },
-  {
     "company": "Foster McKay",
     "title": "Director of Mergers & Acquisitions- Healthcare",
     "posted_at": "2026-04-07",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Nashville Metropolitan Area' is not remote and not in SF Bay Area"
     ]
   },
@@ -4582,8 +3715,7 @@
     "title": "Vice President Information Technology",
     "posted_at": "2026-04-07",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4591,8 +3723,7 @@
     "title": "Director, Enterprise Project Delivery & Product Management",
     "posted_at": "2026-04-06",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4609,8 +3740,7 @@
     "title": "Regional Vice President of Execution",
     "posted_at": "2026-04-06",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4618,8 +3748,7 @@
     "title": "Chief Operating Officer",
     "posted_at": "2026-04-07",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction",
-      "location_not_allowed: 'United States' is not remote and not in SF Bay Area"
+      "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
   {
@@ -4638,8 +3767,7 @@
     "reasons": [
       "title_blocklist: 'account executive' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
-      "description_blocklist: ' ote ' found — likely sales/commission role",
-      "location_not_allowed: 'Texas, United States' is not remote and not in SF Bay Area"
+      "description_blocklist: ' ote ' found — likely sales/commission role"
     ]
   },
   {
@@ -4663,6 +3791,248 @@
     "company": "Eightfold AI",
     "title": "Vice President of Product Management - Talent Acquisition",
     "posted_at": "2026-04-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Constructive Dialogue Institute",
+    "title": "Senior Data Scientist",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "The Standard",
+    "title": "Sr. Employee Benefits Consultant - Voluntary Benefits",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Washington, DC' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Pharming Healthcare, Inc.",
+    "title": "Ruconest Account Manager - Ohio Valley Territory",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_blocklist: 'account manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Stonebridge",
+    "title": "Sales Director",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_blocklist: 'sales director' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Walnut Creek, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Broad Reach Partners",
+    "title": "AI Architect",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Atlanta, GA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Robert Half",
+    "title": "Senior Accountant | PE backed EdTech | NYC, 2 days in office",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_blocklist: 'accountant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'New York, NY' is not remote and not in SF Bay Area",
+      "seniority_blocklist: 'associate' found in seniority level"
+    ]
+  },
+  {
+    "company": "Hirewell",
+    "title": "VP of Product & Education Portfolio Operations",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "location_not_allowed: 'Greater Chicago Area' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "3 Bridge Networks",
+    "title": "Director of Accounting",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Travis Credit Union",
+    "title": "AVP, Risk Management",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Vacaville, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Hardesty, LLC",
+    "title": "Chief Financial Officer",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "location_not_allowed: 'Sonoma County, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Whatnot",
+    "title": "Corporate Counsel",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Los Angeles, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "AMS Staffing Inc.",
+    "title": "Senior Legal Biller- 3574572",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Nature's Path Foods",
+    "title": "National Account Manager",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_blocklist: 'account manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $145,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "KEMIO Consulting",
+    "title": "Key Account Director",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "salary_below_floor: max $120,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Braveheart Bio",
+    "title": "Clinical Trial Manager",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "HR Recruit",
+    "title": "Human Resources Manager",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_blocklist: 'human resources' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Washington DC-Baltimore Area' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $100,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "RET(Search)",
+    "title": "Go-to-Market Lead",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Canaria",
+    "title": "Director of Compliance — Crypto",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Concorde, Inc",
+    "title": "Project Manager",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Almac Group",
+    "title": "Director of Business Development",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "salary_below_floor: max $170,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "KEMIO Consulting",
+    "title": "Director of Business Development",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Executive Assistant to the CEO",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Foster McKay",
+    "title": "Director of Mergers & Acquisitions- Healthcare",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "location_not_allowed: 'Nashville Metropolitan Area' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Signet Jewelers",
+    "title": "Sourcing Manager",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Confidential – Biotechnology / Pharmaceutical Company",
+    "title": "Vice President Information Technology",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Well-Oiled Operations",
+    "title": "VP of Operations (Portfolio Company)",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'oil' found"
+    ]
+  },
+  {
+    "company": "BluZinc",
+    "title": "Chief of Staff Strategic Operations Director",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "salary_below_floor: max $170,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "24 Seven Talent",
+    "title": "Chief Operating Officer",
+    "posted_at": "2026-04-07",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
