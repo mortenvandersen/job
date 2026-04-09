@@ -13,6 +13,7 @@
     "title": "Corporate Counsel",
     "posted_at": "2026-04-05",
     "reasons": [
+      "title_blocklist: 'counsel' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
@@ -50,6 +51,7 @@
     "reasons": [
       "title_blocklist: 'accountant' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found",
       "location_not_allowed: 'New York, NY' is not remote and not in SF Bay Area",
       "seniority_blocklist: 'associate' found in seniority level"
     ]
@@ -83,6 +85,7 @@
     "title": "Vice President, Sales",
     "posted_at": "2026-04-06",
     "reasons": [
+      "title_blocklist: 'vice president, sales' found in title",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -93,6 +96,23 @@
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
       "salary_below_floor: max $160,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Chick-fil-A Restaurants",
+    "title": "General Manager / Executive Multi Unit Restaurant Director",
+    "posted_at": "2026-04-01",
+    "reasons": [
+      "title_blocklist: 'restaurant' found in title",
+      "industry_blocklist: 'restaurants' found"
+    ]
+  },
+  {
+    "company": "Caribou Financial, Inc.",
+    "title": "VP, General Manager Lending",
+    "posted_at": "2026-04-03",
+    "reasons": [
+      "title_blocklist: 'lending' found in title"
     ]
   },
   {
@@ -108,6 +128,7 @@
     "title": "Director of Business Development- Cafeteria Replacement",
     "posted_at": "2026-04-01",
     "reasons": [
+      "industry_blocklist: 'restaurants' found",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -125,6 +146,14 @@
     "posted_at": "2026-04-01",
     "reasons": [
       "part_time: 'contractor' found"
+    ]
+  },
+  {
+    "company": "Bridge Professional Services",
+    "title": "Senior Director. People Business Partners",
+    "posted_at": "2026-04-03",
+    "reasons": [
+      "title_blocklist: 'people business partner' found in title"
     ]
   },
   {
@@ -286,6 +315,7 @@
     "posted_at": "2026-04-01",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found",
       "salary_below_floor: max $140,000 < $200,000 floor"
     ]
   },
@@ -439,6 +469,7 @@
     "title": "Corporate Counsel",
     "posted_at": "2026-04-05",
     "reasons": [
+      "title_blocklist: 'counsel' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
@@ -708,6 +739,14 @@
     ]
   },
   {
+    "company": "Bridge Professional Services",
+    "title": "Senior Director. People Business Partners",
+    "posted_at": "2026-04-03",
+    "reasons": [
+      "title_blocklist: 'people business partner' found in title"
+    ]
+  },
+  {
     "company": "NextGen | GTA: A Kelly Telecom Company",
     "title": "Director of Business Development",
     "posted_at": "2026-04-03",
@@ -745,6 +784,7 @@
     "posted_at": "2026-03-23",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found",
       "location_not_allowed: 'Dallas, TX' is not remote and not in SF Bay Area"
     ]
   },
@@ -761,7 +801,8 @@
     "title": "Regional Vice President of Operations",
     "posted_at": "2026-03-18",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction"
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found"
     ]
   },
   {
@@ -830,7 +871,8 @@
     "title": "Global Director Digital & Technology",
     "posted_at": "2026-03-23",
     "reasons": [
-      "title_allowlist: no target role keyword found in title or jobFunction"
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found"
     ]
   },
   {
@@ -880,6 +922,7 @@
     "posted_at": "2026-04-01",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found",
       "salary_below_floor: max $140,000 < $200,000 floor"
     ]
   },
@@ -1023,6 +1066,14 @@
     ]
   },
   {
+    "company": "LingoAce",
+    "title": "Senior Regional Business Development Manager (North America)",
+    "posted_at": "2026-03-20",
+    "reasons": [
+      "title_blocklist: 'regional business development manager' found in title"
+    ]
+  },
+  {
     "company": "Lando",
     "title": "Market Launch & Growth Lead (Fast-growing, K-12 EdTech Startup)",
     "posted_at": "2026-03-09",
@@ -1093,6 +1144,23 @@
     ]
   },
   {
+    "company": "Chick-fil-A Restaurants",
+    "title": "General Manager / Executive Multi Unit Restaurant Director",
+    "posted_at": "2026-04-01",
+    "reasons": [
+      "title_blocklist: 'restaurant' found in title",
+      "industry_blocklist: 'restaurants' found"
+    ]
+  },
+  {
+    "company": "Caribou Financial, Inc.",
+    "title": "VP, General Manager Lending",
+    "posted_at": "2026-04-03",
+    "reasons": [
+      "title_blocklist: 'lending' found in title"
+    ]
+  },
+  {
     "company": "HealthChannels",
     "title": "Director of Business Development",
     "posted_at": "2026-03-30",
@@ -1124,6 +1192,7 @@
     "title": "Director of Business Development- Cafeteria Replacement",
     "posted_at": "2026-04-01",
     "reasons": [
+      "industry_blocklist: 'restaurants' found",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -1134,6 +1203,14 @@
     "reasons": [
       "location_not_allowed: 'Washington DC-Baltimore Area' is not remote and not in SF Bay Area",
       "salary_below_floor: max $160,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Canon Business Process Services",
+    "title": "Senior Director of Enterprise & Strategic Sales Initiatives",
+    "posted_at": "2026-03-27",
+    "reasons": [
+      "title_blocklist: 'sales initiatives' found in title"
     ]
   },
   {
@@ -1169,6 +1246,7 @@
     "reasons": [
       "title_blocklist: 'accountant' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found",
       "location_not_allowed: 'New York, NY' is not remote and not in SF Bay Area",
       "seniority_blocklist: 'associate' found in seniority level"
     ]
@@ -1249,6 +1327,7 @@
     "title": "Vice President of Sales",
     "posted_at": "2026-03-28",
     "reasons": [
+      "title_blocklist: 'vice president of sales' found in title",
       "description_blocklist: 'commission structure' found — likely sales/commission role",
       "location_not_allowed: 'Boston, MA' is not remote and not in SF Bay Area"
     ]
@@ -1259,6 +1338,14 @@
     "posted_at": "2026-04-01",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Honorlock",
+    "title": "Sr. Manager, Sales Development and Revenue Enablement",
+    "posted_at": "2026-03-10",
+    "reasons": [
+      "title_blocklist: 'sales development' found in title"
     ]
   },
   {
@@ -1447,6 +1534,14 @@
     ]
   },
   {
+    "company": "Stuart Dean Company",
+    "title": "General Manager",
+    "posted_at": "2026-03-11",
+    "reasons": [
+      "industry_blocklist: 'restaurants' found"
+    ]
+  },
+  {
     "company": "Shiru",
     "title": "AI Operations Manager",
     "posted_at": "2026-03-11",
@@ -1459,6 +1554,7 @@
     "title": "Global People Partner Lead (Senior Manager), G&A",
     "posted_at": "2026-03-23",
     "reasons": [
+      "title_blocklist: 'people partner' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
@@ -1493,6 +1589,7 @@
     "title": "General Manager",
     "posted_at": "2026-03-21",
     "reasons": [
+      "industry_blocklist: 'restaurants' found",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -1593,6 +1690,14 @@
     ]
   },
   {
+    "company": "Monterra Credit Union",
+    "title": "SVP, Chief Lending Officer",
+    "posted_at": "2026-03-18",
+    "reasons": [
+      "title_blocklist: 'lending' found in title"
+    ]
+  },
+  {
     "company": "BioMarin Pharmaceutical Inc.",
     "title": "Director – Global CRM Business Strategy & Enablement",
     "posted_at": "2026-03-23",
@@ -1648,6 +1753,14 @@
     "reasons": [
       "title_blocklist: 'executive assistant' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Vistage Worldwide, Inc.",
+    "title": "Business Development Representative",
+    "posted_at": "2026-03-17",
+    "reasons": [
+      "title_blocklist: 'business development representative' found in title"
     ]
   },
   {
@@ -1726,6 +1839,7 @@
     "title": "Sr. Director, Sales and Business Development",
     "posted_at": "2026-03-27",
     "reasons": [
+      "title_blocklist: 'director, sales' found in title",
       "location_not_allowed: 'Campbell, CA' is not remote and not in SF Bay Area"
     ]
   },
@@ -1863,7 +1977,8 @@
     "title": "Sr. Manager, Restaurant Construction",
     "posted_at": "2026-03-31",
     "reasons": [
-      "title_blocklist: 'construction' found in title"
+      "title_blocklist: 'construction' found in title",
+      "industry_blocklist: 'restaurants' found"
     ]
   },
   {
@@ -1879,6 +1994,7 @@
     "title": "Vice President, Sales",
     "posted_at": "2026-04-06",
     "reasons": [
+      "title_blocklist: 'vice president, sales' found in title",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -1996,6 +2112,7 @@
     "title": "Corporate Counsel",
     "posted_at": "2026-04-05",
     "reasons": [
+      "title_blocklist: 'counsel' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
@@ -2032,6 +2149,7 @@
     "title": "Senior Corporate Counsel",
     "posted_at": "2026-03-17",
     "reasons": [
+      "title_blocklist: 'counsel' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
@@ -2101,6 +2219,7 @@
     "title": "Executive Vice President of Sales",
     "posted_at": "2026-03-10",
     "reasons": [
+      "title_blocklist: 'vice president of sales' found in title",
       "description_blocklist: 'quota-carrying' found — likely sales/commission role"
     ]
   },
@@ -2181,6 +2300,14 @@
     ]
   },
   {
+    "company": "McLane Company, Inc.",
+    "title": "National Business Development Director (Remote)",
+    "posted_at": "2026-03-22",
+    "reasons": [
+      "industry_blocklist: 'restaurants' found"
+    ]
+  },
+  {
     "company": "Fastly",
     "title": "Global People Partner, Senior Director - PECTO (Product, Engineering, Technology)",
     "posted_at": "2026-04-02",
@@ -2231,6 +2358,14 @@
     ]
   },
   {
+    "company": "Kayne Anderson Rudnick",
+    "title": "Managing Director, Business Development Officer (Texas:TX, OK, & NM) - KAR",
+    "posted_at": "2026-03-26",
+    "reasons": [
+      "title_blocklist: 'business development officer' found in title"
+    ]
+  },
+  {
     "company": "Opportunity@Work",
     "title": "Senior Director, Public Sector & Policy",
     "posted_at": "2026-03-25",
@@ -2246,6 +2381,14 @@
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
       "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Kayne Anderson Rudnick",
+    "title": "Managing Director, Business Development Officer (Northern CA, WA & OR)",
+    "posted_at": "2026-03-26",
+    "reasons": [
+      "title_blocklist: 'business development officer' found in title"
     ]
   },
   {
@@ -2270,6 +2413,7 @@
     "title": "Director of Sales",
     "posted_at": "2026-03-13",
     "reasons": [
+      "title_blocklist: 'director of sales' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
       "salary_below_floor: max $135,000 < $200,000 floor"
     ]
@@ -2314,6 +2458,14 @@
     "posted_at": "2026-03-23",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "CVS Health",
+    "title": "Small Group Business Lead Director of Sales",
+    "posted_at": "2026-03-24",
+    "reasons": [
+      "title_blocklist: 'director of sales' found in title"
     ]
   },
   {
@@ -2417,6 +2569,14 @@
     ]
   },
   {
+    "company": "JLR North America",
+    "title": "Market Area Manager (Field- Multiple Locations)",
+    "posted_at": "2026-03-12",
+    "reasons": [
+      "title_blocklist: 'market area manager' found in title"
+    ]
+  },
+  {
     "company": "Franklin Fitch",
     "title": "Director of Data Governance",
     "posted_at": "2026-03-13",
@@ -2482,6 +2642,7 @@
     "title": "Vice President Legal / General Counsel",
     "posted_at": "2026-03-25",
     "reasons": [
+      "title_blocklist: 'legal' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
@@ -2562,6 +2723,7 @@
     "title": "Enterprise Sales Leader - Large Deals",
     "posted_at": "2026-03-14",
     "reasons": [
+      "title_blocklist: 'sales leader' found in title",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
   },
@@ -2620,6 +2782,14 @@
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction",
       "salary_below_floor: max $170,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Omron Automation",
+    "title": "Sr Business Development Specialist - Safety Services",
+    "posted_at": "2026-03-18",
+    "reasons": [
+      "title_blocklist: 'business development specialist' found in title"
     ]
   },
   {
@@ -2708,6 +2878,14 @@
       "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Dallas, TX' is not remote and not in SF Bay Area",
       "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Charles River Laboratories",
+    "title": "Senior Business Development Executive",
+    "posted_at": "2026-04-01",
+    "reasons": [
+      "title_blocklist: 'business development executive' found in title"
     ]
   },
   {
@@ -2984,6 +3162,14 @@
     ]
   },
   {
+    "company": "Pivotal",
+    "title": "Senior Program Strategy Manager, Political Engagement",
+    "posted_at": "2026-03-19",
+    "reasons": [
+      "title_blocklist: 'political engagement' found in title"
+    ]
+  },
+  {
     "company": "Clipboard",
     "title": "Finance Operations Lead",
     "posted_at": "2026-03-20",
@@ -3148,10 +3334,19 @@
     ]
   },
   {
+    "company": "Vitesse Systems",
+    "title": "Business Development Executive",
+    "posted_at": "2026-03-26",
+    "reasons": [
+      "title_blocklist: 'business development executive' found in title"
+    ]
+  },
+  {
     "company": "JW Michaels & Co.",
     "title": "Senior Counsel, Fund Formation",
     "posted_at": "2026-03-26",
     "reasons": [
+      "title_blocklist: 'counsel' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'New York, NY' is not remote and not in SF Bay Area"
     ]
@@ -3344,6 +3539,7 @@
     "title": "Business Development Representative",
     "posted_at": "2026-03-13",
     "reasons": [
+      "title_blocklist: 'business development representative' found in title",
       "location_not_allowed: 'Sacramento, CA' is not remote and not in SF Bay Area",
       "salary_below_floor: max $166,200 < $200,000 floor"
     ]
@@ -3412,6 +3608,7 @@
     "title": "Business Development Executive- Army",
     "posted_at": "2026-03-23",
     "reasons": [
+      "title_blocklist: 'business development executive' found in title",
       "location_not_allowed: 'Herndon, VA' is not remote and not in SF Bay Area"
     ]
   },
@@ -3445,6 +3642,7 @@
     "title": "Legal Services Director",
     "posted_at": "2026-03-09",
     "reasons": [
+      "title_blocklist: 'legal' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
   },
@@ -3544,8 +3742,17 @@
     "title": "Corporate Counsel",
     "posted_at": "2026-03-16",
     "reasons": [
+      "title_blocklist: 'counsel' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Los Angeles, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "ClassLink",
+    "title": "Director of Sales, K–12 (California Territory)",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_blocklist: 'director of sales' found in title"
     ]
   },
   {
@@ -3574,6 +3781,7 @@
     "reasons": [
       "title_blocklist: 'accountant' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found",
       "location_not_allowed: 'New York, NY' is not remote and not in SF Bay Area",
       "seniority_blocklist: 'associate' found in seniority level"
     ]
@@ -3583,6 +3791,7 @@
     "title": "Senior Intellectual Property Counsel",
     "posted_at": "2026-04-06",
     "reasons": [
+      "title_blocklist: 'counsel' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Cambridge, MA' is not remote and not in SF Bay Area"
     ]
@@ -3592,6 +3801,7 @@
     "title": "Corporate Counsel",
     "posted_at": "2026-04-07",
     "reasons": [
+      "title_blocklist: 'counsel' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Los Angeles, CA' is not remote and not in SF Bay Area"
     ]
@@ -3847,6 +4057,7 @@
     "reasons": [
       "title_blocklist: 'accountant' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found",
       "location_not_allowed: 'New York, NY' is not remote and not in SF Bay Area",
       "seniority_blocklist: 'associate' found in seniority level"
     ]
@@ -3857,6 +4068,14 @@
     "posted_at": "2026-04-08",
     "reasons": [
       "location_not_allowed: 'Greater Chicago Area' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "ClassLink",
+    "title": "Director of Sales, K–12 (California Territory)",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_blocklist: 'director of sales' found in title"
     ]
   },
   {
@@ -3889,6 +4108,7 @@
     "title": "Corporate Counsel",
     "posted_at": "2026-04-07",
     "reasons": [
+      "title_blocklist: 'counsel' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Los Angeles, CA' is not remote and not in SF Bay Area"
     ]
@@ -3898,7 +4118,16 @@
     "title": "Senior Legal Biller- 3574572",
     "posted_at": "2026-04-07",
     "reasons": [
+      "title_blocklist: 'legal' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "IST Management",
+    "title": "Vice President of Business Development - Legal IT Infrastructure Consultant",
+    "posted_at": "2026-04-07",
+    "reasons": [
+      "title_blocklist: 'legal' found in title"
     ]
   },
   {
@@ -4035,6 +4264,313 @@
     "posted_at": "2026-04-07",
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "3 Bridge Networks",
+    "title": "Director of Accounting",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Envoy",
+    "title": "Enterprise Account Executive",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title"
+    ]
+  },
+  {
+    "company": "Retool",
+    "title": "Account Executive, Enterprise, East",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title",
+      "description_blocklist: 'on-target earnings' found — likely sales/commission role",
+      "location_not_allowed: 'Chicago, IL' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Envoy",
+    "title": "Enterprise Account Executive",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title",
+      "location_not_allowed: 'Atlanta, GA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Executive Assistant to the CEO",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Web Analyst",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'analyst' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Envoy",
+    "title": "Enterprise Account Executive",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title",
+      "location_not_allowed: 'Greater Boston' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Envoy",
+    "title": "Enterprise Account Executive",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title",
+      "location_not_allowed: 'New York, NY' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Katmai Government Services",
+    "title": "In-House Counsel",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'counsel' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Washington DC-Baltimore Area' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Senior Associate - Revenue Strategy",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'associate' found in title"
+    ]
+  },
+  {
+    "company": "EMPLOYERS",
+    "title": "Manager, Strategic Enablement & Insights",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "WeShare Health",
+    "title": "VP of Marketing",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $180,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Nature's Path Foods",
+    "title": "National Account Manager",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'account manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $145,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "The Bolton Group",
+    "title": "Finance Manager - Candidate is required to live in DFW",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Addison, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Metric Bio",
+    "title": "Senior Business Development Manager/Associate Director Business Development - Antibody Discovery",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'associate' found in title",
+      "salary_below_floor: max $160,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Trident",
+    "title": "Director of Business Development - International",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'intern' found in title"
+    ]
+  },
+  {
+    "company": "Orthofix",
+    "title": "Area Vice President, Limb Reconstruction (West)",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'construction' found in title",
+      "location_not_allowed: 'Denver, CO' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Amira Learning",
+    "title": "Gen AI Engineer",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "salary_below_floor: max $160,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Amira Learning",
+    "title": "Gen AI Engineer",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "salary_below_floor: max $135,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Business Operations and Strategy Manager",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Amira Learning",
+    "title": "Data Scientist, Assessment & Learning Analytics",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $160,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Tenth Revolution Group",
+    "title": "Head of Revenue Operations",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Vannin Chief of Staff",
+    "title": "Chief of Staff",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "location_not_allowed: 'Boston, MA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Carnegie Learning",
+    "title": "Director of Product Management, Secondary Mathematics",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Insperity",
+    "title": "Product Manager",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "seniority_blocklist: 'associate' found in seniority level"
+    ]
+  },
+  {
+    "company": "Real",
+    "title": "Director of Business Development",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "First Advantage",
+    "title": "Vice President, Sales",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'vice president, sales' found in title",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Chick-fil-A Restaurants",
+    "title": "General Manager / Executive Multi Unit Restaurant Director",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'restaurant' found in title",
+      "industry_blocklist: 'restaurants' found"
+    ]
+  },
+  {
+    "company": "3 Bridge Networks",
+    "title": "Financial Planning and Analysis Manager",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "SSA Group",
+    "title": "General Manager",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Alison Brown Placement Specialists, LLC",
+    "title": "Administrative Assistant",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'administrative' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Alison Brown Placement Specialists, LLC",
+    "title": "Executive Assistant to Chief Executive Officer",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "3 Bridge Networks",
+    "title": "Vice President Finance",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "location_not_allowed: 'Vallejo, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Sr. Data and AI Engineer",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Pop-Up Talent",
+    "title": "Director of Operations",
+    "posted_at": "2026-04-08",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $170,000 < $200,000 floor"
     ]
   }
 ]
