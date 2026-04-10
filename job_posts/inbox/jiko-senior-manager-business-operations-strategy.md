@@ -1,0 +1,26 @@
+---
+company: Jiko
+role: Senior Manager, Business Operations & Strategy
+status: inbox
+date_saved: 2026-04-10
+source_url: https://www.linkedin.com/jobs/view/senior-manager-business-operations-strategy-at-jiko-4397609939?refId=dAY22l5x2uoj%2FEXsEv8ILw%3D%3D&trackingId=TRoe4zrA8Kmy%2FLIV96VhTw%3D%3D&position=1&pageNum=0
+location: San Francisco, CA
+salary: 
+---
+
+# Jiko — Senior Manager, Business Operations & Strategy
+
+## Job Description
+
+About Jiko
+In an era of financial uncertainty, safeguarding corporate cash is more critical than ever. Jiko is designed for unmatched safety, liquidity, and simplicity — combining the innovation of a technology platform with the security of a regulated bank. By reinventing the traditional deposit model, Jiko offers Jiko Pockets—a seamless solution that combines the transactional ease of a bank account with fully automated investments in U.S. Treasury bills. Now, with JikoNet, institutions can securely move funds 24/7 across industries while keeping assets continuously invested and protected. Finance leaders can access Jiko Pockets and JikoNet through Jiko’s online dashboard, secure APIs, and integrations with leading Treasury Management partners.
+Position Overview By joining Jiko’s CEO’s Office as a Senior Manager, Business Operations & Strategy, you’ll contribute to the planning and execution of Jiko’s most important strategic initiatives to support the company’s continued growth.This role reports to the Chief of Staff and works closely with our executive leadership team.To be successful in this role, you should be comfortable operating at the intersection of strategy, analytics, and execution, and be able to move fluidly between high-level strategic thinking and hands-on operational work.You’ll enjoy this role if you enjoy solving complex problems, working cross-functionally across teams, and helping drive execution on high-priority initiatives.
+We’re looking for a passionate individual who wants to grow with the company. The ideal candidates thrive on working in a fast-paced environment, look for efficiency in everything they do, always set high standards for themselves as well as their teammates, and like to have fun at work!
+What you will be doing
+Drive execution of high-priority strategic initiatives across the companySupport executive decision-making through structured analysis, business modeling, and development of materials for leadership, investors, and the BoardPartner with the Chief of Staff to strengthen Jiko’s operating cadence, including company OKRs, KPI tracking, executive dashboards, and leadership reportingDevelop financial models, market analyses, and business cases to support new growth verticals and strategic projectsIdentify operational bottlenecks and help design systems and processes that improve execution velocity across the team
+What experience you should have
+4–7 years of professional experience in management consulting, investment banking, or strategy/business operations at a high-growth startupExperience leading cross-functional strategic initiatives, including coordinating stakeholders across teams, driving project plans and timelines, and ensuring successful delivery of complex projects from concept through executionStrong analytical and financial modeling capabilities with experience translating data into actionable insightsExceptional problem-solving and structured thinking skillsStrong written and verbal communication skills, including experience preparing materials for executive audiencesAbility to manage multiple initiatives simultaneously while maintaining attention to detailExperience in fintech, financial services, payments, or banking is a plusExperience evaluating or deploying AI and automation tools to improve organizational productivity is a plus
+What we offerOpportunity to grow within a high-potential startupA collaborative, international and mission-driven teamModern tech stack and agile ways of workingComprehensive health benefits including medical, dental & vision, and parental leave401k benefits with employer matching contributionJiko has a hybrid schedule (2 days in the office).Compensation offered will depend on several factors including but not limited to: geographic location, work experience, education, skill level, and/or other business and organizational needs.
+Additional Information
+Jiko is working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Jiko is a proud equal-opportunity employer. We work hard to evaluate all employees and job applicants consistently and fairly. We provide an environment of mutual respect where equal employment opportunities are available to all applicants and teammates without regard to race, color, religion, sex, pregnancy (including childbirth, lactation, and related medical conditions), national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information (including characteristics and testing), military and veteran status, and any other characteristic protected by applicable law.
+Jiko participates in E-Verify.

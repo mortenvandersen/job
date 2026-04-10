@@ -4572,5 +4572,188 @@
       "title_allowlist: no target role keyword found in title or jobFunction",
       "salary_below_floor: max $170,000 < $200,000 floor"
     ]
+  },
+  {
+    "company": "Elevate Recruiting",
+    "title": "Director of Finance (Manufacturing)",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "AmeriSave Mortgage Corporation",
+    "title": "Capital Markets Technology Engineer",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Brisk Teaching",
+    "title": "Senior Field and Experiential Marketing Manager",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_blocklist: 'marketing manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $165,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Multi Media, LLC",
+    "title": "Senior Data Scientist",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Millennium Physician Group",
+    "title": "Account Executive",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Retool",
+    "title": "Account Executive, Enterprise, East",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title",
+      "description_blocklist: 'on-target earnings' found — likely sales/commission role",
+      "location_not_allowed: 'Chicago, IL' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Pivotal",
+    "title": "Senior Program Strategy Manager, Political Engagement",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_blocklist: 'political engagement' found in title"
+    ]
+  },
+  {
+    "company": "Inizio Partners",
+    "title": "Sr. Engagement Manager - Insurance Analytics",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $180,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Continuum",
+    "title": "Account Director",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Partnership Employment",
+    "title": "Head of Conflicts",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Kforce Inc",
+    "title": "Service Delivery Sr Manager - Application Engineering",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "FoodStory Brands",
+    "title": "Regional Sales Manager, East Frozen-Deli",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_blocklist: 'sales manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Robert Half",
+    "title": "Senior Manager, Epic Resolute Billing",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $170,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Executive Assistant to the CEO",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Business Operations and Strategy Manager",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Manager, Customer Experience Operations",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Franklin Fitch",
+    "title": "Director of Data Governance",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Integra Connect",
+    "title": "President of Population Health",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Harmonic Finance Inc ™ | Certified B Corp",
+    "title": "Senior Director of FP&A | PE-Backed Food and Beverage | Remote",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Viridan Group",
+    "title": "Director of Business Development",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Aprio Talent Solutions",
+    "title": "Director of Financial Planning and Analysis",
+    "posted_at": "2026-04-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Northbrook, IL' is not remote and not in SF Bay Area"
+    ]
   }
 ]
