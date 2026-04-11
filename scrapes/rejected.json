@@ -4755,5 +4755,269 @@
       "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Northbrook, IL' is not remote and not in SF Bay Area"
     ]
+  },
+  {
+    "company": "C-SUITE ASSISTANTS",
+    "title": "Executive Assistant/Office Manager (ROOM FOR GROWTH TO COS)",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'San Ramon, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "VitalSource",
+    "title": "AI Enablement Lead",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Stimulate",
+    "title": "Head of Email & SMS Marketing",
+    "posted_at": "2026-04-11",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Validus Pharmaceuticals",
+    "title": "Key Account Manager – Long Term Care (LTC) Sales",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_blocklist: 'account manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Chicago, IL' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $125,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Metriport",
+    "title": "Strategic Finance Lead",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "3 Bridge Networks",
+    "title": "Financial Planning and Analysis Manager",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Friedman's Home Improvement",
+    "title": "Application Manager",
+    "posted_at": "2026-04-11",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Petaluma, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "ZappHire",
+    "title": "Finance Lead",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "World Wide Technology",
+    "title": "HCM Manager",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Integra Connect",
+    "title": "Scientific Content Specialist",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Veritas Partners",
+    "title": "Financial Planning and Analysis Manager - Renewable Energy",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $145,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Data Science Manager",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Novitium Energy, A National Energy Partners Company",
+    "title": "Business Development and Analytics Manager",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "BAGGU",
+    "title": "Associate Director of Financial Operations",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_blocklist: 'associate' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Senior Implementations Program Manager",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $54,400 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Executive Assistant to the CEO",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $80,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Customer Success Manager",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_blocklist: 'customer success' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $179,421 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "RL People",
+    "title": "Commercial Leader",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Integra Connect",
+    "title": "Director, Strategic Program Management & Oncology Council",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Insight Global",
+    "title": "Senior Manager Project Management",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Business Operations and Strategy Manager",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "3 Bridge Networks",
+    "title": "Director of Accounting",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Kinara Group",
+    "title": "Senior Director of Business Development - RWE",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "description_blocklist: 'commission structure' found — likely sales/commission role",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "HealthChannels",
+    "title": "Director of Business Development",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "description_blocklist: 'commission structure' found — likely sales/commission role"
+    ]
+  },
+  {
+    "company": "Storm2",
+    "title": "Head of Account Management",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Integra Connect",
+    "title": "President of Population Health",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Stealth Startup",
+    "title": "Head of Program Management",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Integra Connect",
+    "title": "Medical Director",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Stealth Startup",
+    "title": "Head of Program Management",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "PTC",
+    "title": "Principal PLM Architect",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Centessa Pharmaceuticals",
+    "title": "Senior Medical Science Liaison (MSL) - Northeast",
+    "posted_at": "2026-04-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
   }
 ]

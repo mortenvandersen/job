@@ -1,6 +1,26 @@
 {
-  "last_updated": "2026-04-10",
+  "last_updated": "2026-04-11",
   "roles": [
+    {
+      "id": "remotehunter-growth-strategy-analytics-manager",
+      "company": "RemoteHunter",
+      "role": "Growth Strategy & Analytics Manager",
+      "location": "United States",
+      "comp_range": "$108,200.00/yr - $202,800.00/yr",
+      "date_saved": "2026-04-11",
+      "date_assessed": null,
+      "source_url": "https://www.linkedin.com/jobs/view/growth-strategy-analytics-manager-at-remotehunter-4398114171?refId=CFoiXcmGJ87dkIzfRxbySQ%3D%3D&trackingId=cOmlfOLA%2FKqqr%2BKoXzn2aA%3D%3D&position=17&pageNum=0",
+      "status": "inbox",
+      "role_fit_score": null,
+      "candidate_fit_score": null,
+      "recommendation": null,
+      "file": "job_posts/inbox/remotehunter-growth-strategy-analytics-manager.md",
+      "summary_note": "",
+      "jd_snippet": "1. About Our Client: The organization operates in the financial technology industry, focusing on improving how people manage money. It began in 2013 with a peer-to-peer payments solution and has since expanded into a comprehensive ecosystem offering products for sending, spending, investing, borrowing, and saving. Serving over 50 million monthly active customers, the company addresses the challenge of making financial services more accessible, relatable, and immediate. The organization supports a global, distributed workforce with a culture centered on innovation and collaboration. 2. About…",
+      "gaps": [],
+      "strongest_angles": [],
+      "status_notes": ""
+    },
     {
       "id": "metriport-strategic-finance-lead",
       "company": "Metriport",
