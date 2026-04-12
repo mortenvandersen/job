@@ -5019,5 +5019,38 @@
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
+  },
+  {
+    "company": "MobiusEngine",
+    "title": "Financial Director",
+    "posted_at": "2026-04-11",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "QuantumScape",
+    "title": "Commercial Counsel",
+    "posted_at": "2026-04-11",
+    "reasons": [
+      "title_blocklist: 'counsel' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Aduro Advisors",
+    "title": "Chief of Staff, Operations",
+    "posted_at": "2026-04-11",
+    "reasons": [
+      "location_not_allowed: 'Denver, CO' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "MobiusEngine",
+    "title": "Chief Operating Officer",
+    "posted_at": "2026-04-11",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
   }
 ]
