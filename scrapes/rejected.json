@@ -5052,5 +5052,69 @@
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Sr. Executive Assistant",
+    "posted_at": "2026-04-12",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: 'on-target earnings' found — likely sales/commission role",
+      "salary_below_floor: max $155,300 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Nature's Path Foods",
+    "title": "National Account Manager",
+    "posted_at": "2026-04-12",
+    "reasons": [
+      "title_blocklist: 'account manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $145,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Optomi",
+    "title": "Senior Technical Consultant",
+    "posted_at": "2026-04-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Executive Assistant to the CEO",
+    "posted_at": "2026-04-12",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $80,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "CodePath",
+    "title": "Senior Product Marketing Manager",
+    "posted_at": "2026-04-12",
+    "reasons": [
+      "title_blocklist: 'marketing manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Business Operations and Strategy Manager",
+    "posted_at": "2026-04-12",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Manager, Customer Experience Operations",
+    "posted_at": "2026-04-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
   }
 ]
