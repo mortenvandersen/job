@@ -8,18 +8,22 @@
       "location": "United States",
       "comp_range": "",
       "date_saved": "2026-04-14",
-      "date_assessed": null,
+      "date_assessed": "2026-04-14",
       "source_url": "https://www.linkedin.com/jobs/view/solution-leader-enterprise-transformation-at-apex-systems-4399632266?refId=2560vOpus5x7bp2mHCZ5WA%3D%3D&trackingId=2C4qR3z48sPOPkirByGWDg%3D%3D&position=12&pageNum=0",
-      "status": "inbox",
-      "role_fit_score": null,
-      "candidate_fit_score": null,
-      "recommendation": null,
+      "status": "rejected",
+      "role_fit_score": 2.35,
+      "candidate_fit_score": 3,
+      "recommendation": "Skip",
       "file": "job_posts/inbox/apex-systems-solution-leader-enterprise-transformation.md",
-      "summary_note": "",
+      "summary_note": "Solution sales role at an IT staffing firm (ASGN) — core mandate is building pipeline and closing managed services deals; neither industry nor role type aligns",
       "jd_snippet": "SOLUTION LEADER, ENTERPRISE TRANSFORMATIONWHO WE ARE Apex Systems is a leading global technology services business that incorporates industry insights and experience to deliver solutions that fulfill our clients’ digital visions. We provide a continuum of services, including strategy and enablement, innovation and productivity, and technology foundations to drive better results and bring more value to our clients. Apex transforms our customers with modern enterprise solutions tailored to the industries we serve. Apex has a presence in over 70 markets across North America, Europe, and India.…",
-      "gaps": [],
+      "gaps": [
+        "Role is fundamentally sales/BD — build pipeline, manage sales cycle, hit targets",
+        "IT staffing/professional services industry — no interest alignment",
+        "Large established enterprise (ASGN), not growth-stage startup"
+      ],
       "strongest_angles": [],
-      "status_notes": ""
+      "status_notes": "Rejected at assessment — role fit 2.35/5"
     },
     {
       "id": "healthcare-recruiters-international-director-of-business-development",
@@ -28,18 +32,22 @@
       "location": "United States",
       "comp_range": "",
       "date_saved": "2026-04-14",
-      "date_assessed": null,
+      "date_assessed": "2026-04-14",
       "source_url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-healthcare-recruiters-international-4399643144?refId=2560vOpus5x7bp2mHCZ5WA%3D%3D&trackingId=3Jv105k1pKq%2Fy1AjdiEkkQ%3D%3D&position=7&pageNum=0",
-      "status": "inbox",
-      "role_fit_score": null,
-      "candidate_fit_score": null,
-      "recommendation": null,
+      "status": "rejected",
+      "role_fit_score": 1.65,
+      "candidate_fit_score": 2,
+      "recommendation": "Skip",
       "file": "job_posts/inbox/healthcare-recruiters-international-director-of-business-development.md",
-      "summary_note": "",
+      "summary_note": "Hard no — explicitly quota-carrying ($1M+ annual billed revenue required) in healthcare staffing; no industry fit",
       "jd_snippet": "Director of Business Development to lead facility-side revenue growth and client acquisition. Technology-enabled locum tenens staffing firm delivering rapid, high-quality placements nationwide across hospitals, clinics, urgent care, correctional facilities, and post-acute sites.Supporting high-demand specialties including Emergency Medicine, Orthopedics, Surgery, Family Medicine, Internal Medicine, and Telemedicine. What You Will OwnAll facility-side sales and revenue generationActivation of portable client relationshipsConversion of inherited warm hospital and health-system…",
-      "gaps": [],
+      "gaps": [
+        "Explicitly quota-carrying — $1M+ annual billed revenue personal production required",
+        "Healthcare staffing/locum tenens — no industry interest or experience",
+        "High-volume phone and LinkedIn outreach — pipeline generation, not strategy"
+      ],
       "strongest_angles": [],
-      "status_notes": ""
+      "status_notes": "Rejected at assessment — role fit 1.65/5; deal-breaker: explicit revenue production quota"
     },
     {
       "id": "envision-cold-director-of-business-development",
@@ -48,18 +56,22 @@
       "location": "United States",
       "comp_range": "",
       "date_saved": "2026-04-14",
-      "date_assessed": null,
+      "date_assessed": "2026-04-14",
       "source_url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-envision-cold-4400012460?refId=2560vOpus5x7bp2mHCZ5WA%3D%3D&trackingId=9UB23yIcT88w4z0tfukzbg%3D%3D&position=2&pageNum=0",
-      "status": "inbox",
-      "role_fit_score": null,
-      "candidate_fit_score": null,
-      "recommendation": null,
+      "status": "rejected",
+      "role_fit_score": 2.00,
+      "candidate_fit_score": 2,
+      "recommendation": "Skip",
       "file": "job_posts/inbox/envision-cold-director-of-business-development.md",
-      "summary_note": "",
+      "summary_note": "Quota-carrying sales BD in cold storage logistics — explicit revenue targets, owns full sales cycle, industry entirely outside preferences",
       "jd_snippet": "Who we are:Envision Cold is a leading and rapidly growing provider of cold storage and temperature-controlled logistics solutions. We specialize in preserving the integrity of temperature-sensitive products across a diverse range of industries — from food and beverage to pharmaceuticals and beyond. Our full cold-chain capabilities span initial processing through final-mile delivery, supported by a network of best-in-class facilities across North America. Headquartered in Atlanta, GA, Envision Cold is at an exciting inflection point — expanding our footprint through strategic development,…",
-      "gaps": [],
+      "gaps": [
+        "Quota-carrying sales role — owns full sales cycle, explicit revenue target requirement",
+        "Cold storage/3PL logistics — no industry interest or background",
+        "50%+ travel requirement — above preferred threshold"
+      ],
       "strongest_angles": [],
-      "status_notes": ""
+      "status_notes": "Rejected at assessment — role fit 2.00/5; deal-breaker: explicit revenue targets and full sales cycle ownership"
     },
     {
       "id": "remotehunter-growth-strategy-analytics-manager",
