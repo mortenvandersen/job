@@ -5116,5 +5116,200 @@
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
+  },
+  {
+    "company": "Bozzuto",
+    "title": "Senior Property Manager- ($7,500 Sign-On Bonus)",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Staff Credit Data Analyst - Cards",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "title_blocklist: 'analyst' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $101,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "SR Staffing",
+    "title": "Manager Transaction Advisory Services",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'New Haven, CT' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Orion Talent",
+    "title": "Maintenance Manager",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "GMB Powerline Services",
+    "title": "Utility Construction Project Manager",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "title_blocklist: 'construction' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "part_time: 'contractor' found"
+    ]
+  },
+  {
+    "company": "Workerbee",
+    "title": "B2B Telecommunications Sales Account Executive",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Clever Inc.",
+    "title": "Legal Counsel",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "title_blocklist: 'legal' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Senior Product Manager, AI",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "salary_below_floor: max $163,500 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Morgan Consulting Resources, Inc. - Healthcare Executive Search",
+    "title": "Senior Director, Quality Ratings and Network Performance",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Recruits Lab",
+    "title": "Senior Product Marketing Manager",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "title_blocklist: 'marketing manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Avalere Health",
+    "title": "Senior Director, Strategy (Market Access, Pharma Agency)",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "location_not_allowed: 'New York, NY' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Senior Customer Success Manager - East",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "title_blocklist: 'customer success' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Sr. Executive Assistant",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: 'on-target earnings' found — likely sales/commission role",
+      "salary_below_floor: max $155,300 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Senior Manager, Supply Chain Strategy",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "salary_below_floor: max $189,550 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "BGS Consulting",
+    "title": "Director of Business Development",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "location_not_allowed: 'Washington DC-Baltimore Area' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "AC Lion Digital Executive Search",
+    "title": "Director of Business Development",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "description_blocklist: 'on-target earnings' found — likely sales/commission role",
+      "location_not_allowed: 'New York City Metropolitan Area' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Stonhard",
+    "title": "District Sales Manager - Pacific Northwest",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "title_blocklist: 'sales manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found",
+      "location_not_allowed: 'Tacoma, WA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Omidyar Network",
+    "title": "Head of Communications",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Roto-Rooter Plumbing and Drain Service",
+    "title": "General Manager",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "salary_below_floor: max $165,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Stuart Dean Company",
+    "title": "General Manager",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "industry_blocklist: 'restaurants' found"
+    ]
+  },
+  {
+    "company": "Personalis, Inc.",
+    "title": "Director, Lab Operations",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Fremont, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "1 Hotels",
+    "title": "General Manager of Outlets",
+    "posted_at": "2026-04-13",
+    "reasons": [
+      "industry_blocklist: 'restaurants' found"
+    ]
   }
 ]
