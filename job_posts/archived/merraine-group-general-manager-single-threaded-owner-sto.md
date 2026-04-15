@@ -1,7 +1,7 @@
 ---
 company: Merraine Group
 role: General Manager / Single-Threaded Owner (STO)
-status: assessed
+status: archived
 date_saved: 2026-04-15
 date_assessed: 2026-04-15
 role_fit_score: 3.15
