@@ -5311,5 +5311,213 @@
     "reasons": [
       "industry_blocklist: 'restaurants' found"
     ]
+  },
+  {
+    "company": "ECCO Select",
+    "title": "Full Stack Developer (WASM, GoLang) #11190",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_blocklist: 'developer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Kiddom",
+    "title": "Product Marketing Manager",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_blocklist: 'marketing manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Interplay Learning",
+    "title": "Applied AI Business Systems Engineer",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title"
+    ]
+  },
+  {
+    "company": "AmTrust Financial Services, Inc.",
+    "title": "Regional Sales Manager - MO",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_blocklist: 'sales manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "PrescriberPoint",
+    "title": "Lead Software Engineer",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Partnership Employment",
+    "title": "Head of Conflicts",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Green Key Resources",
+    "title": "AI/ML Engineering Manager",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Scion Staffing",
+    "title": "General Counsel",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_blocklist: 'counsel' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Vimo",
+    "title": "Business Operations Engineer",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "salary_below_floor: max $160,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "WellRight",
+    "title": "Director of Financial Planning and Analysis",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "salary_below_floor: max $165,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Harris & Co Executive Search",
+    "title": "Managing Director - Forensic, Litigation and Valuation",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Butler/Till",
+    "title": "Director, Integrated Planning",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Rochester, New York Metropolitan Area' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Solü Technology Partners",
+    "title": "Archer Developer (Remote)",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_blocklist: 'developer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Confidential",
+    "title": "Head of Financial Planning & Analysis",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "CVS Health",
+    "title": "Small Group Business Lead Director of Sales",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_blocklist: 'director of sales' found in title"
+    ]
+  },
+  {
+    "company": "InnoForge",
+    "title": "Federal BD Director (Space)",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "location_not_allowed: 'Washington DC-Baltimore Area' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "SecurityScorecard",
+    "title": "Senior Director of Product Management",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "location_not_allowed: 'New York City Metropolitan Area' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Oho Group",
+    "title": "Program Manager",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "salary_below_floor: max $120,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Business Operations and Strategy Manager",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Ethos",
+    "title": "Vice President Operations",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $100,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "UnitedHealth Group",
+    "title": "Associate Director Enterprise Partnerships",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_blocklist: 'associate' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Sr. Executive Assistant",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: 'on-target earnings' found — likely sales/commission role",
+      "salary_below_floor: max $155,300 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "3 Bridge Networks",
+    "title": "Financial Planning and Analysis Manager",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "The Trade Desk",
+    "title": "Associate General Counsel, Commercial CTV & Advertising",
+    "posted_at": "2026-04-14",
+    "reasons": [
+      "title_blocklist: 'associate' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
   }
 ]
