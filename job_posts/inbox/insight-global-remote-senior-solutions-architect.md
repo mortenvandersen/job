@@ -1,8 +1,9 @@
 ---
 company: Insight Global
 role: Remote Senior Solutions Architect
-status: inbox
+status: rejected
 date_saved: 2026-04-15
+date_assessed: 2026-04-15
 source_url: https://www.linkedin.com/jobs/view/remote-senior-solutions-architect-at-insight-global-4400760875?refId=ja0onJG7z0eyGrb8GKuIzA%3D%3D&trackingId=55BfAWm2Mr8wL%2BVZEKR0LA%3D%3D&position=5&pageNum=0
 location: United States
 salary: 
