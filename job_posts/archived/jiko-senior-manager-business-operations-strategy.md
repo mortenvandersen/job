@@ -1,7 +1,7 @@
 ---
 company: Jiko
 role: Senior Manager, Business Operations & Strategy
-status: assessed
+status: archived
 date_assessed: 2026-04-11
 source_url: https://www.linkedin.com/jobs/view/senior-manager-business-operations-strategy-at-jiko-4397609939?refId=dAY22l5x2uoj%2FEXsEv8ILw%3D%3D&trackingId=TRoe4zrA8Kmy%2FLIV96VhTw%3D%3D&position=1&pageNum=0
 location: San Francisco, CA
