@@ -1,7 +1,7 @@
 ---
 company: Cadence
 role: Director, M&A Integration
-status: assessed
+status: archived
 date_saved: 2026-04-06
 date_assessed: 2026-04-07
 role_fit_score: 3.65
