@@ -5519,5 +5519,233 @@
       "title_blocklist: 'associate' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
+  },
+  {
+    "company": "JW Michaels & Co.",
+    "title": "Counsel",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_blocklist: 'counsel' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "ECA Recruiters",
+    "title": "Regional Sales Representative",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_blocklist: 'sales representative' found in title",
+      "location_not_allowed: 'Philadelphia, PA' is not remote and not in SF Bay Area",
+      "seniority_blocklist: 'associate' found in seniority level"
+    ]
+  },
+  {
+    "company": "Prominence Health",
+    "title": "Controller, CPA",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_blocklist: 'controller' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "GH Engage",
+    "title": "Finance Manager - Capital Markets (Data Center Developer)",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_blocklist: 'developer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'New York City Metropolitan Area' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $185,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Manning Personnel Group, Inc.",
+    "title": "Personal Assistant",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "RPH Products",
+    "title": "Director of Sales",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_blocklist: 'director of sales' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: 'quota-carrying' found — likely sales/commission role",
+      "part_time: 'contractor' found"
+    ]
+  },
+  {
+    "company": "Novitium Energy, A National Energy Partners Company",
+    "title": "Business Development and Analytics Manager",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Kayne Anderson Rudnick",
+    "title": "Lead Advisor, Southeast Region - KAR",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Mackinnon Bruce International",
+    "title": "West Coast Sales Manager",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_blocklist: 'sales manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Jinko Solar Australia & New Zealand",
+    "title": "Sales Manager-ESS",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_blocklist: 'sales manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Australia' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $100,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Nature's Path Foods",
+    "title": "National Account Manager",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_blocklist: 'account manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $145,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "RBW Consulting",
+    "title": "Business Development Director - Clinical Research Organisation -",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "description_blocklist: 'commission structure' found — likely sales/commission role",
+      "location_not_allowed: 'United Kingdom' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $90,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Omron Automation",
+    "title": "Sr Business Development Specialist - Safety Services",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_blocklist: 'business development specialist' found in title"
+    ]
+  },
+  {
+    "company": "Grey Matter Recruitment",
+    "title": "CFO at Mobile AdTech Ecosystem",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'United Kingdom' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Staff Executive Business Partner",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "salary_below_floor: max $126,400 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Grey Matter Recruitment",
+    "title": "CFO at Mobile AdTech Ecosystem",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Tapio",
+    "title": "Chief Financial Officer",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Business Operations and Strategy Manager",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Nebius",
+    "title": "Senior Manager - Change Management",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "description_blocklist: 'on-target earnings' found — likely sales/commission role",
+      "location_not_allowed: 'New York, NY' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "The Judge Group",
+    "title": "Director of Business Development",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "part_time: 'contractor' found",
+      "location_not_allowed: 'Austin, TX' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "GeoComm",
+    "title": "Director of Strategic Growth",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Afiniti",
+    "title": "Director, Commercial Strategy",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Talent Harbor",
+    "title": "Director of Business Development",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "location_not_allowed: 'Seattle, WA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Nuage Technology Group",
+    "title": "Customer Success Manager",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_blocklist: 'customer success' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Australia' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $120,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "World Wide Technology",
+    "title": "Senior Salesforce Developer",
+    "posted_at": "2026-04-15",
+    "reasons": [
+      "title_blocklist: 'developer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
   }
 ]

@@ -1,22 +1,52 @@
 [
   {
-    "company": "Merraine Group",
-    "title": "General Manager / Single-Threaded Owner (STO)",
-    "slug": "merraine-group-general-manager-single-threaded-owner-sto",
-    "location": "United States",
-    "salary": "$200,000.00/yr - $250,000.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/general-manager-single-threaded-owner-sto-at-merraine-group-4401776373?refId=4wEptOrf910S5MUT6xLwbA%3D%3D&trackingId=lEzOdZLxxPjDKIxG3NFujw%3D%3D&position=3&pageNum=0",
+    "company": "Manpower",
+    "title": "Director of Business Development",
+    "slug": "manpower-director-of-business-development",
+    "location": "San Jose, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/director-of-business-development-at-manpower-4401470983?refId=A38YvfR3NvFjKpCJjAEA5A%3D%3D&trackingId=AdXYGJ%2BYjSoypmb%2F74ux%2Bg%3D%3D&position=1&pageNum=0",
     "seniority": "Director",
-    "industries": "Technology, Information and Media, Social Networking Platforms, and Non-profit Organizations"
+    "industries": "Manufacturing"
   },
   {
-    "company": "Insight Global",
-    "title": "Remote Senior Solutions Architect",
-    "slug": "insight-global-remote-senior-solutions-architect",
+    "company": "Kalon Executive Search for Nutraceuticals, CPG and Wellness",
+    "title": "Director of Business Development",
+    "slug": "kalon-executive-search-for-nutraceuticals-cpg-and-wellness-director-of-business-development",
     "location": "United States",
     "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/remote-senior-solutions-architect-at-insight-global-4400760875?refId=ja0onJG7z0eyGrb8GKuIzA%3D%3D&trackingId=55BfAWm2Mr8wL%2BVZEKR0LA%3D%3D&position=5&pageNum=0",
+    "link": "https://www.linkedin.com/jobs/view/director-of-business-development-at-kalon-executive-search-for-nutraceuticals-cpg-and-wellness-4402579543?refId=sS7KLwJw8POWxCIRxuFB6g%3D%3D&trackingId=WWEuESEOjgQl%2Fm%2F3hCIyEA%3D%3D&position=8&pageNum=0",
+    "seniority": "Director",
+    "industries": "Data Infrastructure and Analytics and Wellness and Fitness Services"
+  },
+  {
+    "company": "Hirewell",
+    "title": "Director of Business Development",
+    "slug": "hirewell-director-of-business-development",
+    "location": "Massachusetts, United States",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/director-of-business-development-at-hirewell-4401856172?refId=sS7KLwJw8POWxCIRxuFB6g%3D%3D&trackingId=f1Xm%2BShQe5sVbm2RKjeKEQ%3D%3D&position=3&pageNum=0",
+    "seniority": "Director",
+    "industries": "Real Estate"
+  },
+  {
+    "company": "Lexitas",
+    "title": "Senior Director Business Development",
+    "slug": "lexitas-senior-director-business-development",
+    "location": "United States",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/senior-director-business-development-at-lexitas-4399992107?refId=sS7KLwJw8POWxCIRxuFB6g%3D%3D&trackingId=lIIdymfJVb0RJmgm9l32xQ%3D%3D&position=2&pageNum=0",
+    "seniority": "Director",
+    "industries": "Legal Services"
+  },
+  {
+    "company": "Clever Inc.",
+    "title": "Senior Revenue Operations Manager",
+    "slug": "clever-inc-senior-revenue-operations-manager",
+    "location": "United States",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/senior-revenue-operations-manager-at-clever-inc-4401471777?refId=pU32MS2%2B5DXGUJTM6frumQ%3D%3D&trackingId=PX27gdJc3Z2hAXCLqIYgbg%3D%3D&position=2&pageNum=0",
     "seniority": "Mid-Senior level",
-    "industries": "IT Services and IT Consulting, IT System Testing and Evaluation, and IT System Design Services"
+    "industries": "E-Learning Providers, Software Development, and Education"
   }
 ]
