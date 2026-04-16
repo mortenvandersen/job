@@ -1,8 +1,9 @@
 ---
 company: Lexitas
 role: Senior Director Business Development
-status: inbox
+status: rejected
 date_saved: 2026-04-16
+date_assessed: 2026-04-16
 source_url: https://www.linkedin.com/jobs/view/senior-director-business-development-at-lexitas-4399992107?refId=sS7KLwJw8POWxCIRxuFB6g%3D%3D&trackingId=lIIdymfJVb0RJmgm9l32xQ%3D%3D&position=2&pageNum=0
 location: United States
 salary: 

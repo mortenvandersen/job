@@ -1,8 +1,9 @@
 ---
 company: Kalon Executive Search for Nutraceuticals, CPG and Wellness
 role: Director of Business Development
-status: inbox
+status: rejected
 date_saved: 2026-04-16
+date_assessed: 2026-04-16
 source_url: https://www.linkedin.com/jobs/view/director-of-business-development-at-kalon-executive-search-for-nutraceuticals-cpg-and-wellness-4402579543?refId=sS7KLwJw8POWxCIRxuFB6g%3D%3D&trackingId=WWEuESEOjgQl%2Fm%2F3hCIyEA%3D%3D&position=8&pageNum=0
 location: United States
 salary: 

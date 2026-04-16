@@ -1,8 +1,9 @@
 ---
 company: Hirewell
 role: Director of Business Development
-status: inbox
+status: rejected
 date_saved: 2026-04-16
+date_assessed: 2026-04-16
 source_url: https://www.linkedin.com/jobs/view/director-of-business-development-at-hirewell-4401856172?refId=sS7KLwJw8POWxCIRxuFB6g%3D%3D&trackingId=f1Xm%2BShQe5sVbm2RKjeKEQ%3D%3D&position=3&pageNum=0
 location: Massachusetts, United States
 salary: 

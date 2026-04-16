@@ -1,8 +1,9 @@
 ---
 company: Clever Inc.
 role: Senior Revenue Operations Manager
-status: inbox
+status: rejected
 date_saved: 2026-04-16
+date_assessed: 2026-04-16
 source_url: https://www.linkedin.com/jobs/view/senior-revenue-operations-manager-at-clever-inc-4401471777?refId=pU32MS2%2B5DXGUJTM6frumQ%3D%3D&trackingId=PX27gdJc3Z2hAXCLqIYgbg%3D%3D&position=2&pageNum=0
 location: United States
 salary: 

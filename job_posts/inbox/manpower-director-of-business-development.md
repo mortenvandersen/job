@@ -1,8 +1,9 @@
 ---
 company: Manpower
 role: Director of Business Development
-status: inbox
+status: assessed
 date_saved: 2026-04-16
+date_assessed: 2026-04-16
 source_url: https://www.linkedin.com/jobs/view/director-of-business-development-at-manpower-4401470983?refId=A38YvfR3NvFjKpCJjAEA5A%3D%3D&trackingId=AdXYGJ%2BYjSoypmb%2F74ux%2Bg%3D%3D&position=1&pageNum=0
 location: San Jose, CA
 salary: 
