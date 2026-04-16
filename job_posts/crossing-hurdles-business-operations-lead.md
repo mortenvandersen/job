@@ -1,7 +1,7 @@
 ---
 company: Crossing Hurdles
 role: Business Operations Lead
-status: assessed
+status: applied
 date_saved: 2026-04-06
 date_assessed: 2026-04-07
 role_fit_score: 4.3
