@@ -1,0 +1,20 @@
+{
+  "company": "AnswersNow",
+  "url": "https://jobs.ashbyhq.com/answersnow",
+  "scraped_at": "2026-04-17T20:31:45.770939+00:00",
+  "job_count": 2,
+  "jobs": [
+    {
+      "title": "BCBA Direct Telehealth Provider (Part-Time & Full-Time)",
+      "department": "BCBA",
+      "location": "Remote; Atlanta; Savannah",
+      "url": "https://jobs.ashbyhq.com/answersnow/4382c28b-e53e-4267-9cec-9526fcbd6672"
+    },
+    {
+      "title": "BCBA Direct Telehealth Provider (Spanish Speaking)",
+      "department": "BCBA",
+      "location": "Remote; Atlanta; Dallas; Downtown LA; Houston; New York",
+      "url": "https://jobs.ashbyhq.com/answersnow/e7e1d8f1-f352-4270-8f88-d49fc8dcc236"
+    }
+  ]
+}
