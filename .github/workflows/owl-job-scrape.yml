@@ -28,6 +28,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -58,12 +60,14 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add scrapes/owl_snapshots/ scrapes/owl_new_jobs.json 2>/dev/null || true
-          git add -u
+          git add scrapes/owl_snapshots/
+          git add scrapes/owl_new_jobs.json 2>/dev/null || true
+          echo "--- git status ---"
+          git status
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
             MODE="${{ github.event.inputs.mode || 'diff' }}"
             git commit -m "Owl scrape (${MODE}): $(date +%Y-%m-%d)"
-            git push
+            git push origin main
           fi
