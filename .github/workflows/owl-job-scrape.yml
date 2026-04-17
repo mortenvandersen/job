@@ -1,0 +1,69 @@
+name: Owl Portfolio Job Scrape
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'  # Every Monday at 8am UTC
+
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'initial = establish baseline, diff = new jobs only'
+        required: false
+        type: choice
+        options:
+          - diff
+          - initial
+        default: diff
+      company:
+        description: 'Single company name to scrape (optional)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install firecrawl-py python-dotenv
+
+      - name: Run Owl scraper
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: |
+          MODE="${{ github.event.inputs.mode || 'diff' }}"
+          COMPANY="${{ github.event.inputs.company }}"
+
+          ARGS=""
+          if [ "$MODE" = "diff" ]; then
+            ARGS="--diff"
+          fi
+          if [ -n "$COMPANY" ]; then
+            ARGS="$ARGS --company \"$COMPANY\""
+          fi
+
+          eval python scripts/owl_scrape.py $ARGS
+
+      - name: Commit updated snapshots
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add scrapes/owl_snapshots/ scrapes/owl_new_jobs.json 2>/dev/null || true
+          git add -u
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            MODE="${{ github.event.inputs.mode || 'diff' }}"
+            git commit -m "Owl scrape (${MODE}): $(date +%Y-%m-%d)"
+            git push
+          fi
