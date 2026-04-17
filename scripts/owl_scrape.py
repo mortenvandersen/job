@@ -29,7 +29,7 @@ from firecrawl import FirecrawlApp
 load_dotenv()
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-CSV_PATH = REPO_ROOT / "Owl Companies - Owl Full List (1).csv"
+CSV_PATH = REPO_ROOT / "Owl Companies - Owl Full List.csv"
 SNAPSHOTS_DIR = REPO_ROOT / "scrapes" / "owl_snapshots"
 
 JOB_SCHEMA = {
@@ -78,13 +78,7 @@ def scrape_company(app: FirecrawlApp, company: str, url: str) -> dict:
 def load_companies(filter_name: str | None = None) -> list[dict]:
     companies = []
     with open(CSV_PATH, newline="", encoding="utf-8") as f:
-        # Skip junk rows before the real header
-        raw = csv.reader(f)
-        for row in raw:
-            if row and row[0].strip() == "Company":
-                headers = [h.strip() for h in row]
-                break
-        reader = csv.DictReader(f, fieldnames=headers)
+        reader = csv.DictReader(f)
         for row in reader:
             company = row.get("Company", "").strip()
             url = row.get("Careers Page URL", "").strip()
