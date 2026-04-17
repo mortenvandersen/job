@@ -63,7 +63,11 @@ def scrape_company(app: Firecrawl, company: str, url: str) -> dict:
         prompt="Extract all job listings from this careers page. For each job include the title, department, location, and URL if available.",
         schema=JOB_SCHEMA,
     )
-    jobs = (result.get("data") or {}).get("jobs") or (result.get("jobs") or [])
+    # ExtractResponse is a Pydantic model in firecrawl v2
+    if hasattr(result, "model_dump"):
+        result = result.model_dump()
+    data = result.get("data") if isinstance(result, dict) else {}
+    jobs = (data.get("jobs") if isinstance(data, dict) else []) or []
     return {
         "company": company,
         "url": url,
