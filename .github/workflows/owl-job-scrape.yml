@@ -37,11 +37,12 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install firecrawl-py python-dotenv
+        run: pip install firecrawl-py anthropic python-dotenv
 
       - name: Run Owl scraper
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           MODE="${{ github.event.inputs.mode || 'diff' }}"
           COMPANY="${{ github.event.inputs.company }}"

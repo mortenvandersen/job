@@ -2,12 +2,16 @@
 """
 Owl portfolio companies — job scraper.
 
+Scrapes each careers page via Firecrawl (1 credit/page = markdown),
+then uses Claude Haiku to extract structured job listings.
+
 Initial run: scrapes all companies, saves JSON snapshots as baseline.
-Weekly run: scrapes and diffs against snapshots, reports new postings.
+Weekly run:  diffs against snapshots, reports new postings.
 
 Usage:
-    pip install firecrawl-py python-dotenv
-    export FIRECRAWL_API_KEY=fc-...   # or put in .env
+    pip install firecrawl-py anthropic python-dotenv
+    export FIRECRAWL_API_KEY=fc-...
+    export ANTHROPIC_API_KEY=sk-ant-...   # or put both in .env
 
     python scripts/owl_scrape.py                     # scrape all
     python scripts/owl_scrape.py --company Newsela   # single company
@@ -23,6 +27,7 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 
+import anthropic
 from dotenv import load_dotenv
 from firecrawl import Firecrawl
 
@@ -32,42 +37,58 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 CSV_PATH = REPO_ROOT / "Owl Companies - Owl Full List.csv"
 SNAPSHOTS_DIR = REPO_ROOT / "scrapes" / "owl_snapshots"
 
-JOB_SCHEMA = {
-    "type": "object",
-    "properties": {
-        "jobs": {
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "title": {"type": "string"},
-                    "department": {"type": "string"},
-                    "location": {"type": "string"},
-                    "url": {"type": "string"},
-                },
-                "required": ["title"],
-            },
-        }
-    },
-    "required": ["jobs"],
-}
+SYSTEM_PROMPT = (
+    "You extract job listings from careers page markdown. "
+    "Return a JSON array of job objects. Each object must have: "
+    "title (string, required), department (string or null), "
+    "location (string or null), url (string or null). "
+    "Return ONLY a valid JSON array — no explanation, no markdown fences."
+)
 
 
 def slug(name: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
 
-def scrape_company(app: Firecrawl, company: str, url: str) -> dict:
-    result = app.extract(
-        urls=[url],
-        prompt="Extract all job listings from this careers page. For each job include the title, department, location, and URL if available.",
-        schema=JOB_SCHEMA,
-    )
-    # ExtractResponse is a Pydantic model in firecrawl v2
+def fetch_markdown(fc: Firecrawl, url: str) -> str:
+    result = fc.scrape(url, formats=["markdown"])
     if hasattr(result, "model_dump"):
         result = result.model_dump()
-    data = result.get("data") if isinstance(result, dict) else {}
-    jobs = (data.get("jobs") if isinstance(data, dict) else []) or []
+    return (result.get("markdown") or "") if isinstance(result, dict) else ""
+
+
+def extract_jobs(claude: anthropic.Anthropic, company: str, markdown: str) -> list[dict]:
+    if not markdown or len(markdown.strip()) < 50:
+        return []
+
+    content = markdown[:15000]
+
+    response = claude.messages.create(
+        model="claude-haiku-4-5-20251001",
+        max_tokens=2048,
+        system=[{
+            "type": "text",
+            "text": SYSTEM_PROMPT,
+            "cache_control": {"type": "ephemeral"},
+        }],
+        messages=[{
+            "role": "user",
+            "content": f"Extract all job listings from this {company} careers page:\n\n{content}",
+        }],
+    )
+
+    text = response.content[0].text.strip()
+    # Strip markdown fences if Claude adds them anyway
+    if text.startswith("```"):
+        text = re.sub(r"^```[a-z]*\n?", "", text)
+        text = re.sub(r"\n?```$", "", text)
+
+    return json.loads(text)
+
+
+def scrape_company(fc: Firecrawl, claude: anthropic.Anthropic, company: str, url: str) -> dict:
+    markdown = fetch_markdown(fc, url)
+    jobs = extract_jobs(claude, company, markdown)
     return {
         "company": company,
         "url": url,
@@ -97,13 +118,18 @@ def diff_jobs(old_jobs: list[dict], new_jobs: list[dict]) -> list[dict]:
 
 
 def run_scrape(companies: list[dict], diff_mode: bool) -> None:
-    api_key = os.environ.get("FIRECRAWL_API_KEY")
-    if not api_key:
+    fc_key = os.environ.get("FIRECRAWL_API_KEY")
+    claude_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not fc_key:
         print("Error: FIRECRAWL_API_KEY not set")
+        sys.exit(1)
+    if not claude_key:
+        print("Error: ANTHROPIC_API_KEY not set")
         sys.exit(1)
 
     SNAPSHOTS_DIR.mkdir(parents=True, exist_ok=True)
-    app = Firecrawl(api_key=api_key)
+    fc = Firecrawl(api_key=fc_key)
+    claude = anthropic.Anthropic(api_key=claude_key)
 
     print(f"{'Diff check' if diff_mode else 'Initial scrape'} — {len(companies)} companies\n")
 
@@ -117,7 +143,7 @@ def run_scrape(companies: list[dict], diff_mode: bool) -> None:
 
         print(f"[{i}/{len(companies)}] {company}")
         try:
-            snapshot = scrape_company(app, company, url)
+            snapshot = scrape_company(fc, claude, company, url)
 
             if diff_mode and snapshot_path.exists():
                 previous = json.loads(snapshot_path.read_text())
