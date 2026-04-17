@@ -1,52 +1,52 @@
 [
   {
-    "company": "Manpower",
-    "title": "Director of Business Development",
-    "slug": "manpower-director-of-business-development",
-    "location": "San Jose, CA",
-    "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/director-of-business-development-at-manpower-4401470983?refId=A38YvfR3NvFjKpCJjAEA5A%3D%3D&trackingId=AdXYGJ%2BYjSoypmb%2F74ux%2Bg%3D%3D&position=1&pageNum=0",
-    "seniority": "Director",
-    "industries": "Manufacturing"
-  },
-  {
-    "company": "Kalon Executive Search for Nutraceuticals, CPG and Wellness",
-    "title": "Director of Business Development",
-    "slug": "kalon-executive-search-for-nutraceuticals-cpg-and-wellness-director-of-business-development",
-    "location": "United States",
-    "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/director-of-business-development-at-kalon-executive-search-for-nutraceuticals-cpg-and-wellness-4402579543?refId=sS7KLwJw8POWxCIRxuFB6g%3D%3D&trackingId=WWEuESEOjgQl%2Fm%2F3hCIyEA%3D%3D&position=8&pageNum=0",
-    "seniority": "Director",
-    "industries": "Data Infrastructure and Analytics and Wellness and Fitness Services"
-  },
-  {
-    "company": "Hirewell",
-    "title": "Director of Business Development",
-    "slug": "hirewell-director-of-business-development",
-    "location": "Massachusetts, United States",
-    "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/director-of-business-development-at-hirewell-4401856172?refId=sS7KLwJw8POWxCIRxuFB6g%3D%3D&trackingId=f1Xm%2BShQe5sVbm2RKjeKEQ%3D%3D&position=3&pageNum=0",
-    "seniority": "Director",
-    "industries": "Real Estate"
-  },
-  {
-    "company": "Lexitas",
+    "company": "Aditude",
     "title": "Senior Director Business Development",
-    "slug": "lexitas-senior-director-business-development",
+    "slug": "aditude-senior-director-business-development",
     "location": "United States",
     "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/senior-director-business-development-at-lexitas-4399992107?refId=sS7KLwJw8POWxCIRxuFB6g%3D%3D&trackingId=lIIdymfJVb0RJmgm9l32xQ%3D%3D&position=2&pageNum=0",
+    "link": "https://www.linkedin.com/jobs/view/senior-director-business-development-at-aditude-4402188493?refId=4vTtfTjOSgY%2FXvdU6athrw%3D%3D&trackingId=4BJSIaSavdAFNQ9v7RYYFQ%3D%3D&position=6&pageNum=0",
     "seniority": "Director",
-    "industries": "Legal Services"
+    "industries": "Advertising Services and Software Development"
   },
   {
-    "company": "Clever Inc.",
-    "title": "Senior Revenue Operations Manager",
-    "slug": "clever-inc-senior-revenue-operations-manager",
+    "company": "Medix™",
+    "title": "Operations Manager/Chief of Staff",
+    "slug": "medix-operations-manager-chief-of-staff",
     "location": "United States",
     "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/senior-revenue-operations-manager-at-clever-inc-4401471777?refId=pU32MS2%2B5DXGUJTM6frumQ%3D%3D&trackingId=PX27gdJc3Z2hAXCLqIYgbg%3D%3D&position=2&pageNum=0",
+    "link": "https://www.linkedin.com/jobs/view/operations-manager-chief-of-staff-at-medix%E2%84%A2-4400408309?refId=4vTtfTjOSgY%2FXvdU6athrw%3D%3D&trackingId=MyDuo3IyIDO8umZ9wnP3%2FA%3D%3D&position=3&pageNum=0",
     "seniority": "Mid-Senior level",
-    "industries": "E-Learning Providers, Software Development, and Education"
+    "industries": "Medical Equipment Manufacturing and Administrative and Support Services"
+  },
+  {
+    "company": "Rocketship Public Schools",
+    "title": "Chief Operating Officer (Remote)",
+    "slug": "rocketship-public-schools-chief-operating-officer-remote",
+    "location": "United States",
+    "salary": "$250,000.00/yr - $275,000.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/chief-operating-officer-remote-at-rocketship-public-schools-4402310391?refId=4vTtfTjOSgY%2FXvdU6athrw%3D%3D&trackingId=667StVX0NXvPEIkT6if0qg%3D%3D&position=2&pageNum=0",
+    "seniority": "Executive",
+    "industries": "Non-profit Organizations and Education"
+  },
+  {
+    "company": "DHL Supply Chain",
+    "title": "General Manager",
+    "slug": "dhl-supply-chain-general-manager",
+    "location": "San Francisco Bay Area",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/general-manager-at-dhl-supply-chain-4402146111?refId=2qNJ9%2Ff8YWJSb2O1IFocCQ%3D%3D&trackingId=WR%2FM%2FMfJxVhGbg2m5VQahw%3D%3D&position=2&pageNum=0",
+    "seniority": "Mid-Senior level",
+    "industries": "Transportation, Logistics, Supply Chain and Storage and Warehousing and Storage"
+  },
+  {
+    "company": "Leadenhall Search & Selection",
+    "title": "Chief of Staff - GTM",
+    "slug": "leadenhall-search-selection-chief-of-staff-gtm",
+    "location": "San Francisco Bay Area",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/chief-of-staff-gtm-at-leadenhall-search-selection-4402114444?refId=2qNJ9%2Ff8YWJSb2O1IFocCQ%3D%3D&trackingId=hcqVrgD6zn8YOEGuO7jxlw%3D%3D&position=1&pageNum=0",
+    "seniority": "Executive",
+    "industries": "Staffing and Recruiting, Business Consulting and Services, and Financial Services"
   }
 ]

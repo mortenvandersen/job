@@ -5747,5 +5747,233 @@
       "title_blocklist: 'developer' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
+  },
+  {
+    "company": "InSite Health",
+    "title": "Principal Software Engineer",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Philadelphia, PA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $170,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Tru Consulting",
+    "title": "Lead Anaplan Model Builder",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Robert Half",
+    "title": "Senior Accountant | PE backed EdTech | NYC, 2 days in office",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_blocklist: 'accountant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found",
+      "location_not_allowed: 'New York, NY' is not remote and not in SF Bay Area",
+      "seniority_blocklist: 'associate' found in seniority level"
+    ]
+  },
+  {
+    "company": "AttivoERP",
+    "title": "Financial Controller",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_blocklist: 'controller' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Solü Technology Partners",
+    "title": "Archer Developer (Remote)",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_blocklist: 'developer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Addison Group",
+    "title": "Sr. Deputy General Counsel",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_blocklist: 'counsel' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Tradeify",
+    "title": "Senior FP&A Analyst",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_blocklist: 'analyst' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "The Michael J. Fox Foundation for Parkinson's Research",
+    "title": "Lead Project Manager (Administration)",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "salary_below_floor: max $135,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Kayne Anderson Rudnick",
+    "title": "Managing Director, Business Development Officer (Texas:TX, OK, & NM) - KAR",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_blocklist: 'business development officer' found in title"
+    ]
+  },
+  {
+    "company": "Verto People",
+    "title": "Regional Sales Director – Power Transmission / Gearboxes",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_blocklist: 'sales director' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $180,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "CivicMinds, Inc",
+    "title": "Chief Financial Officer",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Addison Group",
+    "title": "Senior Manager Analytics",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Business Operations and Strategy Manager",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Stealth Startup",
+    "title": "Head of Program Management",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "FPC National",
+    "title": "Director of Business Development",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "salary_below_floor: max $160,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Nibbi Brothers General Contractors",
+    "title": "Marketing Director",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_blocklist: 'marketing director' found in title"
+    ]
+  },
+  {
+    "company": "Goodall Brazier",
+    "title": "Vice President",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "part_time: 'contractor' found"
+    ]
+  },
+  {
+    "company": "3 Bridge Networks",
+    "title": "Director of Accounting",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "NextAxiom",
+    "title": "Contract and Proposal Specialist",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $149,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "3 Bridge Networks",
+    "title": "Vice President Finance",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "location_not_allowed: 'Vallejo, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Nanonets",
+    "title": "People Operations Manager",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found"
+    ]
+  },
+  {
+    "company": "EdSights",
+    "title": "Senior Manager, Growth Marketing",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Newsela",
+    "title": "Manager, SMB Sales (Remote, US)",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "description_blocklist: 'on-target earnings' found — likely sales/commission role",
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Stanford University School of Medicine",
+    "title": "Senior Director of Operational Initiatives - Hybrid (3 Days Onsite)",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "location_not_allowed: 'Stanford, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Russell Tobin",
+    "title": "Learning Design Specialist",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $71,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "AgileArc",
+    "title": "Senior Operations Manager",
+    "posted_at": "2026-04-16",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $145,000 < $200,000 floor"
+    ]
   }
 ]
