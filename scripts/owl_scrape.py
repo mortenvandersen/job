@@ -58,12 +58,12 @@ def slug(name: str) -> str:
 
 
 def scrape_company(app: Firecrawl, company: str, url: str) -> dict:
-    result = app.scrape(
-        url,
-        formats=["extract"],
-        extract={"schema": JOB_SCHEMA},
+    result = app.extract(
+        urls=[url],
+        prompt="Extract all job listings from this careers page. For each job include the title, department, location, and URL if available.",
+        schema=JOB_SCHEMA,
     )
-    jobs = (result.get("extract") or {}).get("jobs") or []
+    jobs = (result.get("data") or {}).get("jobs") or (result.get("jobs") or [])
     return {
         "company": company,
         "url": url,
