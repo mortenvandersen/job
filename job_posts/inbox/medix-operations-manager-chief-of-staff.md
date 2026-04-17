@@ -1,8 +1,9 @@
 ---
 company: Medix™
 role: Operations Manager/Chief of Staff
-status: inbox
+status: rejected
 date_saved: 2026-04-17
+date_assessed: 2026-04-17
 source_url: https://www.linkedin.com/jobs/view/operations-manager-chief-of-staff-at-medix%E2%84%A2-4400408309?refId=4vTtfTjOSgY%2FXvdU6athrw%3D%3D&trackingId=MyDuo3IyIDO8umZ9wnP3%2FA%3D%3D&position=3&pageNum=0
 location: United States
 salary: 

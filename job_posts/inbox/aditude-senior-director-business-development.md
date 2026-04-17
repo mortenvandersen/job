@@ -1,8 +1,9 @@
 ---
 company: Aditude
 role: Senior Director Business Development
-status: inbox
+status: rejected
 date_saved: 2026-04-17
+date_assessed: 2026-04-17
 source_url: https://www.linkedin.com/jobs/view/senior-director-business-development-at-aditude-4402188493?refId=4vTtfTjOSgY%2FXvdU6athrw%3D%3D&trackingId=4BJSIaSavdAFNQ9v7RYYFQ%3D%3D&position=6&pageNum=0
 location: United States
 salary: 

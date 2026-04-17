@@ -1,8 +1,9 @@
 ---
 company: Leadenhall Search & Selection
 role: Chief of Staff - GTM
-status: inbox
+status: rejected
 date_saved: 2026-04-17
+date_assessed: 2026-04-17
 source_url: https://www.linkedin.com/jobs/view/chief-of-staff-gtm-at-leadenhall-search-selection-4402114444?refId=2qNJ9%2Ff8YWJSb2O1IFocCQ%3D%3D&trackingId=hcqVrgD6zn8YOEGuO7jxlw%3D%3D&position=1&pageNum=0
 location: San Francisco Bay Area
 salary: 

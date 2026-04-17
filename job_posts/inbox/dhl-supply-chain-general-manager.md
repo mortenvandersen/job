@@ -1,8 +1,9 @@
 ---
 company: DHL Supply Chain
 role: General Manager
-status: inbox
+status: rejected
 date_saved: 2026-04-17
+date_assessed: 2026-04-17
 source_url: https://www.linkedin.com/jobs/view/general-manager-at-dhl-supply-chain-4402146111?refId=2qNJ9%2Ff8YWJSb2O1IFocCQ%3D%3D&trackingId=WR%2FM%2FMfJxVhGbg2m5VQahw%3D%3D&position=2&pageNum=0
 location: San Francisco Bay Area
 salary: 
