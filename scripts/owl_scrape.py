@@ -24,7 +24,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from dotenv import load_dotenv
-from firecrawl import FirecrawlApp
+from firecrawl import Firecrawl
 
 load_dotenv()
 
@@ -57,13 +57,11 @@ def slug(name: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
 
-def scrape_company(app: FirecrawlApp, company: str, url: str) -> dict:
-    result = app.scrape_url(
+def scrape_company(app: Firecrawl, company: str, url: str) -> dict:
+    result = app.scrape(
         url,
-        params={
-            "formats": ["extract"],
-            "extract": {"schema": JOB_SCHEMA},
-        },
+        formats=["extract"],
+        extract={"schema": JOB_SCHEMA},
     )
     jobs = (result.get("extract") or {}).get("jobs") or []
     return {
@@ -101,7 +99,7 @@ def run_scrape(companies: list[dict], diff_mode: bool) -> None:
         sys.exit(1)
 
     SNAPSHOTS_DIR.mkdir(parents=True, exist_ok=True)
-    app = FirecrawlApp(api_key=api_key)
+    app = Firecrawl(api_key=api_key)
 
     print(f"{'Diff check' if diff_mode else 'Initial scrape'} — {len(companies)} companies\n")
 
