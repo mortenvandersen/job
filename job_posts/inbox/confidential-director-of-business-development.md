@@ -1,8 +1,9 @@
 ---
 company: Confidential
 role: Director of Business Development
-status: inbox
+status: rejected
 date_saved: 2026-04-18
+date_assessed: 2026-04-18
 source_url: https://www.linkedin.com/jobs/view/director-of-business-development-at-confidential-4401808132?refId=Wf5yCSApWGDLdUwC1Spk5Q%3D%3D&trackingId=h72po9HvWl1jYGfPJ%2BXz8A%3D%3D&position=6&pageNum=0
 location: United States
 salary: 

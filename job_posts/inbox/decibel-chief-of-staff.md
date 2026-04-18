@@ -1,8 +1,9 @@
 ---
 company: Decibel
 role: Chief of Staff
-status: inbox
+status: assessed
 date_saved: 2026-04-18
+date_assessed: 2026-04-18
 source_url: https://www.linkedin.com/jobs/view/chief-of-staff-at-decibel-4402711339?refId=Wf5yCSApWGDLdUwC1Spk5Q%3D%3D&trackingId=X68Re4sa3cmWBZcCjFqF6A%3D%3D&position=2&pageNum=0
 location: New York, United States
 salary: $180,000.00/yr - $230,000.00/yr

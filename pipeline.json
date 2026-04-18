@@ -8,18 +8,22 @@
       "location": "United States",
       "comp_range": "",
       "date_saved": "2026-04-18",
-      "date_assessed": null,
+      "date_assessed": "2026-04-18",
       "source_url": "https://www.linkedin.com/jobs/view/director-of-business-development-at-confidential-4401808132?refId=Wf5yCSApWGDLdUwC1Spk5Q%3D%3D&trackingId=h72po9HvWl1jYGfPJ%2BXz8A%3D%3D&position=6&pageNum=0",
-      "status": "inbox",
+      "status": "rejected",
       "role_fit_score": null,
       "candidate_fit_score": null,
-      "recommendation": null,
+      "recommendation": "Skip",
       "file": "job_posts/inbox/confidential-director-of-business-development.md",
-      "summary_note": "",
+      "summary_note": "Three deal-breakers: commission-based structure, base $120-150K far below $200K floor, requires Licensed Customs Broker credential Morten does not hold.",
       "jd_snippet": "About UsWe are a newly formed specialty finance firm focused on a singular, time-sensitive opportunity: advancing funds to U.S. importers against their court-ordered IEEPA tariff refunds. Following the Supreme Court’s February 2026 ruling striking down IEEPA tariffs and the Court of International Trade’s subsequent refund orders, over 300,000 importers are owed a share of approximately $166 billion in refunds — but face an uncertain and protracted timeline to actually receive their money. We provide importers with immediate capital against their confirmed refund claims, handling the…",
-      "gaps": [],
+      "gaps": [
+        "Deal-breaker: commission-based role — uncapped deal-based commission on funded transaction volume",
+        "Deal-breaker: base $120-150K well below $200K hard floor",
+        "Deal-breaker: requires Licensed Customs Broker (LCB) credential or equivalent customs/trade compliance depth"
+      ],
       "strongest_angles": [],
-      "status_notes": ""
+      "status_notes": "Quick-rejected 2026-04-18 — three deal-breakers: commission structure, comp below floor, LCB credential required"
     },
     {
       "id": "decibel-chief-of-staff",
@@ -28,18 +32,29 @@
       "location": "New York, United States",
       "comp_range": "$180,000.00/yr - $230,000.00/yr",
       "date_saved": "2026-04-18",
-      "date_assessed": null,
+      "date_assessed": "2026-04-18",
       "source_url": "https://www.linkedin.com/jobs/view/chief-of-staff-at-decibel-4402711339?refId=Wf5yCSApWGDLdUwC1Spk5Q%3D%3D&trackingId=X68Re4sa3cmWBZcCjFqF6A%3D%3D&position=2&pageNum=0",
-      "status": "inbox",
-      "role_fit_score": null,
-      "candidate_fit_score": null,
-      "recommendation": null,
-      "file": "job_posts/inbox/decibel-chief-of-staff.md",
-      "summary_note": "",
+      "status": "assessed",
+      "role_fit_score": 3.5,
+      "candidate_fit_score": 4,
+      "recommendation": "Yes with flags — verify remote eligibility + company size before applying",
+      "file": "job_posts/decibel-chief-of-staff.md",
+      "summary_note": "CoS to founders at crypto/on-chain trading startup — substantive scope, VC/GM profile fits well. Two unconfirmed risks: location may be NY in-office (deal-breaker) and company may be <50 employees. Score 3.5/5.",
       "jd_snippet": "About DecibelDecibel is a high-performance, fully on-chain trading platform built in collaboration with Aptos Labs and the Decibel Foundation. Designed to match the speed of high performance trading, Decibel offers spot, perpetuals, and yield products through a unified, self-custodial interface. The platform runs on the Aptos blockchain, leveraging its sub-20ms block times and parallel execution to support real-time settlement, cross-margining, and modular vault strategies. Decibel aims to serve as the execution layer for the Aptos global trading engine, empowering traders, developers, and…",
-      "gaps": [],
-      "strongest_angles": [],
-      "status_notes": ""
+      "gaps": [
+        "🔴 Location ambiguity — LinkedIn says New York; confirm remote from Bay Area is acceptable before applying",
+        "🔴 Company size unconfirmed — possibly under 50 employees (hard no)",
+        "🟡 Comp floor risk — $180K range floor below $200K minimum; confirm base will clear floor",
+        "🟡 No crypto/markets experience — preferred but not required per JD",
+        "🟡 Industry not a priority — crypto/derivatives sits outside preferred industry tiers"
+      ],
+      "strongest_angles": [
+        "LEGO Ventures VC background explicitly called out as welcome profile in JD — lead with this",
+        "Labster GM through restructuring (450→150) matches fast-moving, resource-constrained environment described",
+        "Divestiture + 2 VC funding rounds covers \"investor materials\" and founder-level special projects from day one",
+        "Cross-functional breadth (commercial/product/finance) mirrors CoS scope across trading/engineering/GTM"
+      ],
+      "status_notes": "Assessed 2026-04-18 — role fit 3.5/5 (Yes with flags), candidate fit 4/5. Conditional on verifying remote access + company size."
     },
     {
       "id": "aditude-senior-director-business-development",
@@ -103,7 +118,7 @@
       "role_fit_score": 4.4,
       "candidate_fit_score": 4,
       "recommendation": "Yes with flags — apply with strong framing",
-      "file": "job_posts/inbox/rocketship-public-schools-chief-operating-officer-remote.md",
+      "file": "job_posts/rocketship-public-schools-chief-operating-officer-remote.md",
       "summary_note": "COO at K-12 charter nonprofit — Tier 1 EdTech, $250-275K, strong scope. Post-restructuring stabilization mandate maps well to Labster GM experience. Yellow flags: no K-12 experience, 25-40% travel.",
       "jd_snippet": "Remote Bay Area/California, Nashville, Milwaukee/Chicago area, or Washington, DC/DMV About Rocketship Public SchoolsRocketship schools are top tier public elementary schools known for academic results and a holistic approach to personalized learning. The Rocketship network has successfully launched 22 elementary schools across the country since first opening in the Bay Area over eighteen years ago. Rocketship Public Schools’ non-profit network of public elementary charter schools propels student achievement, develops exceptional educators, and intentionally partners with parents to enable…",
       "gaps": [
