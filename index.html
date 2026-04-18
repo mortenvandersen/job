@@ -1184,7 +1184,6 @@
       <button class="owl-subtab-btn active" data-owl-view="all" onclick="switchOwlView('all')">All</button>
       <button class="owl-subtab-btn" data-owl-view="filtered" onclick="switchOwlView('filtered')">Filtered</button>
       <span id="owl-count" class="owl-count"></span>
-      <span id="owl-rules-debug" class="owl-count" style="margin-left:12px"></span>
     </div>
 
     <div class="owl-controls">
@@ -2414,12 +2413,6 @@ function renderOwl() {
   });
 
   countEl.textContent = `${rows.length} of ${jobs.length} jobs`;
-  const dbg = document.getElementById('owl-rules-debug');
-  if (dbg) {
-    const a = (owlFilterRules && owlFilterRules.title_allowlist && owlFilterRules.title_allowlist.length) || 0;
-    const b = (owlFilterRules && owlFilterRules.title_blocklist && owlFilterRules.title_blocklist.length) || 0;
-    dbg.textContent = `rules: ${a} allow / ${b} block · view: ${owlView}`;
-  }
 
   if (!rows.length) {
     tbody.innerHTML = `<tr><td colspan="6"><div class="owl-empty">No jobs match the current view.</div></td></tr>`;
