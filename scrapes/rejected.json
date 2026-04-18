@@ -5975,5 +5975,232 @@
       "title_allowlist: no target role keyword found in title or jobFunction",
       "salary_below_floor: max $145,000 < $200,000 floor"
     ]
+  },
+  {
+    "company": "Adyen",
+    "title": "Senior Enterprise Account Executive, Digital",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: ' ote ' found — likely sales/commission role"
+    ]
+  },
+  {
+    "company": "Peak Demand",
+    "title": "Senior Project Developer – Commercial & Industrial (CAISO)",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_blocklist: 'developer' found in title",
+      "salary_below_floor: max $180,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Trajectory Recruiting",
+    "title": "Business Intelligence Analyst (Tableau)",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_blocklist: 'analyst' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "TES Recruiting",
+    "title": "General Manager",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "location_not_allowed: 'Pleasanton, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Optomi",
+    "title": "DevSecOps Engineer",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "TechChain Talent",
+    "title": "Legal Counsel",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_blocklist: 'legal' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "InSite Health",
+    "title": "Principal Software Engineer",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Boston, MA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Adecco",
+    "title": "Senior Instructional Designer",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_blocklist: 'designer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $70,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Integra Connect",
+    "title": "Medical Director",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Integra Connect",
+    "title": "Scientific Content Specialist",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "VytlOne",
+    "title": "340B Regulatory Manager",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Veritas Partners",
+    "title": "Financial Planning and Analysis Manager - Renewable Energy",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $145,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "US Tech Solutions",
+    "title": "Learning Design Specialist",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $50,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Orbital Engineering, Inc.",
+    "title": "Distribution Design Senior Manager - Midwest",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Greater Chicago Area' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Art of Problem Solving",
+    "title": "Product Manager - Technical",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'San Diego, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Addison Group",
+    "title": "Data Manager",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $180,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Cyrus Global Holding",
+    "title": "Digital Asset Portfolio and Strategy Manager",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "industry_blocklist: 'oil' found"
+    ]
+  },
+  {
+    "company": "Kayne Anderson Rudnick",
+    "title": "Managing Director, Business Development Officer (Northern CA, WA & OR)",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_blocklist: 'business development officer' found in title"
+    ]
+  },
+  {
+    "company": "McLane Company, Inc.",
+    "title": "National Business Development Director (Remote)",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "industry_blocklist: 'restaurants' found"
+    ]
+  },
+  {
+    "company": "The Princeton Review",
+    "title": "Director, Financial Planning & Analysis",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Integra Connect",
+    "title": "President of Population Health",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Inspire Path Networks, LLC",
+    "title": "Senior Manager, Operations - Health Tech",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Business Operations and Strategy Manager",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Stealth Startup",
+    "title": "Head of Program Management",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Ashby",
+    "title": "Strategy & Operations, Customer Success",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "title_blocklist: 'customer success' found in title",
+      "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Global Growth Industries",
+    "title": "Divisional Director of Operations (VP in Training)",
+    "posted_at": "2026-04-17",
+    "reasons": [
+      "industry_blocklist: 'oil' found",
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
   }
 ]
