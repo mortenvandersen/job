@@ -1,0 +1,78 @@
+Company,Careers Page URL,Status,Jobs Found,ATS Detected,Notes
+Classplus,https://classplus.co/careers,missing,,,Scraper produced no snapshot (likely fetch/parse failure)
+Coala,https://coala.com/careers,missing,,,Scraper produced no snapshot (likely fetch/parse failure)
+Futre,https://futre.app/careers,missing,,,Scraper produced no snapshot (likely fetch/parse failure)
+Morressier,https://morressier.com/careers/,missing,,,Scraper produced no snapshot (likely fetch/parse failure)
+Sizzle,https://sizzle.ai/careers,missing,,,Scraper produced no snapshot (likely fetch/parse failure)
+ABL Schools,https://www.ablschools.com/careers/,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Authentica Solutions,https://www.authenticasolutions.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Authoritive,https://www.authoritive.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Bling!,https://blingfi.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+BorderPlus,https://www.borderplus.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Class Technologies,https://class.com/careers/,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+DeepHow,https://www.deephow.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+DeweyLearn,https://www.deweylearn.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Discovery Education,https://www.discoveryeducation.com/company/careers/,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Ethiqly,https://www.ethiqly.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Fiveable,https://fiveable.me/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Fizz,https://www.joinfizz.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Galena,https://galena.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Gather,https://www.gather.town/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Genially,https://genial.ly/jobs/,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Greenlight,https://greenlightcard.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Interplay Learning,https://www.interplaylearning.com/company/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Jotit,https://jotit.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Kuali,https://kuali.com/about/jobs/,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Kyron Learning,https://www.kyronlearning.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Labster,https://www.labster.com/careers/,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+LeapFinance / Leap Scholar,https://www.leapscholar.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Letrus,https://letrus.com.br/carreiras,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+LingoAce,https://www.lingoace.com/join-us/,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+MasterClass,https://www.masterclass.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Maximal Learning,https://maximallearning.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Noodle (Partners),https://www.noodle.com/about/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Novakid,https://www.novakidschool.com/careers/,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Panorama Education,https://job-boards.greenhouse.io/panoramaed,empty,0,Greenhouse,On ATS but 0 jobs extracted — retry or genuinely no openings
+Quizlet,https://quizlet.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Raftr,https://www.raftr.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+RaiseMe,https://www.raise.me/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Schemata,https://www.schemata.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Securly,https://www.securly.com/careers/,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Smalt,https://smalt.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+SplashLearn,https://www.splashlearn.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Starbridge,https://www.starbridge.org/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+STASH,https://www.stash.com/careers/,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+StudyFetch,https://www.studyfetch.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Subject,https://www.subject.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+SV Academy,https://svacademy.org/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Thunkable,https://thunkable.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+ubiMaster,https://ubimaster.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+UBITS,https://www.ubits.com/en/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+uLesson,https://ulesson.com/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Untapped,https://www.untapped.io/careers,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Vaia (StudySmarter),https://www.vaia.com/en-us/careers/,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Welcome Tech,https://welcometech.com/about/careers/,empty,0,,Snapshot written but 0 jobs extracted (likely marketing page)
+Preply,https://preply.com/en/careers#SearchJobs,ok,34,,
+Kiddom,https://jobs.lever.co/kiddom,ok,32,Lever,
+Newsela,https://job-boards.greenhouse.io/newsela,ok,26,Greenhouse,
+Hoytrabajas,https://hoytrabajas.com/careers,ok,20,,
+Hazel Health,https://job-boards.greenhouse.io/hazel,ok,17,Greenhouse,
+Cloudforce,https://gocloudforce.com/careers/,ok,15,,
+ParentSquare,https://www.parentsquare.com/careers/,ok,11,,
+Apna,https://apna.co/careers,ok,10,,
+Mighty Networks,https://www.mightynetworks.com/careers,ok,9,,
+Brisk Teaching,https://jobs.ashbyhq.com/brisk-teaching,ok,8,Ashby,
+Amira Learning,https://www.amiralearning.com/careers/,ok,6,,
+Ignite Reading,https://www.ignitereading.com/careers,ok,5,,
+Linus,https://job-boards.greenhouse.io/linushealth,ok,5,Greenhouse,
+Accelerate Learning,https://www.acceleratelearning.com/careers/,ok,4,,
+BenchPrep,https://job-boards.greenhouse.io/benchprep,ok,4,Greenhouse,
+Swing Education,https://www.swingeducation.com/careers/,ok,4,,
+Thrive Global,https://thriveglobal.com/careers/,ok,4,,
+Degreed,https://job-boards.greenhouse.io/degreed,ok,3,Greenhouse,
+Speechify,https://job-boards.greenhouse.io/speechify,ok,3,Greenhouse,
+AnswersNow,https://jobs.ashbyhq.com/answersnow,ok,2,Ashby,
+Derivita,https://www.derivita.com/careers,ok,2,,
+BetterLesson,https://betterlesson.com/about-us/careers,ok,1,,
+Honorlock,https://recruiting.ultipro.com/HON1001HONR/JobBoard/7fa075f6-bea5-4ca8-89d4-1daa62de4051/?q=&o=postedDateDesc,ok,1,UltiPro,
+Rebel Girls,https://rebelgirls.com/pages/careers,ok,1,,
