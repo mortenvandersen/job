@@ -21,6 +21,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 SNAPSHOTS_DIR = REPO_ROOT / "scrapes" / "owl_snapshots"
 OUTPUT_PATH = REPO_ROOT / "scrapes" / "owl_jobs.json"
 INDEX_HTML = REPO_ROOT / "index.html"
+FILTER_CONFIG = REPO_ROOT / "scripts" / "filter_config.json"
 
 
 def _job_key(job: dict) -> str:
@@ -75,28 +76,51 @@ def write_output(jobs: list) -> None:
     print(f"wrote {len(jobs)} jobs to {OUTPUT_PATH.relative_to(REPO_ROOT)}")
 
 
+def _load_filter_rules() -> dict:
+    if not FILTER_CONFIG.exists():
+        return {"title_allowlist": [], "title_blocklist": []}
+    try:
+        cfg = json.loads(FILTER_CONFIG.read_text())
+    except (json.JSONDecodeError, OSError):
+        return {"title_allowlist": [], "title_blocklist": []}
+    return {
+        "title_allowlist": cfg.get("title_allowlist") or [],
+        "title_blocklist": cfg.get("title_blocklist") or [],
+    }
+
+
+def _replace_or_insert(html: str, var_name: str, value_json: str, after_var: str | None) -> str:
+    payload = f"const {var_name} = {value_json};"
+    pattern = re.compile(rf"^const {var_name} = .+$", re.MULTILINE)
+    if pattern.search(html):
+        return pattern.sub(lambda _m: payload, html, count=1)
+    if after_var is None:
+        return html
+    anchor = re.compile(rf"^(const {after_var} = .+)$", re.MULTILINE)
+    m = anchor.search(html)
+    if not m:
+        print(f"could not locate {after_var}; skipping {var_name} embed")
+        return html
+    return html[: m.end()] + "\n" + payload + html[m.end() :]
+
+
 def update_index_html(jobs: list) -> None:
     if not INDEX_HTML.exists():
         print("index.html not found; skipping embed")
         return
     html = INDEX_HTML.read_text()
-    payload = "const OWL_DATA = " + json.dumps(jobs) + ";"
+    rules = _load_filter_rules()
 
-    pattern = re.compile(r"^const OWL_DATA = .+$", re.MULTILINE)
-    if pattern.search(html):
-        new_html = pattern.sub(lambda _m: payload, html, count=1)
-    else:
-        # Insert right after PIPELINE_DATA line so it lives with the other embedded data.
-        pipeline_pat = re.compile(r"^(const PIPELINE_DATA = .+)$", re.MULTILINE)
-        m = pipeline_pat.search(html)
-        if not m:
-            print("could not locate PIPELINE_DATA; skipping embed")
-            return
-        new_html = html[: m.end()] + "\n" + payload + html[m.end() :]
+    new_html = _replace_or_insert(html, "OWL_DATA", json.dumps(jobs), "PIPELINE_DATA")
+    new_html = _replace_or_insert(new_html, "OWL_FILTER_RULES", json.dumps(rules), "OWL_DATA")
 
     if new_html != html:
         INDEX_HTML.write_text(new_html)
-        print(f"embedded OWL_DATA ({len(jobs)} jobs) into index.html")
+        print(
+            f"embedded OWL_DATA ({len(jobs)} jobs) and "
+            f"OWL_FILTER_RULES (allow={len(rules['title_allowlist'])}, "
+            f"block={len(rules['title_blocklist'])}) into index.html"
+        )
 
 
 def main() -> None:
