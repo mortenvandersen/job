@@ -65,7 +65,7 @@ def extract_jobs(claude: anthropic.Anthropic, company: str, markdown: str) -> li
 
     response = claude.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=2048,
+        max_tokens=4096,
         system=[{
             "type": "text",
             "text": SYSTEM_PROMPT,
@@ -83,7 +83,18 @@ def extract_jobs(claude: anthropic.Anthropic, company: str, markdown: str) -> li
         text = re.sub(r"^```[a-z]*\n?", "", text)
         text = re.sub(r"\n?```$", "", text)
 
-    return json.loads(text)
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        # Truncated response — extract whatever complete objects we have
+        match = re.search(r'\[.*\]', text, re.DOTALL)
+        if match:
+            try:
+                return json.loads(match.group())
+            except json.JSONDecodeError:
+                pass
+        print(f"  -> WARNING: could not parse Claude response, returning empty list")
+        return []
 
 
 def scrape_company(fc: Firecrawl, claude: anthropic.Anthropic, company: str, url: str) -> dict:
