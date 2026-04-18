@@ -1,0 +1,20 @@
+{
+  "company": "Derivita",
+  "url": "https://www.derivita.com/careers",
+  "scraped_at": "2026-04-18T01:22:59.176308+00:00",
+  "job_count": 2,
+  "jobs": [
+    {
+      "title": "K-12 Account Executive",
+      "department": null,
+      "location": "Multiple positions available throughout the U.S.",
+      "url": "https://www.derivita.com/k-12-account-executive?hsLang=en"
+    },
+    {
+      "title": "Math Question Developer",
+      "department": null,
+      "location": "Remote, U.S.",
+      "url": "https://www.derivita.com/math-question-programmer?hsLang=en"
+    }
+  ]
+}

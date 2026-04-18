@@ -1,38 +1,44 @@
 {
   "company": "Amira Learning",
   "url": "https://www.amiralearning.com/careers/",
-  "scraped_at": "2026-04-17T20:31:34.744732+00:00",
-  "job_count": 5,
+  "scraped_at": "2026-04-18T01:21:42.666357+00:00",
+  "job_count": 6,
   "jobs": [
     {
       "title": "Senior Manager, BPO Operations",
-      "department": "",
+      "department": null,
       "location": "US",
-      "url": ""
+      "url": null
     },
     {
       "title": "Data Scientist, Assessment & Learning Analytics",
-      "department": "",
+      "department": null,
       "location": "US",
-      "url": ""
+      "url": null
     },
     {
       "title": "Gen AI Engineer",
-      "department": "",
+      "department": null,
       "location": "US",
-      "url": ""
+      "url": null
+    },
+    {
+      "title": "Gen AI Engineer",
+      "department": null,
+      "location": "US",
+      "url": null
     },
     {
       "title": "Principal Engineering Lead",
-      "department": "",
+      "department": null,
       "location": "US",
-      "url": ""
+      "url": null
     },
     {
       "title": "Senior Financial Analyst",
-      "department": "",
+      "department": null,
       "location": "US",
-      "url": ""
+      "url": null
     }
   ]
 }

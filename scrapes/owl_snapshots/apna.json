@@ -1,68 +1,68 @@
 {
   "company": "Apna",
   "url": "https://apna.co/careers",
-  "scraped_at": "2026-04-17T20:31:59.267825+00:00",
+  "scraped_at": "2026-04-18T01:21:53.032908+00:00",
   "job_count": 10,
   "jobs": [
     {
-      "title": "key Account Manager",
-      "department": "",
+      "title": "Key Account Manager - Bangalore",
+      "department": null,
       "location": "Bengaluru, Karnataka, India",
-      "url": ""
+      "url": null
     },
     {
       "title": "Operations Executive - Verification & Onboarding",
       "department": "Operations",
       "location": "Bengaluru, Karnataka, India",
-      "url": ""
+      "url": null
     },
     {
-      "title": "Field Sales Executive (BDE)",
-      "department": "",
+      "title": "Field Sales Executive (BDE) - Lucknow",
+      "department": null,
       "location": "Lucknow, Uttar Pradesh, India",
-      "url": ""
+      "url": null
     },
     {
       "title": "Data Scientist - Recommendation Systems",
       "department": "Engineering",
       "location": "Bangalore, Karnataka, India",
-      "url": ""
+      "url": null
     },
     {
       "title": "Senior Security Engineer",
       "department": "Engineering",
       "location": "Bengaluru, Karnataka, India",
-      "url": ""
+      "url": null
     },
     {
       "title": "Product Analyst",
       "department": "Data & Analytics",
       "location": "Bengaluru, Karnataka, India",
-      "url": ""
+      "url": null
     },
     {
       "title": "Operations Associate - Post Sales (Student Engagement & Community)",
       "department": "Community",
       "location": "Indiranagara, Karnataka, India",
-      "url": ""
+      "url": null
     },
     {
       "title": "Admin Executive",
       "department": "Operations",
       "location": "Bengaluru, Karnataka, India",
-      "url": ""
+      "url": null
     },
     {
-      "title": "Account Manager- Enterprise Business",
+      "title": "Account Manager - Enterprise Business",
       "department": "Sales & Account Management",
-      "location": "Bengaluru, Karnataka, India / Delhi, Delhi, India",
-      "url": ""
+      "location": "Bengaluru, Karnataka, India",
+      "url": null
     },
     {
       "title": "Staff/Lead Security Engineer",
-      "department": "",
+      "department": null,
       "location": "Bengaluru, Karnataka, India",
-      "url": ""
+      "url": null
     }
   ]
 }

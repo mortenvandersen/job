@@ -1,0 +1,32 @@
+{
+  "company": "Thrive Global",
+  "url": "https://thriveglobal.com/careers/",
+  "scraped_at": "2026-04-18T01:27:32.498041+00:00",
+  "job_count": 4,
+  "jobs": [
+    {
+      "title": "Account Director, Thrive for Health",
+      "department": "Customer Success",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/en-US/thriveglobal/jobs/b4c89cfe-7f3b-440e-aba8-a71e44f1984c"
+    },
+    {
+      "title": "Senior Customer Success Manager",
+      "department": "Customer Success",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/en-US/thriveglobal/jobs/d2824527-bc65-4976-b10c-b22ccb395d62"
+    },
+    {
+      "title": "Associate, Social Strategy and Publishing",
+      "department": "Marketing & Communications",
+      "location": "New York, NY",
+      "url": "https://ats.rippling.com/en-US/thriveglobal/jobs/13b41059-738f-4da6-aac3-256e90e9db85"
+    },
+    {
+      "title": "Senior Director, Social Strategy and Publishing",
+      "department": "Marketing & Communications",
+      "location": "New York, NY",
+      "url": "https://ats.rippling.com/en-US/thriveglobal/jobs/df967374-71a3-4003-bd2a-ab61dcdf2a5b"
+    }
+  ]
+}
