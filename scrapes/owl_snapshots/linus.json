@@ -1,0 +1,38 @@
+{
+  "company": "Linus",
+  "url": "https://job-boards.greenhouse.io/linushealth",
+  "scraped_at": "2026-04-18T01:25:08.421548+00:00",
+  "job_count": 5,
+  "jobs": [
+    {
+      "title": "Senior Full Stack Engineer",
+      "department": "Engineering",
+      "location": "US",
+      "url": "https://job-boards.greenhouse.io/linushealth/jobs/5831006004"
+    },
+    {
+      "title": "Executive Assistant To The CEO",
+      "department": "Executive",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://job-boards.greenhouse.io/linushealth/jobs/5921217004"
+    },
+    {
+      "title": "General Application",
+      "department": "General Application",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/linushealth/jobs/4963159004"
+    },
+    {
+      "title": "Marketing & Sales Enablement Specialist (Mid to Senior IC)",
+      "department": "Marketing",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://job-boards.greenhouse.io/linushealth/jobs/5973398004"
+    },
+    {
+      "title": "Senior Product Manager, Connected Care",
+      "department": "Product",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/linushealth/jobs/5799617004"
+    }
+  ]
+}

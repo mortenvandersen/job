@@ -1,0 +1,74 @@
+{
+  "company": "ParentSquare",
+  "url": "https://www.parentsquare.com/careers/",
+  "scraped_at": "2026-04-18T01:25:51.747854+00:00",
+  "job_count": 11,
+  "jobs": [
+    {
+      "title": "Manager, CSM (SMB)",
+      "department": "Customer Success",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/en-US/parentsquare/jobs/77432fd7-a6a6-4c0c-90e2-d38227eeb7ea"
+    },
+    {
+      "title": "Senior Manager, IM",
+      "department": "Customer Success",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/en-US/parentsquare/jobs/0a0ec4b8-3d34-45fb-9a45-d524f1082c90"
+    },
+    {
+      "title": "Summer Trainer",
+      "department": "Customer Success",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/en-US/parentsquare/jobs/92f13af0-10de-4e81-99b9-4e8e4b84fa50"
+    },
+    {
+      "title": "GTM Systems & Data Manager",
+      "department": "General & Administrative",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/en-US/parentsquare/jobs/9cdd5752-83e7-45b7-81aa-3aff080d591e"
+    },
+    {
+      "title": "Open Position",
+      "department": "General & Administrative",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/en-US/parentsquare/jobs/379fed0e-d42d-4e77-a4ae-05f11ecb2281"
+    },
+    {
+      "title": "Senior Manager of FP&A",
+      "department": "General & Administrative",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/en-US/parentsquare/jobs/dea4a64d-d099-4a65-8299-ce99257a854b"
+    },
+    {
+      "title": "Engineering Manager, Smart Sites",
+      "department": "R & D",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/en-US/parentsquare/jobs/c0fa2cb3-1f12-479f-b2fd-c244377b2aad"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "department": "R & D",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/en-US/parentsquare/jobs/fbef692b-a5f5-4cf0-99c1-02d5f60c2b26"
+    },
+    {
+      "title": "Software Engineer",
+      "department": "R & D",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/en-US/parentsquare/jobs/f561ac88-839d-47ab-8a9a-31fa3710b97a"
+    },
+    {
+      "title": "Customer Advocacy Manager",
+      "department": "Sales & Marketing",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/en-US/parentsquare/jobs/ee93455c-8aea-449f-8513-ef38b49e1636"
+    },
+    {
+      "title": "Senior Data Scientist",
+      "department": "Data Science",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/en-US/parentsquare/jobs/94067a0d-c360-4364-864d-b280d5133c89"
+    }
+  ]
+}

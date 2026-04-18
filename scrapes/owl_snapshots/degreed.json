@@ -1,0 +1,26 @@
+{
+  "company": "Degreed",
+  "url": "https://job-boards.greenhouse.io/degreed",
+  "scraped_at": "2026-04-18T01:22:55.344961+00:00",
+  "job_count": 3,
+  "jobs": [
+    {
+      "title": "Manager, Total Rewards",
+      "department": "People",
+      "location": "US Based | Remote",
+      "url": "https://job-boards.greenhouse.io/degreed/jobs/5834934004"
+    },
+    {
+      "title": "Principal Value Engineer",
+      "department": "Revenue",
+      "location": "US Based | Remote",
+      "url": "https://job-boards.greenhouse.io/degreed/jobs/5843975004"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "department": "Technology",
+      "location": "Bengaluru, Karnataka, India | Hybrid",
+      "url": "https://job-boards.greenhouse.io/degreed/jobs/5818160004"
+    }
+  ]
+}

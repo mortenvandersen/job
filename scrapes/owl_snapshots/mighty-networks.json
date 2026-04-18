@@ -1,0 +1,62 @@
+{
+  "company": "Mighty Networks",
+  "url": "https://www.mightynetworks.com/careers",
+  "scraped_at": "2026-04-18T01:25:21.423285+00:00",
+  "job_count": 9,
+  "jobs": [
+    {
+      "title": "Sales Operations Specialist",
+      "department": "Business Intelligence",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8495526002?gh_jid=8495526002"
+    },
+    {
+      "title": "Community Manager",
+      "department": "Customer Success",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8470809002?gh_jid=8470809002"
+    },
+    {
+      "title": "Customer Success Manager",
+      "department": "Customer Success",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8476219002?gh_jid=8476219002"
+    },
+    {
+      "title": "Community Strategist",
+      "department": "Customer Success",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8476343002?gh_jid=8476343002"
+    },
+    {
+      "title": "Engineering Manager (hands-on), Payments",
+      "department": "Engineering",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8506355002?gh_jid=8506355002"
+    },
+    {
+      "title": "Senior Software Engineer, Full-Stack",
+      "department": "Engineering",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8506638002?gh_jid=8506638002"
+    },
+    {
+      "title": "Recruiting Coordinator",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8495496002?gh_jid=8495496002"
+    },
+    {
+      "title": "Senior Product Manager, Growth",
+      "department": "Product",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8495638002?gh_jid=8495638002"
+    },
+    {
+      "title": "Senior Product Designer, Growth",
+      "department": "Product",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8497526002?gh_jid=8497526002"
+    }
+  ]
+}

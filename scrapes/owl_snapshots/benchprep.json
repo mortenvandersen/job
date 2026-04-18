@@ -1,0 +1,32 @@
+{
+  "company": "BenchPrep",
+  "url": "https://job-boards.greenhouse.io/benchprep",
+  "scraped_at": "2026-04-18T01:22:06.334743+00:00",
+  "job_count": 4,
+  "jobs": [
+    {
+      "title": "Senior Director of Product Management",
+      "department": "Product",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/benchprep/jobs/8436219002"
+    },
+    {
+      "title": "Implementation Manager (Contract)",
+      "department": "Professional Services",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/benchprep/jobs/8497337002"
+    },
+    {
+      "title": "Learning Solutions Coordinator (Contract)",
+      "department": "Professional Services",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/benchprep/jobs/8506804002"
+    },
+    {
+      "title": "SAT/ACT Subject Matter Expert & Program Manager (Contract)",
+      "department": "Professional Services",
+      "location": "Chicago",
+      "url": "https://job-boards.greenhouse.io/benchprep/jobs/8506802002"
+    }
+  ]
+}

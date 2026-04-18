@@ -1,0 +1,38 @@
+{
+  "company": "Ignite Reading",
+  "url": "https://www.ignitereading.com/careers",
+  "scraped_at": "2026-04-18T01:24:03.426014+00:00",
+  "job_count": 5,
+  "jobs": [
+    {
+      "title": "General Interest Application",
+      "department": "General",
+      "location": "United States",
+      "url": "https://jobs.ashbyhq.com/ignite-reading/bdc0d76c-467d-4c5d-9a07-79ee09156e46?embed=js"
+    },
+    {
+      "title": "Senior Manager, Growth & Demand Generation",
+      "department": "Marketing",
+      "location": "United States",
+      "url": "https://jobs.ashbyhq.com/ignite-reading/ee03502c-30cb-47b6-ac3a-7ee5e34f10cd?embed=js"
+    },
+    {
+      "title": "Partnerships Manager",
+      "department": "Revenue",
+      "location": "United States",
+      "url": "https://jobs.ashbyhq.com/ignite-reading/6c11f979-ae5b-4ecc-ad12-4f063aa7aee9?embed=js"
+    },
+    {
+      "title": "Sales Development Representative",
+      "department": "Revenue",
+      "location": "United States",
+      "url": "https://jobs.ashbyhq.com/ignite-reading/640d7237-1a4d-4810-bb22-3ea7bfdaa538?embed=js"
+    },
+    {
+      "title": "Sales Manager",
+      "department": "Revenue",
+      "location": "United States",
+      "url": "https://jobs.ashbyhq.com/ignite-reading/ac5a2b7b-f69c-4e62-89c9-0eb805e9c8fd?embed=js"
+    }
+  ]
+}

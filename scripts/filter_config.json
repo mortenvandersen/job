@@ -1,6 +1,6 @@
 {
   "_description": "Layer 0 filter rules — pure keyword/rule matching, zero LLM tokens. Edit these to tune what gets through the scrape filter.",
-  "_last_updated": "2026-04-08",
+  "_last_updated": "2026-04-18",
   "title_allowlist": [
     "strategy",
     "bizops",
@@ -24,7 +24,8 @@
     "strategy and operations",
     "planning and business",
     "growth strategy",
-    "mergers & acquisitions"
+    "mergers & acquisitions",
+    "business manager"
   ],
   "title_blocklist": [
     "account executive",

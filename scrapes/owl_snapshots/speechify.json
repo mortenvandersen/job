@@ -1,0 +1,26 @@
+{
+  "company": "Speechify",
+  "url": "https://job-boards.greenhouse.io/speechify",
+  "scraped_at": "2026-04-18T01:26:51.617936+00:00",
+  "job_count": 3,
+  "jobs": [
+    {
+      "title": "Tech Lead, Web Core Product & Chrome Extension",
+      "department": "Engineering",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5527873004"
+    },
+    {
+      "title": "Software Engineer, Platform",
+      "department": "Engineering",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5533936004"
+    },
+    {
+      "title": "Tech Lead, Android Core Product",
+      "department": "Engineering",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5527873004"
+    }
+  ]
+}
