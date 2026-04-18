@@ -57,11 +57,16 @@ jobs:
 
           eval python scripts/owl_scrape.py $ARGS
 
+      - name: Aggregate snapshots into owl_jobs.json and embed in index.html
+        run: python scripts/aggregate_owl_jobs.py
+
       - name: Commit updated snapshots
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add scrapes/owl_snapshots/
+          git add scrapes/owl_jobs.json
+          git add index.html
           git add scrapes/owl_new_jobs.json 2>/dev/null || true
           echo "--- git status ---"
           git status
