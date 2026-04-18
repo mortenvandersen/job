@@ -1,7 +1,56 @@
 {
   "company": "MasterClass",
-  "url": "https://www.masterclass.com/careers",
-  "scraped_at": "2026-04-18T01:25:11.597352+00:00",
-  "job_count": 0,
-  "jobs": []
+  "url": "https://careers.masterclass.com/jobs",
+  "scraped_at": "2026-04-18T01:59:48.895301+00:00",
+  "job_count": 8,
+  "jobs": [
+    {
+      "title": "Learning Experience Designer (TEMP)",
+      "department": "Content",
+      "location": "Los Angeles, CA, New York, San Francisco, CA, United States",
+      "url": "https://job-boards.greenhouse.io/masterclass/jobs/6434155"
+    },
+    {
+      "title": "AI Creator / Artist / Technical Artist (CONTRACTOR)",
+      "department": "Content Production",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/masterclass/jobs/7190498"
+    },
+    {
+      "title": "Staff Software Engineer, Infrastructure",
+      "department": "Engineering",
+      "location": "Waterloo, Ontario / Toronto, Ontario / Vancouver, British Columbia",
+      "url": "https://job-boards.greenhouse.io/masterclass/jobs/7536051"
+    },
+    {
+      "title": "Staff Software Engineer, Backend",
+      "department": "Engineering",
+      "location": "Waterloo, Ontario / Toronto, Ontario",
+      "url": "https://job-boards.greenhouse.io/masterclass/jobs/7642238"
+    },
+    {
+      "title": "Staff AI / ML Engineer",
+      "department": "Engineering",
+      "location": "Waterloo, Ontario / Toronto, Ontario",
+      "url": "https://job-boards.greenhouse.io/masterclass/jobs/7786068"
+    },
+    {
+      "title": "Senior Product Marketing Manager",
+      "department": "Marketing",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/masterclass/jobs/7575409"
+    },
+    {
+      "title": "Community Manager (TEMP)",
+      "department": "Marketing",
+      "location": "Remote (U.S.)",
+      "url": "https://job-boards.greenhouse.io/masterclass/jobs/7743879"
+    },
+    {
+      "title": "Communications Manager (TEMP)",
+      "department": "Marketing",
+      "location": "Remote (U.S.)",
+      "url": "https://job-boards.greenhouse.io/masterclass/jobs/7822049"
+    }
+  ]
 }

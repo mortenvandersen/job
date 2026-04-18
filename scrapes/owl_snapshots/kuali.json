@@ -1,7 +1,50 @@
 {
   "company": "Kuali",
-  "url": "https://kuali.com/about/jobs/",
-  "scraped_at": "2026-04-18T01:24:42.335173+00:00",
-  "job_count": 0,
-  "jobs": []
+  "url": "https://www.kuali.co/positions",
+  "scraped_at": "2026-04-18T01:59:26.659910+00:00",
+  "job_count": 7,
+  "jobs": [
+    {
+      "title": "Senior Software Engineer - Data Migrations (Remote Contractor, Brazil)",
+      "department": "Customer Success",
+      "location": "Brazil - Remote, Brazil",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a7887a89ac19e45019ae0b1226639f5&source=&lang=en"
+    },
+    {
+      "title": "Customer Support Specialist",
+      "department": "Customer Success",
+      "location": "Remote",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a7887a89d02e588019d4044d8ef7599&source=&lang=en"
+    },
+    {
+      "title": "Market Research Intern",
+      "department": "Marketing & Sales",
+      "location": "Remote",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a78839e98ed63b301993bc4e3d1498e&source=&lang=en"
+    },
+    {
+      "title": "Senior Software Engineer (Remote Contractor, Brazil)",
+      "department": "Product Development Group",
+      "location": "Brazil - Remote, Brazil",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a7887a198ed6411019915af78dd77ed&source=&lang=en"
+    },
+    {
+      "title": "Director of Product Management",
+      "department": "Product Development Group",
+      "location": "Hybrid, UT",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a7887ac995981fd01995a64cac91653&source=&lang=en"
+    },
+    {
+      "title": "Product Manager",
+      "department": "Product Development Group",
+      "location": "Remote",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a78839e9b137672019be1e19cf27d70&source=&lang=en"
+    },
+    {
+      "title": "Software Engineering Manager",
+      "department": "Product Development Group",
+      "location": "Remote",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a7885ac9c2fd15c019c6d509adc16f0&source=&lang=en"
+    }
+  ]
 }
