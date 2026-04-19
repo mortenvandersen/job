@@ -1,14 +1,15 @@
 ---
 company: Manpower (client undisclosed)
 role: Director of Business Development
-status: archived
+status: assessed
+date_saved: 2026-04-16
 date_assessed: 2026-04-16
 source_url: https://www.linkedin.com/jobs/view/director-of-business-development-at-manpower-4401470983?refId=A38YvfR3NvFjKpCJjAEA5A%3D%3D&trackingId=AdXYGJ%2BYjSoypmb%2F74ux%2Bg%3D%3D&position=1&pageNum=0
 location: San Jose, CA
 salary: $200K (stated)
 role_fit_score: 3.0
 candidate_fit_score: 2
-recommendation: Skip
+recommendation: "Skip — domain mismatch is structural; cold application unlikely to clear screening"
 ---
 
 # Manpower (client undisclosed) — Director of Business Development
@@ -21,7 +22,7 @@ What's the Job?Lead Business Development for Networking JDMBuild and Strengthen 
 
 ---
 
-## Fit Assessment
+## Fit Assessment: Director of Business Development — Manpower (client undisclosed)
 
 **Deal-breakers**: None — $200K stated (at floor), Bay Area location, no explicit commission or quota structure.
 
@@ -33,19 +34,21 @@ What's the Job?Lead Business Development for Networking JDMBuild and Strengthen 
 | D. Scope & Seniority | 3/5 | Director-level with meaningful counterparts (AWS/Google/Microsoft). No team management or P&L stated. Execution-heavy coordination role — not defining strategy. |
 | E. Compensation | 3/5 | $200K stated (at hard floor). No equity, bonus, or benefits details — Manpower listings sometimes quote total comp; base vs. total unverified. |
 
-**Role Fit Score**: 3.0 / 5 — Marginal (only if pipeline is thin; industry is Tier 2, not Tier 1 EdTech)
+**Role Fit Score**: (3×0.30) + (3×0.20) + (3×0.15) + (3×0.20) + (3×0.15) = **3.0 / 5 — Marginal** (only if pipeline is thin; industry is Tier 2, not Tier 1 EdTech)
+
 **Candidate Fit Score**: 2 / 5 — Weak — requires 8+ years specifically in hyperscaler/cloud/data center BD and deep networking infrastructure knowledge; Morten has neither hard domain requirement.
+
 **Recommendation**: Skip — domain mismatch is structural; cold application unlikely to clear screening even with referral.
 
-**Trajectory value**: Sideways at best. This role would anchor Morten in networking hardware BD rather than building toward GM/CEO track. The domain expertise required (hyperscaler infrastructure, networking compute/storage) is not transferable to EdTech or other target industries, and accepting it would make the next move harder, not easier.
+**Trajectory value**: Sideways at best. This role would anchor Morten in networking hardware BD rather than building toward GM/CEO track. The domain expertise required (hyperscaler infrastructure, networking compute/storage) is not transferable to EdTech or other target industries.
 
 **Gaps & flags**:
-- 🔴 Hard gap: "8+ years in BD/partnerships within hyperscaler, cloud, or data center" — Morten has zero years in this domain; EdTech GM and VC investment are not substitutes
-- 🔴 Hard gap: "Comprehensive knowledge of hyperscaler data center infrastructure, including networking, computing, or storage" — no background in this space; would fail a technical screen
-- 🟡 Client company undisclosed (Manpower listing) — stage, equity, culture, growth trajectory, and team size all unknown
-- 🟡 Comp stated at $200K with no equity or bonus details — bare minimum package risk; verify whether this is base or total
+- 🔴 **Hard gap**: "8+ years in BD/partnerships within hyperscaler, cloud, or data center" — zero years in this domain; EdTech GM and VC investment are not substitutes
+- 🔴 **Hard gap**: "Comprehensive knowledge of hyperscaler data center infrastructure, including networking, computing, or storage" — no background here; would fail a technical screen
+- 🟡 **Client company undisclosed** (Manpower listing) — stage, equity, culture, growth trajectory, and team size all unknown
+- 🟡 **Comp stated at $200K** with no equity or bonus details — bare minimum package risk; verify whether this is base or total
 
 **Strongest angles — what to emphasize if applying**:
-- Cross-functional leadership bridging commercial, product, and technical teams at Labster (directly maps to "aligning internal resources for customer success")
+- Cross-functional leadership bridging commercial, product, and technical teams at Labster (maps to "aligning internal resources for customer success")
 - Strategic partnership development at LEGO (global enterprise partnerships) and Labster (external partners, investors)
 - LEGO Ventures investment track record: sourcing, due diligence, relationship building with technology companies at scale
