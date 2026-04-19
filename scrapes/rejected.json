@@ -6202,5 +6202,23 @@
       "industry_blocklist: 'oil' found",
       "salary_below_floor: max $175,000 < $200,000 floor"
     ]
+  },
+  {
+    "company": "ParentSquare",
+    "title": "Head of Customer Success",
+    "posted_at": "2026-04-18",
+    "reasons": [
+      "title_blocklist: 'customer success' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Santa Barbara, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Partnership Employment",
+    "title": "Head of Conflicts",
+    "posted_at": "2026-04-19",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
   }
 ]
