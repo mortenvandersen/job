@@ -6220,5 +6220,32 @@
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
+  },
+  {
+    "company": "The Trade Desk",
+    "title": "Associate General Counsel, Commercial CTV & Advertising",
+    "posted_at": "2026-04-19",
+    "reasons": [
+      "title_blocklist: 'associate' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Business Operations and Strategy Manager",
+    "posted_at": "2026-04-19",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "coDesign",
+    "title": "Finance Manager - Construction & Projects",
+    "posted_at": "2026-04-19",
+    "reasons": [
+      "title_blocklist: 'construction' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Emeryville, CA' is not remote and not in SF Bay Area"
+    ]
   }
 ]
