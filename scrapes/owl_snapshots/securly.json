@@ -1,7 +1,26 @@
 {
   "company": "Securly",
   "url": "https://www.securly.com/careers",
-  "scraped_at": "2026-04-18T02:02:04.148959+00:00",
-  "job_count": 0,
-  "jobs": []
+  "scraped_at": "2026-04-20T09:52:06.249434+00:00",
+  "job_count": 3,
+  "jobs": [
+    {
+      "title": "Proposal Writer - EdTech, K-12",
+      "department": "Revenue Operations",
+      "location": "United States (remote)",
+      "url": "https://www.securly.com/job-description?gh_jid=7788975"
+    },
+    {
+      "title": "Marketing & Revenue Operations Administrator",
+      "department": "Revenue Operations",
+      "location": "US Remote",
+      "url": "https://www.securly.com/job-description?gh_jid=7793648"
+    },
+    {
+      "title": "Senior Applied AI Engineer \u2013 AI Systems for Business Operations (GTM Platform)",
+      "department": "Sales Engineers/Solution Architects",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://www.securly.com/job-description?gh_jid=7597533"
+    }
+  ]
 }
