@@ -6247,5 +6247,187 @@
       "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Emeryville, CA' is not remote and not in SF Bay Area"
     ]
+  },
+  {
+    "company": "Braveheart Bio",
+    "title": "(Senior) Medical Director",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Staff Boom",
+    "title": "Insurance Operations Manager",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Mosaic Hotel Collection",
+    "title": "Executive Chef",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found",
+      "location_not_allowed: 'Yountville, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Insight Global",
+    "title": "Lead Data Scientist",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Broad Reach Partners",
+    "title": "AI Architect",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Atlanta, GA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Themesoft Inc.",
+    "title": "Technical Project Manager: Level 3",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Themesoft Inc.",
+    "title": "Technical Project Manager: Level 2.",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "seniority_blocklist: 'associate' found in seniority level",
+      "salary_below_floor: max $60,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Amira Learning",
+    "title": "Success Manager - New Mexico",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "salary_below_floor: max $80,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Themesoft Inc.",
+    "title": "Program Manager: Level 3",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $65,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Amazing Private Equity firm",
+    "title": "Executive Assistant",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Exelixis",
+    "title": "Biostatistics Director",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Alameda, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Supermicro",
+    "title": "Sr. Manager - Data Center Development (28721)",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Serena & Lily",
+    "title": "Director of Public Relations & Brand Marketing",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Wag Hotels",
+    "title": "Regional Manager-Northern California",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'oil' found"
+    ]
+  },
+  {
+    "company": "Pop-Up Talent",
+    "title": "Director of Operations",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $170,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Braveheart Bio",
+    "title": "Director, Quality",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Services Portfolio Manager",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_blocklist: 'portfolio manager' found in title",
+      "salary_below_floor: max $121,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Turn2Partners",
+    "title": "VP of Servicing & Collections",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Washington DC-Baltimore Area' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "X4 Technology",
+    "title": "Vice President of Business Development",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "location_not_allowed: 'Chicago, IL' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $180,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Cannae HR Solutions",
+    "title": "Vice President Information Technology",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Wayoh",
+    "title": "Director, Business Readiness & Transformation Enablement",
+    "posted_at": "2026-04-20",
+    "reasons": [
+      "salary_below_floor: max $180,000 < $200,000 floor"
+    ]
   }
 ]
