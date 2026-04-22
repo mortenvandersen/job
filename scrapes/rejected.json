@@ -6429,5 +6429,223 @@
     "reasons": [
       "salary_below_floor: max $180,000 < $200,000 floor"
     ]
+  },
+  {
+    "company": "Securly",
+    "title": "Customer Success Manager, mid market- K-12 EdTech",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_blocklist: 'customer success' found in title",
+      "seniority_blocklist: 'associate' found in seniority level"
+    ]
+  },
+  {
+    "company": "BioMarin Pharmaceutical Inc.",
+    "title": "Director Technical Accounting & Global Revenue",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'San Rafael, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Banner Life family of companies | life insurance",
+    "title": "Senior Technical Accountant",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_blocklist: 'accountant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Frederick, MD' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Wayside Publishing",
+    "title": "Senior Marketing Manager",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_blocklist: 'marketing manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Fresenius Kabi USA",
+    "title": "Director, Corporate Accounts (IV Therapy) - Central",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Minneapolis, MN' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Fresenius Kabi USA",
+    "title": "Director, Corporate Accounts (IV Therapy) - Central",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Indianapolis, IN' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Hoxton Circle",
+    "title": "Consolidations & Reporting Accounting Manager",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Fresenius Kabi USA",
+    "title": "Director, Corporate Accounts (IV Therapy) - Central",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Fresenius Kabi USA",
+    "title": "Director, Corporate Accounts (IV Therapy) - Central",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Fresenius Kabi USA",
+    "title": "Director, Corporate Accounts (IV Therapy) - Central",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Greater Chicago Area' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Tradeify",
+    "title": "Senior FP&A Analyst",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_blocklist: 'analyst' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Project Management Institute",
+    "title": "Board Communications Specialist",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "salary_below_floor: max $146,400 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Viventium",
+    "title": "Sr. Marketing Manager",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_blocklist: 'marketing manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Korn Ferry",
+    "title": "Director of SEC Reporting & Technical Accounting",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Organics Ocean, Rain Media",
+    "title": "IT Operations & Cybersecurity Manager",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Synopsys Inc",
+    "title": "Executive Director, Ethics & Compliance",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Constellation Insurance, Inc.",
+    "title": "Director, Investment Operations",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Bridge Professional Services",
+    "title": "Senior Director. People Business Partners",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_blocklist: 'people business partner' found in title"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Global Operations Manager - AI Strategy",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "salary_below_floor: max $170,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Business Operations and Strategy Manager",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Thor",
+    "title": "SVP Construction - Portfolio GM - Digital Infrastructure",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_blocklist: 'construction' found in title"
+    ]
+  },
+  {
+    "company": "Fidelity Investments",
+    "title": "Vice President, Branch Leader - San Francisco Bay Area",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Burlingame, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Janie and Jack",
+    "title": "Company Planning Manager",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Securly",
+    "title": "Customer Success Manager",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_blocklist: 'customer success' found in title",
+      "seniority_blocklist: 'associate' found in seniority level"
+    ]
+  },
+  {
+    "company": "Conventus",
+    "title": "Managing Director, General Counsel",
+    "posted_at": "2026-04-21",
+    "reasons": [
+      "title_blocklist: 'counsel' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
   }
 ]
