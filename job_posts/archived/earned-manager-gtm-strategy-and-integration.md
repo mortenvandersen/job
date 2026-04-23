@@ -1,7 +1,7 @@
 ---
 company: Earned
 role: Manager, GTM Strategy and Integration
-status: assessed
+status: archived
 date_assessed: 2026-04-09
 source_url: https://www.linkedin.com/jobs/view/manager-gtm-strategy-and-integration-at-earned-4385257530?refId=MndJtsQUDDpU%2FAUNoIEyxw%3D%3D&trackingId=jOSqotyDSF%2BhU40PL1Qa3Q%3D%3D&position=5&pageNum=4
 role_fit_score: 3.8
