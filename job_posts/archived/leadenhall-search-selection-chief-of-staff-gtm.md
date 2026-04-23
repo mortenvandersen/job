@@ -1,7 +1,7 @@
 ---
 company: Leadenhall Search & Selection (client undisclosed AI startup)
 role: Chief of Staff - GTM
-status: assessed
+status: archived
 date_saved: 2026-04-17
 date_assessed: 2026-04-20
 source_url: https://www.linkedin.com/jobs/view/chief-of-staff-gtm-at-leadenhall-search-selection-4402114444?refId=2qNJ9%2Ff8YWJSb2O1IFocCQ%3D%3D&trackingId=hcqVrgD6zn8YOEGuO7jxlw%3D%3D&position=1&pageNum=0
