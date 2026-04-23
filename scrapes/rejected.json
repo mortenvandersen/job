@@ -6647,5 +6647,210 @@
       "title_blocklist: 'counsel' found in title",
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
+  },
+  {
+    "company": "Gravyty",
+    "title": "Director of Engineering, I/O",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Multi Media, LLC",
+    "title": "Senior Data Scientist",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "LifeLabs Learning",
+    "title": "Account Executive",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title",
+      "description_blocklist: ' ote ' found — likely sales/commission role",
+      "seniority_blocklist: 'associate' found in seniority level",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Kinder's Premium Quality Seasonings & Sauces",
+    "title": "Senior Counsel, Commercial Contracts",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_blocklist: 'counsel' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Walnut Creek, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Zoox",
+    "title": "Senior/Staff Technical Program Manager - Software",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Foster City, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "C-SUITE ASSISTANTS",
+    "title": "Executive Assistant/Office Manager (ROOM FOR GROWTH TO COS)",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'San Ramon, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Toaster",
+    "title": "VP Growth, SF",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $180,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Whistler Partners",
+    "title": "Corporate Counsel - Director, M&A @ Music Tech  (Remote)",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_blocklist: 'counsel' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "L.A. Care Health Plan",
+    "title": "Senior Technical Product Manager",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "AEG Vision",
+    "title": "Sr. Manager, Integrations",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "part_time: 'part-time' found",
+      "salary_below_floor: max $110,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Elite Recruit LLC",
+    "title": "Business Development Manager - Supplement Contract Manufacturing - Remote",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "salary_below_floor: max $100,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "CloudIQ Technologies",
+    "title": "Senior Technical Program Manager",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Serena & Lily",
+    "title": "Vice President Legal / General Counsel",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_blocklist: 'legal' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Viventium",
+    "title": "Sr. Marketing Manager",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_blocklist: 'marketing manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "INA Solution",
+    "title": "Senior Director Business Development",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Director of Sales Operations",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_blocklist: 'director of sales' found in title",
+      "description_blocklist: 'commission structure' found — likely sales/commission role",
+      "salary_below_floor: max $145,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Concorde, Inc",
+    "title": "Agile Project Manager",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Business Operations and Strategy Manager",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Confidential Jobs",
+    "title": "Regional Director of Business Development",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "salary_below_floor: max $180,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Narmi",
+    "title": "Director of Customer Success",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_blocklist: 'customer success' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Ethos",
+    "title": "Vice President Operations",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $100,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Urrly",
+    "title": "VP of Operations & Customer Experience - PE Backed Platform (remote)",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Zaxbys",
+    "title": "Sr. Manager, Restaurant Construction",
+    "posted_at": "2026-04-22",
+    "reasons": [
+      "title_blocklist: 'construction' found in title",
+      "industry_blocklist: 'restaurants' found"
+    ]
   }
 ]
