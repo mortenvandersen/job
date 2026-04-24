@@ -6852,5 +6852,233 @@
       "title_blocklist: 'construction' found in title",
       "industry_blocklist: 'restaurants' found"
     ]
+  },
+  {
+    "company": "Orbital Engineering, Inc.",
+    "title": "Substation Civil / Structural Engineering Supervisor - REMOTE WORK",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "C-SUITE ASSISTANTS",
+    "title": "Executive Assistant/Office Manager (ROOM FOR GROWTH TO COS)",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'San Ramon, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Nibbi Brothers General Contractors",
+    "title": "Marketing Director",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_blocklist: 'marketing director' found in title"
+    ]
+  },
+  {
+    "company": "3 Bridge Networks",
+    "title": "Director of Accounting",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Friedman's Home Improvement",
+    "title": "Application Manager",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Petaluma, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Metagenomi Therapeutics",
+    "title": "Vice President/Senior Vice President, Business Development",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "location_not_allowed: 'Emeryville, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "3 Bridge Networks",
+    "title": "Vice President Finance",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "location_not_allowed: 'Vallejo, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Walmart",
+    "title": "Senior Manager, Corporate Development and M&A",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "location_not_allowed: 'San Bruno, CA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $117,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "AEG Vision",
+    "title": "Sr. Manager, Integrations",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "part_time: 'part-time' found",
+      "salary_below_floor: max $110,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Wright Technical Services",
+    "title": "Cloud Software Engineer III",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Cleveland, OH' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Dudek",
+    "title": "Senior Air Quality Engineer",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $165,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Alison Brown Placement Specialists, LLC",
+    "title": "Executive Assistant",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "#twiceasnice Recruiting",
+    "title": "Chief Financial Officer – Manufacturing Exp & CPA Req | $100M+ Revenue",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Everly",
+    "title": "Modeling Lead",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $176,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Nahan",
+    "title": "Account Director",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "location_not_allowed: 'St Cloud, MN' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Nahan",
+    "title": "Director Marketing Strategy",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "location_not_allowed: 'St Cloud, MN' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Paxos",
+    "title": "Senior Engineering Manager, Brokerage",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "TRC Talent Solutions",
+    "title": "Financial Planning and Analysis Manager",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $145,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "TRON DAO",
+    "title": "Investigation & Law Enforcement Relations",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "KP Recruiting Group",
+    "title": "Contract Manufacturing Manager - Aerospace/Medical",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Sr. Business Operations Manager",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "salary_below_floor: max $190,825 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Chief of Staff",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "salary_below_floor: max $185,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Oho Group",
+    "title": "Founder's Associate",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_blocklist: 'associate' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "seniority_blocklist: 'associate' found in seniority level",
+      "salary_below_floor: max $95,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "CodePath",
+    "title": "Senior Product Manager, Enterprise",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Compunnel Inc.",
+    "title": "Director / VP, Business Development & Strategic Sales -- CHODC5733559",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "location_not_allowed: 'Princeton, NJ' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Emeritus",
+    "title": "Program Director",
+    "posted_at": "2026-04-23",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $80,000 < $200,000 floor"
+    ]
   }
 ]

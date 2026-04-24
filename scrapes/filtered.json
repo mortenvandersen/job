@@ -1,52 +1,42 @@
 [
   {
-    "company": "Levi Strauss & Co.",
-    "title": "Senior Manager, Corporate Strategy (Brand)",
-    "slug": "levi-strauss-co-senior-manager-corporate-strategy-brand",
+    "company": "Nothing",
+    "title": "General Manager, North America",
+    "slug": "nothing-general-manager-north-america",
+    "location": "San Francisco Bay Area",
+    "salary": "$250,000.00/yr - $350,000.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/general-manager-north-america-at-nothing-4405645032?refId=0U1AbrgXLdQKP0cVKB41lA%3D%3D&trackingId=IPIqwwtqiGy%2BRBGUnSpS3A%3D%3D&position=1&pageNum=0",
+    "seniority": "Executive",
+    "industries": "Technology, Information and Internet"
+  },
+  {
+    "company": "A-V Services, Inc.",
+    "title": "Regional Director of Business Development",
+    "slug": "a-v-services-inc-regional-director-of-business-development",
     "location": "San Francisco, CA",
     "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/senior-manager-corporate-strategy-brand-at-levi-strauss-co-4089474363?refId=nFrQ%2BpXkTPVANnYVeeIg0w%3D%3D&trackingId=2qrIx5rWyqROMas4zoPxxw%3D%3D&position=1&pageNum=0",
-    "seniority": "Mid-Senior level",
-    "industries": "Design Services, Retail Apparel and Fashion, and Retail"
+    "link": "https://www.linkedin.com/jobs/view/regional-director-of-business-development-at-a-v-services-inc-4405675724?refId=0U1AbrgXLdQKP0cVKB41lA%3D%3D&trackingId=sG1N6QJllndZ6T4zcWKbAg%3D%3D&position=4&pageNum=0",
+    "seniority": "Director",
+    "industries": "IT Services and IT Consulting, Broadcast Media Production and Distribution, and Technology, Information and Media"
   },
   {
-    "company": "4Site Studios",
-    "title": "Director of Digital Strategy (FT, 32 Hours/Week)",
-    "slug": "4site-studios-director-of-digital-strategy-ft-32-hours-week",
-    "location": "United States",
+    "company": "24 Seven Talent",
+    "title": "Director of Ecommerce",
+    "slug": "24-seven-talent-director-of-ecommerce",
+    "location": "San Francisco, CA",
     "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/director-of-digital-strategy-ft-32-hours-week-at-4site-studios-4402472783?refId=YGPKtCU%2FyEO8rHLZBaoQHQ%3D%3D&trackingId=eFyviBAo%2FvqMv677TAoOmQ%3D%3D&position=14&pageNum=0",
-    "seniority": "",
-    "industries": ""
+    "link": "https://www.linkedin.com/jobs/view/director-of-ecommerce-at-24-seven-talent-4405041883?refId=0U1AbrgXLdQKP0cVKB41lA%3D%3D&trackingId=mP21qxttayHbjXtidTLG5w%3D%3D&position=3&pageNum=0",
+    "seniority": "Director",
+    "industries": "Retail Apparel and Fashion and Retail Luxury Goods and Jewelry"
   },
   {
-    "company": "Insight Global",
-    "title": "Category Lead",
-    "slug": "insight-global-category-lead",
+    "company": "Fractal",
+    "title": "Sales Lead - AI EdTEch (Corporate L&D)",
+    "slug": "fractal-sales-lead-ai-edtech-corporate-l-d",
     "location": "United States",
-    "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/category-lead-at-insight-global-4404485763?refId=YGPKtCU%2FyEO8rHLZBaoQHQ%3D%3D&trackingId=a9TnffWrH5u6F2zvQoZS7g%3D%3D&position=16&pageNum=0",
-    "seniority": "Mid-Senior level",
-    "industries": "Utilities and Utilities Administration"
-  },
-  {
-    "company": "Cactus Search",
-    "title": "Director of Business Development (CX)",
-    "slug": "cactus-search-director-of-business-development-cx",
-    "location": "United States",
-    "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/director-of-business-development-cx-at-cactus-search-4404278766?refId=YGPKtCU%2FyEO8rHLZBaoQHQ%3D%3D&trackingId=DIjyhiKWpmQQFEsnNpdizg%3D%3D&position=8&pageNum=0",
-    "seniority": "Executive",
-    "industries": "Outsourcing and Offshoring Consulting"
-  },
-  {
-    "company": "Swooped",
-    "title": "Vice President, Chief of Staff, Americas Mobility and Payments",
-    "slug": "swooped-vice-president-chief-of-staff-americas-mobility-and-payments",
-    "location": "United States",
-    "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/vice-president-chief-of-staff-americas-mobility-and-payments-at-swooped-4405284376?refId=YGPKtCU%2FyEO8rHLZBaoQHQ%3D%3D&trackingId=NfClbj8KG14CTMtE7fmdDw%3D%3D&position=4&pageNum=0",
-    "seniority": "Executive",
-    "industries": "Computer and Network Security and Technology, Information and Media"
+    "salary": "$140,000.00/yr - $200,000.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/sales-lead-ai-edtech-corporate-l-d-at-fractal-4405041311?refId=mrv1xanH3%2Fghyw04U2nAiw%3D%3D&trackingId=L0MSQVKRo9MWXAOfgaa5OQ%3D%3D&position=2&pageNum=0",
+    "seniority": "Director",
+    "industries": "Education, IT Services and IT Consulting, and E-Learning Providers"
   }
 ]
