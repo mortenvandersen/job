@@ -1,0 +1,21 @@
+---
+company: Client of Arcolab
+role: Director of Business Development
+status: inbox
+date_saved: 2026-04-25
+source_url: https://www.linkedin.com/jobs/view/director-of-business-development-4405320425?position=6&pageNum=0&refId=02CDeaSSHhguVsvyiAlu%2FA%3D%3D&trackingId=f2RwerwATcfPWlnEo0AHQw%3D%3D&trk=public_jobs_jserp-result_search-card
+location: United States
+salary: $200,000.00/yr - $250,000.00/yr
+---
+
+# Client of Arcolab — Director of Business Development
+
+## Job Description
+
+About the Company
+She/he will be accountable for delivering the revenue objectives through a combination of working with existing clients to broaden the range of offerings that one of our pharma client can deliver, but also by identifying an array of commercially sensible new opportunities. She/he will be a commercially savvy, culturally fluent individual, with a track record of serving client base.
+Responsibilities
+Life Sciences degree with a preference towards MSc/ PhD8+ years of proven track record of sales achievements in the API CDMO industry with an understanding of the drug discovery process and an extensive network of pharma/biotech CDMO contactsDevelop a short- and long-term business plan – one that harnesses the full potential from existing clients, but envisages aggressive medium- and long-term aspirations for the businessCollaborate seamlessly with the “back end” to ensure client propositions are pragmatic, but delivered to high levels of satisfaction at all timesBe the “face of the company” – represent our client in the most professional, high quality and globally oriented manner possibleBalance leading the team in a charismatic, inspiring manner, with inculcating a strong process orientation to the sales process – ensure that pipeline is tracked systematically, with rigor and in a way that provides for visibility and contingency planningCustomer network and Commercial acumenShe/he would be a strong P&L leader for the North America Market with a strong track record of leading significant growth, within an international healthcare operation, a country affiliate, or a substantial vertical within a global corporation.A “global mind-set” with the experience of having worked in a multicultural, multi-geography environment, preferably working with customers in North AmericaA strong technology orientation to be able to predict client trends; shifts in the outsourcing space as they relate to manufacturing and R&D will be a key differentiator.Identify and stay on top of the drivers of P&L, making deal and investment choices that balance growth and profitabilityCo-ordinate all efforts for greenfield, brownfield or inorganic expansion in the Western HemisphereParticipate /Lead in due diligence and support in identification of targetsMeet key customers and manage client relationships.Willingness to travel both domestic and international as and when required
+ Qualifications
+Setting Strategy: The ability to create and articulate an inspiring vision for the organization, not only for the areas s/he is directly responsible for, but the enterprise as a whole.The inclination to seek and analyze data from a variety of sources to support decisions and to align others with the organization's overall strategy.An entrepreneurial and creative approach to developing new, innovative ideas that will stretch the organization and push the boundaries within the industry.The ability to effectively balance the desire/need for broad change with an understanding of how much change the organization is capable of handling, to create realistic goals and implementation plans that are achievable and successful. Required Skills
+Executing for Results: The ability to set clear and challenging goals while committing the organization to improved performance; tenacious and accountable in driving results.Comfortable with ambiguity and uncertainty; the ability to adapt nimbly and lead others through complex situations.A risk-taker who seeks data and input from others to foresee possible threats or unintended circumstances from decisions; someone who takes smart risks.A leader who is viewed by others as having a high degree of integrity and forethought in his/her approach to making decisions; the ability to act in a transparent and consistent manner while always taking into account what is best for the organization.

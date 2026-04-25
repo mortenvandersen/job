@@ -7080,5 +7080,145 @@
       "title_allowlist: no target role keyword found in title or jobFunction",
       "salary_below_floor: max $80,000 < $200,000 floor"
     ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Executive Assistant, SVP, Sales - Splunk",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Propel Recruitment LLC",
+    "title": "Assistant Fund Controller",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "title_blocklist: 'controller' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "New Classrooms",
+    "title": "Senior Director of Education Solutions",
+    "posted_at": "2026-04-25",
+    "reasons": [
+      "location_not_allowed: 'New York City Metropolitan Area' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "East Bay Regional Park District",
+    "title": "Park Unit Manager",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Hardesty, LLC",
+    "title": "Chief Financial Officer",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "location_not_allowed: 'Sonoma County, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Security 101",
+    "title": "General Manager",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "salary_below_floor: max $160,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Nebius",
+    "title": "Senior Executive Assistant",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Robert Half",
+    "title": "Senior Accountant | PE backed EdTech | NYC, 2 days in office",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "title_blocklist: 'accountant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found",
+      "location_not_allowed: 'New York, NY' is not remote and not in SF Bay Area",
+      "seniority_blocklist: 'associate' found in seniority level"
+    ]
+  },
+  {
+    "company": "RevsUp",
+    "title": "Enterprise Account Executive – AI Training Data & Generative AI – Startup Within 10,000-Employee Parent Company",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title",
+      "description_blocklist: 'quota-carrying' found — likely sales/commission role"
+    ]
+  },
+  {
+    "company": "RevsUp",
+    "title": "Enterprise Account Executive – AI Training Data & Generative AI – Startup Within 10,000-Employee Parent Company",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title",
+      "description_blocklist: 'quota-carrying' found — likely sales/commission role"
+    ]
+  },
+  {
+    "company": "Andromeda Software Inc.",
+    "title": "VP Corporate Development",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "description_blocklist: 'commission structure' found — likely sales/commission role"
+    ]
+  },
+  {
+    "company": "Brahma Consulting Group",
+    "title": "Contract Manufacturing Manager",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "CodePath",
+    "title": "Sales Engineer",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "title_blocklist: 'sales engineer' found in title",
+      "description_blocklist: 'quota-carrying' found — likely sales/commission role"
+    ]
+  },
+  {
+    "company": "Inspire Path Networks, LLC",
+    "title": "Senior Director, Business Development Strategy & Activation",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Emeritus",
+    "title": "Associate Director - Academic Delivery",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "title_blocklist: 'associate' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Integra Connect",
+    "title": "President of Population Health",
+    "posted_at": "2026-04-24",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
   }
 ]

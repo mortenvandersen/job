@@ -1,42 +1,42 @@
 [
   {
-    "company": "Nothing",
-    "title": "General Manager, North America",
-    "slug": "nothing-general-manager-north-america",
-    "location": "San Francisco Bay Area",
-    "salary": "$250,000.00/yr - $350,000.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/general-manager-north-america-at-nothing-4405645032?refId=0U1AbrgXLdQKP0cVKB41lA%3D%3D&trackingId=IPIqwwtqiGy%2BRBGUnSpS3A%3D%3D&position=1&pageNum=0",
+    "company": "East Bay Regional Park District",
+    "title": "Assistant General Manager - Facilities and Infrastructure",
+    "slug": "east-bay-regional-park-district-assistant-general-manager-facilities-and-infrastructure",
+    "location": "Oakland, CA",
+    "salary": "$256,318.00/yr - $343,512.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/assistant-general-manager-facilities-and-infrastructure-at-east-bay-regional-park-district-4406638369?position=3&pageNum=0&refId=p%2Fm%2F%2FIS58iOmihGSTOP7pg%3D%3D&trackingId=OYLg8W08dMw1T8JPM2sQhA%3D%3D",
     "seniority": "Executive",
-    "industries": "Technology, Information and Internet"
+    "industries": "Government Administration"
   },
   {
-    "company": "A-V Services, Inc.",
-    "title": "Regional Director of Business Development",
-    "slug": "a-v-services-inc-regional-director-of-business-development",
-    "location": "San Francisco, CA",
-    "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/regional-director-of-business-development-at-a-v-services-inc-4405675724?refId=0U1AbrgXLdQKP0cVKB41lA%3D%3D&trackingId=sG1N6QJllndZ6T4zcWKbAg%3D%3D&position=4&pageNum=0",
-    "seniority": "Director",
-    "industries": "IT Services and IT Consulting, Broadcast Media Production and Distribution, and Technology, Information and Media"
-  },
-  {
-    "company": "24 Seven Talent",
-    "title": "Director of Ecommerce",
-    "slug": "24-seven-talent-director-of-ecommerce",
-    "location": "San Francisco, CA",
-    "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/director-of-ecommerce-at-24-seven-talent-4405041883?refId=0U1AbrgXLdQKP0cVKB41lA%3D%3D&trackingId=mP21qxttayHbjXtidTLG5w%3D%3D&position=3&pageNum=0",
-    "seniority": "Director",
-    "industries": "Retail Apparel and Fashion and Retail Luxury Goods and Jewelry"
-  },
-  {
-    "company": "Fractal",
-    "title": "Sales Lead - AI EdTEch (Corporate L&D)",
-    "slug": "fractal-sales-lead-ai-edtech-corporate-l-d",
+    "company": "Client of Arcolab",
+    "title": "Director of Business Development",
+    "slug": "client-of-arcolab-director-of-business-development",
     "location": "United States",
-    "salary": "$140,000.00/yr - $200,000.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/sales-lead-ai-edtech-corporate-l-d-at-fractal-4405041311?refId=mrv1xanH3%2Fghyw04U2nAiw%3D%3D&trackingId=L0MSQVKRo9MWXAOfgaa5OQ%3D%3D&position=2&pageNum=0",
-    "seniority": "Director",
-    "industries": "Education, IT Services and IT Consulting, and E-Learning Providers"
+    "salary": "$200,000.00/yr - $250,000.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/director-of-business-development-4405320425?position=6&pageNum=0&refId=02CDeaSSHhguVsvyiAlu%2FA%3D%3D&trackingId=f2RwerwATcfPWlnEo0AHQw%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "seniority": "Mid-Senior level",
+    "industries": "Pharmaceutical Manufacturing"
+  },
+  {
+    "company": "Swooped",
+    "title": "Chief of Staff to the CRO",
+    "slug": "swooped-chief-of-staff-to-the-cro",
+    "location": "United States",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/chief-of-staff-to-the-cro-at-swooped-4406630119?position=2&pageNum=0&refId=02CDeaSSHhguVsvyiAlu%2FA%3D%3D&trackingId=toZ5sYUyfuc1WLacdIClhA%3D%3D",
+    "seniority": "Mid-Senior level",
+    "industries": "Computer and Network Security and Technology, Information and Media"
+  },
+  {
+    "company": "Swooped",
+    "title": "Chief of Staff to CFO",
+    "slug": "swooped-chief-of-staff-to-cfo",
+    "location": "United States",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/chief-of-staff-to-cfo-at-swooped-4406628210?position=1&pageNum=0&refId=02CDeaSSHhguVsvyiAlu%2FA%3D%3D&trackingId=%2Bkv58KgWtgbFIal2OGDMfw%3D%3D",
+    "seniority": "Executive",
+    "industries": "Computer and Network Security and Technology, Information and Media"
   }
 ]
