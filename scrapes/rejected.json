@@ -7220,5 +7220,56 @@
     "reasons": [
       "title_allowlist: no target role keyword found in title or jobFunction"
     ]
+  },
+  {
+    "company": "Seagate Technology",
+    "title": "Director, U.S. Government Affairs",
+    "posted_at": "2026-04-25",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Mason & Blair, LLC",
+    "title": "VP Global Tax",
+    "posted_at": "2026-04-25",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "KARL STORZ North America",
+    "title": "Corporate Accounts Director - Great Plains",
+    "posted_at": "2026-04-25",
+    "reasons": [
+      "location_not_allowed: 'Minneapolis, MN' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Rayner",
+    "title": "Associate Vice President Sales, Device & Equipment",
+    "posted_at": "2026-04-25",
+    "reasons": [
+      "title_blocklist: 'associate' found in title"
+    ]
+  },
+  {
+    "company": "Stellar Consulting Solutions, LLC",
+    "title": "Director, Sales Enablement & Learning",
+    "posted_at": "2026-04-26",
+    "reasons": [
+      "title_blocklist: 'director, sales' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "CVS Health",
+    "title": "Principal Software Development Engineer - Flutter",
+    "posted_at": "2026-04-25",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Austin, TX' is not remote and not in SF Bay Area"
+    ]
   }
 ]
