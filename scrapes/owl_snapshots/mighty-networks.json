@@ -1,7 +1,7 @@
 {
   "company": "Mighty Networks",
   "url": "https://www.mightynetworks.com/careers",
-  "scraped_at": "2026-04-20T09:50:47.766561+00:00",
+  "scraped_at": "2026-04-27T10:07:45.037963+00:00",
   "job_count": 9,
   "jobs": [
     {
@@ -29,16 +29,16 @@
       "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8476343002?gh_jid=8476343002"
     },
     {
-      "title": "Engineering Manager (hands-on), Payments",
-      "department": "Engineering",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8506355002?gh_jid=8506355002"
-    },
-    {
       "title": "Senior Software Engineer, Full-Stack",
       "department": "Engineering",
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8506638002?gh_jid=8506638002"
+    },
+    {
+      "title": "Senior Software Engineer, Payments & Monetization",
+      "department": "Engineering",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8517196002?gh_jid=8517196002"
     },
     {
       "title": "Recruiting Coordinator",

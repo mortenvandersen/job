@@ -1,15 +1,9 @@
 {
   "company": "Kuali",
   "url": "https://www.kuali.co/positions",
-  "scraped_at": "2026-04-20T09:50:14.962535+00:00",
-  "job_count": 7,
+  "scraped_at": "2026-04-27T10:07:17.716953+00:00",
+  "job_count": 3,
   "jobs": [
-    {
-      "title": "Senior Software Engineer - Data Migrations (Remote Contractor, Brazil)",
-      "department": "Customer Success",
-      "location": "Brazil - Remote",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a7887a89ac19e45019ae0b1226639f5&source=&lang=en"
-    },
     {
       "title": "Customer Support Specialist",
       "department": "Customer Success",
@@ -17,34 +11,16 @@
       "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a7887a89d02e588019d4044d8ef7599&source=&lang=en"
     },
     {
-      "title": "Market Research Intern",
-      "department": "Marketing & Sales",
+      "title": "Director, Customer Success Management",
+      "department": "Customer Success",
       "location": "Remote",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a78839e98ed63b301993bc4e3d1498e&source=&lang=en"
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a78859f9db1e91b019dbd6f24367d99&source=&lang=en"
     },
     {
-      "title": "Senior Software Engineer (Remote Contractor, Brazil)",
-      "department": "Product Development Group",
-      "location": "Brazil - Remote",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a7887a198ed6411019915af78dd77ed&source=&lang=en"
-    },
-    {
-      "title": "Director of Product Management",
-      "department": "Product Development Group",
-      "location": "Hybrid, UT",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a7887ac995981fd01995a64cac91653&source=&lang=en"
-    },
-    {
-      "title": "Product Manager",
-      "department": "Product Development Group",
+      "title": "Director, Professional Services",
+      "department": "Customer Success",
       "location": "Remote",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a78839e9b137672019be1e19cf27d70&source=&lang=en"
-    },
-    {
-      "title": "Software Engineering Manager",
-      "department": "Product Development Group",
-      "location": "Remote",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a7885ac9c2fd15c019c6d509adc16f0&source=&lang=en"
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a78839e9db1e919019dbd4970da6098&source=&lang=en"
     }
   ]
 }

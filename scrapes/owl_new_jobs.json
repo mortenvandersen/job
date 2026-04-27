@@ -1,513 +1,457 @@
 [
   {
-    "title": "Contract - Salesforce Administrator",
-    "department": "Customer",
-    "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7411036",
-    "company": "Newsela",
-    "careers_url": "https://job-boards.greenhouse.io/newsela"
-  },
-  {
-    "title": "Manager, Professional Learning",
-    "department": "Customer",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7644018",
-    "company": "Newsela",
-    "careers_url": "https://job-boards.greenhouse.io/newsela"
-  },
-  {
-    "title": "Manager, SMB Sales",
-    "department": "Sales",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7663528",
-    "company": "Newsela",
-    "careers_url": "https://job-boards.greenhouse.io/newsela"
-  },
-  {
-    "title": "Sales Manager, K12 (Strategic and Key Accounts)",
-    "department": "Sales",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7801091",
-    "company": "Newsela",
-    "careers_url": "https://job-boards.greenhouse.io/newsela"
-  },
-  {
-    "title": "Strategic Account Executive (EveryDay Labs)",
-    "department": "Sales",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7768674",
-    "company": "Newsela",
-    "careers_url": "https://job-boards.greenhouse.io/newsela"
-  },
-  {
-    "title": "Strategic Account Executive",
-    "department": "Sales",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7746937",
-    "company": "Newsela",
-    "careers_url": "https://job-boards.greenhouse.io/newsela"
-  },
-  {
-    "title": "People Partner, GTM",
-    "department": "Talent Management",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7639144",
-    "company": "Newsela",
-    "careers_url": "https://job-boards.greenhouse.io/newsela"
-  },
-  {
-    "title": "Account Executive - Core",
-    "department": "Product",
-    "location": "Remote - California",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7572941",
-    "company": "Newsela",
-    "careers_url": "https://job-boards.greenhouse.io/newsela"
-  },
-  {
-    "title": "Senior Account Executive - Core",
-    "department": "Product",
-    "location": "Remote - California",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7782313",
-    "company": "Newsela",
-    "careers_url": "https://job-boards.greenhouse.io/newsela"
-  },
-  {
-    "title": "Assessment Item Specialist, Science - Project Based Freelance Contributor",
-    "department": "Product Strategy",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7723755",
-    "company": "Newsela",
-    "careers_url": "https://job-boards.greenhouse.io/newsela"
-  },
-  {
-    "title": "Head of CS",
+    "title": "Technical Success Partner - 3 Month Temp Assignment",
     "department": "Customer Success",
+    "location": "Houston, TX",
+    "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a7883ac9d930826019db0caa3c65011&source=&lang=en",
+    "company": "Accelerate Learning",
+    "careers_url": "https://www.acceleratelearning.com/careers/"
+  },
+  {
+    "title": "Marketing and Outreach Coordinator",
+    "department": "Study Edge",
+    "location": "Gainesville, FL",
+    "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a7883a89d9308df019db06b61395933&source=&lang=en",
+    "company": "Accelerate Learning",
+    "careers_url": "https://www.acceleratelearning.com/careers/"
+  },
+  {
+    "title": "Success Manager - New Mexico",
+    "department": null,
+    "location": "New Mexico",
+    "url": null,
+    "company": "Amira Learning",
+    "careers_url": "https://www.amiralearning.com/careers/"
+  },
+  {
+    "title": "Regional Manager - Northeast",
+    "department": null,
+    "location": "Northeast",
+    "url": null,
+    "company": "Amira Learning",
+    "careers_url": "https://www.amiralearning.com/careers/"
+  },
+  {
+    "title": "Success Manager - Texas/Dallas",
+    "department": null,
+    "location": "Texas/Dallas",
+    "url": null,
+    "company": "Amira Learning",
+    "careers_url": "https://www.amiralearning.com/careers/"
+  },
+  {
+    "title": "Success Manager - Northeast",
+    "department": null,
+    "location": "Northeast",
+    "url": null,
+    "company": "Amira Learning",
+    "careers_url": "https://www.amiralearning.com/careers/"
+  },
+  {
+    "title": "Head of Finance",
+    "department": "Ops & Admin",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/answersnow/cd0dd8d5-9e54-4723-a14e-acf24d99a7fe",
+    "company": "AnswersNow",
+    "careers_url": "https://jobs.ashbyhq.com/answersnow"
+  },
+  {
+    "title": "IT Support Engineer - L1",
+    "department": "Engineering",
+    "location": "Noida, Uttar Pradesh, India",
+    "url": null,
+    "company": "Apna",
+    "careers_url": "https://apna.co/careers"
+  },
+  {
+    "title": "Telesales Representative",
+    "department": "Skilling",
+    "location": "Noida, Uttar Pradesh, India",
+    "url": null,
+    "company": "Apna",
+    "careers_url": "https://apna.co/careers"
+  },
+  {
+    "title": "Telesales Representative",
+    "department": "Skilling",
+    "location": "Indiranagara, Karnataka, India",
+    "url": null,
+    "company": "Apna",
+    "careers_url": "https://apna.co/careers"
+  },
+  {
+    "title": "Lead Product Manager",
+    "department": "Product & Design",
+    "location": "Bengaluru, Karnataka, India",
+    "url": null,
+    "company": "Apna",
+    "careers_url": "https://apna.co/careers"
+  },
+  {
+    "title": "Data Annotation Operations Expert",
+    "department": "Operations",
+    "location": "Bengaluru, Karnataka, India",
+    "url": null,
+    "company": "Apna",
+    "careers_url": "https://apna.co/careers"
+  },
+  {
+    "title": "Product Manager",
+    "department": "Product & Design",
+    "location": "Bengaluru, Karnataka, India",
+    "url": null,
+    "company": "Apna",
+    "careers_url": "https://apna.co/careers"
+  },
+  {
+    "title": "Senior Procurement Executive",
+    "department": "Data & Analytics",
+    "location": "Bengaluru, Karnataka, India",
+    "url": null,
+    "company": "Apna",
+    "careers_url": "https://apna.co/careers"
+  },
+  {
+    "title": "Sales Development Representative - Bangalore",
+    "department": "Sales & Account Management",
+    "location": "Bengaluru, Karnataka, India",
+    "url": null,
+    "company": "Apna",
+    "careers_url": "https://apna.co/careers"
+  },
+  {
+    "title": "Field Sales Executive (BDE) - Bhubaneswar",
+    "department": null,
+    "location": "Bhubaneswar, Odisha, India",
+    "url": null,
+    "company": "Apna",
+    "careers_url": "https://apna.co/careers"
+  },
+  {
+    "title": "Operations Coordinator (Contract)",
+    "department": "Operations",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/brisk-teaching/1b9c8ec4-09ad-4493-9a42-317c146ff06c",
+    "company": "Brisk Teaching",
+    "careers_url": "https://jobs.ashbyhq.com/brisk-teaching"
+  },
+  {
+    "title": "Account Executive",
+    "department": "Growth",
+    "location": null,
+    "url": "https://jobs.lever.co/go-cloudforce/11096dbb-5993-4b6f-a4b2-cb50220ff521",
+    "company": "Cloudforce",
+    "careers_url": "https://gocloudforce.com/careers/"
+  },
+  {
+    "title": "Technical Trainer (US)",
+    "department": "Delivery",
+    "location": "US",
+    "url": "https://jobs.lever.co/go-cloudforce/7c10fc43-9a5a-453a-96be-25ed1d5e3238",
+    "company": "Cloudforce",
+    "careers_url": "https://gocloudforce.com/careers/"
+  },
+  {
+    "title": "Technical Trainer (UK)",
+    "department": "Delivery",
+    "location": "UK",
+    "url": "https://jobs.lever.co/go-cloudforce/3f276720-ebc5-494d-be49-47c04d1207fe",
+    "company": "Cloudforce",
+    "careers_url": "https://gocloudforce.com/careers/"
+  },
+  {
+    "title": "Events and Operations Coordinator (UK)",
+    "department": "Operations",
+    "location": "UK",
+    "url": "https://jobs.lever.co/go-cloudforce/a10fc40e-4b3b-44d3-b317-21b32d80d101",
+    "company": "Cloudforce",
+    "careers_url": "https://gocloudforce.com/careers/"
+  },
+  {
+    "title": "Lead Helpdesk Technician",
+    "department": "Operations",
+    "location": null,
+    "url": "https://jobs.lever.co/go-cloudforce/a6f1705d-c5f3-4d1b-9c2e-f0058c2b794d",
+    "company": "Cloudforce",
+    "careers_url": "https://gocloudforce.com/careers/"
+  },
+  {
+    "title": "Cloud Solutions Administrator",
+    "department": "Delivery",
+    "location": null,
+    "url": "https://jobs.lever.co/go-cloudforce/4054a599-e34a-44b3-9169-d7fd8b473cc1",
+    "company": "Cloudforce",
+    "careers_url": "https://gocloudforce.com/careers/"
+  },
+  {
+    "title": "Financial Analyst",
+    "department": "Finance",
+    "location": "Utah, US",
+    "url": "https://job-boards.greenhouse.io/degreed/jobs/5979186004",
+    "company": "Degreed",
+    "careers_url": "https://job-boards.greenhouse.io/degreed"
+  },
+  {
+    "title": "Principal Value Engineer",
+    "department": "Revenue",
+    "location": "US Based",
+    "url": "https://job-boards.greenhouse.io/degreed/jobs/5843975004",
+    "company": "Degreed",
+    "careers_url": "https://job-boards.greenhouse.io/degreed"
+  },
+  {
+    "title": "Database Solutions Development Engineer",
+    "department": "Technology",
+    "location": "US Based",
+    "url": "https://job-boards.greenhouse.io/degreed/jobs/5842274004",
+    "company": "Degreed",
+    "careers_url": "https://job-boards.greenhouse.io/degreed"
+  },
+  {
+    "title": "Staff UI Engineer",
+    "department": "Technology",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://job-boards.greenhouse.io/degreed/jobs/5837050004",
+    "company": "Degreed",
+    "careers_url": "https://job-boards.greenhouse.io/degreed"
+  },
+  {
+    "title": "Representante de Ventas Biling\u00fce Internet Fibra - F",
+    "department": null,
+    "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
+    "url": "https://hoytrabajas.com/cargos/60154-representante-de-ventas-bilingue-internet-fibra-f",
+    "company": "Hoytrabajas",
+    "careers_url": "https://hoytrabajas.com/careers"
+  },
+  {
+    "title": "AUXILIAR DE FARMACIA CANAL INSTITUCIONAL Y COMERCIAL-F",
+    "department": null,
+    "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
+    "url": "https://hoytrabajas.com/cargos/60261-auxiliar-de-farmacia-canal-institucional-y-comercial-f",
+    "company": "Hoytrabajas",
+    "careers_url": "https://hoytrabajas.com/careers"
+  },
+  {
+    "title": "Operarios de Bodega / Producci\u00f3n (Bogot\u00e1, Siberia, Madrid, Zipaquir\u00e1 (F)",
+    "department": null,
+    "location": "Bogot\u00e1, D.C.",
+    "url": "https://hoytrabajas.com/cargos/60279-operarios-de-bodega-produccion-bogota-siberia-madrid-zipaquira-f",
+    "company": "Hoytrabajas",
+    "careers_url": "https://hoytrabajas.com/careers"
+  },
+  {
+    "title": "Operarios de montacargas con certificado de competencia vigente (F)",
+    "department": null,
+    "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
+    "url": "https://hoytrabajas.com/cargos/60281-operarios-de-montacargas-con-certificado-de-competencia-vigente-f",
+    "company": "Hoytrabajas",
+    "careers_url": "https://hoytrabajas.com/careers"
+  },
+  {
+    "title": "T\u00e9cnicos de Refrigeraci\u00f3n con Moto (F)",
+    "department": null,
+    "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
+    "url": "https://hoytrabajas.com/cargos/60284-tecnicos-de-refrigeracion-con-moto-f",
+    "company": "Hoytrabajas",
+    "careers_url": "https://hoytrabajas.com/careers"
+  },
+  {
+    "title": "Asesor comercial puerta a puerta",
+    "department": null,
+    "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
+    "url": "https://hoytrabajas.com/cargos/60286-asesor-comercial-puerta-a-puerta",
+    "company": "Hoytrabajas",
+    "careers_url": "https://hoytrabajas.com/careers"
+  },
+  {
+    "title": "Asesor comercial puerta a puerta",
+    "department": null,
+    "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
+    "url": "https://hoytrabajas.com/cargos/60287-asesor-comercial-puerta-a-puerta",
+    "company": "Hoytrabajas",
+    "careers_url": "https://hoytrabajas.com/careers"
+  },
+  {
+    "title": "Events Marketing Manager",
+    "department": "Marketing",
+    "location": "United States",
+    "url": "https://jobs.ashbyhq.com/ignite-reading/68aa8c8d-de30-4262-855a-9bc54a11d03f?embed=js",
+    "company": "Ignite Reading",
+    "careers_url": "https://www.ignitereading.com/careers"
+  },
+  {
+    "title": "SME Consultant - Data Center Maintenance",
+    "department": "Content",
     "location": "Remote (United States)",
-    "url": "https://ats.rippling.com/en-US/parentsquare/jobs/d64e145a-d79e-41b4-a0ab-19dc8aaada9f",
-    "company": "ParentSquare",
-    "careers_url": "https://www.parentsquare.com/careers/"
+    "url": "https://ats.rippling.com/en-US/interplaylearning/jobs/0a3a4d00-65a2-4cc6-a6ac-df8b037b04ca",
+    "company": "Interplay Learning",
+    "careers_url": "https://www.interplaylearning.com/careers/"
   },
   {
-    "title": "Proposal Writer - EdTech, K-12",
-    "department": "Revenue Operations",
+    "title": "Principal React Engineer",
+    "department": "Engineering",
+    "location": "Remote (United States)",
+    "url": "https://ats.rippling.com/en-US/interplaylearning/jobs/3956fd04-efc2-4c04-9765-8ec289f96699",
+    "company": "Interplay Learning",
+    "careers_url": "https://www.interplaylearning.com/careers/"
+  },
+  {
+    "title": "Senior Sales Development Manager",
+    "department": "Growth",
+    "location": "Remote (United States)",
+    "url": "https://ats.rippling.com/en-US/interplaylearning/jobs/73eb7bc6-d5da-4bcc-a70e-09d72d0e13e5",
+    "company": "Interplay Learning",
+    "careers_url": "https://www.interplaylearning.com/careers/"
+  },
+  {
+    "title": "Applied AI Business Systems Engineer",
+    "department": "Operations",
+    "location": "Remote (United States)",
+    "url": "https://ats.rippling.com/en-US/interplaylearning/jobs/bf7165c5-4d4e-4554-87bd-f460a44fd424",
+    "company": "Interplay Learning",
+    "careers_url": "https://www.interplaylearning.com/careers/"
+  },
+  {
+    "title": "Director, Customer Success Management",
+    "department": "Customer Success",
+    "location": "Remote",
+    "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a78859f9db1e91b019dbd6f24367d99&source=&lang=en",
+    "company": "Kuali",
+    "careers_url": "https://www.kuali.co/positions"
+  },
+  {
+    "title": "Director, Professional Services",
+    "department": "Customer Success",
+    "location": "Remote",
+    "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a78839e9db1e919019dbd4970da6098&source=&lang=en",
+    "company": "Kuali",
+    "careers_url": "https://www.kuali.co/positions"
+  },
+  {
+    "title": "Marketing & Sales Enablement Specialist(Mid to Senior IC)",
+    "department": "Marketing",
+    "location": "Boston, Massachusetts, United States",
+    "url": "https://job-boards.greenhouse.io/linushealth/jobs/5973398004",
+    "company": "Linus",
+    "careers_url": "https://job-boards.greenhouse.io/linushealth"
+  },
+  {
+    "title": "Senior Software Engineer, Payments & Monetization",
+    "department": "Engineering",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8517196002?gh_jid=8517196002",
+    "company": "Mighty Networks",
+    "careers_url": "https://www.mightynetworks.com/careers"
+  },
+  {
+    "title": "School Customer Success Manager",
+    "department": "Customer",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/newsela/jobs/7833317",
+    "company": "Newsela",
+    "careers_url": "https://job-boards.greenhouse.io/newsela"
+  },
+  {
+    "title": "Curricular Solutions Architect",
+    "department": "Customer Solutions",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/newsela/jobs/7823047",
+    "company": "Newsela",
+    "careers_url": "https://job-boards.greenhouse.io/newsela"
+  },
+  {
+    "title": "Account Executive (BOCES)",
+    "department": "Sales",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/newsela/jobs/7821978",
+    "company": "Newsela",
+    "careers_url": "https://job-boards.greenhouse.io/newsela"
+  },
+  {
+    "title": "Brand Designer",
+    "department": "Marketing",
+    "location": "United States",
+    "url": "https://apply.workable.com/j/3AF61629E3",
+    "company": "Panorama Education",
+    "careers_url": "https://www.panoramaed.com/about/careers"
+  },
+  {
+    "title": "Event Content Strategy Manager",
+    "department": "Marketing",
+    "location": "United States",
+    "url": "https://apply.workable.com/j/35B3621DBE",
+    "company": "Panorama Education",
+    "careers_url": "https://www.panoramaed.com/about/careers"
+  },
+  {
+    "title": "Enterprise Account Executive",
+    "department": "Revenue",
+    "location": "United States",
+    "url": "https://apply.workable.com/j/CAA40D2B04",
+    "company": "Panorama Education",
+    "careers_url": "https://www.panoramaed.com/about/careers"
+  },
+  {
+    "title": "Sr State and Local Government Partnerships Director",
+    "department": "Revenue",
+    "location": "United States",
+    "url": "https://apply.workable.com/j/F77B7CD35F",
+    "company": "Panorama Education",
+    "careers_url": "https://www.panoramaed.com/about/careers"
+  },
+  {
+    "title": "Senior II Platform Software Engineer",
+    "department": "Engineering",
+    "location": "Barcelona",
+    "url": "https://preply.com/en/careers/apply?ashby_jid=e238499e-7a2a-4230-9658-956af4213084&job_title=Senior%20II%20Platform%20Software%20Engineer&job_team=Engineering&job_location=Barcelona",
+    "company": "Preply",
+    "careers_url": "https://preply.com/en/careers#SearchJobs"
+  },
+  {
+    "title": "Senior II Platform Software Engineer",
+    "department": "Engineering",
+    "location": "Kyiv",
+    "url": "https://preply.com/en/careers/apply?ashby_jid=821ad7fd-528f-491b-b44d-f0aff02d4f67&job_title=Senior%20II%20Platform%20Software%20Engineer&job_team=Engineering&job_location=Kyiv",
+    "company": "Preply",
+    "careers_url": "https://preply.com/en/careers#SearchJobs"
+  },
+  {
+    "title": "Senior II Platform Software Engineer",
+    "department": "Engineering",
+    "location": "London",
+    "url": "https://preply.com/en/careers/apply?ashby_jid=0cd0548e-c501-46c4-9225-15e2ebf97b68&job_title=Senior%20II%20Platform%20Software%20Engineer&job_team=Engineering&job_location=London",
+    "company": "Preply",
+    "careers_url": "https://preply.com/en/careers#SearchJobs"
+  },
+  {
+    "title": "Senior II Security Engineer - Application",
+    "department": "Engineering",
+    "location": "Barcelona",
+    "url": "https://preply.com/en/careers/apply?ashby_jid=4429f6b9-2e3f-4796-940d-075be446525a&job_title=Senior%20II%20Security%20Engineer%20-%20Application&job_team=Engineering&job_location=Barcelona",
+    "company": "Preply",
+    "careers_url": "https://preply.com/en/careers#SearchJobs"
+  },
+  {
+    "title": "Senior II Security Engineer - Application",
+    "department": "Engineering",
+    "location": "Kyiv",
+    "url": null,
+    "company": "Preply",
+    "careers_url": "https://preply.com/en/careers#SearchJobs"
+  },
+  {
+    "title": "Customer Success Manager, K-12 EdTech",
+    "department": "Customer Success",
     "location": "United States (remote)",
-    "url": "https://www.securly.com/job-description?gh_jid=7788975",
+    "url": "https://www.securly.com/job-description?gh_jid=7833405",
     "company": "Securly",
     "careers_url": "https://www.securly.com/careers"
   },
   {
-    "title": "Marketing & Revenue Operations Administrator",
-    "department": "Revenue Operations",
-    "location": "US Remote",
-    "url": "https://www.securly.com/job-description?gh_jid=7793648",
-    "company": "Securly",
-    "careers_url": "https://www.securly.com/careers"
-  },
-  {
-    "title": "Senior Applied AI Engineer \u2013 AI Systems for Business Operations (GTM Platform)",
-    "department": "Sales Engineers/Solution Architects",
-    "location": "Pune City, Maharashtra, India",
-    "url": "https://www.securly.com/job-description?gh_jid=7597533",
-    "company": "Securly",
-    "careers_url": "https://www.securly.com/careers"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
+    "title": "Forward Deployment Engineer",
     "department": "Engineering",
     "location": "Remote",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5570644004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Albuquerque, NM, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974636004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Ann Arbor, MI, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974522004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Arlington, VA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974564004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Atlanta, GA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974471004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Austin, TX, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974465004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Baton Rouge, LA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974666004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Birmingham, AL, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974660004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Boston, MA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5976170004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Cambridge, MA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974546004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Champaign, IL, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974648004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Cleveland, OH, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974534004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Columbus, OH, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974528004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Eugene, OR, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974624004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Gainesville, FL, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974672004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Knoxville, TN, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974702004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Louisville, KY, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974708004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Minneapolis, MN, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974516004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Mountain View, CA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974504004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "New York, NY, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5976176004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Phoenix, AZ, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974495004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Princeton, NJ, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974552004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Richmond, VA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974570004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "San Diego, CA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974485004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "St. Louis, MO, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974540004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Stony Brook, NY, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974678004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Sunnyvale, CA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974510004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Virginia Beach, VA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974684004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Remote",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5725882004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Albuquerque, NM, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974979004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Alexandria, VA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974889004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Atlanta, GA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974802004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Austin, TX, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974796004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Bloomington, IN, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974991004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Boston, MA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5976260004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Boulder, CO, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974853004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Buffalo, NY, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974997004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Burlington, VT, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5975003004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Cary, NC, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974877004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Charleston, SC, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5975015004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "College Park, MD, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974865004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Columbus, OH, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974859004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Culver City, CA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974847004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Cupertino, CA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974829004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Eugene, OR, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974967004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Honolulu, HI, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974985004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Knoxville, TN, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5975021004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "Lexington, KY, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5975027004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "New Haven, CT, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974883004",
-    "company": "Speechify",
-    "careers_url": "https://job-boards.greenhouse.io/speechify"
-  },
-  {
-    "title": "Senior Software Engineer, Windows/Desktop Applications",
-    "department": "Engineering",
-    "location": "New York, NY, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5976266004",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5979996004",
     "company": "Speechify",
     "careers_url": "https://job-boards.greenhouse.io/speechify"
   }
