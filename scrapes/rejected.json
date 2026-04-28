@@ -7271,5 +7271,141 @@
       "title_allowlist: no target role keyword found in title or jobFunction",
       "location_not_allowed: 'Austin, TX' is not remote and not in SF Bay Area"
     ]
+  },
+  {
+    "company": "Mason & Blair, LLC",
+    "title": "VP Global Tax ($3 billion revenue, staff of 15)",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Vector Solutions",
+    "title": "Manager, Planning & Operations - Higher Education",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Tampa, FL' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Newsela",
+    "title": "Manager, SMB Sales (Remote, US)",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "description_blocklist: 'on-target earnings' found — likely sales/commission role",
+      "salary_below_floor: max $195,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "ChemPartner",
+    "title": "Director of Business Development（Bay area）",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "salary_below_floor: max $180,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Another Source",
+    "title": "Vice President of Finance - Housing Trust of Silicon Valley",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Schultz Industrial Services",
+    "title": "Turnaround Manager",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'oil' found",
+      "location_not_allowed: 'Benicia, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Elevate Recruiting",
+    "title": "Director of Finance (Manufacturing)",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Senior Manager, CX Operations",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Saxco",
+    "title": "Director of Customer Experience",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "location_not_allowed: 'Fairfield, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Northwest Hydroelectric Association",
+    "title": "Executive Director",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Elevate Recruiting",
+    "title": "VP of Finance (Saas/FinTech - Multiple locations)",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "EPM Scientific",
+    "title": "Chief Scientific Officer",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Ethos",
+    "title": "Vice President Operations",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "The Honey Pot Company",
+    "title": "Senior Vice President Operations",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Counsel Health",
+    "title": "Senior Product Manager, Consumer",
+    "posted_at": "2026-04-27",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'New York, NY' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Brisk Teaching",
+    "title": "Growth Marketing Lead",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $170,000 < $200,000 floor"
+    ]
   }
 ]

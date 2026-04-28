@@ -1,0 +1,21 @@
+---
+company: Supermicro
+role: GM, IT Operations (28903)
+status: inbox
+date_saved: 2026-04-28
+source_url: https://www.linkedin.com/jobs/view/gm-it-operations-28903-at-supermicro-4406219010?position=1&pageNum=0&refId=XWbqJM1sDqk16NK10AxfzQ%3D%3D&trackingId=rc3%2B%2B%2BB%2B0i%2BrrLgJBY6ZZQ%3D%3D
+location: San Jose, CA
+salary: $225,000.00/yr - $265,000.00/yr
+---
+
+# Supermicro — GM, IT Operations (28903)
+
+## Job Description
+
+Job Title: GM, IT OperationsJob Req ID: 28903
+About Supermicro:Supermicro® is a Top Tier provider of advanced server, storage, and networking solutions for Data Center, Cloud Computing, Enterprise IT, Hadoop/ Big Data, Hyperscale, HPC and IoT/Embedded customers worldwide. We are the #5 fastest growing company among the Silicon Valley Top 50 technology firms. Our unprecedented global expansion has provided us with the opportunity to offer a large number of new positions to the technology community. We seek talented, passionate, and committed engineers, technologists, and business leaders to join us.
+Job Summary:Supermicro is seeking an experienced IT leader to oversee all IT operations at our headquarters. The General Manager, IT Operations is responsible for leading end-to-end IT service delivery and operational excellence across the organization. This role serves as the primary liaison between business users and IT, ensuring effective intake, prioritization, and delivery of IT services. The GM oversees helpdesk operations, system and application support, account provisioning, and security operations, while ensuring full compliance with regulatory requirements, including SOX.
+Essential Duties and Responsibilities:IT Service Leadership & Stakeholder ManagementServe as the primary liaison between business and IT; manage demand intake, prioritize initiatives, and ensure high-quality service delivery and user satisfaction.End-User Support & Helpdesk OperationsOversee helpdesk and support functions; enforce SLAs/KPIs and drive continuous improvement in responsiveness and user experience.Systems, Infrastructure & Application OperationsEnsure reliability, performance, and scalability of IT systems and applications; lead incident, problem, and change management.Access Management & ProvisioningGovern user access lifecycle (onboarding, changes, offboarding); enforce RBAC, least-privilege principles, and maintain audit-ready records.Security OperationsOversee operational cybersecurity, including monitoring, incident response, and adherence to security policies and standards.SOX Compliance & IT ControlsOwn ITGCs (access, change management, operations); ensure control effectiveness, audit readiness, and timely remediation of findings.Governance, Reporting & Team LeadershipEstablish operational governance and reporting; lead and develop teams, ensuring accountability, efficiency, and alignment with business goals.
+Qualifications:Bachelor’s degree in Information Technology, Computer Science, or related field (Master’s preferred)15+ years of IT operations experience, with 5+ years in leadership rolesStrong experience in IT service management (e.g., ITIL framework)Hands-on experience with SOX compliance, ITGC controls, and audit processesProven track record in managing helpdesk, infrastructure, applications, and security operationsExcellent stakeholder management and communication skills
+Salary Range$225,000 - $265,000The salary offered will depend on several factors, including your location, level, education, training, specific skills, years of experience, and comparison to other employees already in this role. In addition to a comprehensive benefits package, candidates may be eligible for other forms of compensation, such as participation in bonus and equity award programs.
+EEO StatementSupermicro is an Equal Opportunity Employer and embraces diversity in our employee population. It is the policy of Supermicro to provide equal opportunity to all qualified applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status or special disabled veteran, marital status, pregnancy, genetic information, or any other legally protected status.

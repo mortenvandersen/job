@@ -1,22 +1,42 @@
 [
   {
-    "company": "Dynamic Talent Consulting",
-    "title": "Director, Business Development - Medical Communications",
-    "slug": "dynamic-talent-consulting-director-business-development-medical-communications",
+    "company": "RemoteHunter",
+    "title": "Senior Manager, Transformation",
+    "slug": "remotehunter-senior-manager-transformation",
     "location": "United States",
     "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/director-business-development-medical-communications-at-dynamic-talent-consulting-4404637453?position=3&pageNum=0&refId=HTQ4etDq%2B72Wyqa%2F2lBd0w%3D%3D&trackingId=0dgPelUEWFlETU4z5lfinQ%3D%3D",
-    "seniority": "Director",
-    "industries": "Marketing Services, Business Consulting and Services, and Pharmaceutical Manufacturing"
+    "link": "https://www.linkedin.com/jobs/view/senior-manager-transformation-at-remotehunter-4406205298?position=8&pageNum=0&refId=pEjGlR%2BOs615eEAETqvrXQ%3D%3D&trackingId=qmWdZhxVt7Zs9HtqkV3xeg%3D%3D",
+    "seniority": "Mid-Senior level",
+    "industries": "Software Development"
   },
   {
-    "company": "David Evans and Associates, Inc.",
-    "title": "Freight Rail Client Team Leader / Senior Project Manager, Transit and Rail - Omaha, Nebraska",
-    "slug": "david-evans-and-associates-inc-freight-rail-client-team-leader-senior-project-manager-transit-and-rail-omaha-nebraska",
-    "location": "Nebraska, United States",
+    "company": "Randstad USA",
+    "title": "Director of Business Development",
+    "slug": "randstad-usa-director-of-business-development",
+    "location": "United States",
     "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/freight-rail-client-team-leader-senior-project-manager-transit-and-rail-omaha-nebraska-at-david-evans-and-associates-inc-4385561268?position=4&pageNum=0&refId=HTQ4etDq%2B72Wyqa%2F2lBd0w%3D%3D&trackingId=eHabhiAtShlroHYw1TdQKQ%3D%3D",
-    "seniority": "Mid-Senior level",
-    "industries": "Civil Engineering, Freight and Package Transportation, and Rail Transportation"
+    "link": "https://www.linkedin.com/jobs/view/director-of-business-development-at-randstad-usa-4405139868?position=5&pageNum=0&refId=pEjGlR%2BOs615eEAETqvrXQ%3D%3D&trackingId=ly4vp4mfeB72ZCDs5M6bmA%3D%3D",
+    "seniority": "Director",
+    "industries": "Facilities Services, Utilities, and Services for Renewable Energy"
+  },
+  {
+    "company": "Swooped",
+    "title": "Chief of Staff, R&D",
+    "slug": "swooped-chief-of-staff-r-d",
+    "location": "United States",
+    "salary": "$246,500.00/yr - $329,700.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/chief-of-staff-r-d-at-swooped-4407430519?position=3&pageNum=0&refId=pEjGlR%2BOs615eEAETqvrXQ%3D%3D&trackingId=rkC0YDPZcxeUZYH9GTtCuA%3D%3D",
+    "seniority": "Executive",
+    "industries": "Computer and Network Security and Technology, Information and Media"
+  },
+  {
+    "company": "Supermicro",
+    "title": "GM, IT Operations (28903)",
+    "slug": "supermicro-gm-it-operations-28903",
+    "location": "San Jose, CA",
+    "salary": "$225,000.00/yr - $265,000.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/gm-it-operations-28903-at-supermicro-4406219010?position=1&pageNum=0&refId=XWbqJM1sDqk16NK10AxfzQ%3D%3D&trackingId=rc3%2B%2B%2BB%2B0i%2BrrLgJBY6ZZQ%3D%3D",
+    "seniority": "Director",
+    "industries": "Computer Hardware Manufacturing"
   }
 ]
