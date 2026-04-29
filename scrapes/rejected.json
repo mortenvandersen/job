@@ -7407,5 +7407,195 @@
       "title_allowlist: no target role keyword found in title or jobFunction",
       "salary_below_floor: max $170,000 < $200,000 floor"
     ]
+  },
+  {
+    "company": "SoTalent",
+    "title": "Contract Manager",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $142,549 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Data Engineer-Secret Clearance Required",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "SK hynix America",
+    "title": "AI Data Center Business Development Manager",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "salary_below_floor: max $162,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Alvarez & Marsal",
+    "title": "Senior Associate, Working Capital",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_blocklist: 'associate' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Nibbi Brothers General Contractors",
+    "title": "Marketing Director",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_blocklist: 'marketing director' found in title"
+    ]
+  },
+  {
+    "company": "C-SUITE ASSISTANTS",
+    "title": "Executive Assistant/Office Manager (ROOM FOR GROWTH TO COS)",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'San Ramon, CA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "SK hynix America",
+    "title": "Sr. Manager, AI Business Strategist",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Cider",
+    "title": "Flagship General Manager (Retail)",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "salary_below_floor: max $180,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Irvine Company Apartments",
+    "title": "General Manager",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "salary_below_floor: max $164,400 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Earthjustice",
+    "title": "Vice President, People",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Program Manager, Workforce Programs",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $124,200 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swim Recruiting",
+    "title": "Senior Financial Transformation Analyst",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_blocklist: 'analyst' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Dove Robotics",
+    "title": "Director of Sales- Cannabis Co-Packing",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_blocklist: 'director of sales' found in title"
+    ]
+  },
+  {
+    "company": "Allianz Partners",
+    "title": "Manager, Operations Performance and Data Analytics, North America",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Sterigenics",
+    "title": "Pharmaceutical Segment Leader",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "salary_below_floor: max $170,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Prometric",
+    "title": "Director, Marketing",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Student Success Agency",
+    "title": "Director of User Engagement",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "salary_below_floor: max $180,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Senior Executive Assistant",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $187,200 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Director of Customer Success, Central",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_blocklist: 'customer success' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Senior Manager, Transformation",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "salary_below_floor: max $168,200 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Storm2",
+    "title": "Head of Account Management",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Chick-fil-A Restaurants",
+    "title": "General Manager / Executive Multi Unit Restaurant Director",
+    "posted_at": "2026-04-28",
+    "reasons": [
+      "title_blocklist: 'restaurant' found in title",
+      "industry_blocklist: 'restaurants' found",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
   }
 ]
