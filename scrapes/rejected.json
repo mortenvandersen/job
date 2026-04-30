@@ -7597,5 +7597,62 @@
       "industry_blocklist: 'restaurants' found",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
+  },
+  {
+    "company": "The Evans Network of Companies",
+    "title": "Managing Director of Business Development",
+    "posted_at": "2026-04-29",
+    "reasons": [
+      "salary_below_floor: max $185,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "LHH",
+    "title": "General Manager",
+    "posted_at": "2026-04-29",
+    "reasons": [
+      "salary_below_floor: max $165,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "LHH",
+    "title": "General Manager",
+    "posted_at": "2026-04-29",
+    "reasons": [
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Trident",
+    "title": "Director of Business Development - International",
+    "posted_at": "2026-04-29",
+    "reasons": [
+      "title_blocklist: 'intern' found in title"
+    ]
+  },
+  {
+    "company": "81qd",
+    "title": "VP, Business Development",
+    "posted_at": "2026-04-29",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "1 Hotels",
+    "title": "General Manager of Venues",
+    "posted_at": "2026-04-29",
+    "reasons": [
+      "industry_blocklist: 'restaurants' found",
+      "salary_below_floor: max $110,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Confidential Jobs",
+    "title": "Regional Director of Business Development",
+    "posted_at": "2026-04-30",
+    "reasons": [
+      "salary_below_floor: max $180,000 < $200,000 floor"
+    ]
   }
 ]

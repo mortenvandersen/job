@@ -1,6 +1,26 @@
 {
-  "last_updated": "2026-04-29",
+  "last_updated": "2026-04-30",
   "roles": [
+    {
+      "id": "cryoport-systems-director-business-development-bioservices",
+      "company": "Cryoport Systems",
+      "role": "Director - Business Development BioServices",
+      "location": "EMEA (Remote)",
+      "comp_range": "",
+      "date_saved": "2026-04-30",
+      "date_assessed": null,
+      "source_url": "https://www.linkedin.com/jobs/view/4397604908",
+      "status": "inbox",
+      "role_fit_score": null,
+      "candidate_fit_score": null,
+      "recommendation": null,
+      "file": "job_posts/inbox/cryoport-systems-director-business-development-bioservices.md",
+      "summary_note": "",
+      "jd_snippet": "Cryoport Systems is the life science industry’s most trusted provider of supply chain solutions for temperature-sensitive materials, serving biopharmaceutical, IVF and surrogacy and animal health organizations around the world. Cryoport Systems' proprietary Cryoport Express® shippers, Cryoportal® Logistics Management Platform, leading-edge Smartpak™ Condition Monitoring System and geo-sensing technology paired with unparalleled logistics expertise and 24/7/365 customer support, make Cryoport Systems the end-to-end temperature controlled supply chain partner that you can trust. Position…",
+      "gaps": [],
+      "strongest_angles": [],
+      "status_notes": ""
+    },
     {
       "id": "housing-trust-silicon-valley-vice-president-of-finance",
       "company": "Housing Trust Silicon Valley",

@@ -1,0 +1,24 @@
+---
+company: Cryoport Systems
+role: Director - Business Development BioServices
+status: inbox
+date_saved: 2026-04-30
+source_url: https://www.linkedin.com/jobs/view/4397604908
+location: EMEA (Remote)
+salary: 
+---
+
+# Cryoport Systems — Director - Business Development BioServices
+
+## Job Description
+
+Cryoport Systems is the life science industry’s most trusted provider of supply chain solutions for temperature-sensitive materials, serving biopharmaceutical, IVF and surrogacy and animal health organizations around the world. Cryoport Systems' proprietary Cryoport Express® shippers, Cryoportal® Logistics Management Platform, leading-edge Smartpak™ Condition Monitoring System and geo-sensing technology paired with unparalleled logistics expertise and 24/7/365 customer support, make Cryoport Systems the end-to-end temperature controlled supply chain partner that you can trust.
+Position Summary:
+The Director Business Development, BioServices is a pivotal role, responsible for accelerating the growth of Cryoport Systems’ BioServices business across the EMEA region. In this strategic role, you will collaborate closely with internal stakeholders and key external clients to understand complex requirements, design high‑value solutions, and ensure execution across the biopharma supply chain. Serving as a critical link between the BioServices team and the global Business Development organisation, you will drive strategic account expansion, enhance customer experience, and help strengthen long‑term partnerships.
+As the EMEA subject matter expert for BioServices, this role will provide expertise across Clinical Trial Supply and Clinical Sample Management, including GMP‑compliant storage, secondary packaging and labelling, kitting operations, and regulatory and Qualified Person services.
+Responsibilities include but are not limited to:
+Leverage the full Cryoport Systems portfolio to position the organisation as the supplier of choice in the life sciences supply chain.Develop a deep understanding of key clients’ needs, objectives, and operational environments.Build and expand relationships across client organisations, providing strategic guidance and tailored solutions.Drive new sales opportunities within the EMEA region and convert them into long‑term partnerships.Present compelling sales pitches, proposals, and updates to clients and senior stakeholders.Support negotiation and closing of commercial agreements with both new and existing clients.Ensure timely, high‑quality delivery of services, addressing client inquiries and challenges promptly.Lead communication and advocacy of the BioServices portfolio across the organisation, liaising with Commercial Operations, Quality, BioService Operations, Project management and Business Development teamsCoach Business Development colleagues on BioService operations, value propositions, and commercial best practices.Partner closely with Business Development, Marketing, Quality, Operations, and other teams to ensure seamless service execution and an exceptional customer experience.Lead strategic activities including bid defences, quote discussions, and contract management.Align proposals and solutions with corporate strategy, clinical requirements, and service capabilities.Produce accurate forecasts, progress reports, and market intelligence for internal and external stakeholders.Maintain data integrity and accurate documentation in Salesforce CRM.Contribute to wider commercial strategies through competitive monitoring, market assessments, and product value analysis.
+Competencies and Personal Attributes:
+Excellent communication and interpersonal skills with the ability to engage clients and internal stakeholders effectively.Ability to identify, assess, and articulate customer requirements and propose suitable solutions.Strong negotiation, influencing, and relationship‑management skills.Analytical approach with the ability to interpret data and translate insights into action.Highly organised, able to manage multiple projects and competing priorities.Proactive, self‑motivated, and passionate about delivering solutions that support patient‑focused outcomes.Deep understanding of industry trends, market dynamics, and client needs.Confident presenter with excellent communication and sales skills.
+Qualifications And Educational Requirements:
+Minimum of 10 years’ experience managing major accounts in biopharma, healthcare, or diagnostics.Experience with GMP clinical supplies management and BioServices operations.Strong understanding of the biopharma and advanced therapy market landscape.Demonstrated success working within a matrixed, cross‑functional environment.Proficiency with Microsoft Office Suite and CRM platforms (Salesforce preferred).Strong business acumen with a solid understanding of commercial principles.Additional certifications in Sales, Account Management, or Client Relationship Management are advantageous.
