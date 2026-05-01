@@ -1,12 +1,42 @@
 [
   {
-    "company": "Cryoport Systems",
-    "title": "Director - Business Development BioServices",
-    "slug": "cryoport-systems-director-business-development-bioservices",
-    "location": "EMEA (Remote)",
+    "company": "RAD",
+    "title": "General Manager APAC #1331",
+    "slug": "rad-general-manager-apac-1331",
+    "location": "APAC (Remote)",
     "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/4397604908",
-    "seniority": "Not Applicable",
-    "industries": "Transportation, Logistics, Supply Chain and Storage"
+    "link": "https://www.linkedin.com/jobs/view/4407110957",
+    "seniority": "Director",
+    "industries": "Telecommunications"
+  },
+  {
+    "company": "Kinsa Group",
+    "title": "General Manager",
+    "slug": "kinsa-group-general-manager",
+    "location": "United States (Remote)",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/4408791979",
+    "seniority": "Executive",
+    "industries": "Food and Beverage Manufacturing and Pharmaceutical Manufacturing"
+  },
+  {
+    "company": "Jobgether",
+    "title": "Corporate Development Director",
+    "slug": "jobgether-corporate-development-director",
+    "location": "India (Remote)",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/4407336622",
+    "seniority": "Director",
+    "industries": "Internet Marketplace Platforms"
+  },
+  {
+    "company": "Supermicro",
+    "title": "Sr. Director, Business Development (28861)",
+    "slug": "supermicro-sr-director-business-development-28861",
+    "location": "San Jose, CA (On-site)",
+    "salary": "$265,000.00/yr - $300,000.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/4407603688",
+    "seniority": "Director",
+    "industries": "Computer Hardware Manufacturing"
   }
 ]

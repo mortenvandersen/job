@@ -7654,5 +7654,80 @@
     "reasons": [
       "salary_below_floor: max $180,000 < $200,000 floor"
     ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Senior Program Manager - Strategic Initiatives & Transformation",
+    "posted_at": "2026-04-30",
+    "reasons": [
+      "salary_below_floor: max $120,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "NORIT Activated Carbon",
+    "title": "Regional Business Lead",
+    "posted_at": "2026-04-30",
+    "reasons": [
+      "industry_blocklist: 'gas' found"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Executive Assistant to Chief of Staff Growth Track (12-18 months)",
+    "posted_at": "2026-04-30",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "salary_below_floor: max $60,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "UM Worldwide",
+    "title": "Associate Director, Strategy",
+    "posted_at": "2026-04-30",
+    "reasons": [
+      "title_blocklist: 'associate' found in title",
+      "salary_below_floor: max $125,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Aimbridge Hospitality",
+    "title": "Hyatt House Cupertino - General Manager",
+    "posted_at": "2026-04-30",
+    "reasons": [
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Lyra Health",
+    "title": "Sr. Corporate Development Associate",
+    "posted_at": "2026-04-30",
+    "reasons": [
+      "title_blocklist: 'associate' found in title",
+      "salary_below_floor: max $146,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Aimbridge Hospitality",
+    "title": "Courtyard Union Square - General Manager",
+    "posted_at": "2026-04-30",
+    "reasons": [
+      "salary_below_floor: max $190,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "SSA Group",
+    "title": "General Manager",
+    "posted_at": "2026-04-30",
+    "reasons": [
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Talent Harbor",
+    "title": "General Manager (EOS Integrator) | Build, Scale & Lead High-Impact Teams",
+    "posted_at": "2026-04-30",
+    "reasons": [
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
   }
 ]
