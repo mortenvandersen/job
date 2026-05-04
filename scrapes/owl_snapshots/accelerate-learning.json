@@ -1,9 +1,15 @@
 {
   "company": "Accelerate Learning",
   "url": "https://www.acceleratelearning.com/careers/",
-  "scraped_at": "2026-04-27T10:04:38.643047+00:00",
-  "job_count": 6,
+  "scraped_at": "2026-05-04T10:04:46.572869+00:00",
+  "job_count": 7,
   "jobs": [
+    {
+      "title": "Director Math Curriculum",
+      "department": "Curriculum Development",
+      "location": "Remote",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a7887a19db1e8b7019dd9ec7f144058&source=&lang=en"
+    },
     {
       "title": "Science Curriculum Writing- Independent Contractor",
       "department": "Curriculum Development",

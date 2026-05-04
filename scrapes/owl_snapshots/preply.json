@@ -1,9 +1,63 @@
 {
   "company": "Preply",
   "url": "https://preply.com/en/careers#SearchJobs",
-  "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+  "scraped_at": "2026-05-04T10:08:48.997807+00:00",
   "job_count": 34,
   "jobs": [
+    {
+      "title": "Head of Product Marketing",
+      "department": "Brand",
+      "location": "Barcelona",
+      "url": "https://preply.com/en/careers/apply?ashby_jid=9205df2d-aced-4a27-b892-69178a644599&job_title=Head%20of%20Product%20Marketing&job_team=Brand&job_location=Barcelona"
+    },
+    {
+      "title": "Video Editor",
+      "department": "Brand",
+      "location": "Barcelona",
+      "url": "https://preply.com/en/careers/apply?ashby_jid=d9364765-8a1b-49ff-9be9-82354906e6ef&job_title=Video%20Editor&job_team=Brand&job_location=Barcelona"
+    },
+    {
+      "title": "Market Research Specialist",
+      "department": "Brand",
+      "location": "Barcelona",
+      "url": "https://preply.com/en/careers/apply?ashby_jid=a69f90d3-10cf-4217-8f8c-9b52228c7550&job_title=Market%20Research%20Specialist&job_team=Brand&job_location=Barcelona"
+    },
+    {
+      "title": "Head of Product Marketing",
+      "department": "Brand",
+      "location": "London",
+      "url": "https://preply.com/en/careers/apply?ashby_jid=ca71035f-3cd5-41d3-b53f-dcd8952c660f&job_title=Head%20of%20Product%20Marketing&job_team=Brand&job_location=London"
+    },
+    {
+      "title": "External Employer brand manager",
+      "department": "Brand",
+      "location": "Barcelona",
+      "url": "https://preply.com/en/careers/apply?ashby_jid=f98f1ba5-d03e-4a4e-9bda-50e10d18c0b4&job_title=External%20Employer%20brand%20manager&job_team=Brand&job_location=Barcelona"
+    },
+    {
+      "title": "Director of External Communications",
+      "department": "Brand",
+      "location": "London",
+      "url": "https://preply.com/en/careers/apply?ashby_jid=855c693f-35d8-4cc8-bde9-16661e822c04&job_title=Director%20of%20External%20Communications&job_team=Brand&job_location=London"
+    },
+    {
+      "title": "Senior CRM Designer",
+      "department": "Brand",
+      "location": "London",
+      "url": "https://preply.com/en/careers/apply?ashby_jid=22559a50-5346-4062-aa57-6593d6b135c1&job_title=Senior%20CRM%20Designer&job_team=Brand&job_location=London"
+    },
+    {
+      "title": "Post Production Coordinator",
+      "department": "Brand",
+      "location": "Barcelona",
+      "url": "https://preply.com/en/careers/apply?ashby_jid=3afabfdd-5244-4496-8650-ab827659d662&job_title=Post%20Production%20Coordinator&job_team=Brand&job_location=Barcelona"
+    },
+    {
+      "title": "Social Media Manager",
+      "department": "Brand",
+      "location": "Barcelona",
+      "url": "https://preply.com/en/careers/apply?ashby_jid=b54b2fd3-a512-4389-89d5-616f1c02660a&job_title=Social%20Media%20Manager&job_team=Brand&job_location=Barcelona"
+    },
     {
       "title": "Senior Back-End Engineer",
       "department": "Engineering",
@@ -113,6 +167,12 @@
       "url": "https://preply.com/en/careers/apply?ashby_jid=a4f325e9-a84e-439f-b959-b42cad533307&job_title=Staff%20Back-end%20Engineer%20&job_team=Engineering&job_location=Barcelona"
     },
     {
+      "title": "Senior Full-stack Engineer (frontend-heavy)",
+      "department": "Engineering",
+      "location": "Barcelona",
+      "url": "https://preply.com/en/careers/apply?ashby_jid=bc9fa0e3-a6cd-4ec1-9c2d-a912cc14695f&job_title=%20Senior%20Full-stack%20Engineer%20(frontend-heavy)&job_team=Engineering&job_location=Barcelona"
+    },
+    {
       "title": "Staff Back-end Engineer",
       "department": "Engineering",
       "location": "Kyiv",
@@ -147,66 +207,6 @@
       "department": "Engineering",
       "location": "London",
       "url": "https://preply.com/en/careers/apply?ashby_jid=e72fd9c4-4485-4636-8d2b-58863c09b10d&job_title=Senior%20Full-stack%20Engineer%20(frontend-heavy)&job_team=Engineering&job_location=London"
-    },
-    {
-      "title": "Senior II - Back-End Engineer",
-      "department": "Engineering",
-      "location": "London",
-      "url": "https://preply.com/en/careers/apply?ashby_jid=66d81609-6ba6-491d-82d4-fb8110d3bede&job_title=Senior%20II%20-%20Back-End%20Engineer&job_team=Engineering&job_location=London"
-    },
-    {
-      "title": "Senior Engineering Manager - Martech",
-      "department": "Engineering",
-      "location": "Kyiv",
-      "url": "https://preply.com/en/careers/apply?ashby_jid=e11da9af-a981-4d25-a16b-fbda68824092&job_title=Senior%20Engineering%20Manager%20-%20Martech&job_team=Engineering&job_location=Kyiv"
-    },
-    {
-      "title": "Senior Engineering Manager - Martech",
-      "department": "Engineering",
-      "location": "London",
-      "url": "https://preply.com/en/careers/apply?ashby_jid=7d3c57f3-6308-4211-9ff7-3fa642a114af&job_title=Senior%20Engineering%20Manager%20-%20Martech&job_team=Engineering&job_location=London"
-    },
-    {
-      "title": "Senior II Platform Software Engineer",
-      "department": "Engineering",
-      "location": "London",
-      "url": "https://preply.com/en/careers/apply?ashby_jid=0cd0548e-c501-46c4-9225-15e2ebf97b68&job_title=Senior%20II%20Platform%20Software%20Engineer&job_team=Engineering&job_location=London"
-    },
-    {
-      "title": "Staff Software Engineer - Platform",
-      "department": "Engineering",
-      "location": "Barcelona",
-      "url": "https://preply.com/en/careers/apply?ashby_jid=08d65013-3492-4ed7-b1c7-4ffd2d3f342e&job_title=Staff%20Software%20Engineer%20-%20Platform&job_team=Engineering&job_location=Barcelona"
-    },
-    {
-      "title": "Senior Engineering Manager",
-      "department": "Engineering",
-      "location": "Barcelona",
-      "url": "https://preply.com/en/careers/apply?ashby_jid=1eef47ae-6edc-44a0-bb9f-0b6ad217a2fc&job_title=Senior%20Engineering%20Manager%20&job_team=Engineering&job_location=Barcelona"
-    },
-    {
-      "title": "Staff Software Engineer - Platform",
-      "department": "Engineering",
-      "location": "London",
-      "url": "https://preply.com/en/careers/apply?ashby_jid=53db4eb1-20a1-4cb4-8b3f-7005437e32cd&job_title=Staff%20Software%20Engineer%20-%20Platform&job_team=Engineering&job_location=London"
-    },
-    {
-      "title": "Back-End Engineer (Ruby on Rails)",
-      "department": "Engineering",
-      "location": "Kyiv",
-      "url": "https://preply.com/en/careers/apply?ashby_jid=b8d2f9ae-51f9-4a2a-9e37-379c4e38a95e&job_title=Back-End%20Engineer%20(Ruby%20on%20Rails)&job_team=Engineering&job_location=Kyiv"
-    },
-    {
-      "title": "Senior II Security Engineer - Application",
-      "department": "Engineering",
-      "location": "Barcelona",
-      "url": "https://preply.com/en/careers/apply?ashby_jid=4429f6b9-2e3f-4796-940d-075be446525a&job_title=Senior%20II%20Security%20Engineer%20-%20Application&job_team=Engineering&job_location=Barcelona"
-    },
-    {
-      "title": "Senior II Security Engineer - Application",
-      "department": "Engineering",
-      "location": "Kyiv",
-      "url": null
     }
   ]
 }

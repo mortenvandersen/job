@@ -1,9 +1,15 @@
 {
   "company": "Cloudforce",
   "url": "https://gocloudforce.com/careers/",
-  "scraped_at": "2026-04-27T10:05:42.195388+00:00",
-  "job_count": 18,
+  "scraped_at": "2026-05-04T10:05:50.625710+00:00",
+  "job_count": 19,
   "jobs": [
+    {
+      "title": "Product Marketing Manager",
+      "department": "Growth",
+      "location": null,
+      "url": "https://jobs.lever.co/go-cloudforce/18047580-5245-4e42-98be-871c1fe56295"
+    },
     {
       "title": "Account Executive",
       "department": "Growth",
@@ -30,13 +36,13 @@
     },
     {
       "title": "Scrum Master",
-      "department": "Delivery",
+      "department": "Operations",
       "location": null,
       "url": "https://jobs.lever.co/go-cloudforce/539257d6-686c-4a71-9e74-9a0daf0ea322"
     },
     {
       "title": "Customer Success Associate (US)",
-      "department": "Operations",
+      "department": "Delivery",
       "location": "US",
       "url": "https://jobs.lever.co/go-cloudforce/c83ac739-d69e-4c04-878a-40c0e418d789"
     },
@@ -102,7 +108,7 @@
     },
     {
       "title": "Full Stack Developer",
-      "department": "nebulaONE",
+      "department": "Delivery",
       "location": null,
       "url": "https://jobs.lever.co/go-cloudforce/07591a75-4677-4ca5-a254-e367a6c3f4c9"
     },

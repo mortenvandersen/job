@@ -1,8 +1,8 @@
 {
   "company": "ParentSquare",
   "url": "https://www.parentsquare.com/careers/",
-  "scraped_at": "2026-04-27T10:08:13.804499+00:00",
-  "job_count": 9,
+  "scraped_at": "2026-05-04T10:08:18.625724+00:00",
+  "job_count": 8,
   "jobs": [
     {
       "title": "Head of CS",
@@ -51,12 +51,6 @@
       "department": "R & D",
       "location": "Remote (United States)",
       "url": "https://ats.rippling.com/en-US/parentsquare/jobs/f561ac88-839d-47ab-8a9a-31fa3710b97a"
-    },
-    {
-      "title": "Customer Advocacy Manager",
-      "department": "Sales & Marketing",
-      "location": "Remote (United States)",
-      "url": "https://ats.rippling.com/en-US/parentsquare/jobs/ee93455c-8aea-449f-8513-ef38b49e1636"
     }
   ]
 }

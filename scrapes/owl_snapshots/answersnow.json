@@ -1,8 +1,8 @@
 {
   "company": "AnswersNow",
   "url": "https://jobs.ashbyhq.com/answersnow",
-  "scraped_at": "2026-04-27T10:04:48.518757+00:00",
-  "job_count": 3,
+  "scraped_at": "2026-05-04T10:04:58.369824+00:00",
+  "job_count": 4,
   "jobs": [
     {
       "title": "BCBA Direct Telehealth Provider (Part-Time & Full-Time)",
@@ -15,6 +15,12 @@
       "department": "BCBA",
       "location": "Remote; Atlanta; Dallas; Downtown LA; Houston; New York",
       "url": "https://jobs.ashbyhq.com/answersnow/e7e1d8f1-f352-4270-8f88-d49fc8dcc236"
+    },
+    {
+      "title": "Manager of Front-End Revenue Cycle",
+      "department": "Clinical Operations",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/answersnow/ad04b5b7-c4dc-4587-8993-c74f7b51a3d7"
     },
     {
       "title": "Head of Finance",

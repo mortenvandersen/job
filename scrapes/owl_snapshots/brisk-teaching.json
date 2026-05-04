@@ -1,8 +1,8 @@
 {
   "company": "Brisk Teaching",
   "url": "https://jobs.ashbyhq.com/brisk-teaching",
-  "scraped_at": "2026-04-27T10:05:14.430044+00:00",
-  "job_count": 9,
+  "scraped_at": "2026-05-04T10:05:27.256519+00:00",
+  "job_count": 8,
   "jobs": [
     {
       "title": "Lead Data Scientist",
@@ -11,10 +11,10 @@
       "url": "https://jobs.ashbyhq.com/brisk-teaching/f0227595-54d5-4d6f-b859-0ed395456ea2"
     },
     {
-      "title": "Senior or Staff Software Engineer (Full-Stack)",
+      "title": "Staff Product Engineer",
       "department": "Engineering",
       "location": "San Francisco; New York",
-      "url": "https://jobs.ashbyhq.com/brisk-teaching/8c062a3b-d8e4-4ede-b2ce-8884ffcc7e3e"
+      "url": "https://jobs.ashbyhq.com/brisk-teaching/676f2118-27d2-45d4-9b3b-9b4792500826"
     },
     {
       "title": "Growth Marketing Lead",
@@ -45,12 +45,6 @@
       "department": "Product",
       "location": "San Francisco; New York",
       "url": "https://jobs.ashbyhq.com/brisk-teaching/89c0a6ad-5cc3-4362-aa5a-3b8edf87d9c5"
-    },
-    {
-      "title": "Curricular Solutions Architect",
-      "department": "Sales",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/brisk-teaching/d34c80eb-c8bd-41bf-9959-807ab27ed0a0"
     },
     {
       "title": "Director, Customer Experience",

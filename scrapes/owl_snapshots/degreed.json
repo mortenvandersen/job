@@ -1,29 +1,29 @@
 {
   "company": "Degreed",
   "url": "https://job-boards.greenhouse.io/degreed",
-  "scraped_at": "2026-04-27T10:05:50.377615+00:00",
+  "scraped_at": "2026-05-04T10:05:54.361586+00:00",
   "job_count": 4,
   "jobs": [
     {
-      "title": "Financial Analyst",
+      "title": "Financial Analyst | US",
       "department": "Finance",
       "location": "Utah, US",
       "url": "https://job-boards.greenhouse.io/degreed/jobs/5979186004"
     },
     {
-      "title": "Principal Value Engineer",
+      "title": "Principal Value Engineer | US",
       "department": "Revenue",
       "location": "US Based",
       "url": "https://job-boards.greenhouse.io/degreed/jobs/5843975004"
     },
     {
-      "title": "Database Solutions Development Engineer",
+      "title": "Senior Data Engineer | Bengaluru, IN",
       "department": "Technology",
-      "location": "US Based",
-      "url": "https://job-boards.greenhouse.io/degreed/jobs/5842274004"
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/degreed/jobs/5818160004"
     },
     {
-      "title": "Staff UI Engineer",
+      "title": "Staff UI Engineer | Bengaluru, IN",
       "department": "Technology",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://job-boards.greenhouse.io/degreed/jobs/5837050004"

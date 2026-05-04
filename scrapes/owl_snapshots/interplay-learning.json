@@ -1,8 +1,8 @@
 {
   "company": "Interplay Learning",
   "url": "https://www.interplaylearning.com/careers/",
-  "scraped_at": "2026-04-27T10:06:52.404451+00:00",
-  "job_count": 4,
+  "scraped_at": "2026-05-04T10:06:52.509408+00:00",
+  "job_count": 2,
   "jobs": [
     {
       "title": "SME Consultant - Data Center Maintenance",
@@ -15,18 +15,6 @@
       "department": "Engineering",
       "location": "Remote (United States)",
       "url": "https://ats.rippling.com/en-US/interplaylearning/jobs/3956fd04-efc2-4c04-9765-8ec289f96699"
-    },
-    {
-      "title": "Senior Sales Development Manager",
-      "department": "Growth",
-      "location": "Remote (United States)",
-      "url": "https://ats.rippling.com/en-US/interplaylearning/jobs/73eb7bc6-d5da-4bcc-a70e-09d72d0e13e5"
-    },
-    {
-      "title": "Applied AI Business Systems Engineer",
-      "department": "Operations",
-      "location": "Remote (United States)",
-      "url": "https://ats.rippling.com/en-US/interplaylearning/jobs/bf7165c5-4d4e-4554-87bd-f460a44fd424"
     }
   ]
 }

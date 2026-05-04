@@ -1,7 +1,7 @@
 {
   "company": "Hoytrabajas",
   "url": "https://hoytrabajas.com/careers",
-  "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+  "scraped_at": "2026-05-04T10:06:40.299670+00:00",
   "job_count": 20,
   "jobs": [
     {
@@ -11,16 +11,22 @@
       "url": "https://hoytrabajas.com/cargos/60106-oficial-hidraulico-f"
     },
     {
-      "title": "Farmer Mass - F",
-      "department": null,
-      "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
-      "url": "https://hoytrabajas.com/cargos/60102-farmer-mass-f"
-    },
-    {
       "title": "BOAL - BRIGADISTA DE ORDEN",
       "department": null,
       "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
       "url": "https://hoytrabajas.com/cargos/60120-boal-brigadista-de-orden"
+    },
+    {
+      "title": "Oficial de redes h\u00famedas",
+      "department": null,
+      "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
+      "url": "https://hoytrabajas.com/cargos/60124-oficial-de-redes-humedas"
+    },
+    {
+      "title": "Farmer Mass - F",
+      "department": null,
+      "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
+      "url": "https://hoytrabajas.com/cargos/60102-farmer-mass-f"
     },
     {
       "title": "Ayudante de Obra - F",
@@ -29,10 +35,10 @@
       "url": "https://hoytrabajas.com/cargos/60112-ayudante-de-obra-f"
     },
     {
-      "title": "Oficial de redes h\u00famedas",
+      "title": "ASESOR SERVICIO AL CLIENTE TELCOS F",
       "department": null,
       "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
-      "url": "https://hoytrabajas.com/cargos/60124-oficial-de-redes-humedas"
+      "url": "https://hoytrabajas.com/cargos/60083-asesor-servicio-al-cliente-telcos-f"
     },
     {
       "title": "Auxiliar de Caja -F",
@@ -47,22 +53,16 @@
       "url": "https://hoytrabajas.com/cargos/60065-asesor-comercial-f"
     },
     {
-      "title": "ASESOR SERVICIO AL CLIENTE TELCOS F",
+      "title": "Auxiliar de Bodega AOT -F",
       "department": null,
       "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
-      "url": "https://hoytrabajas.com/cargos/60083-asesor-servicio-al-cliente-telcos-f"
+      "url": "https://hoytrabajas.com/cargos/60098-auxiliar-de-bodega-aot-f"
     },
     {
       "title": "AUXILIAR LOGISTICO - F",
       "department": null,
       "location": "Colombia a nivel nacional",
       "url": "https://hoytrabajas.com/cargos/60103-auxiliar-logistico-f"
-    },
-    {
-      "title": "Auxiliar de Bodega AOT -F",
-      "department": null,
-      "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
-      "url": "https://hoytrabajas.com/cargos/60098-auxiliar-de-bodega-aot-f"
     },
     {
       "title": "ASESOR (A) SAC -F",
@@ -83,22 +83,16 @@
       "url": "https://hoytrabajas.com/cargos/60064-tecnico-operativo-de-lavado"
     },
     {
-      "title": "Representante de Ventas Biling\u00fce Internet Fibra - F",
+      "title": "T\u00e9cnicos de Refrigeraci\u00f3n con Moto (F)",
       "department": null,
       "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
-      "url": "https://hoytrabajas.com/cargos/60154-representante-de-ventas-bilingue-internet-fibra-f"
+      "url": "https://hoytrabajas.com/cargos/60284-tecnicos-de-refrigeracion-con-moto-f"
     },
     {
-      "title": "AUXILIAR DE FARMACIA CANAL INSTITUCIONAL Y COMERCIAL-F",
+      "title": "LIDER COMERCIAL VENTAS PUERTA A PUERTA",
       "department": null,
-      "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
-      "url": "https://hoytrabajas.com/cargos/60261-auxiliar-de-farmacia-canal-institucional-y-comercial-f"
-    },
-    {
-      "title": "Operarios de Bodega / Producci\u00f3n (Bogot\u00e1, Siberia, Madrid, Zipaquir\u00e1 (F)",
-      "department": null,
-      "location": "Bogot\u00e1, D.C.",
-      "url": "https://hoytrabajas.com/cargos/60279-operarios-de-bodega-produccion-bogota-siberia-madrid-zipaquira-f"
+      "location": "Bucaramanga, Santander",
+      "url": "https://hoytrabajas.com/cargos/60271-lider-comercial-ventas-puerta-a-puerta"
     },
     {
       "title": "Operarios de montacargas con certificado de competencia vigente (F)",
@@ -107,22 +101,28 @@
       "url": "https://hoytrabajas.com/cargos/60281-operarios-de-montacargas-con-certificado-de-competencia-vigente-f"
     },
     {
-      "title": "T\u00e9cnicos de Refrigeraci\u00f3n con Moto (F)",
+      "title": "Tecnico (a) refrigerador con moto -F",
       "department": null,
       "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
-      "url": "https://hoytrabajas.com/cargos/60284-tecnicos-de-refrigeracion-con-moto-f"
+      "url": "https://hoytrabajas.com/cargos/60084-tecnico-a-refrigerador-con-moto-f"
     },
     {
-      "title": "Asesor comercial puerta a puerta",
+      "title": "Operador(a) de Cargador (F)",
       "department": null,
       "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
-      "url": "https://hoytrabajas.com/cargos/60286-asesor-comercial-puerta-a-puerta"
+      "url": "https://hoytrabajas.com/cargos/60242-operador-a-de-cargador-f"
     },
     {
-      "title": "Asesor comercial puerta a puerta",
+      "title": "Representante de Ventas Biling\u00fce Internet Fibra - F",
       "department": null,
       "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
-      "url": "https://hoytrabajas.com/cargos/60287-asesor-comercial-puerta-a-puerta"
+      "url": "https://hoytrabajas.com/cargos/60154-representante-de-ventas-bilingue-internet-fibra-f"
+    },
+    {
+      "title": "OPERADOR DE VIBROCOMPACTADOR F",
+      "department": null,
+      "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
+      "url": "https://hoytrabajas.com/cargos/60213-operador-de-vibrocompactador-f"
     }
   ]
 }

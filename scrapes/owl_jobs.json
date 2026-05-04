@@ -1,11 +1,20 @@
 [
   {
     "company": "Accelerate Learning",
+    "title": "Director Math Curriculum",
+    "department": "Curriculum Development",
+    "location": "Remote",
+    "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a7887a19db1e8b7019dd9ec7f144058&source=&lang=en",
+    "scraped_at": "2026-05-04T10:04:46.572869+00:00",
+    "first_seen": "2026-05-04T10:04:46.572869+00:00"
+  },
+  {
+    "company": "Accelerate Learning",
     "title": "Field Sales Associate- Math Curriculum (California only)",
     "department": "Sales",
     "location": "California, CA",
     "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a7885ac96d0a1a00197374a6db915d4&source=&lang=en",
-    "scraped_at": "2026-04-27T10:04:38.643047+00:00",
+    "scraped_at": "2026-05-04T10:04:46.572869+00:00",
     "first_seen": "2026-04-17T20:31:21.660072+00:00"
   },
   {
@@ -14,7 +23,7 @@
     "department": "Technology and Engineering",
     "location": "Houston, TX",
     "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a7883ac9d02ffb2019d1b54c9a055fe&source=&lang=en",
-    "scraped_at": "2026-04-27T10:04:38.643047+00:00",
+    "scraped_at": "2026-05-04T10:04:46.572869+00:00",
     "first_seen": "2026-04-17T20:31:21.660072+00:00"
   },
   {
@@ -23,7 +32,7 @@
     "department": "Study Edge",
     "location": "Gainesville, FL",
     "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a7883a89d9308df019db06b61395933&source=&lang=en",
-    "scraped_at": "2026-04-27T10:04:38.643047+00:00",
+    "scraped_at": "2026-05-04T10:04:46.572869+00:00",
     "first_seen": "2026-04-27T10:04:38.643047+00:00"
   },
   {
@@ -32,7 +41,7 @@
     "department": "Curriculum Development",
     "location": "Remote",
     "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a78879e97ae19d90197c26fe4a2193c&source=&lang=en",
-    "scraped_at": "2026-04-27T10:04:38.643047+00:00",
+    "scraped_at": "2026-05-04T10:04:46.572869+00:00",
     "first_seen": "2026-04-17T20:31:21.660072+00:00"
   },
   {
@@ -41,7 +50,7 @@
     "department": "Customer Success",
     "location": "Houston, TX",
     "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a78839f9b1376bd019bc77b678f624a&source=&lang=en",
-    "scraped_at": "2026-04-27T10:04:38.643047+00:00",
+    "scraped_at": "2026-05-04T10:04:46.572869+00:00",
     "first_seen": "2026-04-17T20:31:21.660072+00:00"
   },
   {
@@ -50,7 +59,7 @@
     "department": "Customer Success",
     "location": "Houston, TX",
     "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a7883ac9d930826019db0caa3c65011&source=&lang=en",
-    "scraped_at": "2026-04-27T10:04:38.643047+00:00",
+    "scraped_at": "2026-05-04T10:04:46.572869+00:00",
     "first_seen": "2026-04-27T10:04:38.643047+00:00"
   },
   {
@@ -59,7 +68,7 @@
     "department": null,
     "location": "US",
     "url": null,
-    "scraped_at": "2026-04-27T10:04:44.502377+00:00",
+    "scraped_at": "2026-05-04T10:04:53.458401+00:00",
     "first_seen": "2026-04-17T20:31:34.744732+00:00"
   },
   {
@@ -68,7 +77,7 @@
     "department": null,
     "location": "Northeast",
     "url": null,
-    "scraped_at": "2026-04-27T10:04:44.502377+00:00",
+    "scraped_at": "2026-05-04T10:04:53.458401+00:00",
     "first_seen": "2026-04-27T10:04:44.502377+00:00"
   },
   {
@@ -77,7 +86,7 @@
     "department": null,
     "location": "US",
     "url": null,
-    "scraped_at": "2026-04-27T10:04:44.502377+00:00",
+    "scraped_at": "2026-05-04T10:04:53.458401+00:00",
     "first_seen": "2026-04-17T20:31:34.744732+00:00"
   },
   {
@@ -86,7 +95,7 @@
     "department": null,
     "location": "New Mexico",
     "url": null,
-    "scraped_at": "2026-04-27T10:04:44.502377+00:00",
+    "scraped_at": "2026-05-04T10:04:53.458401+00:00",
     "first_seen": "2026-04-27T10:04:44.502377+00:00"
   },
   {
@@ -95,7 +104,7 @@
     "department": null,
     "location": "Northeast",
     "url": null,
-    "scraped_at": "2026-04-27T10:04:44.502377+00:00",
+    "scraped_at": "2026-05-04T10:04:53.458401+00:00",
     "first_seen": "2026-04-27T10:04:44.502377+00:00"
   },
   {
@@ -104,7 +113,7 @@
     "department": null,
     "location": "Texas/Dallas",
     "url": null,
-    "scraped_at": "2026-04-27T10:04:44.502377+00:00",
+    "scraped_at": "2026-05-04T10:04:53.458401+00:00",
     "first_seen": "2026-04-27T10:04:44.502377+00:00"
   },
   {
@@ -113,7 +122,7 @@
     "department": "BCBA",
     "location": "Remote; Atlanta; Savannah",
     "url": "https://jobs.ashbyhq.com/answersnow/4382c28b-e53e-4267-9cec-9526fcbd6672",
-    "scraped_at": "2026-04-27T10:04:48.518757+00:00",
+    "scraped_at": "2026-05-04T10:04:58.369824+00:00",
     "first_seen": "2026-04-17T20:31:45.770939+00:00"
   },
   {
@@ -122,7 +131,7 @@
     "department": "BCBA",
     "location": "Remote; Atlanta; Dallas; Downtown LA; Houston; New York",
     "url": "https://jobs.ashbyhq.com/answersnow/e7e1d8f1-f352-4270-8f88-d49fc8dcc236",
-    "scraped_at": "2026-04-27T10:04:48.518757+00:00",
+    "scraped_at": "2026-05-04T10:04:58.369824+00:00",
     "first_seen": "2026-04-17T20:31:45.770939+00:00"
   },
   {
@@ -131,35 +140,62 @@
     "department": "Ops & Admin",
     "location": "Remote",
     "url": "https://jobs.ashbyhq.com/answersnow/cd0dd8d5-9e54-4723-a14e-acf24d99a7fe",
-    "scraped_at": "2026-04-27T10:04:48.518757+00:00",
+    "scraped_at": "2026-05-04T10:04:58.369824+00:00",
     "first_seen": "2026-04-27T10:04:48.518757+00:00"
   },
   {
+    "company": "AnswersNow",
+    "title": "Manager of Front-End Revenue Cycle",
+    "department": "Clinical Operations",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/answersnow/ad04b5b7-c4dc-4587-8993-c74f7b51a3d7",
+    "scraped_at": "2026-05-04T10:04:58.369824+00:00",
+    "first_seen": "2026-05-04T10:04:58.369824+00:00"
+  },
+  {
     "company": "Apna",
-    "title": "Account Manager- Enterprise Business",
+    "title": "Accounts Executive",
+    "department": null,
+    "location": "Bengaluru, Karnataka, India",
+    "url": null,
+    "scraped_at": "2026-05-04T10:05:05.211247+00:00",
+    "first_seen": "2026-05-04T10:05:05.211247+00:00"
+  },
+  {
+    "company": "Apna",
+    "title": "Admission Counselor",
+    "department": "Sales & Account Management",
+    "location": "Noida, Uttar Pradesh, India",
+    "url": null,
+    "scraped_at": "2026-05-04T10:05:05.211247+00:00",
+    "first_seen": "2026-05-04T10:05:05.211247+00:00"
+  },
+  {
+    "company": "Apna",
+    "title": "Business Development Executive - Field sales (Fresher)",
+    "department": null,
+    "location": "Bengaluru, Karnataka, India",
+    "url": null,
+    "scraped_at": "2026-05-04T10:05:05.211247+00:00",
+    "first_seen": "2026-05-04T10:05:05.211247+00:00"
+  },
+  {
+    "company": "Apna",
+    "title": "Field Sales Executive (BDE) - Ludhiana",
+    "department": null,
+    "location": "Ludhiana, Punjab, India",
+    "url": null,
+    "scraped_at": "2026-05-04T10:05:05.211247+00:00",
+    "first_seen": "2026-05-04T10:05:05.211247+00:00"
+  },
+  {
+    "company": "Apna",
+    "title": "InsideSales and Customer Service Executive",
     "department": "Sales & Account Management",
     "location": "Bengaluru, Karnataka, India",
     "url": null,
-    "scraped_at": "2026-04-27T10:04:55.243211+00:00",
-    "first_seen": "2026-04-18T01:57:40.927910+00:00"
-  },
-  {
-    "company": "Apna",
-    "title": "Data Annotation Operations Expert",
-    "department": "Operations",
-    "location": "Bengaluru, Karnataka, India",
-    "url": null,
-    "scraped_at": "2026-04-27T10:04:55.243211+00:00",
-    "first_seen": "2026-04-27T10:04:55.243211+00:00"
-  },
-  {
-    "company": "Apna",
-    "title": "Field Sales Executive (BDE) - Bhubaneswar",
-    "department": null,
-    "location": "Bhubaneswar, Odisha, India",
-    "url": null,
-    "scraped_at": "2026-04-27T10:04:55.243211+00:00",
-    "first_seen": "2026-04-27T10:04:55.243211+00:00"
+    "scraped_at": "2026-05-04T10:05:05.211247+00:00",
+    "first_seen": "2026-05-04T10:05:05.211247+00:00"
   },
   {
     "company": "Apna",
@@ -167,44 +203,17 @@
     "department": "Engineering",
     "location": "Noida, Uttar Pradesh, India",
     "url": null,
-    "scraped_at": "2026-04-27T10:04:55.243211+00:00",
+    "scraped_at": "2026-05-04T10:05:05.211247+00:00",
     "first_seen": "2026-04-27T10:04:55.243211+00:00"
   },
   {
     "company": "Apna",
-    "title": "Lead Product Manager",
-    "department": "Product & Design",
+    "title": "Project Delivery - Intern",
+    "department": "Operations",
     "location": "Bengaluru, Karnataka, India",
     "url": null,
-    "scraped_at": "2026-04-27T10:04:55.243211+00:00",
-    "first_seen": "2026-04-27T10:04:55.243211+00:00"
-  },
-  {
-    "company": "Apna",
-    "title": "Product Manager",
-    "department": "Product & Design",
-    "location": "Bengaluru, Karnataka, India",
-    "url": null,
-    "scraped_at": "2026-04-27T10:04:55.243211+00:00",
-    "first_seen": "2026-04-27T10:04:55.243211+00:00"
-  },
-  {
-    "company": "Apna",
-    "title": "Sales Development Representative - Bangalore",
-    "department": "Sales & Account Management",
-    "location": "Bengaluru, Karnataka, India",
-    "url": null,
-    "scraped_at": "2026-04-27T10:04:55.243211+00:00",
-    "first_seen": "2026-04-27T10:04:55.243211+00:00"
-  },
-  {
-    "company": "Apna",
-    "title": "Senior Procurement Executive",
-    "department": "Data & Analytics",
-    "location": "Bengaluru, Karnataka, India",
-    "url": null,
-    "scraped_at": "2026-04-27T10:04:55.243211+00:00",
-    "first_seen": "2026-04-27T10:04:55.243211+00:00"
+    "scraped_at": "2026-05-04T10:05:05.211247+00:00",
+    "first_seen": "2026-05-04T10:05:05.211247+00:00"
   },
   {
     "company": "Apna",
@@ -212,17 +221,35 @@
     "department": "Skilling",
     "location": "Noida, Uttar Pradesh, India",
     "url": null,
-    "scraped_at": "2026-04-27T10:04:55.243211+00:00",
+    "scraped_at": "2026-05-04T10:05:05.211247+00:00",
     "first_seen": "2026-04-27T10:04:55.243211+00:00"
   },
   {
     "company": "Apna",
     "title": "Telesales Representative",
     "department": "Skilling",
-    "location": "Indiranagara, Karnataka, India",
+    "location": "Bengaluru, Karnataka, India",
     "url": null,
-    "scraped_at": "2026-04-27T10:04:55.243211+00:00",
+    "scraped_at": "2026-05-04T10:05:05.211247+00:00",
     "first_seen": "2026-04-27T10:04:55.243211+00:00"
+  },
+  {
+    "company": "Apna",
+    "title": "Video Editor",
+    "department": "Growth & Marketing",
+    "location": "Bengaluru, Karnataka, India",
+    "url": null,
+    "scraped_at": "2026-05-04T10:05:05.211247+00:00",
+    "first_seen": "2026-05-04T10:05:05.211247+00:00"
+  },
+  {
+    "company": "BenchPrep",
+    "title": "Associate Customer Success Manager",
+    "department": "Customer Success",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/benchprep/jobs/8532524002",
+    "scraped_at": "2026-05-04T10:05:14.501023+00:00",
+    "first_seen": "2026-05-04T10:05:14.501023+00:00"
   },
   {
     "company": "BenchPrep",
@@ -230,7 +257,7 @@
     "department": "Professional Services",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/benchprep/jobs/8497337002",
-    "scraped_at": "2026-04-27T10:05:02.696757+00:00",
+    "scraped_at": "2026-05-04T10:05:14.501023+00:00",
     "first_seen": "2026-04-18T01:22:06.334743+00:00"
   },
   {
@@ -239,16 +266,7 @@
     "department": "Professional Services",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/benchprep/jobs/8506804002",
-    "scraped_at": "2026-04-27T10:05:02.696757+00:00",
-    "first_seen": "2026-04-18T01:22:06.334743+00:00"
-  },
-  {
-    "company": "BenchPrep",
-    "title": "SAT/ACT Subject Matter Expert & Program Manager (Contract)",
-    "department": "Professional Services",
-    "location": "Remote",
-    "url": "https://job-boards.greenhouse.io/benchprep/jobs/8506802002",
-    "scraped_at": "2026-04-27T10:05:02.696757+00:00",
+    "scraped_at": "2026-05-04T10:05:14.501023+00:00",
     "first_seen": "2026-04-18T01:22:06.334743+00:00"
   },
   {
@@ -257,8 +275,17 @@
     "department": "Product",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/benchprep/jobs/8436219002",
-    "scraped_at": "2026-04-27T10:05:02.696757+00:00",
+    "scraped_at": "2026-05-04T10:05:14.501023+00:00",
     "first_seen": "2026-04-18T01:22:06.334743+00:00"
+  },
+  {
+    "company": "BenchPrep",
+    "title": "Strategic Success Manager",
+    "department": "Customer Success",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/benchprep/jobs/8532343002",
+    "scraped_at": "2026-05-04T10:05:14.501023+00:00",
+    "first_seen": "2026-05-04T10:05:14.501023+00:00"
   },
   {
     "company": "BetterLesson",
@@ -266,17 +293,8 @@
     "department": "Engineering",
     "location": "Fully remote",
     "url": "https://betterlesson.pinpointhq.com/en/postings/5877377e-8640-4a3c-8472-58d1894fdd31",
-    "scraped_at": "2026-04-27T10:05:08.474089+00:00",
+    "scraped_at": "2026-05-04T10:05:21.105857+00:00",
     "first_seen": "2026-04-18T01:22:13.655702+00:00"
-  },
-  {
-    "company": "Brisk Teaching",
-    "title": "Curricular Solutions Architect",
-    "department": "Sales",
-    "location": "Remote",
-    "url": "https://jobs.ashbyhq.com/brisk-teaching/d34c80eb-c8bd-41bf-9959-807ab27ed0a0",
-    "scraped_at": "2026-04-27T10:05:14.430044+00:00",
-    "first_seen": "2026-04-18T01:22:25.720136+00:00"
   },
   {
     "company": "Brisk Teaching",
@@ -284,7 +302,7 @@
     "department": "Sales",
     "location": "Remote",
     "url": "https://jobs.ashbyhq.com/brisk-teaching/702196a1-cf00-40a4-8f00-d3d44f8adf0c",
-    "scraped_at": "2026-04-27T10:05:14.430044+00:00",
+    "scraped_at": "2026-05-04T10:05:27.256519+00:00",
     "first_seen": "2026-04-18T01:22:25.720136+00:00"
   },
   {
@@ -293,7 +311,7 @@
     "department": "Marketing",
     "location": "Remote",
     "url": "https://jobs.ashbyhq.com/brisk-teaching/ea058a3e-bd0d-44f5-b0f5-23de906df94b",
-    "scraped_at": "2026-04-27T10:05:14.430044+00:00",
+    "scraped_at": "2026-05-04T10:05:27.256519+00:00",
     "first_seen": "2026-04-18T01:22:25.720136+00:00"
   },
   {
@@ -302,7 +320,7 @@
     "department": "Engineering",
     "location": "San Francisco; New York",
     "url": "https://jobs.ashbyhq.com/brisk-teaching/f0227595-54d5-4d6f-b859-0ed395456ea2",
-    "scraped_at": "2026-04-27T10:05:14.430044+00:00",
+    "scraped_at": "2026-05-04T10:05:27.256519+00:00",
     "first_seen": "2026-04-18T01:22:25.720136+00:00"
   },
   {
@@ -311,7 +329,7 @@
     "department": "Operations",
     "location": "Remote",
     "url": "https://jobs.ashbyhq.com/brisk-teaching/1b9c8ec4-09ad-4493-9a42-317c146ff06c",
-    "scraped_at": "2026-04-27T10:05:14.430044+00:00",
+    "scraped_at": "2026-05-04T10:05:27.256519+00:00",
     "first_seen": "2026-04-27T10:05:14.430044+00:00"
   },
   {
@@ -320,7 +338,7 @@
     "department": "Marketing",
     "location": "Remote",
     "url": "https://jobs.ashbyhq.com/brisk-teaching/4b29c037-ed24-40bf-8097-c1309d228fbb",
-    "scraped_at": "2026-04-27T10:05:14.430044+00:00",
+    "scraped_at": "2026-05-04T10:05:27.256519+00:00",
     "first_seen": "2026-04-18T01:22:25.720136+00:00"
   },
   {
@@ -329,7 +347,7 @@
     "department": "Marketing",
     "location": "Remote",
     "url": "https://jobs.ashbyhq.com/brisk-teaching/d1302983-6db9-4328-b809-dc150550408a",
-    "scraped_at": "2026-04-27T10:05:14.430044+00:00",
+    "scraped_at": "2026-05-04T10:05:27.256519+00:00",
     "first_seen": "2026-04-18T01:22:25.720136+00:00"
   },
   {
@@ -338,17 +356,17 @@
     "department": "Product",
     "location": "San Francisco; New York",
     "url": "https://jobs.ashbyhq.com/brisk-teaching/89c0a6ad-5cc3-4362-aa5a-3b8edf87d9c5",
-    "scraped_at": "2026-04-27T10:05:14.430044+00:00",
+    "scraped_at": "2026-05-04T10:05:27.256519+00:00",
     "first_seen": "2026-04-18T01:22:25.720136+00:00"
   },
   {
     "company": "Brisk Teaching",
-    "title": "Senior or Staff Software Engineer (Full-Stack)",
+    "title": "Staff Product Engineer",
     "department": "Engineering",
     "location": "San Francisco; New York",
-    "url": "https://jobs.ashbyhq.com/brisk-teaching/8c062a3b-d8e4-4ede-b2ce-8884ffcc7e3e",
-    "scraped_at": "2026-04-27T10:05:14.430044+00:00",
-    "first_seen": "2026-04-18T01:22:25.720136+00:00"
+    "url": "https://jobs.ashbyhq.com/brisk-teaching/676f2118-27d2-45d4-9b3b-9b4792500826",
+    "scraped_at": "2026-05-04T10:05:27.256519+00:00",
+    "first_seen": "2026-05-04T10:05:27.256519+00:00"
   },
   {
     "company": "Cloudforce",
@@ -356,7 +374,7 @@
     "department": "Growth",
     "location": null,
     "url": "https://jobs.lever.co/go-cloudforce/11096dbb-5993-4b6f-a4b2-cb50220ff521",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-27T10:05:42.195388+00:00"
   },
   {
@@ -365,7 +383,7 @@
     "department": "nebulaONE",
     "location": null,
     "url": "https://jobs.lever.co/go-cloudforce/cf2f1855-3ad7-4d4a-a100-2e627f703af4",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-18T01:22:46.140014+00:00"
   },
   {
@@ -374,7 +392,7 @@
     "department": "nebulaONE",
     "location": null,
     "url": "https://jobs.lever.co/go-cloudforce/1c368bf5-984c-45d3-9a47-6382832d8605",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-18T01:22:46.140014+00:00"
   },
   {
@@ -383,7 +401,7 @@
     "department": "Delivery",
     "location": null,
     "url": "https://jobs.lever.co/go-cloudforce/65b119a2-6acd-43c6-bd45-5ab5f0b5aec9",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-18T01:22:46.140014+00:00"
   },
   {
@@ -392,7 +410,7 @@
     "department": "Delivery",
     "location": null,
     "url": "https://jobs.lever.co/go-cloudforce/fd9a8089-f11f-450e-86c6-7f38fecb654c",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-18T01:22:46.140014+00:00"
   },
   {
@@ -401,7 +419,7 @@
     "department": "Delivery",
     "location": null,
     "url": "https://jobs.lever.co/go-cloudforce/4054a599-e34a-44b3-9169-d7fd8b473cc1",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-27T10:05:42.195388+00:00"
   },
   {
@@ -410,7 +428,7 @@
     "department": "Delivery",
     "location": null,
     "url": "https://jobs.lever.co/go-cloudforce/56bdc9dd-8168-4d93-8dd7-f7fe8173318a",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-18T01:22:46.140014+00:00"
   },
   {
@@ -419,16 +437,16 @@
     "department": "Delivery",
     "location": null,
     "url": "https://jobs.lever.co/go-cloudforce/a6fc45dd-d6e8-484f-8254-1b1f69dff362",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-18T01:22:46.140014+00:00"
   },
   {
     "company": "Cloudforce",
     "title": "Customer Success Associate (US)",
-    "department": "Operations",
+    "department": "Delivery",
     "location": "US",
     "url": "https://jobs.lever.co/go-cloudforce/c83ac739-d69e-4c04-878a-40c0e418d789",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-18T01:22:46.140014+00:00"
   },
   {
@@ -437,16 +455,16 @@
     "department": "Operations",
     "location": "UK",
     "url": "https://jobs.lever.co/go-cloudforce/a10fc40e-4b3b-44d3-b317-21b32d80d101",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-27T10:05:42.195388+00:00"
   },
   {
     "company": "Cloudforce",
     "title": "Full Stack Developer",
-    "department": "nebulaONE",
+    "department": "Delivery",
     "location": null,
     "url": "https://jobs.lever.co/go-cloudforce/07591a75-4677-4ca5-a254-e367a6c3f4c9",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-18T01:22:46.140014+00:00"
   },
   {
@@ -455,7 +473,7 @@
     "department": null,
     "location": null,
     "url": "https://jobs.lever.co/go-cloudforce/bc044317-3175-4454-91b0-0634bff97ec3",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-18T01:22:46.140014+00:00"
   },
   {
@@ -464,16 +482,25 @@
     "department": "Operations",
     "location": null,
     "url": "https://jobs.lever.co/go-cloudforce/a6f1705d-c5f3-4d1b-9c2e-f0058c2b794d",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-18T01:22:46.140014+00:00"
   },
   {
     "company": "Cloudforce",
+    "title": "Product Marketing Manager",
+    "department": "Growth",
+    "location": null,
+    "url": "https://jobs.lever.co/go-cloudforce/18047580-5245-4e42-98be-871c1fe56295",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
+    "first_seen": "2026-05-04T10:05:50.625710+00:00"
+  },
+  {
+    "company": "Cloudforce",
     "title": "Scrum Master",
-    "department": "Delivery",
+    "department": "Operations",
     "location": null,
     "url": "https://jobs.lever.co/go-cloudforce/539257d6-686c-4a71-9e74-9a0daf0ea322",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-18T01:22:46.140014+00:00"
   },
   {
@@ -482,7 +509,7 @@
     "department": "Operations",
     "location": null,
     "url": "https://jobs.lever.co/go-cloudforce/daf4b4b6-8cea-4d8f-bed3-81f3f93fc13d",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-18T01:22:46.140014+00:00"
   },
   {
@@ -491,7 +518,7 @@
     "department": "Delivery",
     "location": null,
     "url": "https://jobs.lever.co/go-cloudforce/d74c93f3-42b5-436b-bb6e-3db17b0b1271",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-18T01:22:46.140014+00:00"
   },
   {
@@ -500,7 +527,7 @@
     "department": "Delivery",
     "location": "UK",
     "url": "https://jobs.lever.co/go-cloudforce/3f276720-ebc5-494d-be49-47c04d1207fe",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-27T10:05:42.195388+00:00"
   },
   {
@@ -509,43 +536,43 @@
     "department": "Delivery",
     "location": "US",
     "url": "https://jobs.lever.co/go-cloudforce/7c10fc43-9a5a-453a-96be-25ed1d5e3238",
-    "scraped_at": "2026-04-27T10:05:42.195388+00:00",
+    "scraped_at": "2026-05-04T10:05:50.625710+00:00",
     "first_seen": "2026-04-18T01:22:46.140014+00:00"
   },
   {
     "company": "Degreed",
-    "title": "Database Solutions Development Engineer",
-    "department": "Technology",
-    "location": "US Based",
-    "url": "https://job-boards.greenhouse.io/degreed/jobs/5842274004",
-    "scraped_at": "2026-04-27T10:05:50.377615+00:00",
-    "first_seen": "2026-04-27T10:05:50.377615+00:00"
-  },
-  {
-    "company": "Degreed",
-    "title": "Financial Analyst",
+    "title": "Financial Analyst | US",
     "department": "Finance",
     "location": "Utah, US",
     "url": "https://job-boards.greenhouse.io/degreed/jobs/5979186004",
-    "scraped_at": "2026-04-27T10:05:50.377615+00:00",
+    "scraped_at": "2026-05-04T10:05:54.361586+00:00",
     "first_seen": "2026-04-27T10:05:50.377615+00:00"
   },
   {
     "company": "Degreed",
-    "title": "Principal Value Engineer",
+    "title": "Principal Value Engineer | US",
     "department": "Revenue",
     "location": "US Based",
     "url": "https://job-boards.greenhouse.io/degreed/jobs/5843975004",
-    "scraped_at": "2026-04-27T10:05:50.377615+00:00",
+    "scraped_at": "2026-05-04T10:05:54.361586+00:00",
     "first_seen": "2026-04-18T01:22:55.344961+00:00"
   },
   {
     "company": "Degreed",
-    "title": "Staff UI Engineer",
+    "title": "Senior Data Engineer | Bengaluru, IN",
+    "department": "Technology",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://job-boards.greenhouse.io/degreed/jobs/5818160004",
+    "scraped_at": "2026-05-04T10:05:54.361586+00:00",
+    "first_seen": "2026-05-04T10:05:54.361586+00:00"
+  },
+  {
+    "company": "Degreed",
+    "title": "Staff UI Engineer | Bengaluru, IN",
     "department": "Technology",
     "location": "Bengaluru, Karnataka, India",
     "url": "https://job-boards.greenhouse.io/degreed/jobs/5837050004",
-    "scraped_at": "2026-04-27T10:05:50.377615+00:00",
+    "scraped_at": "2026-05-04T10:05:54.361586+00:00",
     "first_seen": "2026-04-27T10:05:50.377615+00:00"
   },
   {
@@ -554,7 +581,7 @@
     "department": null,
     "location": "Multiple positions available throughout the U.S.",
     "url": "https://www.derivita.com/k-12-account-executive?hsLang=en",
-    "scraped_at": "2026-04-27T10:05:53.903925+00:00",
+    "scraped_at": "2026-05-04T10:05:57.975270+00:00",
     "first_seen": "2026-04-18T01:22:59.176308+00:00"
   },
   {
@@ -563,160 +590,151 @@
     "department": null,
     "location": "Remote, U.S.",
     "url": "https://www.derivita.com/math-question-programmer?hsLang=en",
-    "scraped_at": "2026-04-27T10:05:53.903925+00:00",
+    "scraped_at": "2026-05-04T10:05:57.975270+00:00",
     "first_seen": "2026-04-18T01:22:59.176308+00:00"
-  },
-  {
-    "company": "Genially",
-    "title": "Content Marketer (English)",
-    "department": "Communication",
-    "location": null,
-    "url": "https://view.genially.com/672c9f7311a9bc75fbe7f713",
-    "scraped_at": "2026-04-27T10:06:11.201291+00:00",
-    "first_seen": "2026-04-18T01:58:33.880116+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "General Interest Application for Mental Health Therapists",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/6269846003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Medical Billing Associate (Contract)",
-    "department": "G&A - Finance",
+    "department": "G&A",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7682587003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Remote Pediatric Mental Health Therapist (Measurement-Informed Care) \u2013 Part-Time (California)",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7690668003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Remote Pediatric Therapist (Part-Time), California",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7638442003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Remote Pediatric Therapist (Part-Time), Colorado",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7638908003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Remote Pediatric Therapist (Part-Time), Florida",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7638901003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Remote Pediatric Therapist (Part-Time), Georgia",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7682120003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Remote Pediatric Therapist (Part-Time), Hawaii",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7638955003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Remote Pediatric Therapist (Part-Time), Iowa",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7638957003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Remote Pediatric Therapist (Part-Time), Maryland",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7638918003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Remote Pediatric Therapist (Part-Time), Nevada",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7638826003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Remote Pediatric Therapist (Part-Time), New Jersey",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7638987003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Remote Pediatric Therapist (Part-Time), Ohio",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7638981003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Remote Pediatric Therapist (Part-Time), Texas",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7638933003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Remote Pediatric Therapist (Part-Time), Virginia",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7638875003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
     "company": "Hazel Health",
     "title": "Remote Pediatric Therapist (Part-Time), Washington",
-    "department": "Clinical - Mental Health",
+    "department": "Clinical",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/hazel/jobs/7638939003",
-    "scraped_at": "2026-04-27T10:06:18.018219+00:00",
+    "scraped_at": "2026-05-04T10:06:20.848652+00:00",
     "first_seen": "2026-04-18T01:23:37.772366+00:00"
   },
   {
@@ -725,7 +743,7 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60080-asesor-a-sac-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-18T01:23:57.323577+00:00"
   },
   {
@@ -734,26 +752,8 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60065-asesor-comercial-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-18T01:23:57.323577+00:00"
-  },
-  {
-    "company": "Hoytrabajas",
-    "title": "Asesor comercial puerta a puerta",
-    "department": null,
-    "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
-    "url": "https://hoytrabajas.com/cargos/60286-asesor-comercial-puerta-a-puerta",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
-    "first_seen": "2026-04-27T10:06:36.835943+00:00"
-  },
-  {
-    "company": "Hoytrabajas",
-    "title": "Asesor comercial puerta a puerta",
-    "department": null,
-    "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
-    "url": "https://hoytrabajas.com/cargos/60287-asesor-comercial-puerta-a-puerta",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
-    "first_seen": "2026-04-27T10:06:36.835943+00:00"
   },
   {
     "company": "Hoytrabajas",
@@ -761,7 +761,7 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60083-asesor-servicio-al-cliente-telcos-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-18T01:23:57.323577+00:00"
   },
   {
@@ -770,7 +770,7 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60098-auxiliar-de-bodega-aot-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-18T01:23:57.323577+00:00"
   },
   {
@@ -779,17 +779,8 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60096-auxiliar-de-caja-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-18T01:23:57.323577+00:00"
-  },
-  {
-    "company": "Hoytrabajas",
-    "title": "AUXILIAR DE FARMACIA CANAL INSTITUCIONAL Y COMERCIAL-F",
-    "department": null,
-    "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
-    "url": "https://hoytrabajas.com/cargos/60261-auxiliar-de-farmacia-canal-institucional-y-comercial-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
-    "first_seen": "2026-04-27T10:06:36.835943+00:00"
   },
   {
     "company": "Hoytrabajas",
@@ -797,7 +788,7 @@
     "department": null,
     "location": "Colombia a nivel nacional",
     "url": "https://hoytrabajas.com/cargos/60103-auxiliar-logistico-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-18T01:23:57.323577+00:00"
   },
   {
@@ -806,7 +797,7 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60112-ayudante-de-obra-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-18T01:23:57.323577+00:00"
   },
   {
@@ -815,7 +806,7 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60120-boal-brigadista-de-orden",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-18T01:23:57.323577+00:00"
   },
   {
@@ -824,8 +815,17 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60102-farmer-mass-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-18T01:23:57.323577+00:00"
+  },
+  {
+    "company": "Hoytrabajas",
+    "title": "LIDER COMERCIAL VENTAS PUERTA A PUERTA",
+    "department": null,
+    "location": "Bucaramanga, Santander",
+    "url": "https://hoytrabajas.com/cargos/60271-lider-comercial-ventas-puerta-a-puerta",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
+    "first_seen": "2026-05-04T10:06:40.299670+00:00"
   },
   {
     "company": "Hoytrabajas",
@@ -833,7 +833,7 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60124-oficial-de-redes-humedas",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-18T01:23:57.323577+00:00"
   },
   {
@@ -842,8 +842,17 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60106-oficial-hidraulico-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-18T01:23:57.323577+00:00"
+  },
+  {
+    "company": "Hoytrabajas",
+    "title": "OPERADOR DE VIBROCOMPACTADOR F",
+    "department": null,
+    "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
+    "url": "https://hoytrabajas.com/cargos/60213-operador-de-vibrocompactador-f",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
+    "first_seen": "2026-05-04T10:06:40.299670+00:00"
   },
   {
     "company": "Hoytrabajas",
@@ -851,17 +860,17 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60095-operador-salas-de-cine-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-18T01:23:57.323577+00:00"
   },
   {
     "company": "Hoytrabajas",
-    "title": "Operarios de Bodega / Producci\u00f3n (Bogot\u00e1, Siberia, Madrid, Zipaquir\u00e1 (F)",
+    "title": "Operador(a) de Cargador (F)",
     "department": null,
-    "location": "Bogot\u00e1, D.C.",
-    "url": "https://hoytrabajas.com/cargos/60279-operarios-de-bodega-produccion-bogota-siberia-madrid-zipaquira-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
-    "first_seen": "2026-04-27T10:06:36.835943+00:00"
+    "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
+    "url": "https://hoytrabajas.com/cargos/60242-operador-a-de-cargador-f",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
+    "first_seen": "2026-05-04T10:06:40.299670+00:00"
   },
   {
     "company": "Hoytrabajas",
@@ -869,7 +878,7 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60281-operarios-de-montacargas-con-certificado-de-competencia-vigente-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-27T10:06:36.835943+00:00"
   },
   {
@@ -878,8 +887,17 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60154-representante-de-ventas-bilingue-internet-fibra-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-27T10:06:36.835943+00:00"
+  },
+  {
+    "company": "Hoytrabajas",
+    "title": "Tecnico (a) refrigerador con moto -F",
+    "department": null,
+    "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
+    "url": "https://hoytrabajas.com/cargos/60084-tecnico-a-refrigerador-con-moto-f",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
+    "first_seen": "2026-05-04T10:06:40.299670+00:00"
   },
   {
     "company": "Hoytrabajas",
@@ -887,7 +905,7 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60064-tecnico-operativo-de-lavado",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-18T01:23:57.323577+00:00"
   },
   {
@@ -896,7 +914,7 @@
     "department": null,
     "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
     "url": "https://hoytrabajas.com/cargos/60284-tecnicos-de-refrigeracion-con-moto-f",
-    "scraped_at": "2026-04-27T10:06:36.835943+00:00",
+    "scraped_at": "2026-05-04T10:06:40.299670+00:00",
     "first_seen": "2026-04-27T10:06:36.835943+00:00"
   },
   {
@@ -905,7 +923,7 @@
     "department": "Marketing",
     "location": "United States",
     "url": "https://jobs.ashbyhq.com/ignite-reading/68aa8c8d-de30-4262-855a-9bc54a11d03f?embed=js",
-    "scraped_at": "2026-04-27T10:06:43.423618+00:00",
+    "scraped_at": "2026-05-04T10:06:46.591151+00:00",
     "first_seen": "2026-04-27T10:06:43.423618+00:00"
   },
   {
@@ -914,7 +932,7 @@
     "department": "General",
     "location": "United States",
     "url": "https://jobs.ashbyhq.com/ignite-reading/bdc0d76c-467d-4c5d-9a07-79ee09156e46?embed=js",
-    "scraped_at": "2026-04-27T10:06:43.423618+00:00",
+    "scraped_at": "2026-05-04T10:06:46.591151+00:00",
     "first_seen": "2026-04-18T01:24:03.426014+00:00"
   },
   {
@@ -923,7 +941,7 @@
     "department": "Revenue",
     "location": "United States",
     "url": "https://jobs.ashbyhq.com/ignite-reading/6c11f979-ae5b-4ecc-ad12-4f063aa7aee9?embed=js",
-    "scraped_at": "2026-04-27T10:06:43.423618+00:00",
+    "scraped_at": "2026-05-04T10:06:46.591151+00:00",
     "first_seen": "2026-04-18T01:24:03.426014+00:00"
   },
   {
@@ -932,7 +950,7 @@
     "department": "Revenue",
     "location": "United States",
     "url": "https://jobs.ashbyhq.com/ignite-reading/640d7237-1a4d-4810-bb22-3ea7bfdaa538?embed=js",
-    "scraped_at": "2026-04-27T10:06:43.423618+00:00",
+    "scraped_at": "2026-05-04T10:06:46.591151+00:00",
     "first_seen": "2026-04-18T01:24:03.426014+00:00"
   },
   {
@@ -941,7 +959,7 @@
     "department": "Revenue",
     "location": "United States",
     "url": "https://jobs.ashbyhq.com/ignite-reading/ac5a2b7b-f69c-4e62-89c9-0eb805e9c8fd?embed=js",
-    "scraped_at": "2026-04-27T10:06:43.423618+00:00",
+    "scraped_at": "2026-05-04T10:06:46.591151+00:00",
     "first_seen": "2026-04-18T01:24:03.426014+00:00"
   },
   {
@@ -950,17 +968,8 @@
     "department": "Marketing",
     "location": "United States",
     "url": "https://jobs.ashbyhq.com/ignite-reading/ee03502c-30cb-47b6-ac3a-7ee5e34f10cd?embed=js",
-    "scraped_at": "2026-04-27T10:06:43.423618+00:00",
+    "scraped_at": "2026-05-04T10:06:46.591151+00:00",
     "first_seen": "2026-04-18T01:24:03.426014+00:00"
-  },
-  {
-    "company": "Interplay Learning",
-    "title": "Applied AI Business Systems Engineer",
-    "department": "Operations",
-    "location": "Remote (United States)",
-    "url": "https://ats.rippling.com/en-US/interplaylearning/jobs/bf7165c5-4d4e-4554-87bd-f460a44fd424",
-    "scraped_at": "2026-04-27T10:06:52.404451+00:00",
-    "first_seen": "2026-04-27T10:06:52.404451+00:00"
   },
   {
     "company": "Interplay Learning",
@@ -968,16 +977,7 @@
     "department": "Engineering",
     "location": "Remote (United States)",
     "url": "https://ats.rippling.com/en-US/interplaylearning/jobs/3956fd04-efc2-4c04-9765-8ec289f96699",
-    "scraped_at": "2026-04-27T10:06:52.404451+00:00",
-    "first_seen": "2026-04-27T10:06:52.404451+00:00"
-  },
-  {
-    "company": "Interplay Learning",
-    "title": "Senior Sales Development Manager",
-    "department": "Growth",
-    "location": "Remote (United States)",
-    "url": "https://ats.rippling.com/en-US/interplaylearning/jobs/73eb7bc6-d5da-4bcc-a70e-09d72d0e13e5",
-    "scraped_at": "2026-04-27T10:06:52.404451+00:00",
+    "scraped_at": "2026-05-04T10:06:52.509408+00:00",
     "first_seen": "2026-04-27T10:06:52.404451+00:00"
   },
   {
@@ -986,7 +986,7 @@
     "department": "Content",
     "location": "Remote (United States)",
     "url": "https://ats.rippling.com/en-US/interplaylearning/jobs/0a3a4d00-65a2-4cc6-a6ac-df8b037b04ca",
-    "scraped_at": "2026-04-27T10:06:52.404451+00:00",
+    "scraped_at": "2026-05-04T10:06:52.509408+00:00",
     "first_seen": "2026-04-27T10:06:52.404451+00:00"
   },
   {
@@ -995,7 +995,7 @@
     "department": "GTM",
     "location": "Virginia / Maryland",
     "url": "https://jobs.lever.co/kiddom/56e34197-9b1a-4974-8281-5a78dff141ef",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1004,7 +1004,7 @@
     "department": "Operations",
     "location": "Anywhere - remote US",
     "url": "https://jobs.lever.co/kiddom/75396a2e-dfe8-47ed-845a-e657ee3e3b37",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1013,16 +1013,7 @@
     "department": null,
     "location": "Anywhere - remote US",
     "url": "https://jobs.lever.co/kiddom/48b7ee60-31f9-4db2-b7f9-2e70e93c5868",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
-    "first_seen": "2026-04-18T01:24:37.872071+00:00"
-  },
-  {
-    "company": "Kiddom",
-    "title": "Instructional Designer - Science",
-    "department": "Operations",
-    "location": "Anywhere - remote US",
-    "url": "https://jobs.lever.co/kiddom/0ee5abf7-84b7-44e2-aaf7-57e76d84ac3d",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1031,7 +1022,7 @@
     "department": "Engineering",
     "location": "San Francisco / New York",
     "url": "https://jobs.lever.co/kiddom/5ee79766-8fc4-4dd3-ba81-a12e44e832f9",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1040,7 +1031,7 @@
     "department": "Engineering",
     "location": "San Francisco / New York",
     "url": "https://jobs.lever.co/kiddom/bcf5dcec-7d2e-491f-8c32-2bde0549c54d",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1049,7 +1040,7 @@
     "department": "GTM",
     "location": "San Francisco / Los Angeles, CA",
     "url": "https://jobs.lever.co/kiddom/91da383b-b843-436e-b386-6c288c59ab16",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1058,7 +1049,7 @@
     "department": "GTM",
     "location": "San Francisco",
     "url": "https://jobs.lever.co/kiddom/774e55a4-444a-4c8e-a2e9-e04c1da22434",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1067,7 +1058,7 @@
     "department": "GTM",
     "location": "Los Angeles, CA",
     "url": "https://jobs.lever.co/kiddom/5fb7ac5a-6f3d-4732-800b-eab40392e084",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1076,7 +1067,7 @@
     "department": "Engineering",
     "location": "San Francisco or New York",
     "url": "https://jobs.lever.co/kiddom/b5a1e465-e111-40f6-97cf-b94f9c2435d3",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1085,7 +1076,7 @@
     "department": "Engineering",
     "location": "San Francisco",
     "url": "https://jobs.lever.co/kiddom/fb401572-6120-465f-8a2c-f5f01fd249ee",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1094,7 +1085,7 @@
     "department": "Engineering",
     "location": "San Francisco or New York / San Francisco",
     "url": "https://jobs.lever.co/kiddom/1a00e90a-08bc-4199-a577-0d3ee97bfef3",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1103,7 +1094,7 @@
     "department": "Engineering",
     "location": "San Francisco or New York",
     "url": "https://jobs.lever.co/kiddom/467c9490-bbd9-40ba-a2ce-7ea970149fc7",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1112,7 +1103,7 @@
     "department": "Engineering",
     "location": "San Francisco or New York",
     "url": "https://jobs.lever.co/kiddom/cce1e56c-4a23-48c9-9c65-cff7d8651dbf",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1121,7 +1112,7 @@
     "department": "Engineering",
     "location": "San Francisco or New York",
     "url": "https://jobs.lever.co/kiddom/22360ad3-16fc-4ccf-a31e-f6e01a727c24",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1130,7 +1121,7 @@
     "department": "Engineering",
     "location": "San Francisco / New York",
     "url": "https://jobs.lever.co/kiddom/9041c5e7-794f-4800-ad0d-56be5748fe57",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1139,7 +1130,7 @@
     "department": "Engineering",
     "location": "San Francisco / New York City, New York",
     "url": "https://jobs.lever.co/kiddom/06a7b6f2-2eb7-477b-a249-a55597dee1b7",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1148,7 +1139,7 @@
     "department": "Engineering",
     "location": "San Francisco / New York",
     "url": "https://jobs.lever.co/kiddom/68466ae5-ed87-4f4a-8a9b-4cb3187a8329",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1157,7 +1148,7 @@
     "department": "Engineering",
     "location": "San Francisco or New York",
     "url": "https://jobs.lever.co/kiddom/9c0679a3-0860-443b-a881-d782a191333b",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1166,25 +1157,7 @@
     "department": "Engineering",
     "location": "New York City, New York",
     "url": "https://jobs.lever.co/kiddom/8934d8a1-9b84-4e1d-ad3e-950e98151b16",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
-    "first_seen": "2026-04-18T01:24:37.872071+00:00"
-  },
-  {
-    "company": "Kiddom",
-    "title": "Sr. Product Manager",
-    "department": "Product Management",
-    "location": "San Francisco",
-    "url": "https://jobs.lever.co/kiddom/1d41012d-efd3-4949-bc40-9c16ef6757ee",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
-    "first_seen": "2026-04-18T01:24:37.872071+00:00"
-  },
-  {
-    "company": "Kiddom",
-    "title": "Sr. Product Manager, AI",
-    "department": "Product Management",
-    "location": "San Francisco",
-    "url": "https://jobs.lever.co/kiddom/12cfba93-73e1-4d04-ae5b-335f05ac21fc",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1193,7 +1166,7 @@
     "department": "Engineering",
     "location": "San Francisco / New York",
     "url": "https://jobs.lever.co/kiddom/c2fa2b68-61fb-445f-85c7-3b9cf2374b7d",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1202,7 +1175,7 @@
     "department": "Engineering",
     "location": "San Francisco / New York",
     "url": "https://jobs.lever.co/kiddom/866226dd-4172-4bd8-8962-f223ce5d0b5a",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1211,7 +1184,7 @@
     "department": "Finance",
     "location": "San Francisco or New York / San Francisco",
     "url": "https://jobs.lever.co/kiddom/21722d37-cc70-41fa-911c-6c36464046ad",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1220,7 +1193,7 @@
     "department": "Finance",
     "location": "Anywhere - remote US",
     "url": "https://jobs.lever.co/kiddom/cde9424f-4e90-4fed-a5ee-ced96a000f3c",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1229,7 +1202,7 @@
     "department": "Finance",
     "location": "Anywhere - remote US",
     "url": "https://jobs.lever.co/kiddom/66af3299-0c80-4582-9606-9f27438a1416",
-    "scraped_at": "2026-04-27T10:07:13.485767+00:00",
+    "scraped_at": "2026-05-04T10:07:08.772671+00:00",
     "first_seen": "2026-04-18T01:24:37.872071+00:00"
   },
   {
@@ -1238,7 +1211,7 @@
     "department": "Customer Success",
     "location": "Remote",
     "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a7887a89d02e588019d4044d8ef7599&source=&lang=en",
-    "scraped_at": "2026-04-27T10:07:17.716953+00:00",
+    "scraped_at": "2026-05-04T10:07:12.913593+00:00",
     "first_seen": "2026-04-18T01:59:26.659910+00:00"
   },
   {
@@ -1247,7 +1220,7 @@
     "department": "Customer Success",
     "location": "Remote",
     "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a78859f9db1e91b019dbd6f24367d99&source=&lang=en",
-    "scraped_at": "2026-04-27T10:07:17.716953+00:00",
+    "scraped_at": "2026-05-04T10:07:12.913593+00:00",
     "first_seen": "2026-04-27T10:07:17.716953+00:00"
   },
   {
@@ -1256,7 +1229,7 @@
     "department": "Customer Success",
     "location": "Remote",
     "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0879c591b0187fcf3890a3000&id=8a78839e9db1e919019dbd4970da6098&source=&lang=en",
-    "scraped_at": "2026-04-27T10:07:17.716953+00:00",
+    "scraped_at": "2026-05-04T10:07:12.913593+00:00",
     "first_seen": "2026-04-27T10:07:17.716953+00:00"
   },
   {
@@ -1265,7 +1238,7 @@
     "department": "Executive",
     "location": "Boston, Massachusetts, United States",
     "url": "https://job-boards.greenhouse.io/linushealth/jobs/5921217004",
-    "scraped_at": "2026-04-27T10:07:32.980207+00:00",
+    "scraped_at": "2026-05-04T10:07:29.448167+00:00",
     "first_seen": "2026-04-18T01:25:08.421548+00:00"
   },
   {
@@ -1274,16 +1247,25 @@
     "department": "General Application",
     "location": "Remote, United States",
     "url": "https://job-boards.greenhouse.io/linushealth/jobs/4963159004",
-    "scraped_at": "2026-04-27T10:07:32.980207+00:00",
+    "scraped_at": "2026-05-04T10:07:29.448167+00:00",
     "first_seen": "2026-04-18T01:25:08.421548+00:00"
   },
   {
     "company": "Linus",
-    "title": "Marketing & Sales Enablement Specialist(Mid to Senior IC)",
+    "title": "IT Engineer (Mid-Level)",
+    "department": "Engineering",
+    "location": "US",
+    "url": "https://job-boards.greenhouse.io/linushealth/jobs/5983348004",
+    "scraped_at": "2026-05-04T10:07:29.448167+00:00",
+    "first_seen": "2026-05-04T10:07:29.448167+00:00"
+  },
+  {
+    "company": "Linus",
+    "title": "Marketing & Sales Enablement Specialist (Mid to Senior IC)",
     "department": "Marketing",
     "location": "Boston, Massachusetts, United States",
     "url": "https://job-boards.greenhouse.io/linushealth/jobs/5973398004",
-    "scraped_at": "2026-04-27T10:07:32.980207+00:00",
+    "scraped_at": "2026-05-04T10:07:29.448167+00:00",
     "first_seen": "2026-04-18T01:25:08.421548+00:00"
   },
   {
@@ -1292,7 +1274,7 @@
     "department": "Product",
     "location": "Remote, United States",
     "url": "https://job-boards.greenhouse.io/linushealth/jobs/5799617004",
-    "scraped_at": "2026-04-27T10:07:32.980207+00:00",
+    "scraped_at": "2026-05-04T10:07:29.448167+00:00",
     "first_seen": "2026-04-18T01:25:08.421548+00:00"
   },
   {
@@ -1301,7 +1283,7 @@
     "department": "Content Production",
     "location": "United States",
     "url": "https://job-boards.greenhouse.io/masterclass/jobs/7190498",
-    "scraped_at": "2026-04-27T10:07:38.221049+00:00",
+    "scraped_at": "2026-05-04T10:07:34.450222+00:00",
     "first_seen": "2026-04-18T01:59:48.895301+00:00"
   },
   {
@@ -1310,7 +1292,7 @@
     "department": "Marketing",
     "location": "Remote (U.S.)",
     "url": "https://job-boards.greenhouse.io/masterclass/jobs/7822049",
-    "scraped_at": "2026-04-27T10:07:38.221049+00:00",
+    "scraped_at": "2026-05-04T10:07:34.450222+00:00",
     "first_seen": "2026-04-18T01:59:48.895301+00:00"
   },
   {
@@ -1319,7 +1301,7 @@
     "department": "Content",
     "location": "Los Angeles, CA, New York, San Francisco, CA, United States",
     "url": "https://job-boards.greenhouse.io/masterclass/jobs/6434155",
-    "scraped_at": "2026-04-27T10:07:38.221049+00:00",
+    "scraped_at": "2026-05-04T10:07:34.450222+00:00",
     "first_seen": "2026-04-18T01:59:48.895301+00:00"
   },
   {
@@ -1328,7 +1310,7 @@
     "department": "Marketing",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/masterclass/jobs/7575409",
-    "scraped_at": "2026-04-27T10:07:38.221049+00:00",
+    "scraped_at": "2026-05-04T10:07:34.450222+00:00",
     "first_seen": "2026-04-18T01:59:48.895301+00:00"
   },
   {
@@ -1337,16 +1319,7 @@
     "department": "Engineering",
     "location": "Waterloo, Ontario / Toronto, Ontario",
     "url": "https://job-boards.greenhouse.io/masterclass/jobs/7786068",
-    "scraped_at": "2026-04-27T10:07:38.221049+00:00",
-    "first_seen": "2026-04-18T01:59:48.895301+00:00"
-  },
-  {
-    "company": "MasterClass",
-    "title": "Staff Software Engineer, Backend",
-    "department": "Engineering",
-    "location": "Waterloo, Ontario / Toronto, Ontario",
-    "url": "https://job-boards.greenhouse.io/masterclass/jobs/7642238",
-    "scraped_at": "2026-04-27T10:07:38.221049+00:00",
+    "scraped_at": "2026-05-04T10:07:34.450222+00:00",
     "first_seen": "2026-04-18T01:59:48.895301+00:00"
   },
   {
@@ -1355,35 +1328,26 @@
     "department": "Engineering",
     "location": "Waterloo, Ontario / Toronto, Ontario / Vancouver, British Columbia",
     "url": "https://job-boards.greenhouse.io/masterclass/jobs/7536051",
-    "scraped_at": "2026-04-27T10:07:38.221049+00:00",
+    "scraped_at": "2026-05-04T10:07:34.450222+00:00",
     "first_seen": "2026-04-18T01:59:48.895301+00:00"
-  },
-  {
-    "company": "Mighty Networks",
-    "title": "Community Manager",
-    "department": "Customer Success",
-    "location": "Remote",
-    "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8470809002?gh_jid=8470809002",
-    "scraped_at": "2026-04-27T10:07:45.037963+00:00",
-    "first_seen": "2026-04-18T01:25:21.423285+00:00"
   },
   {
     "company": "Mighty Networks",
     "title": "Community Strategist",
     "department": "Customer Success",
     "location": "Remote",
-    "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8476343002?gh_jid=8476343002",
-    "scraped_at": "2026-04-27T10:07:45.037963+00:00",
-    "first_seen": "2026-04-18T01:25:21.423285+00:00"
+    "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8523950002?gh_jid=8523950002",
+    "scraped_at": "2026-05-04T10:07:41.959390+00:00",
+    "first_seen": "2026-05-04T10:07:41.959390+00:00"
   },
   {
     "company": "Mighty Networks",
     "title": "Customer Success Manager",
     "department": "Customer Success",
     "location": "Remote",
-    "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8476219002?gh_jid=8476219002",
-    "scraped_at": "2026-04-27T10:07:45.037963+00:00",
-    "first_seen": "2026-04-18T01:25:21.423285+00:00"
+    "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8523946002?gh_jid=8523946002",
+    "scraped_at": "2026-05-04T10:07:41.959390+00:00",
+    "first_seen": "2026-05-04T10:07:41.959390+00:00"
   },
   {
     "company": "Mighty Networks",
@@ -1391,7 +1355,7 @@
     "department": "General",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8495496002?gh_jid=8495496002",
-    "scraped_at": "2026-04-27T10:07:45.037963+00:00",
+    "scraped_at": "2026-05-04T10:07:41.959390+00:00",
     "first_seen": "2026-04-18T01:25:21.423285+00:00"
   },
   {
@@ -1400,7 +1364,7 @@
     "department": "Business Intelligence",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8495526002?gh_jid=8495526002",
-    "scraped_at": "2026-04-27T10:07:45.037963+00:00",
+    "scraped_at": "2026-05-04T10:07:41.959390+00:00",
     "first_seen": "2026-04-18T01:25:21.423285+00:00"
   },
   {
@@ -1409,7 +1373,7 @@
     "department": "Product",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8497526002?gh_jid=8497526002",
-    "scraped_at": "2026-04-27T10:07:45.037963+00:00",
+    "scraped_at": "2026-05-04T10:07:41.959390+00:00",
     "first_seen": "2026-04-18T01:25:21.423285+00:00"
   },
   {
@@ -1418,7 +1382,7 @@
     "department": "Product",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8495638002?gh_jid=8495638002",
-    "scraped_at": "2026-04-27T10:07:45.037963+00:00",
+    "scraped_at": "2026-05-04T10:07:41.959390+00:00",
     "first_seen": "2026-04-18T01:25:21.423285+00:00"
   },
   {
@@ -1427,7 +1391,7 @@
     "department": "Engineering",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8506638002?gh_jid=8506638002",
-    "scraped_at": "2026-04-27T10:07:45.037963+00:00",
+    "scraped_at": "2026-05-04T10:07:41.959390+00:00",
     "first_seen": "2026-04-18T01:25:21.423285+00:00"
   },
   {
@@ -1436,7 +1400,7 @@
     "department": "Engineering",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8517196002?gh_jid=8517196002",
-    "scraped_at": "2026-04-27T10:07:45.037963+00:00",
+    "scraped_at": "2026-05-04T10:07:41.959390+00:00",
     "first_seen": "2026-04-27T10:07:45.037963+00:00"
   },
   {
@@ -1445,35 +1409,35 @@
     "department": "Sales",
     "location": "Remote - US",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7762289",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
     "company": "Newsela",
-    "title": "Account Executive (BOCES)",
+    "title": "Account Executive (BOCES) (Remote, NY)",
     "department": "Sales",
     "location": "Remote - US",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7821978",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-27T10:07:55.756228+00:00"
   },
   {
     "company": "Newsela",
-    "title": "Account Executive - Core",
+    "title": "Account Executive - Core (Remote, California)",
     "department": "Product",
     "location": "Remote - California",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7572941",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
     "company": "Newsela",
-    "title": "Assessment Item Specialist, Science - Project Based Freelance Contributor",
-    "department": "Product Strategy",
+    "title": "Associate Customer Success Manager (Remote, US)",
+    "department": "Customer",
     "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7723755",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
-    "first_seen": "2026-04-17T23:04:19.045760+00:00"
+    "url": "https://job-boards.greenhouse.io/newsela/jobs/7867799",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
+    "first_seen": "2026-05-04T10:07:53.852920+00:00"
   },
   {
     "company": "Newsela",
@@ -1481,25 +1445,25 @@
     "department": "Marketing",
     "location": "Remote - US",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7678537",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
     "company": "Newsela",
-    "title": "Contract - Salesforce Administrator",
+    "title": "Contract - Salesforce Administrator (Remote, Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico)",
     "department": "Customer",
     "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7411036",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
     "company": "Newsela",
     "title": "Contract: AI Operations Specialist",
     "department": "Technology",
-    "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
+    "location": "Remote: Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7756408",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
@@ -1508,16 +1472,7 @@
     "department": "Technology",
     "location": "Remote - Argentina; Brazil; Mexico; Colombia; Chile; Costa Rica",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7460443",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
-    "first_seen": "2026-04-17T23:04:19.045760+00:00"
-  },
-  {
-    "company": "Newsela",
-    "title": "Contract: Lead Software Engineer - Newsela Writing Team",
-    "department": "Technology",
-    "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7756611",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
@@ -1526,25 +1481,34 @@
     "department": "Technology",
     "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7773856",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
+  },
+  {
+    "company": "Newsela",
+    "title": "Contract: Senior Site Reliability Engineer",
+    "department": "Technology",
+    "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica",
+    "url": "https://job-boards.greenhouse.io/newsela/jobs/7818533",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
+    "first_seen": "2026-05-04T10:07:53.852920+00:00"
+  },
+  {
+    "company": "Newsela",
+    "title": "Contract: Senior Software Engineer - Newsela Writing Team",
+    "department": "Technology",
+    "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica",
+    "url": "https://job-boards.greenhouse.io/newsela/jobs/7861951",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
+    "first_seen": "2026-05-04T10:07:53.852920+00:00"
   },
   {
     "company": "Newsela",
     "title": "Contract: Senior Software Engineer, Back End",
     "department": "Technology",
-    "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
+    "location": "Remote: Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7783181",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
-    "first_seen": "2026-04-17T23:04:19.045760+00:00"
-  },
-  {
-    "company": "Newsela",
-    "title": "Contractor: Sales Development Representative (LATAM)",
-    "department": "Sales",
-    "location": "Remote - Brazil; Argentina; Mexico; Costa Rica; Colombia",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7607273",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
@@ -1553,7 +1517,7 @@
     "department": "Customer Solutions",
     "location": "Remote - US",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7823047",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-27T10:07:55.756228+00:00"
   },
   {
@@ -1562,7 +1526,7 @@
     "department": "Technology",
     "location": "Remote - US",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7616064",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
@@ -1571,7 +1535,7 @@
     "department": "Technology",
     "location": "Remote - US",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7697975",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
@@ -1580,7 +1544,7 @@
     "department": "Marketing",
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7444781",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
@@ -1589,7 +1553,7 @@
     "department": "Sales",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/6356852",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
@@ -1598,44 +1562,62 @@
     "department": "Marketing",
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7269460",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
     "company": "Newsela",
-    "title": "Impact Research Intern - Summer 2026",
-    "department": "Product",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7702405",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
-    "first_seen": "2026-04-17T23:04:19.045760+00:00"
-  },
-  {
-    "company": "Newsela",
-    "title": "Manager, Professional Learning",
-    "department": "Customer",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7644018",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
-    "first_seen": "2026-04-17T23:04:19.045760+00:00"
-  },
-  {
-    "company": "Newsela",
-    "title": "Manager, SMB Sales",
+    "title": "Manager, SMB Sales (Remote, US)",
     "department": "Sales",
     "location": "Remote - US",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7663528",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
     "company": "Newsela",
-    "title": "People Partner, GTM",
+    "title": "Manager, Talent Acquisition (Remote, US)",
+    "department": "Talent Acquisition",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/newsela/jobs/7823060",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
+    "first_seen": "2026-05-04T10:07:53.852920+00:00"
+  },
+  {
+    "company": "Newsela",
+    "title": "People Partner, GTM (Remote, US)",
     "department": "Talent Management",
     "location": "Remote - US",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7639144",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
+  },
+  {
+    "company": "Newsela",
+    "title": "Project Based Freelance Contributor - Assessment Item Specialist, English Language Arts (Remote, US)",
+    "department": "Freelance",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/newsela/jobs/7859663",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
+    "first_seen": "2026-05-04T10:07:53.852920+00:00"
+  },
+  {
+    "company": "Newsela",
+    "title": "Project Based Freelance Contributor - Assessment Item Specialist, Science (Remote, US)",
+    "department": "Freelance",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/newsela/jobs/7723755",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
+    "first_seen": "2026-04-17T23:04:19.045760+00:00"
+  },
+  {
+    "company": "Newsela",
+    "title": "Project Based Freelance Contributor - Assessment Item Specialist, Social Studies (Remote, US)",
+    "department": "Freelance",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/newsela/jobs/7859662",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
+    "first_seen": "2026-05-04T10:07:53.852920+00:00"
   },
   {
     "company": "Newsela",
@@ -1643,34 +1625,25 @@
     "department": "Sales",
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7684276",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
     "company": "Newsela",
-    "title": "Sales Manager, K12 (Strategic and Key Accounts)",
-    "department": "Sales",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7801091",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
-    "first_seen": "2026-04-17T23:04:19.045760+00:00"
-  },
-  {
-    "company": "Newsela",
-    "title": "School Customer Success Manager",
+    "title": "School Customer Success Manager (Remote, US)",
     "department": "Customer",
     "location": "Remote - US",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7833317",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-27T10:07:55.756228+00:00"
   },
   {
     "company": "Newsela",
-    "title": "Senior Account Executive - Core",
+    "title": "Senior Account Executive - Core (Remote, California)",
     "department": "Product",
     "location": "Remote - California",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7782313",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
@@ -1679,26 +1652,35 @@
     "department": "Technology",
     "location": "Remote - US",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7783162",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
   },
   {
     "company": "Newsela",
-    "title": "Strategic Account Executive",
-    "department": "Sales",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/newsela/jobs/7746937",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
-    "first_seen": "2026-04-17T23:04:19.045760+00:00"
-  },
-  {
-    "company": "Newsela",
-    "title": "Strategic Account Executive (EveryDay Labs)",
+    "title": "Strategic Account Executive (EveryDay Labs) (Remote, US)",
     "department": "Sales",
     "location": "Remote - US",
     "url": "https://job-boards.greenhouse.io/newsela/jobs/7768674",
-    "scraped_at": "2026-04-27T10:07:55.756228+00:00",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
     "first_seen": "2026-04-17T23:04:19.045760+00:00"
+  },
+  {
+    "company": "Newsela",
+    "title": "Strategic Account Executive (Remote, US)",
+    "department": "Sales",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/newsela/jobs/7746937",
+    "scraped_at": "2026-05-04T10:07:53.852920+00:00",
+    "first_seen": "2026-04-17T23:04:19.045760+00:00"
+  },
+  {
+    "company": "Panorama Education",
+    "title": "Account Executive, Mid-Market",
+    "department": "Revenue",
+    "location": "United States",
+    "url": "https://apply.workable.com/j/E0B89FE384",
+    "scraped_at": "2026-05-04T10:08:09.651761+00:00",
+    "first_seen": "2026-05-04T10:08:09.651761+00:00"
   },
   {
     "company": "Panorama Education",
@@ -1706,7 +1688,7 @@
     "department": "Marketing",
     "location": "United States",
     "url": "https://apply.workable.com/j/3AF61629E3",
-    "scraped_at": "2026-04-27T10:08:06.036737+00:00",
+    "scraped_at": "2026-05-04T10:08:09.651761+00:00",
     "first_seen": "2026-04-27T10:08:06.036737+00:00"
   },
   {
@@ -1715,7 +1697,7 @@
     "department": "Revenue",
     "location": "United States",
     "url": "https://apply.workable.com/j/CAA40D2B04",
-    "scraped_at": "2026-04-27T10:08:06.036737+00:00",
+    "scraped_at": "2026-05-04T10:08:09.651761+00:00",
     "first_seen": "2026-04-27T10:08:06.036737+00:00"
   },
   {
@@ -1724,16 +1706,16 @@
     "department": "Marketing",
     "location": "United States",
     "url": "https://apply.workable.com/j/35B3621DBE",
-    "scraped_at": "2026-04-27T10:08:06.036737+00:00",
+    "scraped_at": "2026-05-04T10:08:09.651761+00:00",
     "first_seen": "2026-04-27T10:08:06.036737+00:00"
   },
   {
     "company": "Panorama Education",
     "title": "Executive Coordinator & Operations Administrator",
-    "department": null,
+    "department": "Other",
     "location": "Boston, Massachusetts, United States",
     "url": "https://apply.workable.com/j/6B911D589A",
-    "scraped_at": "2026-04-27T10:08:06.036737+00:00",
+    "scraped_at": "2026-05-04T10:08:09.651761+00:00",
     "first_seen": "2026-04-18T02:00:42.056473+00:00"
   },
   {
@@ -1742,16 +1724,7 @@
     "department": "Marketing",
     "location": "United States",
     "url": "https://apply.workable.com/j/F706D1056F",
-    "scraped_at": "2026-04-27T10:08:06.036737+00:00",
-    "first_seen": "2026-04-18T02:00:42.056473+00:00"
-  },
-  {
-    "company": "Panorama Education",
-    "title": "IT Systems Administrator",
-    "department": "Technology",
-    "location": "United States",
-    "url": "https://apply.workable.com/j/ABC73DB11F",
-    "scraped_at": "2026-04-27T10:08:06.036737+00:00",
+    "scraped_at": "2026-05-04T10:08:09.651761+00:00",
     "first_seen": "2026-04-18T02:00:42.056473+00:00"
   },
   {
@@ -1760,7 +1733,7 @@
     "department": "Marketing",
     "location": "United States",
     "url": "https://apply.workable.com/j/666908EC55",
-    "scraped_at": "2026-04-27T10:08:06.036737+00:00",
+    "scraped_at": "2026-05-04T10:08:09.651761+00:00",
     "first_seen": "2026-04-18T02:00:42.056473+00:00"
   },
   {
@@ -1769,7 +1742,7 @@
     "department": "Technology",
     "location": "United States",
     "url": "https://apply.workable.com/j/3E56854155",
-    "scraped_at": "2026-04-27T10:08:06.036737+00:00",
+    "scraped_at": "2026-05-04T10:08:09.651761+00:00",
     "first_seen": "2026-04-18T02:00:42.056473+00:00"
   },
   {
@@ -1778,17 +1751,17 @@
     "department": "Revenue",
     "location": "United States",
     "url": "https://apply.workable.com/j/335C8DEAFD",
-    "scraped_at": "2026-04-27T10:08:06.036737+00:00",
+    "scraped_at": "2026-05-04T10:08:09.651761+00:00",
     "first_seen": "2026-04-18T02:00:42.056473+00:00"
   },
   {
     "company": "Panorama Education",
-    "title": "Senior Manager, Revenue Analytics",
-    "department": "Revenue",
+    "title": "Solutions Architect",
+    "department": "Technology",
     "location": "United States",
-    "url": "https://apply.workable.com/j/328CEF7EED",
-    "scraped_at": "2026-04-27T10:08:06.036737+00:00",
-    "first_seen": "2026-04-18T02:00:42.056473+00:00"
+    "url": "https://apply.workable.com/j/CB92B7B66C",
+    "scraped_at": "2026-05-04T10:08:09.651761+00:00",
+    "first_seen": "2026-05-04T10:08:09.651761+00:00"
   },
   {
     "company": "Panorama Education",
@@ -1796,7 +1769,7 @@
     "department": "Revenue",
     "location": "United States",
     "url": "https://apply.workable.com/j/F77B7CD35F",
-    "scraped_at": "2026-04-27T10:08:06.036737+00:00",
+    "scraped_at": "2026-05-04T10:08:09.651761+00:00",
     "first_seen": "2026-04-27T10:08:06.036737+00:00"
   },
   {
@@ -1805,17 +1778,8 @@
     "department": "Technology",
     "location": "United States",
     "url": "https://apply.workable.com/j/04D01A9162",
-    "scraped_at": "2026-04-27T10:08:06.036737+00:00",
+    "scraped_at": "2026-05-04T10:08:09.651761+00:00",
     "first_seen": "2026-04-18T02:00:42.056473+00:00"
-  },
-  {
-    "company": "ParentSquare",
-    "title": "Customer Advocacy Manager",
-    "department": "Sales & Marketing",
-    "location": "Remote (United States)",
-    "url": "https://ats.rippling.com/en-US/parentsquare/jobs/ee93455c-8aea-449f-8513-ef38b49e1636",
-    "scraped_at": "2026-04-27T10:08:13.804499+00:00",
-    "first_seen": "2026-04-18T01:25:51.747854+00:00"
   },
   {
     "company": "ParentSquare",
@@ -1823,7 +1787,7 @@
     "department": "General & Administrative",
     "location": "Remote (United States)",
     "url": "https://ats.rippling.com/en-US/parentsquare/jobs/9074f61c-98bc-495c-a43f-f30141926efd",
-    "scraped_at": "2026-04-27T10:08:13.804499+00:00",
+    "scraped_at": "2026-05-04T10:08:18.625724+00:00",
     "first_seen": "2026-04-27T10:08:13.804499+00:00"
   },
   {
@@ -1832,7 +1796,7 @@
     "department": "Customer Success",
     "location": "Remote (United States)",
     "url": "https://ats.rippling.com/en-US/parentsquare/jobs/d64e145a-d79e-41b4-a0ab-19dc8aaada9f",
-    "scraped_at": "2026-04-27T10:08:13.804499+00:00",
+    "scraped_at": "2026-05-04T10:08:18.625724+00:00",
     "first_seen": "2026-04-20T09:51:23.512536+00:00"
   },
   {
@@ -1841,7 +1805,7 @@
     "department": "Customer Success",
     "location": "Remote (United States)",
     "url": "https://ats.rippling.com/en-US/parentsquare/jobs/77432fd7-a6a6-4c0c-90e2-d38227eeb7ea",
-    "scraped_at": "2026-04-27T10:08:13.804499+00:00",
+    "scraped_at": "2026-05-04T10:08:18.625724+00:00",
     "first_seen": "2026-04-18T01:25:51.747854+00:00"
   },
   {
@@ -1850,7 +1814,7 @@
     "department": "General & Administrative",
     "location": "Remote (United States)",
     "url": "https://ats.rippling.com/en-US/parentsquare/jobs/379fed0e-d42d-4e77-a4ae-05f11ecb2281",
-    "scraped_at": "2026-04-27T10:08:13.804499+00:00",
+    "scraped_at": "2026-05-04T10:08:18.625724+00:00",
     "first_seen": "2026-04-18T01:25:51.747854+00:00"
   },
   {
@@ -1859,7 +1823,7 @@
     "department": "General & Administrative",
     "location": "Remote (United States)",
     "url": "https://ats.rippling.com/en-US/parentsquare/jobs/dea4a64d-d099-4a65-8299-ce99257a854b",
-    "scraped_at": "2026-04-27T10:08:13.804499+00:00",
+    "scraped_at": "2026-05-04T10:08:18.625724+00:00",
     "first_seen": "2026-04-18T01:25:51.747854+00:00"
   },
   {
@@ -1868,7 +1832,7 @@
     "department": "R & D",
     "location": "Remote (United States)",
     "url": "https://ats.rippling.com/en-US/parentsquare/jobs/fbef692b-a5f5-4cf0-99c1-02d5f60c2b26",
-    "scraped_at": "2026-04-27T10:08:13.804499+00:00",
+    "scraped_at": "2026-05-04T10:08:18.625724+00:00",
     "first_seen": "2026-04-18T01:25:51.747854+00:00"
   },
   {
@@ -1877,7 +1841,7 @@
     "department": "R & D",
     "location": "Remote (United States)",
     "url": "https://ats.rippling.com/en-US/parentsquare/jobs/f561ac88-839d-47ab-8a9a-31fa3710b97a",
-    "scraped_at": "2026-04-27T10:08:13.804499+00:00",
+    "scraped_at": "2026-05-04T10:08:18.625724+00:00",
     "first_seen": "2026-04-18T01:25:51.747854+00:00"
   },
   {
@@ -1886,17 +1850,17 @@
     "department": "Customer Success",
     "location": "Remote (United States)",
     "url": "https://ats.rippling.com/en-US/parentsquare/jobs/92f13af0-10de-4e81-99b9-4e8e4b84fa50",
-    "scraped_at": "2026-04-27T10:08:13.804499+00:00",
+    "scraped_at": "2026-05-04T10:08:18.625724+00:00",
     "first_seen": "2026-04-18T01:25:51.747854+00:00"
   },
   {
     "company": "Preply",
-    "title": "Back-End Engineer (Ruby on Rails)",
-    "department": "Engineering",
-    "location": "Kyiv",
-    "url": "https://preply.com/en/careers/apply?ashby_jid=b8d2f9ae-51f9-4a2a-9e37-379c4e38a95e&job_title=Back-End%20Engineer%20(Ruby%20on%20Rails)&job_team=Engineering&job_location=Kyiv",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
-    "first_seen": "2026-04-18T00:19:57.804010+00:00"
+    "title": "Director of External Communications",
+    "department": "Brand",
+    "location": "London",
+    "url": "https://preply.com/en/careers/apply?ashby_jid=855c693f-35d8-4cc8-bde9-16661e822c04&job_title=Director%20of%20External%20Communications&job_team=Brand&job_location=London",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
+    "first_seen": "2026-05-04T10:08:48.997807+00:00"
   },
   {
     "company": "Preply",
@@ -1904,7 +1868,7 @@
     "department": "Engineering",
     "location": "Kyiv",
     "url": "https://preply.com/en/careers/apply?ashby_jid=79e9b45c-1fc0-455b-bf34-662fe0b1c6d2&job_title=Engineering%20Manager%20&job_team=Engineering&job_location=Kyiv",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -1913,7 +1877,7 @@
     "department": "Engineering",
     "location": "London",
     "url": "https://preply.com/en/careers/apply?ashby_jid=46c28072-9865-4cd0-9fd5-d50f8b55c290&job_title=Engineering%20Manager%20&job_team=Engineering&job_location=London",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -1922,8 +1886,53 @@
     "department": "Engineering",
     "location": "Barcelona",
     "url": "https://preply.com/en/careers/apply?ashby_jid=247db50e-8e13-40b4-91f2-c195536630cd&job_title=Engineering%20Manager%20&job_team=Engineering&job_location=Barcelona",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
+  },
+  {
+    "company": "Preply",
+    "title": "External Employer brand manager",
+    "department": "Brand",
+    "location": "Barcelona",
+    "url": "https://preply.com/en/careers/apply?ashby_jid=f98f1ba5-d03e-4a4e-9bda-50e10d18c0b4&job_title=External%20Employer%20brand%20manager&job_team=Brand&job_location=Barcelona",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
+    "first_seen": "2026-05-04T10:08:48.997807+00:00"
+  },
+  {
+    "company": "Preply",
+    "title": "Head of Product Marketing",
+    "department": "Brand",
+    "location": "Barcelona",
+    "url": "https://preply.com/en/careers/apply?ashby_jid=9205df2d-aced-4a27-b892-69178a644599&job_title=Head%20of%20Product%20Marketing&job_team=Brand&job_location=Barcelona",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
+    "first_seen": "2026-05-04T10:08:48.997807+00:00"
+  },
+  {
+    "company": "Preply",
+    "title": "Head of Product Marketing",
+    "department": "Brand",
+    "location": "London",
+    "url": "https://preply.com/en/careers/apply?ashby_jid=ca71035f-3cd5-41d3-b53f-dcd8952c660f&job_title=Head%20of%20Product%20Marketing&job_team=Brand&job_location=London",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
+    "first_seen": "2026-05-04T10:08:48.997807+00:00"
+  },
+  {
+    "company": "Preply",
+    "title": "Market Research Specialist",
+    "department": "Brand",
+    "location": "Barcelona",
+    "url": "https://preply.com/en/careers/apply?ashby_jid=a69f90d3-10cf-4217-8f8c-9b52228c7550&job_title=Market%20Research%20Specialist&job_team=Brand&job_location=Barcelona",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
+    "first_seen": "2026-05-04T10:08:48.997807+00:00"
+  },
+  {
+    "company": "Preply",
+    "title": "Post Production Coordinator",
+    "department": "Brand",
+    "location": "Barcelona",
+    "url": "https://preply.com/en/careers/apply?ashby_jid=3afabfdd-5244-4496-8650-ab827659d662&job_title=Post%20Production%20Coordinator&job_team=Brand&job_location=Barcelona",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
+    "first_seen": "2026-05-04T10:08:48.997807+00:00"
   },
   {
     "company": "Preply",
@@ -1931,7 +1940,7 @@
     "department": "Engineering",
     "location": "Kyiv",
     "url": "https://preply.com/en/careers/apply?ashby_jid=95fbda6f-997b-41b2-99b9-a42d0a6fce72&job_title=%20Senior%20App%20Engineer%20(React%20Native)&job_team=Engineering&job_location=Kyiv",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -1940,7 +1949,7 @@
     "department": "Engineering",
     "location": "London",
     "url": "https://preply.com/en/careers/apply?ashby_jid=5736d7be-b5d2-43dc-a5da-f31a76f5bd0a&job_title=Senior%20App%20Engineer%20(React%20Native)%20%20%20&job_team=Engineering&job_location=London",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -1949,7 +1958,7 @@
     "department": "Engineering",
     "location": "Barcelona",
     "url": "https://preply.com/en/careers/apply?ashby_jid=c6510778-8bd0-4084-a396-e2e3ad1b59f2&job_title=%20Senior%20Back-End%20Engineer&job_team=Engineering&job_location=Barcelona",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -1958,7 +1967,7 @@
     "department": "Engineering",
     "location": "Kyiv",
     "url": "https://preply.com/en/careers/apply?ashby_jid=4564a8b4-a7c4-4e44-b70c-c8d2f0a65c6e&job_title=Senior%20Back-End%20Engineer%20&job_team=Engineering&job_location=Kyiv",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -1967,17 +1976,17 @@
     "department": "Engineering",
     "location": "London",
     "url": "https://preply.com/en/careers/apply?ashby_jid=e923f8e1-ed85-4e1c-a091-272cdf2554e8&job_title=%20Senior%20Back-End%20Engineer&job_team=Engineering&job_location=London",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
     "company": "Preply",
-    "title": "Senior Engineering Manager",
-    "department": "Engineering",
-    "location": "Barcelona",
-    "url": "https://preply.com/en/careers/apply?ashby_jid=1eef47ae-6edc-44a0-bb9f-0b6ad217a2fc&job_title=Senior%20Engineering%20Manager%20&job_team=Engineering&job_location=Barcelona",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
-    "first_seen": "2026-04-18T00:19:57.804010+00:00"
+    "title": "Senior CRM Designer",
+    "department": "Brand",
+    "location": "London",
+    "url": "https://preply.com/en/careers/apply?ashby_jid=22559a50-5346-4062-aa57-6593d6b135c1&job_title=Senior%20CRM%20Designer&job_team=Brand&job_location=London",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
+    "first_seen": "2026-05-04T10:08:48.997807+00:00"
   },
   {
     "company": "Preply",
@@ -1985,25 +1994,7 @@
     "department": "Engineering",
     "location": "Barcelona",
     "url": "https://preply.com/en/careers/apply?ashby_jid=f94abb6b-c7ef-4275-8cfb-23dc71110822&job_title=Senior%20Engineering%20Manager%20-%20Martech&job_team=Engineering&job_location=Barcelona",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
-    "first_seen": "2026-04-18T00:19:57.804010+00:00"
-  },
-  {
-    "company": "Preply",
-    "title": "Senior Engineering Manager - Martech",
-    "department": "Engineering",
-    "location": "Kyiv",
-    "url": "https://preply.com/en/careers/apply?ashby_jid=e11da9af-a981-4d25-a16b-fbda68824092&job_title=Senior%20Engineering%20Manager%20-%20Martech&job_team=Engineering&job_location=Kyiv",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
-    "first_seen": "2026-04-18T00:19:57.804010+00:00"
-  },
-  {
-    "company": "Preply",
-    "title": "Senior Engineering Manager - Martech",
-    "department": "Engineering",
-    "location": "London",
-    "url": "https://preply.com/en/careers/apply?ashby_jid=7d3c57f3-6308-4211-9ff7-3fa642a114af&job_title=Senior%20Engineering%20Manager%20-%20Martech&job_team=Engineering&job_location=London",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -2012,8 +2003,17 @@
     "department": "Engineering",
     "location": "Barcelona",
     "url": "https://preply.com/en/careers/apply?ashby_jid=6a268b16-d271-46a2-863a-8195b182bc00&job_title=Senior%20Front%20End%20Engineer&job_team=Engineering&job_location=Barcelona",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
+  },
+  {
+    "company": "Preply",
+    "title": "Senior Full-stack Engineer (frontend-heavy)",
+    "department": "Engineering",
+    "location": "Barcelona",
+    "url": "https://preply.com/en/careers/apply?ashby_jid=bc9fa0e3-a6cd-4ec1-9c2d-a912cc14695f&job_title=%20Senior%20Full-stack%20Engineer%20(frontend-heavy)&job_team=Engineering&job_location=Barcelona",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
+    "first_seen": "2026-05-04T10:08:48.997807+00:00"
   },
   {
     "company": "Preply",
@@ -2021,7 +2021,7 @@
     "department": "Engineering",
     "location": "London",
     "url": "https://preply.com/en/careers/apply?ashby_jid=e72fd9c4-4485-4636-8d2b-58863c09b10d&job_title=Senior%20Full-stack%20Engineer%20(frontend-heavy)&job_team=Engineering&job_location=London",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -2030,16 +2030,7 @@
     "department": "Engineering",
     "location": "Kyiv",
     "url": "https://preply.com/en/careers/apply?ashby_jid=938ee00b-6bf2-4702-b5d5-aa5e8f110155&job_title=Senior%20II%20-%20Back-End%20Engineer&job_team=Engineering&job_location=Kyiv",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
-    "first_seen": "2026-04-18T00:19:57.804010+00:00"
-  },
-  {
-    "company": "Preply",
-    "title": "Senior II - Back-End Engineer",
-    "department": "Engineering",
-    "location": "London",
-    "url": "https://preply.com/en/careers/apply?ashby_jid=66d81609-6ba6-491d-82d4-fb8110d3bede&job_title=Senior%20II%20-%20Back-End%20Engineer&job_team=Engineering&job_location=London",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -2048,7 +2039,7 @@
     "department": "Engineering",
     "location": "Barcelona",
     "url": "https://preply.com/en/careers/apply?ashby_jid=23e2cae6-41a6-4767-adb2-6f566febafaa&job_title=%20Senior%20II%20Back-End%20Engineer%20&job_team=Engineering&job_location=Barcelona",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -2057,7 +2048,7 @@
     "department": "Engineering",
     "location": "Barcelona",
     "url": "https://preply.com/en/careers/apply?ashby_jid=e238499e-7a2a-4230-9658-956af4213084&job_title=Senior%20II%20Platform%20Software%20Engineer&job_team=Engineering&job_location=Barcelona",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-27T10:08:41.225327+00:00"
   },
   {
@@ -2066,34 +2057,7 @@
     "department": "Engineering",
     "location": "Kyiv",
     "url": "https://preply.com/en/careers/apply?ashby_jid=821ad7fd-528f-491b-b44d-f0aff02d4f67&job_title=Senior%20II%20Platform%20Software%20Engineer&job_team=Engineering&job_location=Kyiv",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
-    "first_seen": "2026-04-27T10:08:41.225327+00:00"
-  },
-  {
-    "company": "Preply",
-    "title": "Senior II Platform Software Engineer",
-    "department": "Engineering",
-    "location": "London",
-    "url": "https://preply.com/en/careers/apply?ashby_jid=0cd0548e-c501-46c4-9225-15e2ebf97b68&job_title=Senior%20II%20Platform%20Software%20Engineer&job_team=Engineering&job_location=London",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
-    "first_seen": "2026-04-27T10:08:41.225327+00:00"
-  },
-  {
-    "company": "Preply",
-    "title": "Senior II Security Engineer - Application",
-    "department": "Engineering",
-    "location": "Barcelona",
-    "url": "https://preply.com/en/careers/apply?ashby_jid=4429f6b9-2e3f-4796-940d-075be446525a&job_title=Senior%20II%20Security%20Engineer%20-%20Application&job_team=Engineering&job_location=Barcelona",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
-    "first_seen": "2026-04-27T10:08:41.225327+00:00"
-  },
-  {
-    "company": "Preply",
-    "title": "Senior II Security Engineer - Application",
-    "department": "Engineering",
-    "location": "Kyiv",
-    "url": null,
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-27T10:08:41.225327+00:00"
   },
   {
@@ -2102,7 +2066,7 @@
     "department": "Engineering",
     "location": "Barcelona",
     "url": "https://preply.com/en/careers/apply?ashby_jid=6381f5bc-fc56-4015-855a-6be495310105&job_title=Senior%20Machine%20Learning%20Platform%2FOps%20Engineer%20&job_team=Engineering&job_location=Barcelona",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -2111,7 +2075,7 @@
     "department": "Engineering",
     "location": "Kyiv",
     "url": "https://preply.com/en/careers/apply?ashby_jid=32d99f30-ad00-41ff-87da-f14cc20abe95&job_title=Senior%20Machine%20Learning%20Platform%2FOps%20Engineer%20&job_team=Engineering&job_location=Kyiv",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -2120,8 +2084,17 @@
     "department": "Engineering",
     "location": "London",
     "url": "https://preply.com/en/careers/apply?ashby_jid=652577c3-8e73-4457-b1b3-ea8e6d74f2e4&job_title=Senior%20Machine%20Learning%20Platform%2FOps%20Engineer%20&job_team=Engineering&job_location=London",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
+  },
+  {
+    "company": "Preply",
+    "title": "Social Media Manager",
+    "department": "Brand",
+    "location": "Barcelona",
+    "url": "https://preply.com/en/careers/apply?ashby_jid=b54b2fd3-a512-4389-89d5-616f1c02660a&job_title=Social%20Media%20Manager&job_team=Brand&job_location=Barcelona",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
+    "first_seen": "2026-05-04T10:08:48.997807+00:00"
   },
   {
     "company": "Preply",
@@ -2129,7 +2102,7 @@
     "department": "Engineering",
     "location": "Barcelona",
     "url": "https://preply.com/en/careers/apply?ashby_jid=a4f325e9-a84e-439f-b959-b42cad533307&job_title=Staff%20Back-end%20Engineer%20&job_team=Engineering&job_location=Barcelona",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -2138,7 +2111,7 @@
     "department": "Engineering",
     "location": "Kyiv",
     "url": "https://preply.com/en/careers/apply?ashby_jid=e4db43ae-333b-48cc-a31c-4e14040cd7fe&job_title=Staff%20Back-end%20Engineer%20&job_team=Engineering&job_location=Kyiv",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -2147,7 +2120,7 @@
     "department": "Engineering",
     "location": "London",
     "url": "https://preply.com/en/careers/apply?ashby_jid=2c3f4157-00db-4144-a041-575b2c99d952&job_title=Staff%20Back-end%20Engineer%20&job_team=Engineering&job_location=London",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -2156,7 +2129,7 @@
     "department": "Engineering",
     "location": "Barcelona",
     "url": "https://preply.com/en/careers/apply?ashby_jid=1f864bc1-1fbe-45cf-a3e5-a77658b5c5ac&job_title=Staff%20Machine%20Learning%20Platform%2FOps%20Engineer&job_team=Engineering&job_location=Barcelona",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -2165,7 +2138,7 @@
     "department": "Engineering",
     "location": "Kyiv",
     "url": "https://preply.com/en/careers/apply?ashby_jid=c3df9a46-6f26-4313-ac1c-b20cd062c817&job_title=Staff%20Machine%20Learning%20Platform%2FOps%20Engineer&job_team=Engineering&job_location=Kyiv",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
@@ -2174,26 +2147,17 @@
     "department": "Engineering",
     "location": "London",
     "url": "https://preply.com/en/careers/apply?ashby_jid=77e90a9a-bfb0-48c4-b282-82e211b560de&job_title=Staff%20Machine%20Learning%20Platform%2FOps%20Engineer&job_team=Engineering&job_location=London",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
     "first_seen": "2026-04-18T00:19:57.804010+00:00"
   },
   {
     "company": "Preply",
-    "title": "Staff Software Engineer - Platform",
-    "department": "Engineering",
+    "title": "Video Editor",
+    "department": "Brand",
     "location": "Barcelona",
-    "url": "https://preply.com/en/careers/apply?ashby_jid=08d65013-3492-4ed7-b1c7-4ffd2d3f342e&job_title=Staff%20Software%20Engineer%20-%20Platform&job_team=Engineering&job_location=Barcelona",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
-    "first_seen": "2026-04-18T00:19:57.804010+00:00"
-  },
-  {
-    "company": "Preply",
-    "title": "Staff Software Engineer - Platform",
-    "department": "Engineering",
-    "location": "London",
-    "url": "https://preply.com/en/careers/apply?ashby_jid=53db4eb1-20a1-4cb4-8b3f-7005437e32cd&job_title=Staff%20Software%20Engineer%20-%20Platform&job_team=Engineering&job_location=London",
-    "scraped_at": "2026-04-27T10:08:41.225327+00:00",
-    "first_seen": "2026-04-18T00:19:57.804010+00:00"
+    "url": "https://preply.com/en/careers/apply?ashby_jid=d9364765-8a1b-49ff-9be9-82354906e6ef&job_title=Video%20Editor&job_team=Brand&job_location=Barcelona",
+    "scraped_at": "2026-05-04T10:08:48.997807+00:00",
+    "first_seen": "2026-05-04T10:08:48.997807+00:00"
   },
   {
     "company": "Rebel Girls",
@@ -2201,26 +2165,26 @@
     "department": null,
     "location": "Bay Area, CA",
     "url": "https://www.rebelgirls.com/job-listing-digital-growth-marketer",
-    "scraped_at": "2026-04-27T10:08:48.804915+00:00",
+    "scraped_at": "2026-05-04T10:09:07.733125+00:00",
     "first_seen": "2026-04-18T01:26:33.437145+00:00"
   },
   {
     "company": "Securly",
-    "title": "Customer Success Manager, K-12 EdTech",
-    "department": "Customer Success",
-    "location": "United States (remote)",
-    "url": "https://www.securly.com/job-description?gh_jid=7833405",
-    "scraped_at": "2026-04-27T10:08:53.117626+00:00",
-    "first_seen": "2026-04-27T10:08:53.117626+00:00"
-  },
-  {
-    "company": "Securly",
-    "title": "Proposal Writer - EdTech, K-12",
+    "title": "Proposal Writer - K-12/EdTech",
     "department": "Revenue Operations",
     "location": "United States (remote)",
     "url": "https://www.securly.com/job-description?gh_jid=7788975",
-    "scraped_at": "2026-04-27T10:08:53.117626+00:00",
+    "scraped_at": "2026-05-04T10:09:14.783855+00:00",
     "first_seen": "2026-04-20T09:52:06.249434+00:00"
+  },
+  {
+    "company": "Securly",
+    "title": "Sales Operations Administrator - temporary",
+    "department": "Revenue Operations",
+    "location": "United States (remote)",
+    "url": "https://www.securly.com/job-description?gh_jid=7736550",
+    "scraped_at": "2026-05-04T10:09:14.783855+00:00",
+    "first_seen": "2026-05-04T10:09:14.783855+00:00"
   },
   {
     "company": "Securly",
@@ -2228,8 +2192,26 @@
     "department": "Sales Engineers/Solution Architects",
     "location": "Pune City, Maharashtra, India",
     "url": "https://www.securly.com/job-description?gh_jid=7597533",
-    "scraped_at": "2026-04-27T10:08:53.117626+00:00",
+    "scraped_at": "2026-05-04T10:09:14.783855+00:00",
     "first_seen": "2026-04-20T09:52:06.249434+00:00"
+  },
+  {
+    "company": "Securly",
+    "title": "Senior Backend Engineer (DoH) \u2013 Golang - DNS & Systems",
+    "department": "Engineering / R&D",
+    "location": "Pune City, Maharashtra, India",
+    "url": "https://www.securly.com/job-description?gh_jid=7872503",
+    "scraped_at": "2026-05-04T10:09:14.783855+00:00",
+    "first_seen": "2026-05-04T10:09:14.783855+00:00"
+  },
+  {
+    "company": "Securly",
+    "title": "Senior Rust Engineer \u2013 Proxy Conversion & Business Logic",
+    "department": "Engineering / R&D",
+    "location": "Pune City, Maharashtra, India",
+    "url": "https://www.securly.com/job-description?gh_jid=7874606",
+    "scraped_at": "2026-05-04T10:09:14.783855+00:00",
+    "first_seen": "2026-05-04T10:09:14.783855+00:00"
   },
   {
     "company": "Speechify",
@@ -2237,7 +2219,7 @@
     "department": "Engineering",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5979996004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-27T10:09:08.502209+00:00"
   },
   {
@@ -2246,7 +2228,7 @@
     "department": "Engineering",
     "location": "Remote",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5570644004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
   },
   {
@@ -2255,7 +2237,7 @@
     "department": "Engineering",
     "location": "Albuquerque, NM, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974636004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
   },
   {
@@ -2264,7 +2246,7 @@
     "department": "Engineering",
     "location": "Anaheim, CA, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974483004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-27T10:09:08.502209+00:00"
   },
   {
@@ -2273,7 +2255,7 @@
     "department": "Engineering",
     "location": "Anchorage, AK, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974646004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-27T10:09:08.502209+00:00"
   },
   {
@@ -2282,7 +2264,7 @@
     "department": "Engineering",
     "location": "Ann Arbor, MI, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974522004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
   },
   {
@@ -2291,7 +2273,7 @@
     "department": "Engineering",
     "location": "Arlington, VA, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974564004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
   },
   {
@@ -2300,7 +2282,7 @@
     "department": "Engineering",
     "location": "Atlanta, GA, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974471004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
   },
   {
@@ -2309,7 +2291,7 @@
     "department": "Engineering",
     "location": "Austin, TX, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974465004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
   },
   {
@@ -2318,7 +2300,7 @@
     "department": "Engineering",
     "location": "Baton Rouge, LA, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974666004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
   },
   {
@@ -2327,7 +2309,7 @@
     "department": "Engineering",
     "location": "Bellevue, WA, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974464004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-27T10:09:08.502209+00:00"
   },
   {
@@ -2336,7 +2318,7 @@
     "department": "Engineering",
     "location": "Berkeley, CA, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974515004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-27T10:09:08.502209+00:00"
   },
   {
@@ -2345,8 +2327,17 @@
     "department": "Engineering",
     "location": "Birmingham, AL, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974660004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Bloomington, IN, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974656004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Speechify",
@@ -2354,8 +2345,17 @@
     "department": "Engineering",
     "location": "Boston, MA, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5976170004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Boulder, CO, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974514004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Speechify",
@@ -2363,8 +2363,17 @@
     "department": "Engineering",
     "location": "Buffalo, NY, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974671004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-27T10:09:08.502209+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Burlington, VT, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974682004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Speechify",
@@ -2372,7 +2381,7 @@
     "department": "Engineering",
     "location": "Cambridge, MA, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974546004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
   },
   {
@@ -2381,7 +2390,7 @@
     "department": "Engineering",
     "location": "Cary, NC, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974539004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-27T10:09:08.502209+00:00"
   },
   {
@@ -2390,7 +2399,7 @@
     "department": "Engineering",
     "location": "Champaign, IL, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974648004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
   },
   {
@@ -2399,8 +2408,17 @@
     "department": "Engineering",
     "location": "Charleston, SC, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974695004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-27T10:09:08.502209+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Chicago, IL, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974469004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Speechify",
@@ -2408,8 +2426,17 @@
     "department": "Engineering",
     "location": "Cleveland, OH, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974534004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Colorado Springs, CO, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974632004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Speechify",
@@ -2417,7 +2444,7 @@
     "department": "Engineering",
     "location": "Columbus, OH, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974528004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
   },
   {
@@ -2426,8 +2453,26 @@
     "department": "Engineering",
     "location": "Culver City, CA, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974527004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-27T10:09:08.502209+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Cupertino, CA, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974508004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Dallas, TX, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5976172004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Speechify",
@@ -2435,8 +2480,17 @@
     "department": "Engineering",
     "location": "Denver, CO, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974470004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-27T10:09:08.502209+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Des Moines, IA, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974664004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Speechify",
@@ -2444,8 +2498,17 @@
     "department": "Engineering",
     "location": "Eugene, OR, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974624004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Evanston, IL, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974544004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Speechify",
@@ -2453,8 +2516,17 @@
     "department": "Engineering",
     "location": "Fort Lauderdale, FL, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974551004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-27T10:09:08.502209+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Fort Worth, TX, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974502004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Speechify",
@@ -2462,8 +2534,17 @@
     "department": "Engineering",
     "location": "Gainesville, FL, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974672004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Honolulu, HI, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974644004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Speechify",
@@ -2471,8 +2552,17 @@
     "department": "Engineering",
     "location": "Ithaca, NY, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974677004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-27T10:09:08.502209+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Kansas City, MO, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974538004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Speechify",
@@ -2480,8 +2570,17 @@
     "department": "Engineering",
     "location": "Knoxville, TN, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974702004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Long Beach, CA, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974481004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Speechify",
@@ -2489,7 +2588,7 @@
     "department": "Engineering",
     "location": "Los Angeles, CA, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5976171004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-27T10:09:08.502209+00:00"
   },
   {
@@ -2498,8 +2597,17 @@
     "department": "Engineering",
     "location": "Louisville, KY, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974708004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Madison, WI, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974520004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Speechify",
@@ -2507,7 +2615,7 @@
     "department": "Engineering",
     "location": "Miami, FL, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974545004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-27T10:09:08.502209+00:00"
   },
   {
@@ -2516,7 +2624,7 @@
     "department": "Engineering",
     "location": "Minneapolis, MN, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974516004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
   },
   {
@@ -2525,8 +2633,17 @@
     "department": "Engineering",
     "location": "Mountain View, CA, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5974504004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
+  },
+  {
+    "company": "Speechify",
+    "title": "Senior Software Engineer, Core Experiences",
+    "department": "Engineering",
+    "location": "Newark, NJ, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974550004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Speechify",
@@ -2534,179 +2651,17 @@
     "department": "Engineering",
     "location": "New York, NY, USA",
     "url": "https://job-boards.greenhouse.io/speechify/jobs/5976176004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
     "first_seen": "2026-04-20T09:52:22.201331+00:00"
   },
   {
     "company": "Speechify",
     "title": "Senior Software Engineer, Core Experiences",
     "department": "Engineering",
-    "location": "Palo Alto, CA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5976177004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-27T10:09:08.502209+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Pasadena, CA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974533004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-27T10:09:08.502209+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Phoenix, AZ, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974495004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-20T09:52:22.201331+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Plano, TX, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974503004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-27T10:09:08.502209+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Princeton, NJ, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974552004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-20T09:52:22.201331+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Provo, UT, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974494004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-27T10:09:08.502209+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Reno, NV, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974634004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-27T10:09:08.502209+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Richmond, VA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974570004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-20T09:52:22.201331+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Riverside, CA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974665004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-27T10:09:08.502209+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Sacramento, CA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974521004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-27T10:09:08.502209+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "San Antonio, TX, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974509004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-27T10:09:08.502209+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "San Diego, CA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974485004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-20T09:52:22.201331+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Savannah, GA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974689004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-27T10:09:08.502209+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Spokane, WA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974622004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-27T10:09:08.502209+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "Stamford, CT, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974557004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-27T10:09:08.502209+00:00"
-  },
-  {
-    "company": "Speechify",
-    "title": "Senior Software Engineer, Core Experiences",
-    "department": "Engineering",
-    "location": "St. Louis, MO, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974540004",
-    "scraped_at": "2026-04-27T10:09:08.502209+00:00",
-    "first_seen": "2026-04-20T09:52:22.201331+00:00"
-  },
-  {
-    "company": "Swing Education",
-    "title": "Account Executive - Southern California",
-    "department": "Sales",
-    "location": "Remote - California",
-    "url": "https://swingeducation.com/job-description/?gh_jid=4990819008",
-    "scraped_at": "2026-04-27T10:09:15.797953+00:00",
-    "first_seen": "2026-04-18T01:27:24.744459+00:00"
-  },
-  {
-    "company": "Swing Education",
-    "title": "Customer Success Manager (NorCal)",
-    "department": "Customer Success",
-    "location": "Northern California",
-    "url": "https://swingeducation.com/job-description/?gh_jid=5179684008",
-    "scraped_at": "2026-04-27T10:09:15.797953+00:00",
-    "first_seen": "2026-04-18T01:27:24.744459+00:00"
-  },
-  {
-    "company": "Thrive Global",
-    "title": "Account Director, Thrive for Health",
-    "department": "Customer Success",
-    "location": "Remote (United States)",
-    "url": "https://ats.rippling.com/en-US/thriveglobal/jobs/b4c89cfe-7f3b-440e-aba8-a71e44f1984c",
-    "scraped_at": "2026-04-27T10:09:21.688490+00:00",
-    "first_seen": "2026-04-18T01:27:32.498041+00:00"
+    "location": "Oklahoma City, OK, USA",
+    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974676004",
+    "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+    "first_seen": "2026-05-04T10:09:31.155322+00:00"
   },
   {
     "company": "Thrive Global",
@@ -2714,16 +2669,7 @@
     "department": "Marketing & Communications",
     "location": "New York, NY",
     "url": "https://ats.rippling.com/en-US/thriveglobal/jobs/13b41059-738f-4da6-aac3-256e90e9db85",
-    "scraped_at": "2026-04-27T10:09:21.688490+00:00",
-    "first_seen": "2026-04-18T01:27:32.498041+00:00"
-  },
-  {
-    "company": "Thrive Global",
-    "title": "Senior Customer Success Manager",
-    "department": "Customer Success",
-    "location": "Remote (United States)",
-    "url": "https://ats.rippling.com/en-US/thriveglobal/jobs/d2824527-bc65-4976-b10c-b22ccb395d62",
-    "scraped_at": "2026-04-27T10:09:21.688490+00:00",
+    "scraped_at": "2026-05-04T10:09:42.021957+00:00",
     "first_seen": "2026-04-18T01:27:32.498041+00:00"
   },
   {
@@ -2732,7 +2678,7 @@
     "department": "Marketing & Communications",
     "location": "New York, NY",
     "url": "https://ats.rippling.com/en-US/thriveglobal/jobs/df967374-71a3-4003-bd2a-ab61dcdf2a5b",
-    "scraped_at": "2026-04-27T10:09:21.688490+00:00",
+    "scraped_at": "2026-05-04T10:09:42.021957+00:00",
     "first_seen": "2026-04-18T01:27:32.498041+00:00"
   },
   {
@@ -2741,7 +2687,7 @@
     "department": "Operations",
     "location": "Hybrid",
     "url": "https://www.linkedin.com/jobs/view/4340706212",
-    "scraped_at": "2026-04-27T10:09:28.338388+00:00",
+    "scraped_at": "2026-05-04T10:09:49.571839+00:00",
     "first_seen": "2026-04-18T02:02:25.930646+00:00"
   },
   {
@@ -2750,7 +2696,7 @@
     "department": "Engineering",
     "location": "Hybrid",
     "url": "https://www.linkedin.com/jobs/view/4371243158/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=0rdwodG500hcNkavLevjeg%3D%3D&trackingId=k08%2F4lBKgzmX8IeHdv0uQQ%3D%3D",
-    "scraped_at": "2026-04-27T10:09:28.338388+00:00",
+    "scraped_at": "2026-05-04T10:09:49.571839+00:00",
     "first_seen": "2026-04-18T02:02:25.930646+00:00"
   },
   {
@@ -2759,7 +2705,7 @@
     "department": "Product",
     "location": "Hybrid",
     "url": "https://www.linkedin.com/jobs/search/?currentJobId=4333656967&f_C=10426104&geoId=92000000&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=4318116672%2C4333656967&trk=d_flagship3_company_posts",
-    "scraped_at": "2026-04-27T10:09:28.338388+00:00",
+    "scraped_at": "2026-05-04T10:09:49.571839+00:00",
     "first_seen": "2026-04-18T02:02:25.930646+00:00"
   },
   {
@@ -2768,7 +2714,7 @@
     "department": "Marketing",
     "location": "Hybrid",
     "url": "https://www.linkedin.com/jobs/view/4362493116/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=NgLUd34dz9AAEV3Ba%2FDoCA%3D%3D&trackingId=Gtk5FCXBESCKLnTb7uC3QQ%3D%3D",
-    "scraped_at": "2026-04-27T10:09:28.338388+00:00",
+    "scraped_at": "2026-05-04T10:09:49.571839+00:00",
     "first_seen": "2026-04-18T02:02:25.930646+00:00"
   }
 ]

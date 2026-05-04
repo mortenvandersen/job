@@ -1,9 +1,33 @@
 {
   "company": "Panorama Education",
   "url": "https://www.panoramaed.com/about/careers",
-  "scraped_at": "2026-04-27T10:08:06.036737+00:00",
+  "scraped_at": "2026-05-04T10:08:09.651761+00:00",
   "job_count": 12,
   "jobs": [
+    {
+      "title": "Account Executive, Mid-Market",
+      "department": "Revenue",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/E0B89FE384"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "department": "Revenue",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/CAA40D2B04"
+    },
+    {
+      "title": "Senior Business Systems Manager",
+      "department": "Revenue",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/335C8DEAFD"
+    },
+    {
+      "title": "Sr State and Local Government Partnerships Director",
+      "department": "Revenue",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/F77B7CD35F"
+    },
     {
       "title": "Brand Designer",
       "department": "Marketing",
@@ -29,46 +53,22 @@
       "url": "https://apply.workable.com/j/666908EC55"
     },
     {
-      "title": "Enterprise Account Executive",
-      "department": "Revenue",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/CAA40D2B04"
-    },
-    {
-      "title": "Senior Business Systems Manager",
-      "department": "Revenue",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/335C8DEAFD"
-    },
-    {
-      "title": "Senior Manager, Revenue Analytics",
-      "department": "Revenue",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/328CEF7EED"
-    },
-    {
-      "title": "Sr State and Local Government Partnerships Director",
-      "department": "Revenue",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/F77B7CD35F"
-    },
-    {
       "title": "Executive Coordinator & Operations Administrator",
-      "department": null,
+      "department": "Other",
       "location": "Boston, Massachusetts, United States",
       "url": "https://apply.workable.com/j/6B911D589A"
-    },
-    {
-      "title": "IT Systems Administrator",
-      "department": "Technology",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/ABC73DB11F"
     },
     {
       "title": "Product Manager, Platform",
       "department": "Technology",
       "location": "United States",
       "url": "https://apply.workable.com/j/3E56854155"
+    },
+    {
+      "title": "Solutions Architect",
+      "department": "Technology",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/CB92B7B66C"
     },
     {
       "title": "Staff Full Stack Engineer",

@@ -1,17 +1,29 @@
 {
   "company": "Securly",
   "url": "https://www.securly.com/careers",
-  "scraped_at": "2026-04-27T10:08:53.117626+00:00",
-  "job_count": 3,
+  "scraped_at": "2026-05-04T10:09:14.783855+00:00",
+  "job_count": 5,
   "jobs": [
     {
-      "title": "Customer Success Manager, K-12 EdTech",
-      "department": "Customer Success",
-      "location": "United States (remote)",
-      "url": "https://www.securly.com/job-description?gh_jid=7833405"
+      "title": "Senior Backend Engineer (DoH) \u2013 Golang - DNS & Systems",
+      "department": "Engineering / R&D",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://www.securly.com/job-description?gh_jid=7872503"
     },
     {
-      "title": "Proposal Writer - EdTech, K-12",
+      "title": "Senior Rust Engineer \u2013 Proxy Conversion & Business Logic",
+      "department": "Engineering / R&D",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://www.securly.com/job-description?gh_jid=7874606"
+    },
+    {
+      "title": "Sales Operations Administrator - temporary",
+      "department": "Revenue Operations",
+      "location": "United States (remote)",
+      "url": "https://www.securly.com/job-description?gh_jid=7736550"
+    },
+    {
+      "title": "Proposal Writer - K-12/EdTech",
       "department": "Revenue Operations",
       "location": "United States (remote)",
       "url": "https://www.securly.com/job-description?gh_jid=7788975"

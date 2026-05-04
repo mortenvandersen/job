@@ -1,23 +1,23 @@
 {
   "company": "Newsela",
   "url": "https://job-boards.greenhouse.io/newsela",
-  "scraped_at": "2026-04-27T10:07:55.756228+00:00",
-  "job_count": 29,
+  "scraped_at": "2026-05-04T10:07:53.852920+00:00",
+  "job_count": 30,
   "jobs": [
     {
-      "title": "Contract - Salesforce Administrator",
+      "title": "Associate Customer Success Manager (Remote, US)",
+      "department": "Customer",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/newsela/jobs/7867799"
+    },
+    {
+      "title": "Contract - Salesforce Administrator (Remote, Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico)",
       "department": "Customer",
       "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7411036"
     },
     {
-      "title": "Manager, Professional Learning",
-      "department": "Customer",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7644018"
-    },
-    {
-      "title": "School Customer Success Manager",
+      "title": "School Customer Success Manager (Remote, US)",
       "department": "Customer",
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7833317"
@@ -35,16 +35,10 @@
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7762289"
     },
     {
-      "title": "Account Executive (BOCES)",
+      "title": "Account Executive (BOCES) (Remote, NY)",
       "department": "Sales",
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7821978"
-    },
-    {
-      "title": "Contractor: Sales Development Representative (LATAM)",
-      "department": "Sales",
-      "location": "Remote - Brazil; Argentina; Mexico; Costa Rica; Colombia",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7607273"
     },
     {
       "title": "Expression of Interest: Sales Representative",
@@ -53,7 +47,7 @@
       "url": "https://job-boards.greenhouse.io/newsela/jobs/6356852"
     },
     {
-      "title": "Manager, SMB Sales",
+      "title": "Manager, SMB Sales (Remote, US)",
       "department": "Sales",
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7663528"
@@ -65,22 +59,34 @@
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7684276"
     },
     {
-      "title": "Sales Manager, K12 (Strategic and Key Accounts)",
-      "department": "Sales",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7801091"
-    },
-    {
-      "title": "Strategic Account Executive (EveryDay Labs)",
+      "title": "Strategic Account Executive (EveryDay Labs) (Remote, US)",
       "department": "Sales",
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7768674"
     },
     {
-      "title": "Strategic Account Executive",
+      "title": "Strategic Account Executive (Remote, US)",
       "department": "Sales",
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7746937"
+    },
+    {
+      "title": "Project Based Freelance Contributor - Assessment Item Specialist, English Language Arts (Remote, US)",
+      "department": "Freelance",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/newsela/jobs/7859663"
+    },
+    {
+      "title": "Project Based Freelance Contributor - Assessment Item Specialist, Science (Remote, US)",
+      "department": "Freelance",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/newsela/jobs/7723755"
+    },
+    {
+      "title": "Project Based Freelance Contributor - Assessment Item Specialist, Social Studies (Remote, US)",
+      "department": "Freelance",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/newsela/jobs/7859662"
     },
     {
       "title": "B2B Paid Media Marketing Manager",
@@ -101,39 +107,33 @@
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7269460"
     },
     {
-      "title": "People Partner, GTM",
+      "title": "Manager, Talent Acquisition (Remote, US)",
+      "department": "Talent Acquisition",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/newsela/jobs/7823060"
+    },
+    {
+      "title": "People Partner, GTM (Remote, US)",
       "department": "Talent Management",
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7639144"
     },
     {
-      "title": "Account Executive - Core",
+      "title": "Account Executive - Core (Remote, California)",
       "department": "Product",
       "location": "Remote - California",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7572941"
     },
     {
-      "title": "Impact Research Intern - Summer 2026",
-      "department": "Product",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7702405"
-    },
-    {
-      "title": "Senior Account Executive - Core",
+      "title": "Senior Account Executive - Core (Remote, California)",
       "department": "Product",
       "location": "Remote - California",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7782313"
     },
     {
-      "title": "Assessment Item Specialist, Science - Project Based Freelance Contributor",
-      "department": "Product Strategy",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7723755"
-    },
-    {
       "title": "Contract: AI Operations Specialist",
       "department": "Technology",
-      "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
+      "location": "Remote: Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7756408"
     },
     {
@@ -143,22 +143,28 @@
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7460443"
     },
     {
-      "title": "Contract: Lead Software Engineer - Newsela Writing Team",
-      "department": "Technology",
-      "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7756611"
-    },
-    {
       "title": "Contract: Senior Fullstack Quality Engineer",
       "department": "Technology",
       "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7773856"
     },
     {
+      "title": "Contract: Senior Site Reliability Engineer",
+      "department": "Technology",
+      "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica",
+      "url": "https://job-boards.greenhouse.io/newsela/jobs/7818533"
+    },
+    {
       "title": "Contract: Senior Software Engineer, Back End",
       "department": "Technology",
-      "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
+      "location": "Remote: Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7783181"
+    },
+    {
+      "title": "Contract: Senior Software Engineer - Newsela Writing Team",
+      "department": "Technology",
+      "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica",
+      "url": "https://job-boards.greenhouse.io/newsela/jobs/7861951"
     },
     {
       "title": "Data Engineer",
