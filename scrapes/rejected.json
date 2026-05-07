@@ -7729,5 +7729,424 @@
     "reasons": [
       "salary_below_floor: max $175,000 < $200,000 floor"
     ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Staff Software Engineer, Health",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "EVERSANA",
+    "title": "Senior Consultant (Life Sciences)",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Boston, MA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $171,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "T3 Sixty",
+    "title": "Financial Controller",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_blocklist: 'controller' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "The Trade Desk",
+    "title": "Associate General Counsel, Commercial CTV & Advertising",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_blocklist: 'associate' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Republic Services",
+    "title": "Operations Supervisor - Recycling",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "location_not_allowed: 'Richmond, CA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $129,150 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Graton Resort & Casino",
+    "title": "Public Relations Manager",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'casino' found",
+      "location_not_allowed: 'Rohnert Park, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "3 Bridge Networks",
+    "title": "Director of Accounting",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Handshake",
+    "title": "FP&A Manager",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $160,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Personalis, Inc.",
+    "title": "Director, Lab Operations",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Fremont, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "BioMarin Pharmaceutical Inc.",
+    "title": "Director – Global CRM Business Strategy & Enablement",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "location_not_allowed: 'San Rafael, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Develop Health",
+    "title": "Executive Operations Lead",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "SambaSafety",
+    "title": "Strategic Marketing Manager - Auto Insurance",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_blocklist: 'marketing manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Replit",
+    "title": "Chief of Staff to CEO",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "location_not_allowed: 'Foster City, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Education Reform Now",
+    "title": "Director of Finance And Operations",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "location_not_allowed: 'Providence, RI' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $185,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Kayne Anderson Rudnick",
+    "title": "Lead Advisor, Southeast Region - KAR",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "AMER West Commercial Ops Planning",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "salary_below_floor: max $196,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Elevate Energy Consulting",
+    "title": "Engineering Project Manager",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Orion Placement",
+    "title": "Director of Business Development - Property Tax Services",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "salary_below_floor: max $120,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crawford & Company",
+    "title": "Director Business Development - Texas",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "salary_below_floor: max $151,581 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Laerdal Medical",
+    "title": "Business Development Manager, Strategic Partnerships",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "salary_below_floor: max $160,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Pinnacle Method Consulting",
+    "title": "Senior Project Manager - Business Development Team (HYBRID OR REMOTE)",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "salary_below_floor: max $145,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Electroswitch",
+    "title": "Director of Sales",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_blocklist: 'director of sales' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: 'commission structure' found — likely sales/commission role",
+      "location_not_allowed: 'Weymouth, MA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Pinnacle Method Consulting",
+    "title": "Senior Project Manager - Business Development Team (HYBRID OR REMOTE)",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "salary_below_floor: max $145,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "TALENT Software Services",
+    "title": "Sr Prin Cybersecurity Specialist",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "part_time: 'contractor' found",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Randstad USA",
+    "title": "Business Development Manager",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "location_not_allowed: 'Irvine, CA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Humana",
+    "title": "Strategy Advancement Principle",
+    "posted_at": "2026-05-07",
+    "reasons": [
+      "salary_below_floor: max $191,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crawford & Company",
+    "title": "Director Business Development - Midwest Region",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "salary_below_floor: max $151,581 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crawford & Company",
+    "title": "Director Business Development - NorthEast Region",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "salary_below_floor: max $151,581 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Barry Callebaut Group",
+    "title": "National Distribution Sales Manager",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_blocklist: 'sales manager' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'restaurants' found",
+      "salary_below_floor: max $125,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crawford & Company",
+    "title": "Director Business Development - Florida",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "salary_below_floor: max $151,581 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Junction",
+    "title": "Customer Success Manager",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_blocklist: 'customer success' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "hyrUP",
+    "title": "Financial Director",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Resonance CX Partners",
+    "title": "Executive Assistant to CEO + AI",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Quadient",
+    "title": "Senior Manager, SOC and Postal Audits",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Boston, MA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $173,700 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Solomon Group",
+    "title": "Director of Business Development",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "location_not_allowed: 'New Orleans, LA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "SoTalent",
+    "title": "Senior Regional Provider Engagement Manager",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $157,800 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Reprise Financial",
+    "title": "Senior Manager, FP&A – Personal Loans",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Uniphar | Development",
+    "title": "Director of Business Development",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "salary_below_floor: max $160,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Payscale",
+    "title": "Senior Program Manager",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $166,680 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Solventum",
+    "title": "Americas MedSurg Strategic Initiatives Leader",
+    "posted_at": "2026-05-07",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $196,900 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Senior Integrations Engineer",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $154,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Business Operations Manager",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "salary_below_floor: max $185,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "HR Exchange",
+    "title": "VP of Operations Mining - Texas or Vancouver - Hybrid",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "industry_blocklist: 'oil' found"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Software Engineer, Learn",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "CapeTalent",
+    "title": "Remote Learning Strategist (Taxonomy & Skills Strategy)",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "part_time: 'contractor' found",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Strategic Employment Partners (SEP)",
+    "title": "Vice President Operations",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Tallahassee Metropolitan Area' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "New Classrooms",
+    "title": "Senior Director, School & District Solutions",
+    "posted_at": "2026-05-06",
+    "reasons": [
+      "location_not_allowed: 'New York City Metropolitan Area' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $175,000 < $200,000 floor"
+    ]
   }
 ]
