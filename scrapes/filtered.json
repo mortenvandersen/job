@@ -1,132 +1,52 @@
 [
   {
-    "company": "Commure",
-    "title": "Chief of Staff",
-    "slug": "commure-chief-of-staff",
-    "location": "Mountain View, CA",
-    "salary": "$165,000.00/yr - $200,000.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/chief-of-staff-at-commure-4377095242?position=3&pageNum=0&refId=X0hByb8a3KIRPXpPS5IFhA%3D%3D&trackingId=SVtNGPtLjKHFQet7UiENtQ%3D%3D",
-    "seniority": "Not Applicable",
-    "industries": "Hospitals and Health Care"
-  },
-  {
-    "company": "AMD",
-    "title": "Sr. Director, Business Development – AI Labs and Digital Natives",
-    "slug": "amd-sr-director-business-development-ai-labs-and-digital-natives",
-    "location": "Santa Clara, CA",
-    "salary": "$256,400.00/yr - $384,600.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/sr-director-business-development-%E2%80%93-ai-labs-and-digital-natives-at-amd-4399907291?position=6&pageNum=0&refId=X0hByb8a3KIRPXpPS5IFhA%3D%3D&trackingId=ehnGy5Zj7HJ5GjW1%2BCZu7Q%3D%3D",
-    "seniority": "Mid-Senior level",
-    "industries": "Semiconductor Manufacturing"
-  },
-  {
-    "company": "Optiv",
-    "title": "Client Solutions Director | Remote, NY or Boston",
-    "slug": "optiv-client-solutions-director-remote-ny-or-boston",
-    "location": "New York, NY",
-    "salary": "$157,000.00/yr - $213,000.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/client-solutions-director-remote-ny-or-boston-at-optiv-4411274946?position=33&pageNum=0&refId=6retlGvdFkZpIwmCbWSwMA%3D%3D&trackingId=G9o0uHPEs48G5FKx4%2FpYxA%3D%3D",
-    "seniority": "Not Applicable",
-    "industries": "Computer and Network Security"
-  },
-  {
-    "company": "Ladders",
-    "title": "Senior Director, Business Development: NSA, USCYBERCOM, and Intelligence Community",
-    "slug": "ladders-senior-director-business-development-nsa-uscybercom-and-intelligence-community",
-    "location": "United States",
-    "salary": "$176,900.00/yr - $332,400.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/senior-director-business-development-nsa-uscybercom-and-intelligence-community-at-ladders-4409796605?position=30&pageNum=0&refId=6retlGvdFkZpIwmCbWSwMA%3D%3D&trackingId=DIukx3H4GUIg%2FUt%2Bgs3jTQ%3D%3D",
-    "seniority": "Not Applicable",
-    "industries": "Wholesale, Vehicle Repair and Maintenance, and Manufacturing"
-  },
-  {
-    "company": "Ladders",
-    "title": "SVP, Outside the Base Sales",
-    "slug": "ladders-svp-outside-the-base-sales",
-    "location": "United States",
-    "salary": "$180,000.00/yr - $250,000.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/svp-outside-the-base-sales-at-ladders-4409796603?position=19&pageNum=0&refId=6retlGvdFkZpIwmCbWSwMA%3D%3D&trackingId=xmCYI0hLG3DtQbs%2F8G%2BQew%3D%3D",
-    "seniority": "Not Applicable",
-    "industries": "Hospitals and Health Care"
-  },
-  {
-    "company": "CDC Global Solutions",
-    "title": "Senior Director Business Development",
-    "slug": "cdc-global-solutions-senior-director-business-development",
-    "location": "United States",
-    "salary": "$160,000.00/yr - $200,000.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/senior-director-business-development-at-cdc-global-solutions-4411209945?position=14&pageNum=0&refId=6retlGvdFkZpIwmCbWSwMA%3D%3D&trackingId=mw64Wscsoj6mPOPFn0Z9Sg%3D%3D",
+    "company": "Vitality Group",
+    "title": "Director of Business Development",
+    "slug": "vitality-group-director-of-business-development",
+    "location": "San Francisco Bay Area",
+    "salary": "$250,000.00/yr - $330,000.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/director-of-business-development-at-vitality-group-4412333328?position=2&pageNum=0&refId=wMsuNmSP%2BTtjmM4jfTdxsw%3D%3D&trackingId=1nNNbUbrveX8HLiYPkj3oA%3D%3D",
     "seniority": "Director",
-    "industries": "Pharmaceutical Manufacturing, Biotechnology Research, and Research Services"
-  },
-  {
-    "company": "Ladders",
-    "title": "Corporate Strategy & Diversification Director",
-    "slug": "ladders-corporate-strategy-diversification-director",
-    "location": "United States",
-    "salary": "$187,000.00/yr - $250,000.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/corporate-strategy-diversification-director-at-ladders-4409791648?position=13&pageNum=0&refId=6retlGvdFkZpIwmCbWSwMA%3D%3D&trackingId=6HHrGk7UCHeniWTAdongcA%3D%3D",
-    "seniority": "Not Applicable",
-    "industries": "Hospitals and Health Care"
-  },
-  {
-    "company": "Ladders",
-    "title": "VP, Public Sector GTM",
-    "slug": "ladders-vp-public-sector-gtm",
-    "location": "United States",
-    "salary": "$263,000.00/yr - $447,000.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/vp-public-sector-gtm-at-ladders-4409900280?position=12&pageNum=0&refId=6retlGvdFkZpIwmCbWSwMA%3D%3D&trackingId=rnsVV0qaOE4FMZordAMWtw%3D%3D",
-    "seniority": "Not Applicable",
-    "industries": "Technology, Information and Media"
+    "industries": "Construction"
   },
   {
     "company": "Swooped",
-    "title": "Strategy & Operations",
-    "slug": "swooped-strategy-operations",
+    "title": "Senior Manager, CX Operations",
+    "slug": "swooped-senior-manager-cx-operations",
     "location": "United States",
-    "salary": "$180,000.00/yr - $230,000.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/strategy-operations-at-swooped-4411205707?position=17&pageNum=0&refId=6retlGvdFkZpIwmCbWSwMA%3D%3D&trackingId=uJYaH0AnalMc568j4gAycw%3D%3D",
-    "seniority": "Mid-Senior level",
+    "salary": "$160,000.00/yr - $220,000.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/senior-manager-cx-operations-at-swooped-4412473444?position=6&pageNum=0&refId=whICOf7sQ0I4%2FOb%2FeGyIcg%3D%3D&trackingId=SyZbn9e2ae%2FJD9aytQdJvA%3D%3D",
+    "seniority": "Director",
     "industries": "Computer and Network Security and Technology, Information and Media"
   },
   {
-    "company": "Ladders",
-    "title": "Strategic Innovations Director-Remote within the US",
-    "slug": "ladders-strategic-innovations-director-remote-within-the-us",
-    "location": "United States",
-    "salary": "$165,490.00/yr - $227,546.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/strategic-innovations-director-remote-within-the-us-at-ladders-4409785765?position=9&pageNum=0&refId=6retlGvdFkZpIwmCbWSwMA%3D%3D&trackingId=%2BPSDDGCu6T5T1i4r5CsnPA%3D%3D",
-    "seniority": "Not Applicable",
-    "industries": "Wholesale Drugs and Sundries, Pharmaceutical Manufacturing, and Retail Pharmacies"
-  },
-  {
-    "company": "Claddagh Resources",
-    "title": "Director of Business Development CPG",
-    "slug": "claddagh-resources-director-of-business-development-cpg",
-    "location": "United States",
-    "salary": "$170,000.00/yr - $250,000.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/director-of-business-development-cpg-at-claddagh-resources-4408831994?position=10&pageNum=0&refId=6retlGvdFkZpIwmCbWSwMA%3D%3D&trackingId=%2BRMPWGusXuODJ%2F63StM0Jw%3D%3D",
-    "seniority": "Director",
-    "industries": "Retail, IT Services and IT Consulting, and Outsourcing and Offshoring Consulting"
-  },
-  {
-    "company": "BioTalent",
-    "title": "Senior Director Business Development",
-    "slug": "biotalent-senior-director-business-development",
+    "company": "VytlOne",
+    "title": "Director, Operational Performance",
+    "slug": "vytlone-director-operational-performance",
     "location": "United States",
     "salary": "",
-    "link": "https://www.linkedin.com/jobs/view/senior-director-business-development-at-biotalent-4410983982?position=6&pageNum=0&refId=6retlGvdFkZpIwmCbWSwMA%3D%3D&trackingId=tyonDX1c7iEOWdlfjhHH1g%3D%3D",
+    "link": "https://www.linkedin.com/jobs/view/director-operational-performance-at-vytlone-4403537660?position=3&pageNum=0&refId=whICOf7sQ0I4%2FOb%2FeGyIcg%3D%3D&trackingId=Rg6ONMQshwI1b3rEdQKcRw%3D%3D",
     "seniority": "Director",
-    "industries": "Pharmaceutical Manufacturing and Advertising Services"
+    "industries": "Hospitals and Health Care"
   },
   {
-    "company": "Ladders",
-    "title": "Vice President of Growth (VP Business Development) - 28345",
-    "slug": "ladders-vice-president-of-growth-vp-business-development-28345",
+    "company": "Swooped",
+    "title": "Chief of Staff - CTO",
+    "slug": "swooped-chief-of-staff-cto",
     "location": "United States",
-    "salary": "$226,662.00/yr - $275,000.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/vice-president-of-growth-vp-business-development-28345-at-ladders-4409778978?position=7&pageNum=0&refId=6retlGvdFkZpIwmCbWSwMA%3D%3D&trackingId=PYhq1Hbgl3wnbBZUZcT3yw%3D%3D",
+    "salary": "$155,420.00/yr - $235,600.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/chief-of-staff-cto-at-swooped-4412476394?position=1&pageNum=0&refId=whICOf7sQ0I4%2FOb%2FeGyIcg%3D%3D&trackingId=7EZyem5Vb8uumrQjgFLpBQ%3D%3D",
+    "seniority": "Executive",
+    "industries": "Computer and Network Security and Technology, Information and Media"
+  },
+  {
+    "company": "AirGarage",
+    "title": "General Manager (West Region)",
+    "slug": "airgarage-general-manager-west-region",
+    "location": "United States",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/general-manager-west-region-at-airgarage-4403554410?position=4&pageNum=0&refId=whICOf7sQ0I4%2FOb%2FeGyIcg%3D%3D&trackingId=veg7Wtip3%2B8CsCbKiJ%2FWMg%3D%3D",
     "seniority": "Not Applicable",
-    "industries": "Wholesale, Vehicle Repair and Maintenance, and Manufacturing"
+    "industries": "Technology, Information and Internet and Real Estate"
   }
 ]

@@ -8148,5 +8148,220 @@
       "location_not_allowed: 'New York City Metropolitan Area' is not remote and not in SF Bay Area",
       "salary_below_floor: max $175,000 < $200,000 floor"
     ]
+  },
+  {
+    "company": "Instructure",
+    "title": "Senior Project Manager, Customer Development",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Salt Lake City, UT' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $122,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Software Engineer, Learn",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Kaiser Permanente",
+    "title": "Nurse Manager I, OB/GYN",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "title_blocklist: 'nurse' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Santa Rosa, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Fondo",
+    "title": "Tax Manager (Remote)",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Providence Health & Services",
+    "title": "Director, Care Management RN",
+    "posted_at": "2026-05-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Santa Rosa, CA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $193,120 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Providence Health & Services",
+    "title": "Director, Care Management RN",
+    "posted_at": "2026-05-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Healdsburg, CA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $193,120 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Providence Health & Services",
+    "title": "Director, Care Management RN",
+    "posted_at": "2026-05-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Petaluma, CA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $193,120 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "ASML",
+    "title": "Senior Data Quality Specialist",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $138,125 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Hinge Health",
+    "title": "Lead Content Strategist, Growth",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "VytlOne",
+    "title": "340B Regulatory Manager",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Orbital Engineering, Inc.",
+    "title": "Distribution Design Senior Manager - Midwest",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Greater Chicago Area' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Pinnacle Method Consulting",
+    "title": "Business Analyst IV",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "title_blocklist: 'analyst' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $164,800 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Retool",
+    "title": "Sr. Manager, Revenue Strategy & Operations",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "description_blocklist: 'on-target earnings' found — likely sales/commission role"
+    ]
+  },
+  {
+    "company": "Orbital Engineering, Inc.",
+    "title": "Department Manager - Electric Utility Construction Services",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "title_blocklist: 'construction' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "hackajob",
+    "title": "Sales Director",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "title_blocklist: 'sales director' found in title"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Executive Assistant / Personal Assistant",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Project Management Institute",
+    "title": "Manager, Product Management",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $198,600 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Pyramid Consulting, Inc",
+    "title": "Client Partner – Strategic Consulting Accounts",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "salary_below_floor: max $160,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Samsara",
+    "title": "Sales Operations Manager",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "title_blocklist: 'sales operations' found in title",
+      "salary_below_floor: max $128,400 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Business Operations Manager",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Instructure",
+    "title": "Principal Business Operations Manager  - US",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "salary_below_floor: max $190,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "OpenCall.ai (YC W24)",
+    "title": "Chief of Staff",
+    "posted_at": "2026-05-09",
+    "reasons": [
+      "salary_below_floor: max $195,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Circular Action Alliance",
+    "title": "VP - Material Services, End Markets",
+    "posted_at": "2026-05-10",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Resonance CX Partners",
+    "title": "Executive Assistant to CEO + AI",
+    "posted_at": "2026-05-10",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
   }
 ]
