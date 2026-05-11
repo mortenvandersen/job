@@ -1,14 +1,14 @@
 {
   "company": "Accelerate Learning",
   "url": "https://www.acceleratelearning.com/careers/",
-  "scraped_at": "2026-05-04T10:04:46.572869+00:00",
-  "job_count": 7,
+  "scraped_at": "2026-05-11T10:51:43.334098+00:00",
+  "job_count": 9,
   "jobs": [
     {
-      "title": "Director Math Curriculum",
+      "title": "Product Manager Math",
       "department": "Curriculum Development",
       "location": "Remote",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a7887a19db1e8b7019dd9ec7f144058&source=&lang=en"
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a78859e9de070f7019e0335bb8d083d&source=&lang=en"
     },
     {
       "title": "Science Curriculum Writing- Independent Contractor",
@@ -17,7 +17,7 @@
       "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a78879e97ae19d90197c26fe4a2193c&source=&lang=en"
     },
     {
-      "title": "Technical Application Specialist",
+      "title": "Technical Success Partner",
       "department": "Customer Success",
       "location": "Houston, TX",
       "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a78839f9b1376bd019bc77b678f624a&source=&lang=en"
@@ -27,6 +27,12 @@
       "department": "Customer Success",
       "location": "Houston, TX",
       "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a7883ac9d930826019db0caa3c65011&source=&lang=en"
+    },
+    {
+      "title": "Data Specialist",
+      "department": "Operations",
+      "location": "Houston, TX",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a78839e9b137672019b381d5a911d83&source=&lang=en"
     },
     {
       "title": "Field Sales Associate- Math Curriculum (California only)",
@@ -41,10 +47,16 @@
       "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a7883a89d9308df019db06b61395933&source=&lang=en"
     },
     {
-      "title": "IT Helpdesk and System Administrator",
+      "title": "Intern, Software Engineer",
       "department": "Technology and Engineering",
-      "location": "Houston, TX",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a7883ac9d02ffb2019d1b54c9a055fe&source=&lang=en"
+      "location": "Remote",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a78859f9de070d0019e043c9531045c&source=&lang=en"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "department": "Technology and Engineering",
+      "location": "Remote",
+      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d08d19fedb018d57d02cda2d7c&id=8a7887a19de07068019df5b1589078fa&source=&lang=en"
     }
   ]
 }

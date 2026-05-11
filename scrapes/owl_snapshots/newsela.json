@@ -1,8 +1,8 @@
 {
   "company": "Newsela",
   "url": "https://job-boards.greenhouse.io/newsela",
-  "scraped_at": "2026-05-04T10:07:53.852920+00:00",
-  "job_count": 30,
+  "scraped_at": "2026-05-11T10:54:31.407187+00:00",
+  "job_count": 25,
   "jobs": [
     {
       "title": "Associate Customer Success Manager (Remote, US)",
@@ -17,12 +17,6 @@
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7411036"
     },
     {
-      "title": "School Customer Success Manager (Remote, US)",
-      "department": "Customer",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7833317"
-    },
-    {
       "title": "Curricular Solutions Architect",
       "department": "Customer Solutions",
       "location": "Remote - US",
@@ -33,12 +27,6 @@
       "department": "Sales",
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7762289"
-    },
-    {
-      "title": "Account Executive (BOCES) (Remote, NY)",
-      "department": "Sales",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7821978"
     },
     {
       "title": "Expression of Interest: Sales Representative",
@@ -95,12 +83,6 @@
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7678537"
     },
     {
-      "title": "Director, Marketing Operations",
-      "department": "Marketing",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7444781"
-    },
-    {
       "title": "Growth Marketing Specialist",
       "department": "Marketing",
       "location": "Remote - United States",
@@ -117,18 +99,6 @@
       "department": "Talent Management",
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7639144"
-    },
-    {
-      "title": "Account Executive - Core (Remote, California)",
-      "department": "Product",
-      "location": "Remote - California",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7572941"
-    },
-    {
-      "title": "Senior Account Executive - Core (Remote, California)",
-      "department": "Product",
-      "location": "Remote - California",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7782313"
     },
     {
       "title": "Contract: AI Operations Specialist",

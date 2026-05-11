@@ -1,7 +1,7 @@
 {
   "company": "Cloudforce",
   "url": "https://gocloudforce.com/careers/",
-  "scraped_at": "2026-05-04T10:05:50.625710+00:00",
+  "scraped_at": "2026-05-11T10:52:39.051038+00:00",
   "job_count": 19,
   "jobs": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "title": "Scrum Master",
-      "department": "Operations",
+      "department": "Delivery",
       "location": null,
       "url": "https://jobs.lever.co/go-cloudforce/539257d6-686c-4a71-9e74-9a0daf0ea322"
     },
@@ -108,7 +108,7 @@
     },
     {
       "title": "Full Stack Developer",
-      "department": "Delivery",
+      "department": "nebulaONE",
       "location": null,
       "url": "https://jobs.lever.co/go-cloudforce/07591a75-4677-4ca5-a254-e367a6c3f4c9"
     },

@@ -1,7 +1,7 @@
 {
   "company": "Hazel Health",
   "url": "https://job-boards.greenhouse.io/hazel",
-  "scraped_at": "2026-05-04T10:06:20.848652+00:00",
+  "scraped_at": "2026-05-11T10:53:08.350506+00:00",
   "job_count": 16,
   "jobs": [
     {
@@ -9,6 +9,12 @@
       "department": "Clinical",
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/hazel/jobs/6269846003"
+    },
+    {
+      "title": "Licensed Mental Health Therapist (Part-Time), Nevada",
+      "department": "Clinical",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/hazel/jobs/7638826003"
     },
     {
       "title": "Remote Pediatric Mental Health Therapist (Measurement-Informed Care) \u2013 Part-Time (California)",
@@ -59,16 +65,16 @@
       "url": "https://job-boards.greenhouse.io/hazel/jobs/7638918003"
     },
     {
-      "title": "Remote Pediatric Therapist (Part-Time), Nevada",
-      "department": "Clinical",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/hazel/jobs/7638826003"
-    },
-    {
       "title": "Remote Pediatric Therapist (Part-Time), New Jersey",
       "department": "Clinical",
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/hazel/jobs/7638987003"
+    },
+    {
+      "title": "Remote Pediatric Therapist (Part-Time), North Carolina",
+      "department": "Clinical",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/hazel/jobs/7724944003"
     },
     {
       "title": "Remote Pediatric Therapist (Part-Time), Ohio",
@@ -81,12 +87,6 @@
       "department": "Clinical",
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/hazel/jobs/7638933003"
-    },
-    {
-      "title": "Remote Pediatric Therapist (Part-Time), Virginia",
-      "department": "Clinical",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/hazel/jobs/7638875003"
     },
     {
       "title": "Remote Pediatric Therapist (Part-Time), Washington",

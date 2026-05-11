@@ -1,7 +1,32 @@
 {
   "company": "Swing Education",
   "url": "https://www.swingeducation.com/careers/",
-  "scraped_at": "2026-05-04T10:09:37.667824+00:00",
-  "job_count": 0,
-  "jobs": []
+  "scraped_at": "2026-05-11T10:56:05.051599+00:00",
+  "job_count": 4,
+  "jobs": [
+    {
+      "title": "Customer Success Manager (NorCal)",
+      "department": "Customer Success",
+      "location": "Northern California",
+      "url": "https://swingeducation.com/job-description/?gh_jid=5179684008"
+    },
+    {
+      "title": "Customer Success Manager (SoCal)",
+      "department": "Customer Success",
+      "location": "Southern California",
+      "url": "https://swingeducation.com/job-description/?gh_jid=5207523008"
+    },
+    {
+      "title": "Account Executive - Southern California",
+      "department": "Sales",
+      "location": "Remote - California",
+      "url": "https://swingeducation.com/job-description/?gh_jid=4990819008"
+    },
+    {
+      "title": "Account Executive - Texas",
+      "department": "Sales",
+      "location": "Remote - Texas",
+      "url": "https://swingeducation.com/job-description/?gh_jid=5201470008"
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "company": "Kiddom",
   "url": "https://jobs.lever.co/kiddom",
-  "scraped_at": "2026-05-04T10:07:08.772671+00:00",
-  "job_count": 24,
+  "scraped_at": "2026-05-11T10:53:51.432784+00:00",
+  "job_count": 19,
   "jobs": [
     {
       "title": "Machine Learning Researcher",
@@ -23,12 +23,6 @@
       "url": "https://jobs.lever.co/kiddom/9041c5e7-794f-4800-ad0d-56be5748fe57"
     },
     {
-      "title": "Lead Software Engineer, Front End",
-      "department": "Engineering",
-      "location": "San Francisco / New York",
-      "url": "https://jobs.lever.co/kiddom/5ee79766-8fc4-4dd3-ba81-a12e44e832f9"
-    },
-    {
       "title": "Senior Backend Engineer, Tooling",
       "department": "Engineering",
       "location": "San Francisco or New York",
@@ -41,40 +35,16 @@
       "url": "https://jobs.lever.co/kiddom/1a00e90a-08bc-4199-a577-0d3ee97bfef3"
     },
     {
-      "title": "Senior Full Stack Engineer",
-      "department": "Engineering",
-      "location": "San Francisco or New York",
-      "url": "https://jobs.lever.co/kiddom/467c9490-bbd9-40ba-a2ce-7ea970149fc7"
-    },
-    {
       "title": "Senior Full Stack Engineer, AI Experience",
       "department": "Engineering",
       "location": "San Francisco or New York",
       "url": "https://jobs.lever.co/kiddom/cce1e56c-4a23-48c9-9c65-cff7d8651dbf"
     },
     {
-      "title": "Senior Full Stack Engineer, Growth",
-      "department": "Engineering",
-      "location": "San Francisco or New York",
-      "url": "https://jobs.lever.co/kiddom/22360ad3-16fc-4ccf-a31e-f6e01a727c24"
-    },
-    {
       "title": "Senior Software Engineer, Backend",
       "department": "Engineering",
       "location": "San Francisco / New York City, New York",
       "url": "https://jobs.lever.co/kiddom/06a7b6f2-2eb7-477b-a249-a55597dee1b7"
-    },
-    {
-      "title": "Senior Software Engineer, Core Services",
-      "department": "Engineering",
-      "location": "San Francisco / New York",
-      "url": "https://jobs.lever.co/kiddom/68466ae5-ed87-4f4a-8a9b-4cb3187a8329"
-    },
-    {
-      "title": "Senior Software Engineer, Front End",
-      "department": "Engineering",
-      "location": "San Francisco or New York",
-      "url": "https://jobs.lever.co/kiddom/9c0679a3-0860-443b-a881-d782a191333b"
     },
     {
       "title": "Senior Software Engineer, Infrastructure",

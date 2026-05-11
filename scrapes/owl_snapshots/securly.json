@@ -1,38 +1,92 @@
 {
   "company": "Securly",
   "url": "https://www.securly.com/careers",
-  "scraped_at": "2026-05-04T10:09:14.783855+00:00",
-  "job_count": 5,
+  "scraped_at": "2026-05-11T10:55:33.566227+00:00",
+  "job_count": 14,
   "jobs": [
     {
-      "title": "Senior Backend Engineer (DoH) \u2013 Golang - DNS & Systems",
+      "title": "Senior Applied AI Engineer \u2013 AI Systems for Business Operations (GTM Platform)",
+      "department": "AI and Machine Learning",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://www.securly.com/job-description?gh_jid=7597533"
+    },
+    {
+      "title": "Customer Success Manager, Large/Enterprise School Districts \u2013 Join Our Remote Talent Community",
+      "department": "Customer Success",
+      "location": "United States of America - Remote",
+      "url": "https://www.securly.com/job-description?gh_jid=6745072"
+    },
+    {
+      "title": "Customer Success Manager, Small & Mid-Market \u2013 Join Our Remote Talent Community",
+      "department": "Customer Success",
+      "location": "United States of America - Remote",
+      "url": "https://www.securly.com/job-description?gh_jid=6745219"
+    },
+    {
+      "title": "Senior Software Engineer (GO)- DNS & Network Systems",
       "department": "Engineering / R&D",
       "location": "Pune City, Maharashtra, India",
       "url": "https://www.securly.com/job-description?gh_jid=7872503"
     },
     {
-      "title": "Senior Rust Engineer \u2013 Proxy Conversion & Business Logic",
+      "title": "Senior Software Engineer (Rust) - Proxy Services",
       "department": "Engineering / R&D",
       "location": "Pune City, Maharashtra, India",
       "url": "https://www.securly.com/job-description?gh_jid=7874606"
     },
     {
-      "title": "Sales Operations Administrator - temporary",
-      "department": "Revenue Operations",
-      "location": "United States (remote)",
-      "url": "https://www.securly.com/job-description?gh_jid=7736550"
+      "title": "Senior Software Engineer (Rust) - Proxy Infrastructure",
+      "department": "Engineering / R&D",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://www.securly.com/job-description?gh_jid=7874674"
     },
     {
-      "title": "Proposal Writer - K-12/EdTech",
+      "title": "Senior SDET - Browser & Extension Testing",
+      "department": "Engineering / R&D",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://www.securly.com/job-description?gh_jid=7874687"
+    },
+    {
+      "title": "Senior Software Engineer - Browser Extensions",
+      "department": "Engineering / R&D",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://www.securly.com/job-description?gh_jid=7874718"
+    },
+    {
+      "title": "Senior Data Scientist",
+      "department": "Engineering / R&D",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://www.securly.com/job-description?gh_jid=7874735"
+    },
+    {
+      "title": "Senior Data Scientist",
+      "department": "Engineering / R&D",
+      "location": "Pune City, Maharashtra, India",
+      "url": "https://www.securly.com/job-description?gh_jid=7895480"
+    },
+    {
+      "title": "Proposal Manager - K-12, EdTech",
       "department": "Revenue Operations",
       "location": "United States (remote)",
       "url": "https://www.securly.com/job-description?gh_jid=7788975"
     },
     {
-      "title": "Senior Applied AI Engineer \u2013 AI Systems for Business Operations (GTM Platform)",
-      "department": "Sales Engineers/Solution Architects",
-      "location": "Pune City, Maharashtra, India",
-      "url": "https://www.securly.com/job-description?gh_jid=7597533"
+      "title": "Account Executive, Large/Enterprise \u2013 Join Our Remote Talent Community",
+      "department": "Sales",
+      "location": "United States of America - Remote",
+      "url": "https://www.securly.com/job-description?gh_jid=6742197"
+    },
+    {
+      "title": "Account Executive, SMB \u2013 Join Our Remote Talent Community",
+      "department": "Sales",
+      "location": "United States of America - Remote",
+      "url": "https://www.securly.com/job-description?gh_jid=6745045"
+    },
+    {
+      "title": "Sales Development Representative (SDR) \u2013 Join Our Remote Talent Community",
+      "department": "Sales Development Reps (SDR/BDR)",
+      "location": "United States of America - Remote",
+      "url": "https://www.securly.com/job-description?gh_jid=6745220"
     }
   ]
 }

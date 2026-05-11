@@ -1,7 +1,7 @@
 {
   "company": "Hoytrabajas",
   "url": "https://hoytrabajas.com/careers",
-  "scraped_at": "2026-05-04T10:06:40.299670+00:00",
+  "scraped_at": "2026-05-11T10:53:29.770404+00:00",
   "job_count": 20,
   "jobs": [
     {
@@ -77,12 +77,6 @@
       "url": "https://hoytrabajas.com/cargos/60095-operador-salas-de-cine-f"
     },
     {
-      "title": "T\u00e9cnico Operativo de Lavado",
-      "department": null,
-      "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
-      "url": "https://hoytrabajas.com/cargos/60064-tecnico-operativo-de-lavado"
-    },
-    {
       "title": "T\u00e9cnicos de Refrigeraci\u00f3n con Moto (F)",
       "department": null,
       "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
@@ -107,12 +101,6 @@
       "url": "https://hoytrabajas.com/cargos/60084-tecnico-a-refrigerador-con-moto-f"
     },
     {
-      "title": "Operador(a) de Cargador (F)",
-      "department": null,
-      "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
-      "url": "https://hoytrabajas.com/cargos/60242-operador-a-de-cargador-f"
-    },
-    {
       "title": "Representante de Ventas Biling\u00fce Internet Fibra - F",
       "department": null,
       "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
@@ -123,6 +111,18 @@
       "department": null,
       "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
       "url": "https://hoytrabajas.com/cargos/60213-operador-de-vibrocompactador-f"
+    },
+    {
+      "title": "Operador(a) de Cargador (F)",
+      "department": null,
+      "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
+      "url": "https://hoytrabajas.com/cargos/60242-operador-a-de-cargador-f"
+    },
+    {
+      "title": "Operador M\u00faltiple (F)",
+      "department": null,
+      "location": "Bogot\u00e1, Bogot\u00e1, D.C.",
+      "url": "https://hoytrabajas.com/cargos/60246-operador-multiple-f"
     }
   ]
 }

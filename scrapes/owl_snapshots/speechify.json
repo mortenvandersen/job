@@ -1,7 +1,7 @@
 {
   "company": "Speechify",
   "url": "https://job-boards.greenhouse.io/speechify",
-  "scraped_at": "2026-05-04T10:09:31.155322+00:00",
+  "scraped_at": "2026-05-11T10:55:55.019378+00:00",
   "job_count": 50,
   "jobs": [
     {
@@ -9,6 +9,12 @@
       "department": "Engineering",
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/speechify/jobs/5979996004"
+    },
+    {
+      "title": "Go-to-Market Engineer",
+      "department": "Engineering",
+      "location": "New York City",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5989934004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
@@ -19,8 +25,8 @@
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
-      "location": "Albuquerque, NM, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974636004"
+      "location": "Alexandria, VA, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974566004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
@@ -37,32 +43,26 @@
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
-      "location": "Ann Arbor, MI, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974522004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
-      "location": "Arlington, VA, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974564004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
       "location": "Atlanta, GA, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974471004"
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5976167004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
       "location": "Austin, TX, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974465004"
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5976173004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
-      "location": "Baton Rouge, LA, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974666004"
+      "location": "Bakersfield, CA, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974617004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
+      "location": "Baltimore, MD, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974573004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
@@ -73,14 +73,14 @@
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
-      "location": "Berkeley, CA, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974515004"
+      "location": "Bellevue, WA, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5976174004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
-      "location": "Birmingham, AL, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974660004"
+      "location": "Berkeley, CA, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974515004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
@@ -91,8 +91,14 @@
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
+      "location": "Boise, ID, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974628004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
       "location": "Boston, MA, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5976170004"
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974468004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
@@ -115,20 +121,14 @@
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
-      "location": "Cambridge, MA, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974546004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
       "location": "Cary, NC, USA",
       "url": "https://job-boards.greenhouse.io/speechify/jobs/5974539004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
-      "location": "Champaign, IL, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974648004"
+      "location": "Chapel Hill, NC, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974537004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
@@ -139,26 +139,32 @@
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
+      "location": "Chattanooga, TN, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974705004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
       "location": "Chicago, IL, USA",
       "url": "https://job-boards.greenhouse.io/speechify/jobs/5974469004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
-      "location": "Cleveland, OH, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974534004"
+      "location": "Cincinnati, OH, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974531004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
+      "location": "College Station, TX, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974642004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
       "location": "Colorado Springs, CO, USA",
       "url": "https://job-boards.greenhouse.io/speechify/jobs/5974632004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
-      "location": "Columbus, OH, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974528004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
@@ -181,8 +187,20 @@
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
+      "location": "Dayton, OH, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974654004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
       "location": "Denver, CO, USA",
       "url": "https://job-boards.greenhouse.io/speechify/jobs/5974470004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
+      "location": "Denver, CO, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5976168004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
@@ -193,14 +211,26 @@
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
-      "location": "Eugene, OR, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974624004"
+      "location": "Detroit, MI, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974525004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
+      "location": "El Paso, TX, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974640004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
       "location": "Evanston, IL, USA",
       "url": "https://job-boards.greenhouse.io/speechify/jobs/5974544004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
+      "location": "Fort Collins, CO, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974630004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
@@ -217,8 +247,26 @@
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
-      "location": "Gainesville, FL, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974672004"
+      "location": "Fremont, CA, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974519004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
+      "location": "Fresno, CA, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974614004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
+      "location": "Grand Rapids, MI, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974652004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
+      "location": "Hartford, CT, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974680004"
     },
     {
       "title": "Senior Software Engineer, Core Experiences",
@@ -229,80 +277,32 @@
     {
       "title": "Senior Software Engineer, Core Experiences",
       "department": "Engineering",
+      "location": "Houston, TX, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974507004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
+      "location": "Huntsville, AL, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974543004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
+      "location": "Indianapolis, IN, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974536004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
+      "location": "Irvine, CA, USA",
+      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974530004"
+    },
+    {
+      "title": "Senior Software Engineer, Core Experiences",
+      "department": "Engineering",
       "location": "Ithaca, NY, USA",
       "url": "https://job-boards.greenhouse.io/speechify/jobs/5974677004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
-      "location": "Kansas City, MO, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974538004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
-      "location": "Knoxville, TN, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974702004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
-      "location": "Long Beach, CA, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974481004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
-      "location": "Los Angeles, CA, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5976171004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
-      "location": "Louisville, KY, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974708004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
-      "location": "Madison, WI, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974520004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
-      "location": "Miami, FL, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974545004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
-      "location": "Minneapolis, MN, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974516004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
-      "location": "Mountain View, CA, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974504004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
-      "location": "Newark, NJ, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974550004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
-      "location": "New York, NY, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5976176004"
-    },
-    {
-      "title": "Senior Software Engineer, Core Experiences",
-      "department": "Engineering",
-      "location": "Oklahoma City, OK, USA",
-      "url": "https://job-boards.greenhouse.io/speechify/jobs/5974676004"
     }
   ]
 }

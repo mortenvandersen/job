@@ -1,7 +1,7 @@
 {
   "company": "Amira Learning",
   "url": "https://www.amiralearning.com/careers/",
-  "scraped_at": "2026-05-04T10:04:53.458401+00:00",
+  "scraped_at": "2026-05-11T10:51:49.776980+00:00",
   "job_count": 6,
   "jobs": [
     {
@@ -23,19 +23,19 @@
       "url": null
     },
     {
-      "title": "Success Manager - Northeast",
-      "department": null,
-      "location": "Northeast",
-      "url": null
-    },
-    {
       "title": "Senior Manager, BPO Operations",
       "department": null,
       "location": "US",
       "url": null
     },
     {
-      "title": "Data Scientist, Assessment & Learning Analytics",
+      "title": "Gen AI Engineer",
+      "department": null,
+      "location": "US",
+      "url": null
+    },
+    {
+      "title": "Gen AI Engineer",
       "department": null,
       "location": "US",
       "url": null

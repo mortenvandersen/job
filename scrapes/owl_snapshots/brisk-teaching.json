@@ -1,8 +1,8 @@
 {
   "company": "Brisk Teaching",
   "url": "https://jobs.ashbyhq.com/brisk-teaching",
-  "scraped_at": "2026-05-04T10:05:27.256519+00:00",
-  "job_count": 8,
+  "scraped_at": "2026-05-11T10:52:15.726847+00:00",
+  "job_count": 7,
   "jobs": [
     {
       "title": "Lead Data Scientist",
@@ -45,12 +45,6 @@
       "department": "Product",
       "location": "San Francisco; New York",
       "url": "https://jobs.ashbyhq.com/brisk-teaching/89c0a6ad-5cc3-4362-aa5a-3b8edf87d9c5"
-    },
-    {
-      "title": "Director, Customer Experience",
-      "department": "Sales",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/brisk-teaching/702196a1-cf00-40a4-8f00-d3d44f8adf0c"
     }
   ]
 }

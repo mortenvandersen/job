@@ -1,20 +1,7 @@
 {
   "company": "Interplay Learning",
   "url": "https://www.interplaylearning.com/careers/",
-  "scraped_at": "2026-05-04T10:06:52.509408+00:00",
-  "job_count": 2,
-  "jobs": [
-    {
-      "title": "SME Consultant - Data Center Maintenance",
-      "department": "Content",
-      "location": "Remote (United States)",
-      "url": "https://ats.rippling.com/en-US/interplaylearning/jobs/0a3a4d00-65a2-4cc6-a6ac-df8b037b04ca"
-    },
-    {
-      "title": "Principal React Engineer",
-      "department": "Engineering",
-      "location": "Remote (United States)",
-      "url": "https://ats.rippling.com/en-US/interplaylearning/jobs/3956fd04-efc2-4c04-9765-8ec289f96699"
-    }
-  ]
+  "scraped_at": "2026-05-11T10:53:38.742423+00:00",
+  "job_count": 0,
+  "jobs": []
 }

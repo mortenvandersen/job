@@ -1,9 +1,33 @@
 {
   "company": "Apna",
   "url": "https://apna.co/careers",
-  "scraped_at": "2026-05-04T10:05:05.211247+00:00",
+  "scraped_at": "2026-05-11T10:52:00.469022+00:00",
   "job_count": 10,
   "jobs": [
+    {
+      "title": "Enterprise Sales Manager - Gurgaon",
+      "department": null,
+      "location": "Gurugram, Haryana, India",
+      "url": null
+    },
+    {
+      "title": "Channel Sales - Senior Executive",
+      "department": "Sales & Account Management",
+      "location": "Noida, Uttar Pradesh, India",
+      "url": null
+    },
+    {
+      "title": "Lead Product Manager",
+      "department": "Product & Design",
+      "location": "Bengaluru, Karnataka, India",
+      "url": null
+    },
+    {
+      "title": "Project Manager - Voice AI Data Operations (TTS / STT / RLHF)",
+      "department": "Operations",
+      "location": "Bengaluru, Karnataka, India",
+      "url": null
+    },
     {
       "title": "InsideSales and Customer Service Executive",
       "department": "Sales & Account Management",
@@ -38,30 +62,6 @@
       "title": "Telesales Representative",
       "department": "Skilling",
       "location": "Bengaluru, Karnataka, India",
-      "url": null
-    },
-    {
-      "title": "Admission Counselor",
-      "department": "Sales & Account Management",
-      "location": "Noida, Uttar Pradesh, India",
-      "url": null
-    },
-    {
-      "title": "Project Delivery - Intern",
-      "department": "Operations",
-      "location": "Bengaluru, Karnataka, India",
-      "url": null
-    },
-    {
-      "title": "Video Editor",
-      "department": "Growth & Marketing",
-      "location": "Bengaluru, Karnataka, India",
-      "url": null
-    },
-    {
-      "title": "IT Support Engineer - L1",
-      "department": "Engineering",
-      "location": "Noida, Uttar Pradesh, India",
       "url": null
     }
   ]
