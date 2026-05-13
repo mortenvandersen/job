@@ -8363,5 +8363,728 @@
       "title_allowlist: no target role keyword found in title or jobFunction",
       "salary_below_floor: max $150,000 < $200,000 floor"
     ]
+  },
+  {
+    "company": "Ingram Micro",
+    "title": "Technical Enablement Architect - Dell ISG  (Pre-sales)",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Head Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Salt Lake City, UT' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "CenterWell Senior Primary Care",
+    "title": "Lead Actuary - PCO",
+    "posted_at": "2026-05-13",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $177,800 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Performance Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Salt Lake City, UT' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "AMD",
+    "title": "Staff Analyst, Strategic Finance - AI Group",
+    "posted_at": "2026-05-13",
+    "reasons": [
+      "title_blocklist: 'analyst' found in title",
+      "salary_below_floor: max $164,640 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Providence Health & Services",
+    "title": "Director, Care Management RN",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Santa Rosa, CA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $193,120 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Retool",
+    "title": "Software Engineer, Governance",
+    "posted_at": "2026-05-13",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: 'on-target earnings' found — likely sales/commission role"
+    ]
+  },
+  {
+    "company": "Providence Health & Services",
+    "title": "Director, Care Management RN",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Healdsburg, CA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $193,120 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Providence Health & Services",
+    "title": "Director, Care Management RN",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Petaluma, CA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $193,120 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "SiTime",
+    "title": "Director, Test Engineering",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "C-SUITE ASSISTANTS",
+    "title": "Executive Assistant/Office Manager (ROOM FOR GROWTH TO COS)",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'San Ramon, CA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Sandisk",
+    "title": "Senior Business Development Manager — Technical Ecosystem",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Milpitas, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Commure",
+    "title": "Director of Enterprise Marketing",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Performance Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Phoenix, AZ' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Socure",
+    "title": "Lead Growth Manager - Payments, Lending & Telco",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_blocklist: 'lending' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $155,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Scott White Search",
+    "title": "Senior Director, Executive & Enterprise Communications",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Nisum",
+    "title": "WSI : Senior Project Manager (NP)",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Assort Health",
+    "title": "AI Operations Lead",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "One Haus",
+    "title": "General Manager",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "industry_blocklist: 'restaurants' found",
+      "salary_below_floor: max $130,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Broccoli AI",
+    "title": "Strategy & Operations Lead, Special Projects",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "part_time: 'contractor' found"
+    ]
+  },
+  {
+    "company": "Forum Mobility",
+    "title": "Director of Business Development (AV & Rideshare)",
+    "posted_at": "2026-05-13",
+    "reasons": [
+      "salary_below_floor: max $190,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Math Instructional Designer, LearnWith.AI (Remote) - $200,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_blocklist: 'designer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $100,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Math Instructional Designer, LearnWith.AI (Remote) - $200,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_blocklist: 'designer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $100,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Reading Specialist, Alpha - $120,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Santa Barbara, CA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $60,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Program Director, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Tulsa, OK' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Math Instructional Designer, LearnWith.AI (Remote) - $200,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_blocklist: 'designer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $100,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Learning and Development Manager, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Murfreesboro, TN' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Head Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Houston, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Lexington, KY' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Program Director, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Phoenix, AZ' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Corpus Christi, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Performance Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Atlanta, GA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Learning and Development Manager, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Grand Rapids, MI' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Camp Coordinator, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_blocklist: 'coordinator' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Fort Worth, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Software Engineer, Learn",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Program Director, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Nashville, TN' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Educational Consultant, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Salt Lake City, UT' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Youth Program Coordinator, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_blocklist: 'coordinator' found in title",
+      "location_not_allowed: 'Fort Worth, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Salt Lake City, UT' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Program Director, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Philadelphia, PA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Learning and Development Manager, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Houston, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Learning and Development Manager, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Fort Worth, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Youth Development Manager, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Houston, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Educational Consultant, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Nashville, TN' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Program Director, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Austin, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Youth Development Specialist, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Fort Worth, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Youth Program Coordinator, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_blocklist: 'coordinator' found in title",
+      "location_not_allowed: 'Houston, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Educational Consultant, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Elizabeth, NJ' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Learning and Development Manager, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Atlanta, GA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Educational Consultant, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Houston, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Educational Consultant, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Palm Bay, FL' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Learning and Development Manager, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Denver, CO' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Learning and Development Manager, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'St. Petersburg, FL' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Gravyty",
+    "title": "Director of Engineering, I/O",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Educational Consultant, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Denver, CO' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Youth Entrepreneurship Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Austin, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Educational Consultant, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Atlanta, GA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Educational Consultant, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Austin, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Learning and Development Manager, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Charlottesville, VA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Atlanta, GA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Founder Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Phoenix, AZ' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Venture Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Austin, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Leadership Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Tucson, AZ' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Career Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Austin, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Founder Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Houston, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Leadership Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Cincinnati, OH' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Leadership Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Murfreesboro, TN' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Founder Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Orlando, FL' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Leadership Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Sugar Land, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Startup Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Austin, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Founder Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Austin, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Leadership Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Fort Worth, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Founder Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Dallas, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Entrepreneurship Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Denver, CO' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Entrepreneurship Coach, Alpha - $150,000/year USD",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "location_not_allowed: 'Austin, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $75,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Anatomage Inc.",
+    "title": "EdTech Sales Representative- Los Angeles Territory",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_blocklist: 'sales representative' found in title",
+      "location_not_allowed: 'Los Angeles, CA' is not remote and not in SF Bay Area",
+      "seniority_blocklist: 'associate' found in seniority level"
+    ]
+  },
+  {
+    "company": "GEICO",
+    "title": "Territory Sales Manager (Denver, CO)",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_blocklist: 'sales manager' found in title",
+      "location_not_allowed: 'Denver, CO' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $161,950 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Anatomage Inc.",
+    "title": "EdTech Sales Representative- South Atlantic Territory",
+    "posted_at": "2026-05-12",
+    "reasons": [
+      "title_blocklist: 'sales representative' found in title",
+      "location_not_allowed: 'South Atlantic states' is not remote and not in SF Bay Area",
+      "seniority_blocklist: 'associate' found in seniority level"
+    ]
   }
 ]
