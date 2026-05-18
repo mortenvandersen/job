@@ -1,8 +1,8 @@
 {
   "company": "Brisk Teaching",
   "url": "https://jobs.ashbyhq.com/brisk-teaching",
-  "scraped_at": "2026-05-11T10:52:15.726847+00:00",
-  "job_count": 7,
+  "scraped_at": "2026-05-18T11:36:49.568909+00:00",
+  "job_count": 10,
   "jobs": [
     {
       "title": "Lead Data Scientist",
@@ -35,16 +35,34 @@
       "url": "https://jobs.ashbyhq.com/brisk-teaching/d1302983-6db9-4328-b809-dc150550408a"
     },
     {
-      "title": "Operations Coordinator (Contract)",
+      "title": "Operations Coordinator Contractor",
       "department": "Operations",
       "location": "Remote",
       "url": "https://jobs.ashbyhq.com/brisk-teaching/1b9c8ec4-09ad-4493-9a42-317c146ff06c"
+    },
+    {
+      "title": "Product Support Specialist Contractor",
+      "department": "Product",
+      "location": "San Francisco; New York",
+      "url": "https://jobs.ashbyhq.com/brisk-teaching/2c733697-f9e1-4e51-bc00-397f8274224d"
     },
     {
       "title": "Senior or Staff Product Manager",
       "department": "Product",
       "location": "San Francisco; New York",
       "url": "https://jobs.ashbyhq.com/brisk-teaching/89c0a6ad-5cc3-4362-aa5a-3b8edf87d9c5"
+    },
+    {
+      "title": "Mid-Market Account Executive",
+      "department": "Sales",
+      "location": "CT, MT, or PT Time Zone",
+      "url": "https://jobs.ashbyhq.com/brisk-teaching/c985d2eb-c237-42d1-9f73-60ca3b2888b6"
+    },
+    {
+      "title": "Technical Implementation Specialist Contractor",
+      "department": "Sales",
+      "location": "Remote; San Francisco",
+      "url": "https://jobs.ashbyhq.com/brisk-teaching/2a2b1060-e5af-48b2-b49c-867339c1eaf7"
     }
   ]
 }

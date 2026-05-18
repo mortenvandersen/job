@@ -1,8 +1,8 @@
 {
   "company": "Kiddom",
   "url": "https://jobs.lever.co/kiddom",
-  "scraped_at": "2026-05-11T10:53:51.432784+00:00",
-  "job_count": 19,
+  "scraped_at": "2026-05-18T11:38:47.837693+00:00",
+  "job_count": 17,
   "jobs": [
     {
       "title": "Machine Learning Researcher",
@@ -77,18 +77,6 @@
       "url": "https://jobs.lever.co/kiddom/cde9424f-4e90-4fed-a5ee-ced96a000f3c"
     },
     {
-      "title": "Vice President of Supply Chain",
-      "department": "Finance",
-      "location": "Anywhere - remote US",
-      "url": "https://jobs.lever.co/kiddom/66af3299-0c80-4582-9606-9f27438a1416"
-    },
-    {
-      "title": "Customer Success Manager (DC, Maryland, Virginia, North Carolina)",
-      "department": "GTM",
-      "location": "Virginia / Maryland",
-      "url": "https://jobs.lever.co/kiddom/56e34197-9b1a-4974-8281-5a78dff141ef"
-    },
-    {
       "title": "Product Marketing Manager",
       "department": "GTM",
       "location": "San Francisco",
@@ -101,16 +89,16 @@
       "url": "https://jobs.lever.co/kiddom/91da383b-b843-436e-b386-6c288c59ab16"
     },
     {
-      "title": "Senior Account Executive",
-      "department": "GTM",
-      "location": "Los Angeles, CA",
-      "url": "https://jobs.lever.co/kiddom/5fb7ac5a-6f3d-4732-800b-eab40392e084"
-    },
-    {
       "title": "Editorial QA Specialist and Copy Editor (Spanish)",
       "department": "Operations",
       "location": "Anywhere - remote US",
       "url": "https://jobs.lever.co/kiddom/75396a2e-dfe8-47ed-845a-e657ee3e3b37"
+    },
+    {
+      "title": "Director of Design",
+      "department": "Product Design",
+      "location": "San Francisco",
+      "url": "https://jobs.lever.co/kiddom/36c3b371-5fc4-4c28-b118-5faea7a8972c"
     },
     {
       "title": "General Application - I want to work at Kiddom!",

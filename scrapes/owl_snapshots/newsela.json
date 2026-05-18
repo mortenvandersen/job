@@ -1,8 +1,8 @@
 {
   "company": "Newsela",
   "url": "https://job-boards.greenhouse.io/newsela",
-  "scraped_at": "2026-05-11T10:54:31.407187+00:00",
-  "job_count": 25,
+  "scraped_at": "2026-05-18T11:39:35.375209+00:00",
+  "job_count": 22,
   "jobs": [
     {
       "title": "Associate Customer Success Manager (Remote, US)",
@@ -15,12 +15,6 @@
       "department": "Customer",
       "location": "Remote - Argentina; Brazil; Chile; Colombia; Costa Rica; Mexico",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7411036"
-    },
-    {
-      "title": "Curricular Solutions Architect",
-      "department": "Customer Solutions",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7823047"
     },
     {
       "title": "Account Executive",
@@ -45,6 +39,12 @@
       "department": "Sales",
       "location": "Remote - United States",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7684276"
+    },
+    {
+      "title": "Sales Development Representative (Remote, US)",
+      "department": "Sales",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/newsela/jobs/7922810"
     },
     {
       "title": "Strategic Account Executive (EveryDay Labs) (Remote, US)",
@@ -77,28 +77,10 @@
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7859662"
     },
     {
-      "title": "B2B Paid Media Marketing Manager",
-      "department": "Marketing",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7678537"
-    },
-    {
-      "title": "Growth Marketing Specialist",
-      "department": "Marketing",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7269460"
-    },
-    {
       "title": "Manager, Talent Acquisition (Remote, US)",
       "department": "Talent Acquisition",
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/newsela/jobs/7823060"
-    },
-    {
-      "title": "People Partner, GTM (Remote, US)",
-      "department": "Talent Management",
-      "location": "Remote - US",
-      "url": "https://job-boards.greenhouse.io/newsela/jobs/7639144"
     },
     {
       "title": "Contract: AI Operations Specialist",

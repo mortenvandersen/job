@@ -1,7 +1,7 @@
 {
   "company": "Panorama Education",
   "url": "https://www.panoramaed.com/about/careers",
-  "scraped_at": "2026-05-11T10:54:42.087269+00:00",
+  "scraped_at": "2026-05-18T11:39:46.944372+00:00",
   "job_count": 13,
   "jobs": [
     {
@@ -15,12 +15,6 @@
       "department": "Revenue",
       "location": "United States",
       "url": "https://apply.workable.com/j/CAA40D2B04"
-    },
-    {
-      "title": "Senior Business Systems Manager",
-      "department": "Revenue",
-      "location": "United States",
-      "url": "https://apply.workable.com/j/335C8DEAFD"
     },
     {
       "title": "Sr State and Local Government Partnerships Director",
@@ -60,15 +54,15 @@
     },
     {
       "title": "Executive Coordinator & Operations Administrator",
-      "department": "Other",
-      "location": "Boston, Massachusetts, United States",
+      "department": "Office of the CEO",
+      "location": "Boston, Massachusetts",
       "url": "https://apply.workable.com/j/6B911D589A"
     },
     {
-      "title": "Product Manager, Platform",
+      "title": "Lead Product Manager, Platform",
       "department": "Technology",
       "location": "United States",
-      "url": "https://apply.workable.com/j/3E56854155"
+      "url": "https://apply.workable.com/j/15766ABF35"
     },
     {
       "title": "Senior Product Manager, Student Success",
@@ -81,6 +75,12 @@
       "department": "Technology",
       "location": "United States",
       "url": "https://apply.workable.com/j/CB92B7B66C"
+    },
+    {
+      "title": "Project Manager I (East Region)",
+      "department": "Client Experience",
+      "location": "United States",
+      "url": "https://apply.workable.com/j/393A39487B"
     }
   ]
 }

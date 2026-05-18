@@ -1,7 +1,7 @@
 {
   "company": "ParentSquare",
   "url": "https://www.parentsquare.com/careers/",
-  "scraped_at": "2026-05-11T10:54:48.214175+00:00",
+  "scraped_at": "2026-05-18T11:39:54.243156+00:00",
   "job_count": 8,
   "jobs": [
     {
@@ -41,16 +41,16 @@
       "url": "https://ats.rippling.com/en-US/parentsquare/jobs/dea4a64d-d099-4a65-8299-ce99257a854b"
     },
     {
-      "title": "Senior Software Engineer",
-      "department": "R & D",
-      "location": "Remote (United States)",
-      "url": "https://ats.rippling.com/en-US/parentsquare/jobs/fbef692b-a5f5-4cf0-99c1-02d5f60c2b26"
-    },
-    {
       "title": "Software Engineer",
       "department": "R & D",
       "location": "Remote (United States)",
       "url": "https://ats.rippling.com/en-US/parentsquare/jobs/f561ac88-839d-47ab-8a9a-31fa3710b97a"
+    },
+    {
+      "title": "Staff Engineer",
+      "department": "R & D",
+      "location": "Remote (United States)",
+      "url": "https://ats.rippling.com/en-US/parentsquare/jobs/46e919df-6b88-4b36-af24-788a424f9d40"
     }
   ]
 }

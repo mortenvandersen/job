@@ -1,7 +1,7 @@
 {
   "company": "Mighty Networks",
   "url": "https://www.mightynetworks.com/careers",
-  "scraped_at": "2026-05-11T10:54:21.903174+00:00",
+  "scraped_at": "2026-05-18T11:39:26.222243+00:00",
   "job_count": 7,
   "jobs": [
     {
@@ -23,16 +23,16 @@
       "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8523950002?gh_jid=8523950002"
     },
     {
-      "title": "Senior Software Engineer, Full-Stack",
-      "department": "Engineering",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8506638002?gh_jid=8506638002"
-    },
-    {
       "title": "Recruiting Coordinator",
       "department": "General",
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8495496002?gh_jid=8495496002"
+    },
+    {
+      "title": "Paid Media Manager",
+      "department": "Marketing",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/mightynetworks/jobs/8550937002?gh_jid=8550937002"
     },
     {
       "title": "Senior Product Manager, Growth",

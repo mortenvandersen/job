@@ -1,7 +1,7 @@
 {
   "company": "Cloudforce",
   "url": "https://gocloudforce.com/careers/",
-  "scraped_at": "2026-05-11T10:52:39.051038+00:00",
+  "scraped_at": "2026-05-18T11:37:13.410209+00:00",
   "job_count": 19,
   "jobs": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "title": "Cloud Solutions Intern",
-      "department": "Delivery",
+      "department": null,
       "location": null,
       "url": "https://jobs.lever.co/go-cloudforce/a6fc45dd-d6e8-484f-8254-1b1f69dff362"
     },
@@ -36,25 +36,25 @@
     },
     {
       "title": "Scrum Master",
-      "department": "Delivery",
+      "department": "Operations",
       "location": null,
       "url": "https://jobs.lever.co/go-cloudforce/539257d6-686c-4a71-9e74-9a0daf0ea322"
     },
     {
       "title": "Customer Success Associate (US)",
-      "department": "Delivery",
+      "department": "Growth",
       "location": "US",
       "url": "https://jobs.lever.co/go-cloudforce/c83ac739-d69e-4c04-878a-40c0e418d789"
     },
     {
       "title": "Technical Trainer (US)",
-      "department": "Delivery",
+      "department": "Operations",
       "location": "US",
       "url": "https://jobs.lever.co/go-cloudforce/7c10fc43-9a5a-453a-96be-25ed1d5e3238"
     },
     {
       "title": "Technical Trainer (UK)",
-      "department": "Delivery",
+      "department": "Operations",
       "location": "UK",
       "url": "https://jobs.lever.co/go-cloudforce/3f276720-ebc5-494d-be49-47c04d1207fe"
     },
@@ -66,49 +66,49 @@
     },
     {
       "title": "Lead Helpdesk Technician",
-      "department": "Operations",
+      "department": "Corporate Services",
       "location": null,
       "url": "https://jobs.lever.co/go-cloudforce/a6f1705d-c5f3-4d1b-9c2e-f0058c2b794d"
     },
     {
       "title": "Security Analyst",
-      "department": "Operations",
+      "department": "Corporate Services",
       "location": null,
       "url": "https://jobs.lever.co/go-cloudforce/daf4b4b6-8cea-4d8f-bed3-81f3f93fc13d"
     },
     {
       "title": "Senior Cloud Solutions Engineer",
-      "department": "Delivery",
+      "department": null,
       "location": null,
       "url": "https://jobs.lever.co/go-cloudforce/d74c93f3-42b5-436b-bb6e-3db17b0b1271"
     },
     {
       "title": "Cloud Solutions Engineer",
-      "department": "Delivery",
+      "department": null,
       "location": null,
       "url": "https://jobs.lever.co/go-cloudforce/56bdc9dd-8168-4d93-8dd7-f7fe8173318a"
     },
     {
       "title": "Cloud Solutions Administrator",
-      "department": "Delivery",
+      "department": null,
       "location": null,
       "url": "https://jobs.lever.co/go-cloudforce/4054a599-e34a-44b3-9169-d7fd8b473cc1"
     },
     {
       "title": "Cloud Infrastructure Engineer",
-      "department": "Delivery",
+      "department": null,
       "location": null,
       "url": "https://jobs.lever.co/go-cloudforce/fd9a8089-f11f-450e-86c6-7f38fecb654c"
     },
     {
       "title": "Cloud Infrastructure Administrator",
-      "department": "Delivery",
+      "department": null,
       "location": null,
       "url": "https://jobs.lever.co/go-cloudforce/65b119a2-6acd-43c6-bd45-5ab5f0b5aec9"
     },
     {
       "title": "Full Stack Developer",
-      "department": "nebulaONE",
+      "department": null,
       "location": null,
       "url": "https://jobs.lever.co/go-cloudforce/07591a75-4677-4ca5-a254-e367a6c3f4c9"
     },
