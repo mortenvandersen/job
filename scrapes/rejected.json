@@ -9677,5 +9677,433 @@
       "industry_blocklist: 'restaurants' found",
       "location_not_allowed: 'Fairfield, CA' is not remote and not in SF Bay Area"
     ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Math Instructional Designer, LearnWith.AI (Remote) - $200,000/year USD",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'designer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $100,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Ladders",
+    "title": "Strategic Sales Application Engineer - Windows Platform",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title"
+    ]
+  },
+  {
+    "company": "Nscale",
+    "title": "Strategic Operations Lead, Office of the CEO",
+    "posted_at": "2026-05-19",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Fremont, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Visa",
+    "title": "Director, Account Executive US Crypto",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title"
+    ]
+  },
+  {
+    "company": "Jobs via Dice",
+    "title": "Business Development VP",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "location_not_allowed: 'Milpitas, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Box",
+    "title": "Senior Business Development Manager, Strategic Partnerships",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "description_blocklist: ' ote ' found — likely sales/commission role"
+    ]
+  },
+  {
+    "company": "Nscale",
+    "title": "Strategic Operations Lead, Office of the CEO",
+    "posted_at": "2026-05-19",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Nscale",
+    "title": "Strategic Operations Lead, Office of the CEO",
+    "posted_at": "2026-05-19",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "SuperAnnotate",
+    "title": "Director of Operations",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Box",
+    "title": "Industry Principal, Retail & CPG",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: ' ote ' found — likely sales/commission role"
+    ]
+  },
+  {
+    "company": "Crossover",
+    "title": "Reading Specialist, Alpha - $120,000/year USD",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "location_not_allowed: 'Santa Barbara, CA' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $60,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "AVEVA",
+    "title": "Vice President, Strategic Programs & Operations, Chief Technologist Organization",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'San Leandro, CA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "NewRocket",
+    "title": "Vice President, Anthropic GTM & Partnership",
+    "posted_at": "2026-05-19",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: 'quota-carrying' found — likely sales/commission role"
+    ]
+  },
+  {
+    "company": "Everlaw",
+    "title": "Partner Development Director",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "ExitOpp",
+    "title": "Strategic Projects Lead",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Ladders",
+    "title": "Global Marketing Senior Manager, Oncology (Early Pipeline)",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $194,877 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "JLL",
+    "title": "Sourcing Specialist",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Dallas, TX' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $123,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Systems & Network Admin Senior Specialist",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $157,200 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "RemoteHunter",
+    "title": "Information Security Specialist",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $170,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Ladders",
+    "title": "Principal Enterprise Architect (Remote)",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Viaduct, An Aleron Company",
+    "title": "Account Executive",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title",
+      "location_not_allowed: 'Buffalo, NY' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "firstPRO, Inc",
+    "title": "Director of Financial Planning and Analysis ( New England candidates only)",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Portland, ME' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Envoy",
+    "title": "Enterprise Account Executive",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'account executive' found in title"
+    ]
+  },
+  {
+    "company": "Braveheart Bio",
+    "title": "(Senior) Medical Director",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "One Call",
+    "title": "Regional Account Manager",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'account manager' found in title",
+      "salary_below_floor: max $141,800 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Pyramid Consulting, Inc",
+    "title": "Client Partner – Strategic Consulting Accounts",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "salary_below_floor: max $160,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "hackajob",
+    "title": "Sales Director US",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'sales director' found in title",
+      "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Alexander Chapman",
+    "title": "Chief of Staff",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "seniority_blocklist: 'associate' found in seniority level"
+    ]
+  },
+  {
+    "company": "Viz.ai",
+    "title": "Strategic Insights Lead",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "QPS Holdings, LLC",
+    "title": "Business Development Director - India (US-based)",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "location_not_allowed: 'Newark, DE' is not remote and not in SF Bay Area",
+      "salary_below_floor: max $160,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Pinnacle Method Consulting",
+    "title": "Project Manager - Go To Market (Remote)",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $155,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "hackajob",
+    "title": "Sales Director",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'sales director' found in title"
+    ]
+  },
+  {
+    "company": "Omron Automation",
+    "title": "Sr Business Development Specialist - Safety Services",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'business development specialist' found in title",
+      "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Ladders",
+    "title": "Global Head of Risk GTM Lead",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Executive Assistant to GTM Leadership",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $190,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "California Casualty",
+    "title": "Change Mgmt & Internal Comms Manager",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'intern' found in title",
+      "salary_below_floor: max $165,110 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Executive Assistant / Personal Assistant",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $150,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Ladders",
+    "title": "Director, Engineering (Remote)",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "hackajob",
+    "title": "Service Design Vice President",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "description_blocklist: 'commission-based' found — likely sales/commission role"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Executive Assistant",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $152,950 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Swooped",
+    "title": "Senior Executive Assistant",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'executive assistant' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $165,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "JLL",
+    "title": "Sr. VP, Lifecycle & Reliability Solutions",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "location_not_allowed: 'Atlanta, GA' is not remote and not in SF Bay Area"
+    ]
+  },
+  {
+    "company": "Ladders",
+    "title": "Sr Director -Technology Product Management",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Transcat",
+    "title": "Manager, Southeast Field Sales",
+    "posted_at": "2026-05-19",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction",
+      "salary_below_floor: max $140,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Grayson Search Partners",
+    "title": "Chief Information Security Officer",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "MissionHires",
+    "title": "Director of Plant Engineering (Meat Processing) - Relocation",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'engineer' found in title",
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "hackajob",
+    "title": "Sales Director US (California)",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_blocklist: 'sales director' found in title",
+      "salary_below_floor: max $180,000 < $200,000 floor"
+    ]
+  },
+  {
+    "company": "Ladders",
+    "title": "Director of Data Sourcing",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "title_allowlist: no target role keyword found in title or jobFunction"
+    ]
+  },
+  {
+    "company": "Plastic Executive Recruiters",
+    "title": "Automotive Director of Strategy and Business Development",
+    "posted_at": "2026-05-18",
+    "reasons": [
+      "location_not_allowed: 'Detroit Metropolitan Area' is not remote and not in SF Bay Area"
+    ]
   }
 ]

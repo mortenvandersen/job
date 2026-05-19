@@ -1,22 +1,222 @@
 [
   {
-    "company": "Salient",
-    "title": "Founder's Office",
-    "slug": "salient-founder-s-office",
-    "location": "San Francisco, CA",
-    "salary": "$150,000.00/yr - $250,000.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/founder-s-office-at-salient-4384483777?position=8&pageNum=0&refId=DXl%2Fx%2FPEqiLJAHFbrvMoLQ%3D%3D&trackingId=4jBUKZZ2wKXBLs3ajTWHFQ%3D%3D",
-    "seniority": "Not Applicable",
-    "industries": "Technology, Information and Internet"
+    "company": "Google",
+    "title": "Strategy and Operations Lead, Velocity, GTM",
+    "slug": "google-strategy-and-operations-lead-velocity-gtm",
+    "location": "Mountain View, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/strategy-and-operations-lead-velocity-gtm-at-google-4415747148?position=30&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=KxTwny2IG80RKuJushUhFw%3D%3D",
+    "seniority": "Mid-Senior level",
+    "industries": "Information Services and Technology, Information and Internet"
   },
   {
-    "company": "AMD",
-    "title": "Senior Manager, Corporate Development- M&A",
-    "slug": "amd-senior-manager-corporate-development-m-a",
-    "location": "Santa Clara, CA",
-    "salary": "$188,080.00/yr - $282,120.00/yr",
-    "link": "https://www.linkedin.com/jobs/view/senior-manager-corporate-development-m-a%C2%A0-at-amd-4382578581?position=11&pageNum=0&refId=DXl%2Fx%2FPEqiLJAHFbrvMoLQ%3D%3D&trackingId=52fKGKCoQAgJihCvW3Bwyw%3D%3D",
+    "company": "XDemics Corporation",
+    "title": "Director Sales and Commercial Development",
+    "slug": "xdemics-corporation-director-sales-and-commercial-development",
+    "location": "San Francisco Bay Area",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/director-sales-and-commercial-development-at-xdemics-corporation-4415712181?position=27&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=P062XBZYBxF%2ButNgCgYdwQ%3D%3D",
+    "seniority": "Director",
+    "industries": "Biotechnology Research"
+  },
+  {
+    "company": "ŌURA",
+    "title": "Senior Manager, Revenue Operations (Strategy & Insights)",
+    "slug": "ura-senior-manager-revenue-operations-strategy-insights",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/senior-manager-revenue-operations-strategy-insights-at-%C5%8Dura-4412813940?position=23&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=S3vxbnsZHgYqxx2vbSCSvA%3D%3D",
+    "seniority": "Not Applicable",
+    "industries": "Wellness and Fitness Services"
+  },
+  {
+    "company": "Google",
+    "title": "Product Strategy and Operations Principal, AI2 Consulting Function",
+    "slug": "google-product-strategy-and-operations-principal-ai2-consulting-function",
+    "location": "Sunnyvale, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/product-strategy-and-operations-principal-ai2-consulting-function-at-google-4415608871?position=19&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=Ftwie1RZDo%2BbbaxjZGXRbw%3D%3D",
+    "seniority": "Director",
+    "industries": "Information Services and Technology, Information and Internet"
+  },
+  {
+    "company": "Visa",
+    "title": "Sr. Director, NA Product Strategic Initiatives",
+    "slug": "visa-sr-director-na-product-strategic-initiatives",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/sr-director-na-product-strategic-initiatives-at-visa-4408051979?position=15&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=KsS6c2v%2BX0Umxn9ru6zeVA%3D%3D",
+    "seniority": "Director",
+    "industries": "IT Services and IT Consulting"
+  },
+  {
+    "company": "Stripe",
+    "title": "Head of Central GTM Finance & Strategy",
+    "slug": "stripe-head-of-central-gtm-finance-strategy",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/head-of-central-gtm-finance-strategy-at-stripe-4413487638?position=16&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=pPoIjN4HGLrld3pZsSgLqA%3D%3D",
+    "seniority": "Executive",
+    "industries": "Software Development, Financial Services, and Technology, Information and Internet"
+  },
+  {
+    "company": "OpenAI",
+    "title": "Commercial Compute & Ecosystem Strategy",
+    "slug": "openai-commercial-compute-ecosystem-strategy",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/commercial-compute-ecosystem-strategy-at-openai-4412827589?position=12&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=%2FX%2Bfwj2n7c8mFetHIkmOkg%3D%3D",
+    "seniority": "Not Applicable",
+    "industries": "Research Services"
+  },
+  {
+    "company": "Uber",
+    "title": "Sr. Manager, Sales Strategy and Enablement",
+    "slug": "uber-sr-manager-sales-strategy-and-enablement",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/sr-manager-sales-strategy-and-enablement-at-uber-4416457556?position=10&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=%2BTlH8idPsWKJ0uLLL4qx9A%3D%3D",
     "seniority": "Mid-Senior level",
+    "industries": "Internet Marketplace Platforms"
+  },
+  {
+    "company": "vCluster",
+    "title": "Director of Strategic Partnerships & Alliances",
+    "slug": "vcluster-director-of-strategic-partnerships-alliances",
+    "location": "San Francisco Bay Area",
+    "salary": "$280,000.00/yr - $320,000.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/director-of-strategic-partnerships-alliances-at-vcluster-4385887477?position=13&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=2S3GOeolpVRP4X199M4%2BHg%3D%3D",
+    "seniority": "Director",
+    "industries": "Software Development"
+  },
+  {
+    "company": "Alibaba.com",
+    "title": "Strategy & Operations Manager",
+    "slug": "alibaba-com-strategy-operations-manager",
+    "location": "Sunnyvale, CA",
+    "salary": "$126,000.00/yr - $207,600.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/strategy-operations-manager-at-alibaba-com-4416207083?position=7&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=0UzZOD57DUD5BzxeZQSqRg%3D%3D",
+    "seniority": "Not Applicable",
+    "industries": "Software Development"
+  },
+  {
+    "company": "Runway",
+    "title": "Corporate Development",
+    "slug": "runway-corporate-development",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/corporate-development-at-runway-4416431881?position=6&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=ikAvaXNw%2FnnThpTkWrkg4w%3D%3D",
+    "seniority": "Not Applicable",
+    "industries": "Software Development"
+  },
+  {
+    "company": "Roblox",
+    "title": "Director of Business Development, Payments",
+    "slug": "roblox-director-of-business-development-payments",
+    "location": "San Mateo, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/director-of-business-development-payments-at-roblox-4374095826?position=5&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=QHjjUI%2BZ83hYp%2F6QQGlXow%3D%3D",
+    "seniority": "Not Applicable",
+    "industries": "Software Development"
+  },
+  {
+    "company": "Applied Materials",
+    "title": "Director, Corporate Strategic Development",
+    "slug": "applied-materials-director-corporate-strategic-development",
+    "location": "Santa Clara, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/director-corporate-strategic-development-at-applied-materials-4405591677?position=4&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=tp24tb4fDOYz0YcF5SgfSg%3D%3D",
+    "seniority": "Director",
+    "industries": "Appliances, Electrical, and Electronics Manufacturing, Nanotechnology Research, and Semiconductor Manufacturing"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Director, Business Operations",
+    "slug": "globalfoundries-director-business-operations",
+    "location": "Santa Clara, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/director-business-operations-at-globalfoundries-4410440004?position=3&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=SAnTKOCMHDY7MTw5Iqg6pg%3D%3D",
+    "seniority": "Not Applicable",
     "industries": "Semiconductor Manufacturing"
+  },
+  {
+    "company": "BetterUp",
+    "title": "Principal Business Operations Manager",
+    "slug": "betterup-principal-business-operations-manager",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/principal-business-operations-manager-at-betterup-4372003979?position=2&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=FK8Khm9okcWBEXRUJLKI3A%3D%3D",
+    "seniority": "Not Applicable",
+    "industries": "Professional Training and Coaching"
+  },
+  {
+    "company": "Visa",
+    "title": "Director, Global Markets Operations – Chief of Staff",
+    "slug": "visa-director-global-markets-operations-chief-of-staff",
+    "location": "San Francisco, CA",
+    "salary": "",
+    "link": "https://www.linkedin.com/jobs/view/director-global-markets-operations-%E2%80%93-chief-of-staff-at-visa-4408587185?position=1&pageNum=0&refId=HLKVpiGmPcszY6eS3yeUNQ%3D%3D&trackingId=dG1J8j1pud%2FLcEiFGyeF8g%3D%3D",
+    "seniority": "Director",
+    "industries": "IT Services and IT Consulting"
+  },
+  {
+    "company": "Ladders",
+    "title": "Commercial Territory Partner-Led GTM",
+    "slug": "ladders-commercial-territory-partner-led-gtm",
+    "location": "United States",
+    "salary": "$172,020.00/yr - $275,360.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/commercial-territory-partner-led-gtm-at-ladders-4412811745?position=42&pageNum=0&refId=6Aj6jiGRQvzqseIYud2xoA%3D%3D&trackingId=Lfm3%2BtcoCNu5URBmBrZ4eA%3D%3D",
+    "seniority": "Not Applicable",
+    "industries": "Technology, Information and Media"
+  },
+  {
+    "company": "Ladders",
+    "title": "Area Business Lead, CNS - Milwaukee",
+    "slug": "ladders-area-business-lead-cns-milwaukee",
+    "location": "United States",
+    "salary": "$157,700.00/yr - $235,750.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/area-business-lead-cns-milwaukee-at-ladders-4412297955?position=36&pageNum=0&refId=6Aj6jiGRQvzqseIYud2xoA%3D%3D&trackingId=ZOCOz0GXJNbuj%2BQRvYXcUg%3D%3D",
+    "seniority": "Not Applicable",
+    "industries": "Consumer Services"
+  },
+  {
+    "company": "Ladders",
+    "title": "Area Business Lead, CNS - Atlantic",
+    "slug": "ladders-area-business-lead-cns-atlantic",
+    "location": "United States",
+    "salary": "$157,700.00/yr - $235,750.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/area-business-lead-cns-atlantic-at-ladders-4412808808?position=28&pageNum=0&refId=6Aj6jiGRQvzqseIYud2xoA%3D%3D&trackingId=10Z1HqNAF%2FlT5G%2BRSSoZeQ%3D%3D",
+    "seniority": "Not Applicable",
+    "industries": "Consumer Services"
+  },
+  {
+    "company": "Ladders",
+    "title": "Director of Strategic Data Partnerships",
+    "slug": "ladders-director-of-strategic-data-partnerships",
+    "location": "United States",
+    "salary": "$350,000.00/yr - $350,000.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/director-of-strategic-data-partnerships-at-ladders-4412287400?position=19&pageNum=0&refId=6Aj6jiGRQvzqseIYud2xoA%3D%3D&trackingId=rDh9bY1HJdy6NcQMdOLLag%3D%3D",
+    "seniority": "Not Applicable",
+    "industries": "Technology, Information and Media"
+  },
+  {
+    "company": "Ladders",
+    "title": "Director, Retail & Strategic Channels",
+    "slug": "ladders-director-retail-strategic-channels",
+    "location": "United States",
+    "salary": "$161,250.00/yr - $236,500.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/director-retail-strategic-channels-at-ladders-4412285339?position=9&pageNum=0&refId=6Aj6jiGRQvzqseIYud2xoA%3D%3D&trackingId=Tps2urc%2BeO0CSP89ti7hfg%3D%3D",
+    "seniority": "Not Applicable",
+    "industries": "Wholesale, Vehicle Repair and Maintenance, and Manufacturing"
+  },
+  {
+    "company": "CivicMinds, Inc",
+    "title": "Vice President of Business Development",
+    "slug": "civicminds-inc-vice-president-of-business-development",
+    "location": "United States",
+    "salary": "$200,000.00/yr - $210,000.00/yr",
+    "link": "https://www.linkedin.com/jobs/view/vice-president-of-business-development-at-civicminds-inc-4416437085?position=7&pageNum=0&refId=6Aj6jiGRQvzqseIYud2xoA%3D%3D&trackingId=EsovicoO39MXACOWXEumaw%3D%3D",
+    "seniority": "Director",
+    "industries": "Defense and Space Manufacturing"
   }
 ]
